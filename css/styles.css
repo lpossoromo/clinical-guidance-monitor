@@ -1,0 +1,297 @@
+/* ── Clinical Guidance Monitor — Custom Styles ── */
+
+/* ── Base ── */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Navigation Tabs ── */
+.nav-tab {
+  padding: 0.75rem 0;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #6b7280;
+  border-bottom: 2px solid transparent;
+  white-space: nowrap;
+  transition: all 0.15s;
+  background: none;
+  cursor: pointer;
+}
+
+.nav-tab:hover {
+  color: #1f2937;
+}
+
+.dark .nav-tab:hover {
+  color: #e5e7eb;
+}
+
+.nav-tab.active {
+  color: #005EB8;
+  border-bottom-color: #005EB8;
+}
+
+.dark .nav-tab.active {
+  color: #60a5fa;
+  border-bottom-color: #60a5fa;
+}
+
+/* ── Stat Cards ── */
+.stat-card {
+  background: white;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.dark .stat-card {
+  background: #1f2937;
+  border-color: #374151;
+}
+
+/* ── Source Cards ── */
+.source-card {
+  background: white;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+  text-align: left;
+  transition: all 0.15s;
+  cursor: pointer;
+  width: 100%;
+}
+
+.source-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transform: translateY(-1px);
+}
+
+.dark .source-card {
+  background: #1f2937;
+  border-color: #374151;
+}
+
+.dark .source-card:hover {
+  border-color: #4b5563;
+}
+
+/* ── Source Badges ── */
+.source-badge {
+  display: inline-block;
+  padding: 0.125rem 0.5rem;
+  border-radius: 9999px;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: white;
+}
+
+.badge-nice { background-color: #10b981; }
+.badge-ncl { background-color: #3b82f6; }
+.badge-nhs { background-color: #d41f2c; }
+.badge-artp { background-color: #8b5cf6; }
+
+/* ── Form Elements ── */
+.input-field {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  background: white;
+  color: #111827;
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.input-field:focus {
+  border-color: #005EB8;
+  box-shadow: 0 0 0 2px rgba(0, 94, 184, 0.15);
+}
+
+.dark .input-field {
+  background: #374151;
+  border-color: #4b5563;
+  color: #f3f4f6;
+}
+
+.dark .input-field:focus {
+  border-color: #60a5fa;
+  box-shadow: 0 0 0 2px rgba(96, 165, 250, 0.15);
+}
+
+/* ── Buttons ── */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+  background: #005EB8;
+  color: white;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: background 0.15s;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background: #003087;
+}
+
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+  background: #f3f4f6;
+  color: #374151;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: background 0.15s;
+  border: 1px solid #d1d5db;
+  cursor: pointer;
+}
+
+.btn-secondary:hover {
+  background: #e5e7eb;
+}
+
+.dark .btn-secondary {
+  background: #374151;
+  color: #e5e7eb;
+  border-color: #4b5563;
+}
+
+.dark .btn-secondary:hover {
+  background: #4b5563;
+}
+
+/* ── Guidance Card ── */
+.guidance-card {
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+.guidance-card:hover {
+  background: #f9fafb;
+}
+
+.dark .guidance-card:hover {
+  background: #1f2937;
+}
+
+/* ── Change Card ── */
+.change-card {
+  padding: 1rem 1.25rem;
+  transition: background 0.1s;
+}
+
+.change-card.unread {
+  border-left: 3px solid #005EB8;
+}
+
+.dark .change-card.unread {
+  border-left-color: #60a5fa;
+}
+
+/* ── Change type badges ── */
+.change-type-new {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.dark .change-type-new {
+  background: #14532d;
+  color: #86efac;
+}
+
+.change-type-update {
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+.dark .change-type-update {
+  background: #1e3a5f;
+  color: #93c5fd;
+}
+
+/* ── Loading Spinner ── */
+.loading-spinner {
+  width: 2rem;
+  height: 2rem;
+  border: 3px solid #e5e7eb;
+  border-top-color: #005EB8;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+.dark .loading-spinner {
+  border-color: #374151;
+  border-top-color: #60a5fa;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ── Fade-in animation ── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.25s ease-out;
+}
+
+/* ── Modal content prose styling ── */
+.prose-content {
+  line-height: 1.7;
+  font-size: 0.9375rem;
+}
+
+.prose-content p {
+  margin: 0.75em 0;
+}
+
+.prose-content h1,
+.prose-content h2,
+.prose-content h3 {
+  margin-top: 1.25em;
+  margin-bottom: 0.5em;
+  font-weight: 600;
+}
+
+/* ── Search highlight ── */
+mark {
+  background: #fef08a;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.dark mark {
+  background: #854d0e;
+  color: #fef08a;
+}
+
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  .guidance-card {
+    padding: 0.75rem 1rem;
+  }
+}
+
+/* ── Print ── */
+@media print {
+  header, nav, .btn-primary, .btn-secondary, #stats-bar, #load-more-container {
+    display: none !important;
+  }
+}
