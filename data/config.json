@@ -1,0 +1,21 @@
+{
+  "sources": {
+    "nice": {
+      "enabled": true,
+      "keywords": [
+        "diabetes", "hypertension", "ckd", "chronic kidney", "cardiovascular",
+        "lipids", "cholesterol", "respiratory", "asthma", "copd",
+        "mental health", "depression", "anxiety", "infection", "antibiotic",
+        "contraception", "thyroid", "anticoagulation", "warfarin",
+        "cancer screening", "cervical", "bowel screening", "breast screening",
+        "heart failure", "atrial fibrillation", "stroke", "obesity",
+        "dementia", "osteoporosis", "primary care"
+      ]
+    },
+    "ncl": { "enabled": true },
+    "nhs": { "enabled": true },
+    "artp": { "enabled": true }
+  },
+  "lastRunStats": {},
+  "unreadChanges": 0
+}
