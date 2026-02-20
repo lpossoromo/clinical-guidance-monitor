@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clinical Guidance Monitor</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            'nhs-blue': '#005EB8',
+            'nhs-dark-blue': '#003087',
+            'nice-green': '#10b981',
+            'ncl-blue': '#3b82f6',
+            'nhs-red': '#d41f2c',
+            'artp-purple': '#8b5cf6'
+          }
+        }
+      }
+    }
+  </script>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 min-h-screen">
+
+  <!-- Header -->
+  <header class="bg-nhs-blue text-white shadow-lg sticky top-0 z-40">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex justify-between items-center">
+      <div class="flex items-center gap-3">
+        <div class="w-8 h-8 bg-white rounded-sm flex items-center justify-center">
+          <span class="text-nhs-blue font-bold text-sm">CGM</span>
+        </div>
+        <h1 class="text-lg sm:text-xl font-bold tracking-tight">Clinical Guidance Monitor</h1>
+      </div>
+      <div class="flex items-center gap-2">
+        <!-- Changes / Notifications button -->
+        <button id="btn-changes" class="relative p-2 rounded-lg hover:bg-white/10 transition" title="View changes">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/>
+          </svg>
+          <span id="unread-badge" class="absolute -top-0.5 -right-0.5 bg-red-500 text-white text-xs font-bold rounded-full min-w-[18px] h-[18px] flex items-center justify-center px-1 hidden">0</span>
+        </button>
+        <!-- Theme toggle -->
+        <button id="btn-theme" class="p-2 rounded-lg hover:bg-white/10 transition" title="Toggle dark mode">
+          <svg id="icon-sun" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/>
+          </svg>
+          <svg id="icon-moon" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Navigation tabs -->
+  <nav class="bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 sticky top-[52px] z-30">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6">
+      <div class="flex gap-6 overflow-x-auto">
+        <button class="nav-tab active" data-tab="dashboard">Dashboard</button>
+        <button class="nav-tab" data-tab="changes">
+          Changes
+          <span id="changes-tab-badge" class="ml-1 bg-red-500 text-white text-xs font-bold rounded-full min-w-[18px] h-[18px] inline-flex items-center justify-center px-1 hidden">0</span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main content -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 py-6">
+
+    <!-- ═══ Dashboard Tab ═══ -->
+    <div id="tab-dashboard" class="tab-content">
+
+      <!-- Stats bar -->
+      <div id="stats-bar" class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
+        <div class="stat-card">
+          <div class="text-2xl font-bold" id="stat-total">—</div>
+          <div class="text-xs text-gray-500 dark:text-gray-400">Total Guidelines</div>
+        </div>
+        <div class="stat-card">
+          <div class="text-2xl font-bold text-red-500" id="stat-unread">—</div>
+          <div class="text-xs text-gray-500 dark:text-gray-400">Unread Changes</div>
+        </div>
+        <div class="stat-card">
+          <div class="text-2xl font-bold text-green-500" id="stat-changes">—</div>
+          <div class="text-xs text-gray-500 dark:text-gray-400">Total Changes</div>
+        </div>
+        <div class="stat-card">
+          <div class="text-sm font-medium" id="stat-last-update">—</div>
+          <div class="text-xs text-gray-500 dark:text-gray-400">Last Polled</div>
+        </div>
+      </div>
+
+      <!-- Source cards -->
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
+        <button class="source-card" data-source="nice" onclick="filterBySource('nice')">
+          <div class="flex justify-between items-start mb-1">
+            <span class="source-badge badge-nice">NICE</span>
+            <span class="text-xl font-bold" id="count-nice">—</span>
+          </div>
+          <div class="text-xs text-gray-500 dark:text-gray-400">Guidelines</div>
+        </button>
+        <button class="source-card" data-source="ncl" onclick="filterBySource('ncl')">
+          <div class="flex justify-between items-start mb-1">
+            <span class="source-badge badge-ncl">NCL</span>
+            <span class="text-xl font-bold" id="count-ncl">—</span>
+          </div>
+          <div class="text-xs text-gray-500 dark:text-gray-400">GP Updates</div>
+        </button>
+        <button class="source-card" data-source="nhs" onclick="filterBySource('nhs')">
+          <div class="flex justify-between items-start mb-1">
+            <span class="source-badge badge-nhs">NHS</span>
+            <span class="text-xl font-bold" id="count-nhs">—</span>
+          </div>
+          <div class="text-xs text-gray-500 dark:text-gray-400">England</div>
+        </button>
+        <button class="source-card" data-source="artp" onclick="filterBySource('artp')">
+          <div class="flex justify-between items-start mb-1">
+            <span class="source-badge badge-artp">ARTP</span>
+            <span class="text-xl font-bold" id="count-artp">—</span>
+          </div>
+          <div class="text-xs text-gray-500 dark:text-gray-400">Respiratory</div>
+        </button>
+      </div>
+
+      <!-- Filters -->
+      <div class="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-3 mb-4">
+        <div class="flex flex-col sm:flex-row gap-3">
+          <select id="filter-source" class="input-field sm:w-40" onchange="applyFilters()">
+            <option value="all">All Sources</option>
+            <option value="nice">NICE</option>
+            <option value="ncl">NCL GP</option>
+            <option value="nhs">NHS England</option>
+            <option value="artp">ARTP</option>
+          </select>
+          <div class="flex-1 flex gap-2">
+            <input id="search-input" type="text" placeholder="Search guidance..." class="input-field flex-1" onkeydown="if(event.key==='Enter') doSearch()">
+            <button onclick="doSearch()" class="btn-primary px-4">Search</button>
+            <button id="btn-clear-search" onclick="clearSearch()" class="btn-secondary px-3 hidden">Clear</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Guidance feed -->
+      <div class="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700">
+        <div id="guidance-feed" class="divide-y divide-gray-100 dark:divide-gray-700">
+          <div class="p-8 text-center text-gray-400">
+            <div class="loading-spinner mx-auto mb-3"></div>
+            Loading guidance...
+          </div>
+        </div>
+        <div id="load-more-container" class="p-3 text-center border-t border-gray-100 dark:border-gray-700 hidden">
+          <button id="btn-load-more" onclick="loadMore()" class="btn-secondary px-6">Load More</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══ Changes Tab ═══ -->
+    <div id="tab-changes" class="tab-content hidden">
+      <div class="flex justify-between items-center mb-4">
+        <h2 class="text-xl font-bold">Change Log</h2>
+        <button onclick="acknowledgeAll()" class="btn-secondary text-sm">Mark All Read</button>
+      </div>
+      <div class="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700">
+        <div id="changes-feed" class="divide-y divide-gray-100 dark:divide-gray-700">
+          <div class="p-8 text-center text-gray-400">
+            <div class="loading-spinner mx-auto mb-3"></div>
+            Loading changes...
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Guidance detail modal -->
+  <div id="modal-overlay" class="fixed inset-0 bg-black/50 z-50 hidden items-center justify-center p-4" onclick="if(event.target===this)closeModal()">
+    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-2xl w-full max-w-4xl max-h-[90vh] flex flex-col">
+      <!-- Modal header -->
+      <div class="flex justify-between items-start p-5 border-b border-gray-200 dark:border-gray-700">
+        <div class="flex-1 mr-4">
+          <div id="modal-badge" class="mb-2"></div>
+          <h2 id="modal-title" class="text-xl font-bold">Loading...</h2>
+          <div id="modal-meta" class="text-sm text-gray-500 dark:text-gray-400 mt-1"></div>
+        </div>
+        <button onclick="closeModal()" class="p-1 rounded hover:bg-gray-100 dark:hover:bg-gray-700 transition">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+          </svg>
+        </button>
+      </div>
+      <!-- Modal body -->
+      <div id="modal-content" class="flex-1 overflow-y-auto p-5">
+        <div class="loading-spinner mx-auto"></div>
+      </div>
+      <!-- Modal footer -->
+      <div class="p-4 border-t border-gray-200 dark:border-gray-700 flex justify-end gap-3">
+        <a id="modal-link" href="#" target="_blank" class="btn-primary text-sm">View Original Source</a>
+        <button onclick="closeModal()" class="btn-secondary text-sm">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Empty state illustration (hidden, used as template) -->
+  <template id="tmpl-empty">
+    <div class="p-12 text-center text-gray-400">
+      <svg class="w-16 h-16 mx-auto mb-4 opacity-30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+      </svg>
+      <p class="text-lg font-medium">No guidance found</p>
+      <p class="text-sm mt-1">New guidance will appear here once the pollers run.</p>
+    </div>
+  </template>
+
+  <script src="js/api.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
