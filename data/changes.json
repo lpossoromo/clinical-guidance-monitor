@@ -1,1 +1,211 @@
-{}
+{
+  "change:1771611733651:0362c62796482ac4": {
+    "id": "change:1771611733651:0362c62796482ac4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/video/interpreting-holter-monitor-reports-workshop",
+    "title": "Video: Interpreting Holter Monitor Reports Workshop",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:13.651Z",
+    "previousHash": null,
+    "newHash": "72adee60894494fb",
+    "acknowledged": false
+  },
+  "change:1771611736721:091be5663364f64f": {
+    "id": "change:1771611736721:091be5663364f64f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/nhs-diabetes-prevention-programme-update-on-the-patient-sms-self-registration-template",
+    "title": "Event: NHS Diabetes Prevention Programme: Update on the Patient SMS Self&#45;Registration Template",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:16.720Z",
+    "previousHash": null,
+    "newHash": "a75e4167d86a6daa",
+    "acknowledged": false
+  },
+  "change:1771611737976:ca1918b29794aee8": {
+    "id": "change:1771611737976:ca1918b29794aee8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/measles-update-infection-prevention-and-control-measures-in-primary-care",
+    "title": "News: Measles update: Infection prevention and control measures in primary care",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:17.976Z",
+    "previousHash": null,
+    "newHash": "a75e4167d86a6daa",
+    "acknowledged": false
+  },
+  "change:1771611739239:82b8262b5823a1af": {
+    "id": "change:1771611739239:82b8262b5823a1af",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-health-insight-survey-wave-18-key-findings",
+    "title": "News: NHS England Health Insight Survey (Wave 18): Key findings",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:19.239Z",
+    "previousHash": null,
+    "newHash": "a75e4167d86a6daa",
+    "acknowledged": false
+  },
+  "change:1771611741314:664a47dd5d2c04ed": {
+    "id": "change:1771611741314:664a47dd5d2c04ed",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-9-13-february-2026",
+    "title": "News: EMIS Global update: 9&#45;13 February 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:21.314Z",
+    "previousHash": null,
+    "newHash": "a75e4167d86a6daa",
+    "acknowledged": false
+  },
+  "change:1771611742724:f2ee4e5069a8282b": {
+    "id": "change:1771611742724:f2ee4e5069a8282b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/immunisations-and-vaccinations/childhood-immunisations-0-5",
+    "title": "Page: Childhood immunisations (0&#45;5)",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:22.724Z",
+    "previousHash": null,
+    "newHash": "a75e4167d86a6daa",
+    "acknowledged": false
+  },
+  "change:1771611744327:06e2cd5ca39687bc": {
+    "id": "change:1771611744327:06e2cd5ca39687bc",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wood-green-cdc-safeguarding-guidance-for-appointments",
+    "title": "News: Wood Green CDC: Safeguarding guidance for appointments",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:24.327Z",
+    "previousHash": null,
+    "newHash": "a75e4167d86a6daa",
+    "acknowledged": false
+  },
+  "change:1771611746493:196ab1204408153b": {
+    "id": "change:1771611746493:196ab1204408153b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/practice-vacancies",
+    "title": "Page: Practice Vacancies",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:26.493Z",
+    "previousHash": null,
+    "newHash": "a75e4167d86a6daa",
+    "acknowledged": false
+  },
+  "change:1771611747758:3be8cbd44c573f7f": {
+    "id": "change:1771611747758:3be8cbd44c573f7f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/cnwl-update-in-sexual-health-blood-born-viruses-and-contraception",
+    "title": "Event: CNWL Update in Sexual Health, Blood Born Viruses and Contraception",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:27.758Z",
+    "previousHash": null,
+    "newHash": "a75e4167d86a6daa",
+    "acknowledged": false
+  },
+  "change:1771611748494:556a6b8586933b20": {
+    "id": "change:1771611748494:556a6b8586933b20",
+    "url": "https://www.england.nhs.uk/2026/02/women-attending-first-nhs-mammogram-hits-10-year-high-as-thousands-more-cancers-found/",
+    "title": "Women attending first NHS mammogram hits 10-year high as thousands more cancers found",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:28.494Z",
+    "previousHash": null,
+    "newHash": "e13bff7b2cb787dc",
+    "acknowledged": false
+  },
+  "change:1771611749156:45e2227fbc5c5969": {
+    "id": "change:1771611749156:45e2227fbc5c5969",
+    "url": "https://www.england.nhs.uk/2026/02/nhs-facing-second-surge-in-vomiting-virus-as-cases-reach-highest-level-this-winter/",
+    "title": "NHS facing ‘second surge’ in vomiting virus as cases reach highest level this winter",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:29.156Z",
+    "previousHash": null,
+    "newHash": "33a6dbe98adbc08d",
+    "acknowledged": false
+  },
+  "change:1771611749815:7e7798edd70f3c38": {
+    "id": "change:1771611749815:7e7798edd70f3c38",
+    "url": "https://www.england.nhs.uk/2026/02/nhs-talking-therapies-completely-changed-my-life-nhs-launches-major-campaign-to-support-millions-more-people-with-anxiety/",
+    "title": "“NHS talking therapies completely changed my life”: NHS launches major campaign to support millions more people with anxiety",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:29.814Z",
+    "previousHash": null,
+    "newHash": "e09d5e4cb4b2b519",
+    "acknowledged": false
+  },
+  "change:1771611750471:5dc3d83374593b03": {
+    "id": "change:1771611750471:5dc3d83374593b03",
+    "url": "https://www.england.nhs.uk/2026/02/thousands-recruited-for-new-era-severe-mental-illness-study/",
+    "title": "Thousands recruited for “new era” severe mental illness study",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:30.471Z",
+    "previousHash": null,
+    "newHash": "6c48b61a84637d54",
+    "acknowledged": false
+  },
+  "change:1771611751130:86e142aa1bc715f3": {
+    "id": "change:1771611751130:86e142aa1bc715f3",
+    "url": "https://www.england.nhs.uk/2026/02/waiting-list-lowest-3-years-battled-busiest-winter-on-record/",
+    "title": "NHS waiting list lowest in almost 3 years as NHS battled busiest winter on record",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:31.130Z",
+    "previousHash": null,
+    "newHash": "00828bd0445f4d4f",
+    "acknowledged": false
+  },
+  "change:1771611752012:e5334b333ef4439d": {
+    "id": "change:1771611752012:e5334b333ef4439d",
+    "url": "https://www.england.nhs.uk/2026/02/early-nhs-preparation-paying-off-amid-shorter-ambulance-handover-times/",
+    "title": "Early NHS preparation ‘paying off’ amid shorter ambulance handover times",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:32.012Z",
+    "previousHash": null,
+    "newHash": "98ea70962278a200",
+    "acknowledged": false
+  },
+  "change:1771611752671:725e5add6fa05488": {
+    "id": "change:1771611752671:725e5add6fa05488",
+    "url": "https://www.england.nhs.uk/2026/01/nhs-services-tackling-winter-head-on/",
+    "title": "NHS services tackling winter head on",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:32.670Z",
+    "previousHash": null,
+    "newHash": "2e8b9eda211c8505",
+    "acknowledged": false
+  },
+  "change:1771611753597:79d8bd472aa1d556": {
+    "id": "change:1771611753597:79d8bd472aa1d556",
+    "url": "https://www.england.nhs.uk/2026/01/nhs-launches-trailblazing-ai-and-robot-pilot-to-spot-lung-cancer-sooner/",
+    "title": "NHS launches trailblazing AI and robot pilot to spot lung cancer sooner alongside screening programme set to tackle cancer inequalities",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:33.596Z",
+    "previousHash": null,
+    "newHash": "67eea4c89e0fe8ec",
+    "acknowledged": false
+  },
+  "change:1771611754259:79c973cc1b7b9d5a": {
+    "id": "change:1771611754259:79c973cc1b7b9d5a",
+    "url": "https://www.england.nhs.uk/2026/01/nhs-detect-prevent-thousands-more-bowel-cancers-more-sensitive-screening/",
+    "title": "NHS to detect and prevent thousands more bowel cancers with more sensitive screening",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:34.259Z",
+    "previousHash": null,
+    "newHash": "bd9b5e39b67ddf75",
+    "acknowledged": false
+  },
+  "change:1771611755197:fd30178434d3d55c": {
+    "id": "change:1771611755197:fd30178434d3d55c",
+    "url": "https://www.england.nhs.uk/2026/01/thousands-at-risk-inherited-cancers-receive-regular-nhs-checks-genetics-programme/",
+    "title": "Thousands at risk of inherited cancers to receive regular NHS checks through world-first genetics programme",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-20T18:22:35.197Z",
+    "previousHash": null,
+    "newHash": "4380db83dd075fea",
+    "acknowledged": false
+  }
+}

@@ -3,19 +3,56 @@
     "nice": {
       "enabled": true,
       "keywords": [
-        "diabetes", "hypertension", "ckd", "chronic kidney", "cardiovascular",
-        "lipids", "cholesterol", "respiratory", "asthma", "copd",
-        "mental health", "depression", "anxiety", "infection", "antibiotic",
-        "contraception", "thyroid", "anticoagulation", "warfarin",
-        "cancer screening", "cervical", "bowel screening", "breast screening",
-        "heart failure", "atrial fibrillation", "stroke", "obesity",
-        "dementia", "osteoporosis", "primary care"
+        "diabetes",
+        "hypertension",
+        "ckd",
+        "chronic kidney",
+        "cardiovascular",
+        "lipids",
+        "cholesterol",
+        "respiratory",
+        "asthma",
+        "copd",
+        "mental health",
+        "depression",
+        "anxiety",
+        "infection",
+        "antibiotic",
+        "contraception",
+        "thyroid",
+        "anticoagulation",
+        "warfarin",
+        "cancer screening",
+        "cervical",
+        "bowel screening",
+        "breast screening",
+        "heart failure",
+        "atrial fibrillation",
+        "stroke",
+        "obesity",
+        "dementia",
+        "osteoporosis",
+        "primary care"
       ]
     },
-    "ncl": { "enabled": true },
-    "nhs": { "enabled": true },
-    "artp": { "enabled": true }
+    "ncl": {
+      "enabled": true
+    },
+    "nhs": {
+      "enabled": true
+    },
+    "artp": {
+      "enabled": true
+    }
   },
-  "lastRunStats": {},
-  "unreadChanges": 0
+  "lastRunStats": {
+    "rssPoller": "2026-02-20T18:22:35.697Z",
+    "rssPollerResults": {
+      "nice": 0,
+      "ncl": 10,
+      "nhs": 10,
+      "total": 20
+    }
+  },
+  "unreadChanges": 19
 }
