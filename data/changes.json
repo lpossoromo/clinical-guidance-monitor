@@ -339,5 +339,16 @@
     "previousHash": null,
     "newHash": "7b6171eb30fc2180",
     "acknowledged": false
+  },
+  "change:1771659897104:be4d6c98a5904999": {
+    "id": "change:1771659897104:be4d6c98a5904999",
+    "url": "https://www.england.nhs.uk/2026/02/people-searching-nhs-advice-on-high-blood-pressure-skyrocketed-last-year/",
+    "title": "People searching NHS advice on high blood pressure skyrocketed last year",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-21T07:44:57.104Z",
+    "previousHash": null,
+    "newHash": "1bb4a19643446171",
+    "acknowledged": false
   }
 }
