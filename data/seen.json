@@ -254,5 +254,29 @@
     "discovered": "2026-02-24T15:11:13.755Z",
     "publishedDate": "Tue, 24 Feb 2026 10:35:24 +0000",
     "source": "ncl"
+  },
+  "ncl:2f73361c1daacdf2": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/medicines-supply-notification-phenobarbital-30mg-and-60mg-tablets",
+    "title": "News: Medicines Supply Notification: Phenobarbital 30mg and 60mg tablets",
+    "description": "Phenobarbital tablets are in short supply, with resupply expected at the end of March 2026. Prescribers are advised not to start new patients on these medications.",
+    "discovered": "2026-02-24T19:53:59.396Z",
+    "publishedDate": "Tue, 24 Feb 2026 16:59:29 +0000",
+    "source": "ncl"
+  },
+  "ncl:d3e2f6a6e5613c13": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/medicines-supply-notification-sodium-valproate-epilim-chronosphere-r-100mg-modified-release-granules-sachets-sugar-free",
+    "title": "News: Medicines Supply Notification: Sodium Valproate (Epilim Chronosphere®) 100mg modified release granules sachets sugar free",
+    "description": "Sodium valproate 100mg sachets are out of stock until mid-April 2026; reserve supplies for patients with epilepsy concerns.",
+    "discovered": "2026-02-24T19:54:00.608Z",
+    "publishedDate": "Tue, 24 Feb 2026 16:45:14 +0000",
+    "source": "ncl"
+  },
+  "ncl:30d3a2f1982b5fc9": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/spa-referral-route-available-for-adult-mental-health-teams",
+    "title": "News: SPA referral route available for adult mental health teams",
+    "description": "GPs should&nbsp;use an&nbsp;EMIS single referral form to make non-urgent direct referrals into adult community mental health services within Camden, Enfield and Islington.",
+    "discovered": "2026-02-24T19:54:01.880Z",
+    "publishedDate": "Tue, 24 Feb 2026 16:42:05 +0000",
+    "source": "ncl"
   }
 }

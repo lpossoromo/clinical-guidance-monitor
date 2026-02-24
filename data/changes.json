@@ -372,5 +372,27 @@
     "previousHash": null,
     "newHash": "a75e4167d86a6daa",
     "acknowledged": false
+  },
+  "change:1771962840107:2f73361c1daacdf2": {
+    "id": "change:1771962840107:2f73361c1daacdf2",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/medicines-supply-notification-phenobarbital-30mg-and-60mg-tablets",
+    "title": "News: Medicines Supply Notification: Phenobarbital 30mg and 60mg tablets",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-24T19:54:00.107Z",
+    "previousHash": null,
+    "newHash": "a75e4167d86a6daa",
+    "acknowledged": false
+  },
+  "change:1771962841379:d3e2f6a6e5613c13": {
+    "id": "change:1771962841379:d3e2f6a6e5613c13",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/medicines-supply-notification-sodium-valproate-epilim-chronosphere-r-100mg-modified-release-granules-sachets-sugar-free",
+    "title": "News: Medicines Supply Notification: Sodium Valproate (Epilim Chronosphere®) 100mg modified release granules sachets sugar free",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-24T19:54:01.379Z",
+    "previousHash": null,
+    "newHash": "a75e4167d86a6daa",
+    "acknowledged": false
   }
 }
