@@ -278,5 +278,37 @@
     "discovered": "2026-02-24T19:54:01.880Z",
     "publishedDate": "Tue, 24 Feb 2026 16:42:05 +0000",
     "source": "ncl"
+  },
+  "ncl:f367e219aca303c1": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/lab-introduces-more-accurate-cholesterol-measurements",
+    "title": "News: Lab introduces more accurate cholesterol measurements",
+    "description": "Changed methodology at Health Services Laboratories (HSL) has enabled more accurate reporting of LDL-cholesterol (LDL-C) in patients with serum triglycerides up to 9.0 mmol/L.",
+    "discovered": "2026-02-25T14:43:14.205Z",
+    "publishedDate": "Wed, 25 Feb 2026 11:27:38 +0000",
+    "source": "ncl"
+  },
+  "ncl:622cad0abc361d4c": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-to-recall-of-several-nestle-r-sma-r-specialist-and-standard-infant-formula",
+    "title": "News: Update to recall of several Nestle® SMA® specialist and standard infant formula",
+    "description": "The UK Health Security Agency has issued updated briefing notes on the infant and follow-on formula recall due to possible cereulide toxin contamination. These should be read in conjunction with the previous notes.",
+    "discovered": "2026-02-25T14:43:15.462Z",
+    "publishedDate": "Wed, 25 Feb 2026 11:18:21 +0000",
+    "source": "ncl"
+  },
+  "ncl:4829140b1ac94f94": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-use-correct-faecal-calprotectin-testing-containers",
+    "title": "News: Update: Which container to use for faecal calprotectin tests",
+    "description": "See which container to use when. Samples collected in the incorrect container will be rejected and not processed, causing delays.",
+    "discovered": "2026-02-25T14:43:16.666Z",
+    "publishedDate": "Wed, 25 Feb 2026 10:34:30 +0000",
+    "source": "ncl"
+  },
+  "ncl:bcf05de5f417f2c4": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/single-point-of-access-introduced-for-adult-community-mental-health-teams",
+    "title": "News: Single point of access introduced for adult community mental health teams",
+    "description": "Use the new EMIS single point of access referral form for non-urgent direct referrals into adult community mental health services.",
+    "discovered": "2026-02-25T14:43:17.914Z",
+    "publishedDate": "Wed, 25 Feb 2026 11:38:02 +0000",
+    "source": "ncl"
   }
 }
