@@ -310,5 +310,13 @@
     "discovered": "2026-02-25T14:43:17.914Z",
     "publishedDate": "Wed, 25 Feb 2026 11:38:02 +0000",
     "source": "ncl"
+  },
+  "ncl:13c6f12d4057ab28": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/finchley-memorial-cdc-update-temporary-pause-on-cardiology-referrals-24-hour-tape-echocardiograms",
+    "title": "News: Finchley Memorial CDC update: Temporary pause on cardiology referrals (24&#45;hour tape &amp; echocardiograms)",
+    "description": "The tests will be reintroduced for GP direct access via choose and book from 1 April 2026, once the current patient backlog has been cleared.",
+    "discovered": "2026-02-25T19:56:13.087Z",
+    "publishedDate": "Wed, 25 Feb 2026 15:55:25 +0000",
+    "source": "ncl"
   }
 }
