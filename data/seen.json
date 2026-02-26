@@ -318,5 +318,21 @@
     "discovered": "2026-02-25T19:56:13.087Z",
     "publishedDate": "Wed, 25 Feb 2026 15:55:25 +0000",
     "source": "ncl"
+  },
+  "ncl:7d44f8d5ae790eb7": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/adult-hospital-at-home-nmuh",
+    "title": "Service: Adult Hospital at Home: NMUH",
+    "description": "Service update: NMUH&#039;s Adult Hospital at Home accepts direct GP referrals, providing acute care for adults in their usual residence, preventing unnecessary hospital admissions.",
+    "discovered": "2026-02-26T14:39:49.457Z",
+    "publishedDate": "Thu, 26 Feb 2026 11:18:48 +0000",
+    "source": "ncl"
+  },
+  "ncl:ec7751a7d79e0bd0": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/referral-support/planned-care-wait-times/urgent-suspected-cancer-indicative-wait-for-first-appointment-data",
+    "title": "Page: Urgent suspected cancer: Indicative wait for first appointment data",
+    "description": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer first appointments (previously known as 2WW). See the latest data.",
+    "discovered": "2026-02-26T14:39:50.804Z",
+    "publishedDate": "Thu, 26 Feb 2026 10:03:44 +0000",
+    "source": "ncl"
   }
 }
