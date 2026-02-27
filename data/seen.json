@@ -126,5 +126,13 @@
     "discovered": "2026-02-27T17:47:24.979Z",
     "publishedDate": "Thu, 29 Jan 2026 09:45:31 +0000",
     "source": "nhs"
+  },
+  "ncl:aca3b55c717a5c75": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/gp-webinar-summary-26-february-2026",
+    "title": "News: GP Webinar summary: 26 February 2026",
+    "description": "Find a summary of recent meetings at any time by putting &#039;GP webinar&#039; into the NCL General Practice Website&#039;s search bar.",
+    "discovered": "2026-02-27T19:47:45.038Z",
+    "publishedDate": "Fri, 27 Feb 2026 14:36:16 +0000",
+    "source": "ncl"
   }
 }
