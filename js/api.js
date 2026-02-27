@@ -84,8 +84,12 @@ const Api = {
     let items = Object.values(_guidance);
     if (source !== 'all') items = items.filter(i => i.source === source);
 
-    // Sort newest first
-    items.sort((a, b) => new Date(b.fetchedDate) - new Date(a.fetchedDate));
+    // Sort newest first by publication date, falling back to fetch date
+    items.sort((a, b) => {
+      const dateA = new Date(a.publishedDate || a.fetchedDate);
+      const dateB = new Date(b.publishedDate || b.fetchedDate);
+      return dateB - dateA;
+    });
 
     // Map to summary format (exclude full content for list view)
     const mapped = items.map(item => ({
@@ -203,7 +207,9 @@ const Api = {
 
     results.sort((a, b) => {
       if (a.matchType !== b.matchType) return a.matchType === 'title' ? -1 : 1;
-      return new Date(b.fetchedDate) - new Date(a.fetchedDate);
+      const dateA = new Date(a.publishedDate || a.fetchedDate);
+      const dateB = new Date(b.publishedDate || b.fetchedDate);
+      return dateB - dateA;
     });
 
     return { items: results.slice(0, 50), total: results.length, query };
