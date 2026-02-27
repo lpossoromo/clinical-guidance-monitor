@@ -1,346 +1,178 @@
-{
-  "ncl:0362c62796482ac4": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/video/interpreting-holter-monitor-reports-workshop",
-    "title": "Video: Interpreting Holter Monitor Reports Workshop",
-    "description": "NCL Training Hub&nbsp;ran a workshop for GPs and GP trainees to enable them to become more confident in interpreting the most common findings shown on Holter monitor reports. Watch the full recording here.",
-    "discovered": "2026-02-20T18:22:12.902Z",
-    "publishedDate": "Fri, 20 Feb 2026 13:12:52 +0000",
-    "source": "ncl"
-  },
-  "ncl:ebb7876dc7dad0aa": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hsl-review-pathology-test-results-look-up-system-goes-live",
-    "title": "News: HSL Review pathology test results look&#45;up system goes live",
-    "description": "The HSL Review system aims to provide GPs with a single location where pathology results from north central London&#039;s main provider trusts can be found, as well as radiology results from Royal Free London.",
-    "discovered": "2026-02-20T18:22:14.151Z",
-    "publishedDate": "Thu, 19 Feb 2026 14:44:48 +0000",
-    "source": "ncl"
-  },
-  "ncl:091be5663364f64f": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/nhs-diabetes-prevention-programme-update-on-the-patient-sms-self-registration-template",
-    "title": "Event: NHS Diabetes Prevention Programme: Update on the Patient SMS Self&#45;Registration Template",
-    "description": "Join Camden Health and Wellbeing at 12.30pm on Tuesday 10&nbsp;March for an introduction to the new NHS Diabetes Prevention Programme (NDPP) patient SMS self-registration template, now embedded in AccuRx.",
-    "discovered": "2026-02-20T18:22:15.489Z",
-    "publishedDate": "Wed, 18 Feb 2026 11:25:53 +0000",
-    "source": "ncl"
-  },
-  "ncl:ca1918b29794aee8": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/measles-update-infection-prevention-and-control-measures-in-primary-care",
-    "title": "News: Measles update: Infection prevention and control measures in primary care",
-    "description": "The UK Health Security Agency has reported an active measles outbreak across north central London. There have been some exposure incidents in general practice, highlighting the need for strengthened infection prevention and control. Read more",
-    "discovered": "2026-02-20T18:22:17.221Z",
-    "publishedDate": "Tue, 17 Feb 2026 17:09:43 +0000",
-    "source": "ncl"
-  },
-  "ncl:82b8262b5823a1af": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-health-insight-survey-wave-18-key-findings",
-    "title": "News: NHS England Health Insight Survey (Wave 18): Key findings",
-    "description": "NCL ICB has shared the latest insights from the NHS England Health Insight Survey (Wave 18). These reflect significant efforts made by practices to enhance the patient journey when contacting and using GP services.",
-    "discovered": "2026-02-20T18:22:18.476Z",
-    "publishedDate": "Tue, 17 Feb 2026 14:19:46 +0000",
-    "source": "ncl"
-  },
-  "ncl:664a47dd5d2c04ed": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-9-13-february-2026",
-    "title": "News: EMIS Global update: 9&#45;13 February 2026",
-    "description": "See what&#039;s new in EMIS Global.",
-    "discovered": "2026-02-20T18:22:19.738Z",
-    "publishedDate": "Tue, 17 Feb 2026 11:02:32 +0000",
-    "source": "ncl"
-  },
-  "ncl:f2ee4e5069a8282b": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/immunisations-and-vaccinations/childhood-immunisations-0-5",
-    "title": "Page: Childhood immunisations (0&#45;5)",
-    "description": "Practices are encouraged to review the Measles, Mumps, Rubella and Varicella (MMRV) Vaccination Programme GP Toolkit for up‑to‑date guidance and resources to support delivery of the MMRV vaccine.",
-    "discovered": "2026-02-20T18:22:21.815Z",
-    "publishedDate": "Tue, 17 Feb 2026 10:28:20 +0000",
-    "source": "ncl"
-  },
-  "ncl:06e2cd5ca39687bc": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wood-green-cdc-safeguarding-guidance-for-appointments",
-    "title": "News: Wood Green CDC: Safeguarding guidance for appointments",
-    "description": "Wood Green Community Diagnostic Centre (CDC) is asking for your support to inform patients referred to the centre not to bring children to appointments, as childcare cannot be provided.",
-    "discovered": "2026-02-20T18:22:23.223Z",
-    "publishedDate": "Mon, 16 Feb 2026 14:16:55 +0000",
-    "source": "ncl"
-  },
-  "ncl:196ab1204408153b": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/practice-vacancies",
-    "title": "Page: Practice Vacancies",
-    "description": "NCL practice vacancies that have been sent in to the NCL General Practice Website and remain open for applications are listed on this page.",
-    "discovered": "2026-02-20T18:22:24.827Z",
-    "publishedDate": "Mon, 16 Feb 2026 11:20:10 +0000",
-    "source": "ncl"
-  },
-  "ncl:3be8cbd44c573f7f": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/cnwl-update-in-sexual-health-blood-born-viruses-and-contraception",
-    "title": "Event: CNWL Update in Sexual Health, Blood Born Viruses and Contraception",
-    "description": "An update for clinicians on sexual health, including blood-borne viruses and contraception, provided by CNWL at 8.45am on Tuesday 10 March.",
-    "discovered": "2026-02-20T18:22:26.992Z",
-    "publishedDate": "Mon, 16 Feb 2026 11:09:23 +0000",
-    "source": "ncl"
-  },
-  "nhs:556a6b8586933b20": {
-    "url": "https://www.england.nhs.uk/2026/02/women-attending-first-nhs-mammogram-hits-10-year-high-as-thousands-more-cancers-found/",
-    "title": "Women attending first NHS mammogram hits 10-year high as thousands more cancers found",
-    "description": "Hundreds of thousands more women attended NHS breast screening last year and thousands more cancers were diagnosed early in England. New figures today show that in 2024/25, 1.94 million women aged 50 to 70 attended screening within six months of invitation – up nearly 200,000 (193,745) from 1.75 million the previous year. As a result, [&#8230;]",
-    "discovered": "2026-02-20T18:22:28.459Z",
-    "publishedDate": "Thu, 19 Feb 2026 11:13:44 +0000",
-    "source": "nhs"
-  },
-  "nhs:45e2227fbc5c5969": {
-    "url": "https://www.england.nhs.uk/2026/02/nhs-facing-second-surge-in-vomiting-virus-as-cases-reach-highest-level-this-winter/",
-    "title": "NHS facing ‘second surge’ in vomiting virus as cases reach highest level this winter",
-    "description": "The NHS could be facing a “second surge” in norovirus as the vomiting bug reaches its highest level so far this winter. Figures published today show the average number of patients in hospital with norovirus each day this week rose to over 1,000 for the first time this winter (1,012). The total is a jump [&#8230;]",
-    "discovered": "2026-02-20T18:22:28.993Z",
-    "publishedDate": "Thu, 19 Feb 2026 11:06:28 +0000",
-    "source": "nhs"
-  },
-  "nhs:7e7798edd70f3c38": {
-    "url": "https://www.england.nhs.uk/2026/02/nhs-talking-therapies-completely-changed-my-life-nhs-launches-major-campaign-to-support-millions-more-people-with-anxiety/",
-    "title": "“NHS talking therapies completely changed my life”: NHS launches major campaign to support millions more people with anxiety",
-    "description": "Millions of adults facing debilitating anxiety conditions are missing out on treatment that could help them recover and get back on with their lives the NHS has said, as it launches a major new mental health campaign. New analysis of NHS data shows that over 670,000 people were treated with NHS talking therapy care last [&#8230;]",
-    "discovered": "2026-02-20T18:22:29.656Z",
-    "publishedDate": "Wed, 18 Feb 2026 00:01:46 +0000",
-    "source": "nhs"
-  },
-  "nhs:5dc3d83374593b03": {
-    "url": "https://www.england.nhs.uk/2026/02/thousands-recruited-for-new-era-severe-mental-illness-study/",
-    "title": "Thousands recruited for “new era” severe mental illness study",
-    "description": "Thousands of people living with schizophrenia and severe depression are being recruited by the NHS for a major new study which could unlock a “new era” of personalised treatment for severe mental illness. As part of the world’s largest mental health study, researchers will analyse the DNA of thousands of people alongside detailed questionnaires to [&#8230;]",
-    "discovered": "2026-02-20T18:22:30.314Z",
-    "publishedDate": "Sat, 14 Feb 2026 00:01:27 +0000",
-    "source": "nhs"
-  },
-  "nhs:86e142aa1bc715f3": {
-    "url": "https://www.england.nhs.uk/2026/02/waiting-list-lowest-3-years-battled-busiest-winter-on-record/",
-    "title": "NHS waiting list lowest in almost 3 years as NHS battled busiest winter on record",
-    "description": "The NHS delivered more elective activity in 2025 than any other year in its history, helping cut the waiting list to its lowest level since February 2023. Staff delivered a historic high of 18.4 million treatments and operations in 2025, up from 18 million in 2024, as the waiting list dropped to 7.29 million. Today’s [&#8230;]",
-    "discovered": "2026-02-20T18:22:30.971Z",
-    "publishedDate": "Thu, 12 Feb 2026 10:57:05 +0000",
-    "source": "nhs"
-  },
-  "nhs:e5334b333ef4439d": {
-    "url": "https://www.england.nhs.uk/2026/02/early-nhs-preparation-paying-off-amid-shorter-ambulance-handover-times/",
-    "title": "Early NHS preparation ‘paying off’ amid shorter ambulance handover times",
-    "description": "Ambulances handed over patients more than 2 minutes faster last month despite facing their busiest January since before COVID-19. Provisional figures out today show there were 420,324 ambulances handovers with known times in January, the highest number for the month since 2020 and a 5.2% increase compared to 399,415 in January last year. Despite this, [&#8230;]",
-    "discovered": "2026-02-20T18:22:31.630Z",
-    "publishedDate": "Thu, 05 Feb 2026 10:00:21 +0000",
-    "source": "nhs"
-  },
-  "nhs:725e5add6fa05488": {
-    "url": "https://www.england.nhs.uk/2026/01/nhs-services-tackling-winter-head-on/",
-    "title": "NHS services tackling winter head on",
-    "description": "Ambulances unloaded patients three minutes faster last week, even as A&#38;Es saw more ambulance handovers than any point last winter. Figures released today show there were 94,551 ambulance handovers last week – higher than the busiest week last year (94,493 w/e 29 December 2024), and up almost 1,000 on the week previous and over 3,250 [&#8230;]",
-    "discovered": "2026-02-20T18:22:32.512Z",
-    "publishedDate": "Thu, 29 Jan 2026 09:45:31 +0000",
-    "source": "nhs"
-  },
-  "nhs:79d8bd472aa1d556": {
-    "url": "https://www.england.nhs.uk/2026/01/nhs-launches-trailblazing-ai-and-robot-pilot-to-spot-lung-cancer-sooner/",
-    "title": "NHS launches trailblazing AI and robot pilot to spot lung cancer sooner alongside screening programme set to tackle cancer inequalities",
-    "description": "Patients facing suspected lung cancer could get answers sooner under a new NHS pilot using artificial intelligence and robotic technology to help doctors reach hard-to-detect cancers earlier, with fewer invasive tests.  The new approach uses AI software to rapidly analyse lung scans and flag small lumps that are most likely to be cancerous, and a robotic camera is then used to [&#8230;]",
-    "discovered": "2026-02-20T18:22:33.171Z",
-    "publishedDate": "Tue, 27 Jan 2026 00:01:25 +0000",
-    "source": "nhs"
-  },
-  "nhs:79c973cc1b7b9d5a": {
-    "url": "https://www.england.nhs.uk/2026/01/nhs-detect-prevent-thousands-more-bowel-cancers-more-sensitive-screening/",
-    "title": "NHS to detect and prevent thousands more bowel cancers with more sensitive screening",
-    "description": "Thousands of cases of bowel cancer will be diagnosed earlier or even prevented in England, as part of major NHS plans to increase the sensitivity of bowel cancer screening to save more lives. NHS England today announced it is to lower the threshold for a home-screening kit to trigger urgent cancer testing from next month, [&#8230;]",
-    "discovered": "2026-02-20T18:22:34.096Z",
-    "publishedDate": "Mon, 26 Jan 2026 00:01:37 +0000",
-    "source": "nhs"
-  },
-  "nhs:fd30178434d3d55c": {
-    "url": "https://www.england.nhs.uk/2026/01/thousands-at-risk-inherited-cancers-receive-regular-nhs-checks-genetics-programme/",
-    "title": "Thousands at risk of inherited cancers to receive regular NHS checks through world-first genetics programme",
-    "description": "Thousands of people at higher risk of developing cancer due to inherited faulty genes will be regularly checked and tracked by the NHS thanks to a first-of-its-kind national genetics programme. The world-first genetic register, developed by the NHS, will collect patient information on over 100 genes linked to an increased risk of cancer, with plans [&#8230;]",
-    "discovered": "2026-02-20T18:22:34.759Z",
-    "publishedDate": "Sat, 24 Jan 2026 09:00:59 +0000",
-    "source": "nhs"
-  },
-  "artp:783dd1caa2197070": {
-    "url": "https://www.artp.org.uk/news/163/free_artp_membership_for_those_on_the_spirometry_register",
-    "title": "Free Artp Membership For Those On The Spirometry Register",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:a3ef6fa2c3ab6bdc": {
-    "url": "https://www.artp.org.uk/news/162/opportunity_for_artpregistered_professionals_in_spirometry_reporting",
-    "title": "Opportunity For Artpregistered Professionals In Spirometry Reporting",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:e28e46110208fe0e": {
-    "url": "https://www.artp.org.uk/news/155/new_artp_standard_respiratory_and_sleep_physiology_diagnostic_reporting",
-    "title": "New Artp Standard Respiratory And Sleep Physiology Diagnostic Reporting",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:aa9d50af0a698e38": {
-    "url": "https://www.artp.org.uk/news/156/dscount_on_spirometry_webinars_for_artp",
-    "title": "Dscount On Spirometry Webinars For Artp",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:a4bbe604a50ef028": {
-    "url": "https://www.artp.org.uk/news/158/artp_spirometry_position_on_gli_global_predicted_equations",
-    "title": "Artp Spirometry Position On Gli Global Predicted Equations",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:224d6e8b10be41eb": {
-    "url": "https://www.artp.org.uk/news/159/spirometry_register_renewal_fee_reduction_2025",
-    "title": "Spirometry Register Renewal Fee Reduction 2025",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:a9f9025d0fa250a9": {
-    "url": "https://www.artp.org.uk/news/157/artp_professional_examinations_train_the_trainer_webinar_2025",
-    "title": "Artp Professional Examinations Train The Trainer Webinar 2025",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:e8c00ecd048ee462": {
-    "url": "https://www.artp.org.uk/news/100/taskforce_for_lung_health_annual_report",
-    "title": "Taskforce For Lung Health Annual Report",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:11e9e9c31ee9da16": {
-    "url": "https://www.artp.org.uk/news/154/artp_spirometry_train_the_trainer_webinar_2025",
-    "title": "Artp Spirometry Train The Trainer Webinar 2025",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:1e9af78ccc9fb86a": {
-    "url": "https://www.artp.org.uk/news/153/position_statement_on_raceneutral_spirometry_reference_equations_june_2025",
-    "title": "Position Statement On Raceneutral Spirometry Reference Equations June 2025",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:114028e7c1f50197": {
-    "url": "https://www.artp.org.uk/news/11/artp_paediatric_cpet_forum_25th_september_2025",
-    "title": "Artp Paediatric Cpet Forum 25th September 2025",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "artp:2bceb14dc98b4f6e": {
-    "url": "https://www.artp.org.uk/news/12/phd_studentship_sponsored_by_mmu_uhcw",
-    "title": "Phd Studentship Sponsored By Mmu Uhcw",
-    "discovered": "2026-02-20T18:24:04.659Z",
-    "source": "artp"
-  },
-  "nhs:be4d6c98a5904999": {
-    "url": "https://www.england.nhs.uk/2026/02/people-searching-nhs-advice-on-high-blood-pressure-skyrocketed-last-year/",
-    "title": "People searching NHS advice on high blood pressure skyrocketed last year",
-    "description": "The number of people searching for trusted NHS advice on high blood pressure surged in 2025 with hundreds of thousands of extra visits to online information on risk and how to get checked. The NHS webpage on high blood pressure rocketed from 30th place in 2024, to the second most visited health condition on NHS.uk [&#8230;]",
-    "discovered": "2026-02-21T07:44:56.922Z",
-    "publishedDate": "Sat, 21 Feb 2026 00:01:25 +0000",
-    "source": "nhs"
-  },
-  "nhs:dbc8496b50e5bedf": {
-    "url": "https://www.england.nhs.uk/2026/02/tens-thousands-vitiligo-offered-life-changing-new-cream-restore-skin-colour/",
-    "title": "Tens of thousands with vitiligo to be offered “life-changing” new cream on NHS to restore skin colour",
-    "description": "Tens of thousands of people living with vitiligo affecting their face are to be offered the first approved medicine on the NHS to restore lost skin colour. The new cream, known as ruxolitinib, will be offered to nearly 100,000 people aged 12 and over who have a form of the condition where white patches typically [&#8230;]",
-    "discovered": "2026-02-24T05:14:37.913Z",
-    "publishedDate": "Tue, 24 Feb 2026 00:01:22 +0000",
-    "source": "nhs"
-  },
-  "ncl:3855cdd02c8226d1": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-16-20-february-2026",
-    "title": "News: EMIS Global update: 16&#45;20 February 2026",
-    "description": "See what&#039;s new in EMIS Global",
-    "discovered": "2026-02-24T15:11:13.755Z",
-    "publishedDate": "Tue, 24 Feb 2026 10:35:24 +0000",
-    "source": "ncl"
-  },
-  "ncl:2f73361c1daacdf2": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/medicines-supply-notification-phenobarbital-30mg-and-60mg-tablets",
-    "title": "News: Medicines Supply Notification: Phenobarbital 30mg and 60mg tablets",
-    "description": "Phenobarbital tablets are in short supply, with resupply expected at the end of March 2026. Prescribers are advised not to start new patients on these medications.",
-    "discovered": "2026-02-24T19:53:59.396Z",
-    "publishedDate": "Tue, 24 Feb 2026 16:59:29 +0000",
-    "source": "ncl"
-  },
-  "ncl:d3e2f6a6e5613c13": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/medicines-supply-notification-sodium-valproate-epilim-chronosphere-r-100mg-modified-release-granules-sachets-sugar-free",
-    "title": "News: Medicines Supply Notification: Sodium Valproate (Epilim Chronosphere®) 100mg modified release granules sachets sugar free",
-    "description": "Sodium valproate 100mg sachets are out of stock until mid-April 2026; reserve supplies for patients with epilepsy concerns.",
-    "discovered": "2026-02-24T19:54:00.608Z",
-    "publishedDate": "Tue, 24 Feb 2026 16:45:14 +0000",
-    "source": "ncl"
-  },
-  "ncl:30d3a2f1982b5fc9": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/spa-referral-route-available-for-adult-mental-health-teams",
-    "title": "News: SPA referral route available for adult mental health teams",
-    "description": "GPs should&nbsp;use an&nbsp;EMIS single referral form to make non-urgent direct referrals into adult community mental health services within Camden, Enfield and Islington.",
-    "discovered": "2026-02-24T19:54:01.880Z",
-    "publishedDate": "Tue, 24 Feb 2026 16:42:05 +0000",
-    "source": "ncl"
-  },
-  "ncl:f367e219aca303c1": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/lab-introduces-more-accurate-cholesterol-measurements",
-    "title": "News: Lab introduces more accurate cholesterol measurements",
-    "description": "Changed methodology at Health Services Laboratories (HSL) has enabled more accurate reporting of LDL-cholesterol (LDL-C) in patients with serum triglycerides up to 9.0 mmol/L.",
-    "discovered": "2026-02-25T14:43:14.205Z",
-    "publishedDate": "Wed, 25 Feb 2026 11:27:38 +0000",
-    "source": "ncl"
-  },
-  "ncl:622cad0abc361d4c": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-to-recall-of-several-nestle-r-sma-r-specialist-and-standard-infant-formula",
-    "title": "News: Update to recall of several Nestle® SMA® specialist and standard infant formula",
-    "description": "The UK Health Security Agency has issued updated briefing notes on the infant and follow-on formula recall due to possible cereulide toxin contamination. These should be read in conjunction with the previous notes.",
-    "discovered": "2026-02-25T14:43:15.462Z",
-    "publishedDate": "Wed, 25 Feb 2026 11:18:21 +0000",
-    "source": "ncl"
-  },
-  "ncl:4829140b1ac94f94": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-use-correct-faecal-calprotectin-testing-containers",
-    "title": "News: Update: Which container to use for faecal calprotectin tests",
-    "description": "See which container to use when. Samples collected in the incorrect container will be rejected and not processed, causing delays.",
-    "discovered": "2026-02-25T14:43:16.666Z",
-    "publishedDate": "Wed, 25 Feb 2026 10:34:30 +0000",
-    "source": "ncl"
-  },
-  "ncl:bcf05de5f417f2c4": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/single-point-of-access-introduced-for-adult-community-mental-health-teams",
-    "title": "News: Single point of access introduced for adult community mental health teams",
-    "description": "Use the new EMIS single point of access referral form for non-urgent direct referrals into adult community mental health services.",
-    "discovered": "2026-02-25T14:43:17.914Z",
-    "publishedDate": "Wed, 25 Feb 2026 11:38:02 +0000",
-    "source": "ncl"
-  },
-  "ncl:13c6f12d4057ab28": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/finchley-memorial-cdc-update-temporary-pause-on-cardiology-referrals-24-hour-tape-echocardiograms",
-    "title": "News: Finchley Memorial CDC update: Temporary pause on cardiology referrals (24&#45;hour tape &amp; echocardiograms)",
-    "description": "The tests will be reintroduced for GP direct access via choose and book from 1 April 2026, once the current patient backlog has been cleared.",
-    "discovered": "2026-02-25T19:56:13.087Z",
-    "publishedDate": "Wed, 25 Feb 2026 15:55:25 +0000",
-    "source": "ncl"
-  },
-  "ncl:7d44f8d5ae790eb7": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/adult-hospital-at-home-nmuh",
-    "title": "Service: Adult Hospital at Home: NMUH",
-    "description": "Service update: NMUH&#039;s Adult Hospital at Home accepts direct GP referrals, providing acute care for adults in their usual residence, preventing unnecessary hospital admissions.",
-    "discovered": "2026-02-26T14:39:49.457Z",
-    "publishedDate": "Thu, 26 Feb 2026 11:18:48 +0000",
-    "source": "ncl"
-  },
-  "ncl:ec7751a7d79e0bd0": {
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/referral-support/planned-care-wait-times/urgent-suspected-cancer-indicative-wait-for-first-appointment-data",
-    "title": "Page: Urgent suspected cancer: Indicative wait for first appointment data",
-    "description": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer first appointments (previously known as 2WW). See the latest data.",
-    "discovered": "2026-02-26T14:39:50.804Z",
-    "publishedDate": "Thu, 26 Feb 2026 10:03:44 +0000",
-    "source": "ncl"
-  },
-  "nhs:3385b994b054a7ba": {
-    "url": "https://www.england.nhs.uk/2026/02/patients-handed-over-quicker-despite-5-year-high-in-number-taken-to-hospital/",
-    "title": "Patients handed over quicker despite 5-year high in number taken to hospital",
-    "description": "Ambulance crews and A&#38;E staff have slashed handover delays by more than 7 minutes this winter &#8211; even as they ferried the highest number of patients to hospital in half a decade. Figures out today show that more than 1.2million patients were handed over (1,234,731) to A&#38;Es by ambulances so far this winter. This is [&#8230;]",
-    "discovered": "2026-02-27T14:10:06.435Z",
-    "publishedDate": "Thu, 26 Feb 2026 16:00:13 +0000",
-    "source": "nhs"
-  }
+﻿{
+    "nhs:556a6b8586933b20":  {
+                                 "url":  "https://www.england.nhs.uk/2026/02/women-attending-first-nhs-mammogram-hits-10-year-high-as-thousands-more-cancers-found/",
+                                 "title":  "Women attending first NHS mammogram hits 10-year high as thousands more cancers found",
+                                 "description":  "Hundreds of thousands more women attended NHS breast screening last year and thousands more cancers were diagnosed early in England. New figures today show that in 2024/25, 1.94 million women aged 50 to 70 attended screening within six months of invitation â€“ up nearly 200,000 (193,745) from 1.75 million the previous year. As a result, [\u0026#8230;]",
+                                 "discovered":  "2026-02-20T18:22:28.459Z",
+                                 "publishedDate":  "Thu, 19 Feb 2026 11:13:44 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:45e2227fbc5c5969":  {
+                                 "url":  "https://www.england.nhs.uk/2026/02/nhs-facing-second-surge-in-vomiting-virus-as-cases-reach-highest-level-this-winter/",
+                                 "title":  "NHS facing â€˜second surgeâ€™ in vomiting virus as cases reach highest level this winter",
+                                 "description":  "The NHS could be facing a â€œsecond surgeâ€ in norovirus as the vomiting bug reaches its highest level so far this winter. Figures published today show the average number of patients in hospital with norovirus each day this week rose to over 1,000 for the first time this winter (1,012). The total is a jump [\u0026#8230;]",
+                                 "discovered":  "2026-02-20T18:22:28.993Z",
+                                 "publishedDate":  "Thu, 19 Feb 2026 11:06:28 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:7e7798edd70f3c38":  {
+                                 "url":  "https://www.england.nhs.uk/2026/02/nhs-talking-therapies-completely-changed-my-life-nhs-launches-major-campaign-to-support-millions-more-people-with-anxiety/",
+                                 "title":  "â€œNHS talking therapies completely changed my lifeâ€: NHS launches major campaign to support millions more people with anxiety",
+                                 "description":  "Millions of adults facing debilitating anxiety conditions are missing out on treatment that could help them recover and get back on with their lives the NHS has said, as it launches a major new mental health campaign. New analysis of NHS data shows that over 670,000 people were treated with NHS talking therapy care last [\u0026#8230;]",
+                                 "discovered":  "2026-02-20T18:22:29.656Z",
+                                 "publishedDate":  "Wed, 18 Feb 2026 00:01:46 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:5dc3d83374593b03":  {
+                                 "url":  "https://www.england.nhs.uk/2026/02/thousands-recruited-for-new-era-severe-mental-illness-study/",
+                                 "title":  "Thousands recruited for â€œnew eraâ€ severe mental illness study",
+                                 "description":  "Thousands of people living with schizophrenia and severe depression are being recruited by the NHS for a major new study which could unlock a â€œnew eraâ€ of personalised treatment for severe mental illness. As part of the worldâ€™s largest mental health study, researchers will analyse the DNA of thousands of people alongside detailed questionnaires to [\u0026#8230;]",
+                                 "discovered":  "2026-02-20T18:22:30.314Z",
+                                 "publishedDate":  "Sat, 14 Feb 2026 00:01:27 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:86e142aa1bc715f3":  {
+                                 "url":  "https://www.england.nhs.uk/2026/02/waiting-list-lowest-3-years-battled-busiest-winter-on-record/",
+                                 "title":  "NHS waiting list lowest in almost 3 years as NHS battled busiest winter on record",
+                                 "description":  "The NHS delivered more elective activity in 2025 than any other year in its history, helping cut the waiting list to its lowest level since February 2023. Staff delivered a historic high of 18.4 million treatments and operations in 2025, up from 18 million in 2024, as the waiting list dropped to 7.29 million. Todayâ€™s [\u0026#8230;]",
+                                 "discovered":  "2026-02-20T18:22:30.971Z",
+                                 "publishedDate":  "Thu, 12 Feb 2026 10:57:05 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:e5334b333ef4439d":  {
+                                 "url":  "https://www.england.nhs.uk/2026/02/early-nhs-preparation-paying-off-amid-shorter-ambulance-handover-times/",
+                                 "title":  "Early NHS preparation â€˜paying offâ€™ amid shorter ambulance handover times",
+                                 "description":  "Ambulances handed over patients more than 2 minutes faster last month despite facing their busiest January since before COVID-19. Provisional figures out today show there were 420,324 ambulances handovers with known times in January, the highest number for the month since 2020 and a 5.2% increase compared to 399,415 in January last year. Despite this, [\u0026#8230;]",
+                                 "discovered":  "2026-02-20T18:22:31.630Z",
+                                 "publishedDate":  "Thu, 05 Feb 2026 10:00:21 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:725e5add6fa05488":  {
+                                 "url":  "https://www.england.nhs.uk/2026/01/nhs-services-tackling-winter-head-on/",
+                                 "title":  "NHS services tackling winter head on",
+                                 "description":  "Ambulances unloaded patients three minutes faster last week, even as A\u0026#38;Es saw more ambulance handovers than any point last winter. Figures released today show there were 94,551 ambulance handovers last week â€“ higher than the busiest week last year (94,493 w/e 29 December 2024), and up almost 1,000 on the week previous and over 3,250 [\u0026#8230;]",
+                                 "discovered":  "2026-02-20T18:22:32.512Z",
+                                 "publishedDate":  "Thu, 29 Jan 2026 09:45:31 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:79d8bd472aa1d556":  {
+                                 "url":  "https://www.england.nhs.uk/2026/01/nhs-launches-trailblazing-ai-and-robot-pilot-to-spot-lung-cancer-sooner/",
+                                 "title":  "NHS launches trailblazing AI and robot pilot to spot lung cancer sooner alongside screening programme set to tackle cancer inequalities",
+                                 "description":  "Patients facing suspected lung cancer could get answers sooner under a new NHS pilot using artificial intelligence and robotic technology to help doctors reach hard-to-detectÂ cancersÂ earlier, with fewer invasive tests.Â  TheÂ new approachÂ uses AI software to rapidlyÂ analyseÂ lung scans and flag small lumps that are most likely to be cancerous, and a robotic camera is then used to [\u0026#8230;]",
+                                 "discovered":  "2026-02-20T18:22:33.171Z",
+                                 "publishedDate":  "Tue, 27 Jan 2026 00:01:25 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:79c973cc1b7b9d5a":  {
+                                 "url":  "https://www.england.nhs.uk/2026/01/nhs-detect-prevent-thousands-more-bowel-cancers-more-sensitive-screening/",
+                                 "title":  "NHS to detect and prevent thousands more bowel cancers with more sensitive screening",
+                                 "description":  "Thousands of cases of bowel cancer will be diagnosed earlier or even prevented in England, as part of major NHS plans to increase the sensitivity of bowel cancer screening to save more lives. NHS England today announced it is to lower the threshold for a home-screening kit to trigger urgent cancer testing from next month, [\u0026#8230;]",
+                                 "discovered":  "2026-02-20T18:22:34.096Z",
+                                 "publishedDate":  "Mon, 26 Jan 2026 00:01:37 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:fd30178434d3d55c":  {
+                                 "url":  "https://www.england.nhs.uk/2026/01/thousands-at-risk-inherited-cancers-receive-regular-nhs-checks-genetics-programme/",
+                                 "title":  "Thousands at risk of inherited cancers to receive regular NHS checks through world-first genetics programme",
+                                 "description":  "Thousands of people at higher risk of developing cancer due to inherited faulty genes will be regularly checked and tracked by the NHS thanks to a first-of-its-kind national genetics programme. The world-first genetic register, developed by the NHS, will collect patient information on over 100 genes linked to an increased risk of cancer, with plans [\u0026#8230;]",
+                                 "discovered":  "2026-02-20T18:22:34.759Z",
+                                 "publishedDate":  "Sat, 24 Jan 2026 09:00:59 +0000",
+                                 "source":  "nhs"
+                             },
+    "artp:783dd1caa2197070":  {
+                                  "url":  "https://www.artp.org.uk/news/163/free_artp_membership_for_those_on_the_spirometry_register",
+                                  "title":  "Free Artp Membership For Those On The Spirometry Register",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:a3ef6fa2c3ab6bdc":  {
+                                  "url":  "https://www.artp.org.uk/news/162/opportunity_for_artpregistered_professionals_in_spirometry_reporting",
+                                  "title":  "Opportunity For Artpregistered Professionals In Spirometry Reporting",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:e28e46110208fe0e":  {
+                                  "url":  "https://www.artp.org.uk/news/155/new_artp_standard_respiratory_and_sleep_physiology_diagnostic_reporting",
+                                  "title":  "New Artp Standard Respiratory And Sleep Physiology Diagnostic Reporting",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:aa9d50af0a698e38":  {
+                                  "url":  "https://www.artp.org.uk/news/156/dscount_on_spirometry_webinars_for_artp",
+                                  "title":  "Dscount On Spirometry Webinars For Artp",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:a4bbe604a50ef028":  {
+                                  "url":  "https://www.artp.org.uk/news/158/artp_spirometry_position_on_gli_global_predicted_equations",
+                                  "title":  "Artp Spirometry Position On Gli Global Predicted Equations",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:224d6e8b10be41eb":  {
+                                  "url":  "https://www.artp.org.uk/news/159/spirometry_register_renewal_fee_reduction_2025",
+                                  "title":  "Spirometry Register Renewal Fee Reduction 2025",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:a9f9025d0fa250a9":  {
+                                  "url":  "https://www.artp.org.uk/news/157/artp_professional_examinations_train_the_trainer_webinar_2025",
+                                  "title":  "Artp Professional Examinations Train The Trainer Webinar 2025",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:e8c00ecd048ee462":  {
+                                  "url":  "https://www.artp.org.uk/news/100/taskforce_for_lung_health_annual_report",
+                                  "title":  "Taskforce For Lung Health Annual Report",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:11e9e9c31ee9da16":  {
+                                  "url":  "https://www.artp.org.uk/news/154/artp_spirometry_train_the_trainer_webinar_2025",
+                                  "title":  "Artp Spirometry Train The Trainer Webinar 2025",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:1e9af78ccc9fb86a":  {
+                                  "url":  "https://www.artp.org.uk/news/153/position_statement_on_raceneutral_spirometry_reference_equations_june_2025",
+                                  "title":  "Position Statement On Raceneutral Spirometry Reference Equations June 2025",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:114028e7c1f50197":  {
+                                  "url":  "https://www.artp.org.uk/news/11/artp_paediatric_cpet_forum_25th_september_2025",
+                                  "title":  "Artp Paediatric Cpet Forum 25th September 2025",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "artp:2bceb14dc98b4f6e":  {
+                                  "url":  "https://www.artp.org.uk/news/12/phd_studentship_sponsored_by_mmu_uhcw",
+                                  "title":  "Phd Studentship Sponsored By Mmu Uhcw",
+                                  "discovered":  "2026-02-20T18:24:04.659Z",
+                                  "source":  "artp"
+                              },
+    "nhs:be4d6c98a5904999":  {
+                                 "url":  "https://www.england.nhs.uk/2026/02/people-searching-nhs-advice-on-high-blood-pressure-skyrocketed-last-year/",
+                                 "title":  "People searching NHS advice on high blood pressure skyrocketed last year",
+                                 "description":  "The number of people searching for trusted NHS advice on high blood pressure surged in 2025 with hundreds of thousands of extra visits to online information on risk and how to get checked. The NHS webpage on high blood pressure rocketed from 30th place in 2024, to the second most visited health condition on NHS.uk [\u0026#8230;]",
+                                 "discovered":  "2026-02-21T07:44:56.922Z",
+                                 "publishedDate":  "Sat, 21 Feb 2026 00:01:25 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:dbc8496b50e5bedf":  {
+                                 "url":  "https://www.england.nhs.uk/2026/02/tens-thousands-vitiligo-offered-life-changing-new-cream-restore-skin-colour/",
+                                 "title":  "Tens of thousands with vitiligo to be offered â€œlife-changingâ€ new cream on NHS to restore skin colour",
+                                 "description":  "Tens of thousands of people living with vitiligo affecting their face are to be offered the first approved medicine on the NHS to restore lost skin colour. The new cream, known as ruxolitinib, will be offered to nearly 100,000 people aged 12 and over who have a form of the condition where white patches typically [\u0026#8230;]",
+                                 "discovered":  "2026-02-24T05:14:37.913Z",
+                                 "publishedDate":  "Tue, 24 Feb 2026 00:01:22 +0000",
+                                 "source":  "nhs"
+                             },
+    "nhs:3385b994b054a7ba":  {
+                                 "url":  "https://www.england.nhs.uk/2026/02/patients-handed-over-quicker-despite-5-year-high-in-number-taken-to-hospital/",
+                                 "title":  "Patients handed over quicker despite 5-year high in number taken to hospital",
+                                 "description":  "Ambulance crews and A\u0026#38;E staff have slashed handover delays by more than 7 minutes this winter \u0026#8211; even as they ferried the highest number of patients to hospital in half a decade. Figures out today show that more than 1.2million patients were handed over (1,234,731) to A\u0026#38;Es by ambulances so far this winter. This is [\u0026#8230;]",
+                                 "discovered":  "2026-02-27T14:10:06.435Z",
+                                 "publishedDate":  "Thu, 26 Feb 2026 16:00:13 +0000",
+                                 "source":  "nhs"
+                             }
 }
