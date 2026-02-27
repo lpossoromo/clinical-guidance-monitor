@@ -23,19 +23,20 @@ const PRIMARY_CARE_KEYWORDS = [
 
 // Keywords used to include/exclude articles for NCL and NHS sources
 // (NICE uses PRIMARY_CARE_KEYWORDS above; these apply to RSS feeds)
+// Config-sourced values take precedence; these are fallbacks for NCL.
 
 const PA_INCLUDE_KEYWORDS = [
   'guideline', 'guidance', 'pathway', 'protocol', 'recommendation',
-  'clinical', 'prescribing', 'prescribe', 'diagnosis', 'treatment',
-  'management', 'medication', 'referral', 'screening', 'monitoring',
-  'alert', 'safety', 'update', 'bulletin', 'reminder',
+  'clinical', 'diagnosis', 'treatment', 'management', 'referral',
+  'screening', 'monitoring', 'alert', 'safety', 'update', 'bulletin', 'reminder',
   'diabetes', 'hypertension', 'ckd', 'chronic kidney', 'cardiovascular',
   'lipids', 'cholesterol', 'respiratory', 'asthma', 'copd',
   'mental health', 'depression', 'anxiety', 'infection', 'antibiotic',
   'contraception', 'thyroid', 'anticoagulation', 'warfarin',
   'cancer', 'heart failure', 'atrial fibrillation', 'stroke', 'obesity',
-  'dementia', 'osteoporosis', 'medicines', 'pharmacy', 'drug',
-  'patient', 'primary care', 'gp ', 'urgent', 'emergency'
+  'dementia', 'osteoporosis', 'metabolic', 'musculoskeletal',
+  'arthritis', 'gout', 'eczema', 'dermatology', 'epilepsy',
+  'patient', 'primary care', 'gp '
 ];
 
 const PA_EXCLUDE_KEYWORDS = [
@@ -46,7 +47,9 @@ const PA_EXCLUDE_KEYWORDS = [
   'training course', 'staff survey', 'practice administrator',
   'workforce planning', 'greener nhs', 'carbon footprint',
   'information governance', 'systems & facilitation', 'buying group',
-  'digital innovation', 'practice vacancies', 'research opportunities'
+  'digital innovation', 'practice vacancies', 'research opportunities',
+  'ambulance', 'handover', 'waiting list',
+  'medicines supply', 'supply notification', 'medicines shortage'
 ];
 
 // ── Data file helpers ──────────────────────────────────────────────────────────

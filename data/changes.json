@@ -1,178 +1,123 @@
-{
-  "change:1772214440660:ebb7876dc7dad0aa": {
-    "id": "change:1772214440660:ebb7876dc7dad0aa",
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hsl-review-pathology-test-results-look-up-system-goes-live",
-    "title": "News: HSL Review pathology test results look&#45;up system goes live",
-    "source": "ncl",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:20.660Z",
-    "previousHash": null,
-    "newHash": "e4b7a17963dcc7d9",
-    "acknowledged": false
-  },
-  "change:1772214440660:7d44f8d5ae790eb7": {
-    "id": "change:1772214440660:7d44f8d5ae790eb7",
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/adult-hospital-at-home-nmuh",
-    "title": "Service: Adult Hospital at Home: NMUH",
-    "source": "ncl",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:20.660Z",
-    "previousHash": null,
-    "newHash": "2b5f72bf524f33e7",
-    "acknowledged": false
-  },
-  "change:1772214440661:ec7751a7d79e0bd0": {
-    "id": "change:1772214440661:ec7751a7d79e0bd0",
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/referral-support/planned-care-wait-times/urgent-suspected-cancer-indicative-wait-for-first-appointment-data",
-    "title": "Page: Urgent suspected cancer: Indicative wait for first appointment data",
-    "source": "ncl",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:20.661Z",
-    "previousHash": null,
-    "newHash": "0a910b8cf70834b7",
-    "acknowledged": false
-  },
-  "change:1772214440661:13c6f12d4057ab28": {
-    "id": "change:1772214440661:13c6f12d4057ab28",
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/finchley-memorial-cdc-update-temporary-pause-on-cardiology-referrals-24-hour-tape-echocardiograms",
-    "title": "News: Finchley Memorial CDC update: Temporary pause on cardiology referrals (24&#45;hour tape &amp; echocardiograms)",
-    "source": "ncl",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:20.661Z",
-    "previousHash": null,
-    "newHash": "92194c9666491fd2",
-    "acknowledged": false
-  },
-  "change:1772214440661:f367e219aca303c1": {
-    "id": "change:1772214440661:f367e219aca303c1",
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/lab-introduces-more-accurate-cholesterol-measurements",
-    "title": "News: Lab introduces more accurate cholesterol measurements",
-    "source": "ncl",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:20.661Z",
-    "previousHash": null,
-    "newHash": "24e288889dccd059",
-    "acknowledged": false
-  },
-  "change:1772214440662:622cad0abc361d4c": {
-    "id": "change:1772214440662:622cad0abc361d4c",
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-to-recall-of-several-nestle-r-sma-r-specialist-and-standard-infant-formula",
-    "title": "News: Update to recall of several Nestle® SMA® specialist and standard infant formula",
-    "source": "ncl",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:20.662Z",
-    "previousHash": null,
-    "newHash": "47f88536887692c5",
-    "acknowledged": false
-  },
-  "change:1772214440662:4829140b1ac94f94": {
-    "id": "change:1772214440662:4829140b1ac94f94",
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-use-correct-faecal-calprotectin-testing-containers",
-    "title": "News: Update: Which container to use for faecal calprotectin tests",
-    "source": "ncl",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:20.662Z",
-    "previousHash": null,
-    "newHash": "34607346052f4381",
-    "acknowledged": false
-  },
-  "change:1772214440662:2f73361c1daacdf2": {
-    "id": "change:1772214440662:2f73361c1daacdf2",
-    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/medicines-supply-notification-phenobarbital-30mg-and-60mg-tablets",
-    "title": "News: Medicines Supply Notification: Phenobarbital 30mg and 60mg tablets",
-    "source": "ncl",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:20.662Z",
-    "previousHash": null,
-    "newHash": "80eb10f422127ea3",
-    "acknowledged": false
-  },
-  "change:1772214441178:3385b994b054a7ba": {
-    "id": "change:1772214441178:3385b994b054a7ba",
-    "url": "https://www.england.nhs.uk/2026/02/patients-handed-over-quicker-despite-5-year-high-in-number-taken-to-hospital/",
-    "title": "Patients handed over quicker despite 5-year high in number taken to hospital",
-    "source": "nhs",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:21.178Z",
-    "previousHash": null,
-    "newHash": "026836ee6425b490",
-    "acknowledged": false
-  },
-  "change:1772214441694:556a6b8586933b20": {
-    "id": "change:1772214441694:556a6b8586933b20",
-    "url": "https://www.england.nhs.uk/2026/02/women-attending-first-nhs-mammogram-hits-10-year-high-as-thousands-more-cancers-found/",
-    "title": "Women attending first NHS mammogram hits 10-year high as thousands more cancers found",
-    "source": "nhs",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:21.694Z",
-    "previousHash": null,
-    "newHash": "e13bff7b2cb787dc",
-    "acknowledged": false
-  },
-  "change:1772214442307:45e2227fbc5c5969": {
-    "id": "change:1772214442307:45e2227fbc5c5969",
-    "url": "https://www.england.nhs.uk/2026/02/nhs-facing-second-surge-in-vomiting-virus-as-cases-reach-highest-level-this-winter/",
-    "title": "NHS facing ‘second surge’ in vomiting virus as cases reach highest level this winter",
-    "source": "nhs",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:22.307Z",
-    "previousHash": null,
-    "newHash": "33a6dbe98adbc08d",
-    "acknowledged": false
-  },
-  "change:1772214442822:7e7798edd70f3c38": {
-    "id": "change:1772214442822:7e7798edd70f3c38",
-    "url": "https://www.england.nhs.uk/2026/02/nhs-talking-therapies-completely-changed-my-life-nhs-launches-major-campaign-to-support-millions-more-people-with-anxiety/",
-    "title": "“NHS talking therapies completely changed my life”: NHS launches major campaign to support millions more people with anxiety",
-    "source": "nhs",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:22.822Z",
-    "previousHash": null,
-    "newHash": "e09d5e4cb4b2b519",
-    "acknowledged": false
-  },
-  "change:1772214443438:5dc3d83374593b03": {
-    "id": "change:1772214443438:5dc3d83374593b03",
-    "url": "https://www.england.nhs.uk/2026/02/thousands-recruited-for-new-era-severe-mental-illness-study/",
-    "title": "Thousands recruited for “new era” severe mental illness study",
-    "source": "nhs",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:23.438Z",
-    "previousHash": null,
-    "newHash": "6c48b61a84637d54",
-    "acknowledged": false
-  },
-  "change:1772214443952:86e142aa1bc715f3": {
-    "id": "change:1772214443952:86e142aa1bc715f3",
-    "url": "https://www.england.nhs.uk/2026/02/waiting-list-lowest-3-years-battled-busiest-winter-on-record/",
-    "title": "NHS waiting list lowest in almost 3 years as NHS battled busiest winter on record",
-    "source": "nhs",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:23.952Z",
-    "previousHash": null,
-    "newHash": "00828bd0445f4d4f",
-    "acknowledged": false
-  },
-  "change:1772214444478:e5334b333ef4439d": {
-    "id": "change:1772214444478:e5334b333ef4439d",
-    "url": "https://www.england.nhs.uk/2026/02/early-nhs-preparation-paying-off-amid-shorter-ambulance-handover-times/",
-    "title": "Early NHS preparation ‘paying off’ amid shorter ambulance handover times",
-    "source": "nhs",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:24.478Z",
-    "previousHash": null,
-    "newHash": "98ea70962278a200",
-    "acknowledged": false
-  },
-  "change:1772214444992:725e5add6fa05488": {
-    "id": "change:1772214444992:725e5add6fa05488",
-    "url": "https://www.england.nhs.uk/2026/01/nhs-services-tackling-winter-head-on/",
-    "title": "NHS services tackling winter head on",
-    "source": "nhs",
-    "changeType": "new_guidance",
-    "detectedAt": "2026-02-27T17:47:24.992Z",
-    "previousHash": null,
-    "newHash": "2e8b9eda211c8505",
-    "acknowledged": false
-  }
+﻿{
+    "change:1772214440660:ebb7876dc7dad0aa":  {
+                                                  "id":  "change:1772214440660:ebb7876dc7dad0aa",
+                                                  "url":  "https://gps.northcentrallondon.icb.nhs.uk/news/hsl-review-pathology-test-results-look-up-system-goes-live",
+                                                  "title":  "News: HSL Review pathology test results look\u0026#45;up system goes live",
+                                                  "source":  "ncl",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:20.660Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "e4b7a17963dcc7d9",
+                                                  "acknowledged":  false
+                                              },
+    "change:1772214440660:7d44f8d5ae790eb7":  {
+                                                  "id":  "change:1772214440660:7d44f8d5ae790eb7",
+                                                  "url":  "https://gps.northcentrallondon.icb.nhs.uk/services/adult-hospital-at-home-nmuh",
+                                                  "title":  "Service: Adult Hospital at Home: NMUH",
+                                                  "source":  "ncl",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:20.660Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "2b5f72bf524f33e7",
+                                                  "acknowledged":  false
+                                              },
+    "change:1772214440661:ec7751a7d79e0bd0":  {
+                                                  "id":  "change:1772214440661:ec7751a7d79e0bd0",
+                                                  "url":  "https://gps.northcentrallondon.icb.nhs.uk/referral-support/planned-care-wait-times/urgent-suspected-cancer-indicative-wait-for-first-appointment-data",
+                                                  "title":  "Page: Urgent suspected cancer: Indicative wait for first appointment data",
+                                                  "source":  "ncl",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:20.661Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "0a910b8cf70834b7",
+                                                  "acknowledged":  false
+                                              },
+    "change:1772214440661:13c6f12d4057ab28":  {
+                                                  "id":  "change:1772214440661:13c6f12d4057ab28",
+                                                  "url":  "https://gps.northcentrallondon.icb.nhs.uk/news/finchley-memorial-cdc-update-temporary-pause-on-cardiology-referrals-24-hour-tape-echocardiograms",
+                                                  "title":  "News: Finchley Memorial CDC update: Temporary pause on cardiology referrals (24\u0026#45;hour tape \u0026amp; echocardiograms)",
+                                                  "source":  "ncl",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:20.661Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "92194c9666491fd2",
+                                                  "acknowledged":  false
+                                              },
+    "change:1772214440661:f367e219aca303c1":  {
+                                                  "id":  "change:1772214440661:f367e219aca303c1",
+                                                  "url":  "https://gps.northcentrallondon.icb.nhs.uk/news/lab-introduces-more-accurate-cholesterol-measurements",
+                                                  "title":  "News: Lab introduces more accurate cholesterol measurements",
+                                                  "source":  "ncl",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:20.661Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "24e288889dccd059",
+                                                  "acknowledged":  false
+                                              },
+    "change:1772214440662:622cad0abc361d4c":  {
+                                                  "id":  "change:1772214440662:622cad0abc361d4c",
+                                                  "url":  "https://gps.northcentrallondon.icb.nhs.uk/news/update-to-recall-of-several-nestle-r-sma-r-specialist-and-standard-infant-formula",
+                                                  "title":  "News: Update to recall of several NestleÂ® SMAÂ® specialist and standard infant formula",
+                                                  "source":  "ncl",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:20.662Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "47f88536887692c5",
+                                                  "acknowledged":  false
+                                              },
+    "change:1772214440662:4829140b1ac94f94":  {
+                                                  "id":  "change:1772214440662:4829140b1ac94f94",
+                                                  "url":  "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-use-correct-faecal-calprotectin-testing-containers",
+                                                  "title":  "News: Update: Which container to use for faecal calprotectin tests",
+                                                  "source":  "ncl",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:20.662Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "34607346052f4381",
+                                                  "acknowledged":  false
+                                              },
+    "change:1772214441694:556a6b8586933b20":  {
+                                                  "id":  "change:1772214441694:556a6b8586933b20",
+                                                  "url":  "https://www.england.nhs.uk/2026/02/women-attending-first-nhs-mammogram-hits-10-year-high-as-thousands-more-cancers-found/",
+                                                  "title":  "Women attending first NHS mammogram hits 10-year high as thousands more cancers found",
+                                                  "source":  "nhs",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:21.694Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "e13bff7b2cb787dc",
+                                                  "acknowledged":  false
+                                              },
+    "change:1772214442307:45e2227fbc5c5969":  {
+                                                  "id":  "change:1772214442307:45e2227fbc5c5969",
+                                                  "url":  "https://www.england.nhs.uk/2026/02/nhs-facing-second-surge-in-vomiting-virus-as-cases-reach-highest-level-this-winter/",
+                                                  "title":  "NHS facing â€˜second surgeâ€™ in vomiting virus as cases reach highest level this winter",
+                                                  "source":  "nhs",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:22.307Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "33a6dbe98adbc08d",
+                                                  "acknowledged":  false
+                                              },
+    "change:1772214442822:7e7798edd70f3c38":  {
+                                                  "id":  "change:1772214442822:7e7798edd70f3c38",
+                                                  "url":  "https://www.england.nhs.uk/2026/02/nhs-talking-therapies-completely-changed-my-life-nhs-launches-major-campaign-to-support-millions-more-people-with-anxiety/",
+                                                  "title":  "â€œNHS talking therapies completely changed my lifeâ€: NHS launches major campaign to support millions more people with anxiety",
+                                                  "source":  "nhs",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:22.822Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "e09d5e4cb4b2b519",
+                                                  "acknowledged":  false
+                                              },
+    "change:1772214443438:5dc3d83374593b03":  {
+                                                  "id":  "change:1772214443438:5dc3d83374593b03",
+                                                  "url":  "https://www.england.nhs.uk/2026/02/thousands-recruited-for-new-era-severe-mental-illness-study/",
+                                                  "title":  "Thousands recruited for â€œnew eraâ€ severe mental illness study",
+                                                  "source":  "nhs",
+                                                  "changeType":  "new_guidance",
+                                                  "detectedAt":  "2026-02-27T17:47:23.438Z",
+                                                  "previousHash":  null,
+                                                  "newHash":  "6c48b61a84637d54",
+                                                  "acknowledged":  false
+                                              }
 }
