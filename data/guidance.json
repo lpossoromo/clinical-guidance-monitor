@@ -712,5 +712,22 @@
       "estimatedReadTime": 2,
       "description": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer first appointments (previously known as 2WW). See the latest data."
     }
+  },
+  "content:3385b994b054a7ba": {
+    "id": "content:3385b994b054a7ba",
+    "url": "https://www.england.nhs.uk/2026/02/patients-handed-over-quicker-despite-5-year-high-in-number-taken-to-hospital/",
+    "title": "Patients handed over quicker despite 5-year high in number taken to hospital",
+    "source": "nhs",
+    "type": "article",
+    "publishedDate": "Thu, 26 Feb 2026 16:00:13 +0000",
+    "fetchedDate": "2026-02-27T14:10:06.569Z",
+    "contentHash": "026836ee6425b490",
+    "content": "Ambulance crews and A&E staff have slashed handover delays by more than 7 minutes this winter even as they ferried the highest number of patients to hospital in half a decade. \n\nFigures out today show that more than 1.2million patients were handed over (1,234,731) to A&Es by ambulances so far this winter.\n\nThis is the highest since the same period in 2021/22, and almost 52,000 (51,989) more than the equivalent period last year.\n\nDespite the 5-year high figure, ambulances and A&E staff combined to handover over patients more than 7 minutes quicker last week (28:14) than the same week last year (35:36).\n\nThe number of ambulance handovers taking over 30 minutes was also down by more than a fifth (21.9%) compared with the same week last year.\n\nThe number of patients in hospital with norovirus (924) was slightly down on last week (1012) and the almost 19 million (18.8 million) flu vaccinations delivered this year have helped ensure the number of patients in hospital beds continues to fall this week to 682.\n\nNHS National Medical Director Professor Meghana Pandit said: “Despite ever-increasing demand, especially on emergency care, it’s fantastic to see that the hard work of NHS staff has continued to deliver improvements for patients this winter.\n\n“Ambulance crews are getting people into hospital faster, working with A&E staff so they can be treated sooner, and vaccination teams have helped reduce the number of cases of flu.\n\n“The public deserve credit too from getting their jabs in ever increasing numbers, which has helped to ease spread of winter bugs, through to using more services in the community, where it’s more appropriate than going straight to A&E.\n\n“It’s really important this team effort continues as we see out another challenging winter”.\n\nMinister of State for Health Karin Smyth said: “As we move towards spring, it’s good to see patients are getting urgent care faster, despite huge demand, as the NHS continues its road to recovery.\n\n“This is a result of the hard work of NHS staff and government action to keep people safe by expanding GP access, improving vaccine uptake and harnessing technology, to help more people stay well at home rather than in hospital.\n\n“But we’re not resting on our laurels. There is still much more to do, and well redouble our efforts to make sure this improvement continues”.\n\nDate published : 26 February, 2026 \n\nDate last updated : 27 February, 2026 \n\nTopics\n\nUrgent and emergency care \nVaccination",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 408,
+      "estimatedReadTime": 2,
+      "description": "Ambulance crews and A&#38;E staff have slashed handover delays by more than 7 minutes this winter &#8211; even as they ferried the highest number of patients to hospital in half a decade. Figures out today show that more than 1.2million patients were handed over (1,234,731) to A&#38;Es by ambulances so far this winter. This is [&#8230;]"
+    }
   }
 }

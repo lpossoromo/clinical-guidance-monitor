@@ -460,5 +460,16 @@
     "previousHash": null,
     "newHash": "a75e4167d86a6daa",
     "acknowledged": false
+  },
+  "change:1772201406569:3385b994b054a7ba": {
+    "id": "change:1772201406569:3385b994b054a7ba",
+    "url": "https://www.england.nhs.uk/2026/02/patients-handed-over-quicker-despite-5-year-high-in-number-taken-to-hospital/",
+    "title": "Patients handed over quicker despite 5-year high in number taken to hospital",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-02-27T14:10:06.569Z",
+    "previousHash": null,
+    "newHash": "026836ee6425b490",
+    "acknowledged": false
   }
 }
