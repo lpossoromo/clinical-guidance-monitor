@@ -3,57 +3,78 @@
     "nice": {
       "enabled": true,
       "keywords": [
-        "diabetes",
-        "hypertension",
-        "ckd",
-        "chronic kidney",
-        "cardiovascular",
-        "lipids",
-        "cholesterol",
-        "respiratory",
-        "asthma",
-        "copd",
-        "mental health",
-        "depression",
-        "anxiety",
-        "infection",
-        "antibiotic",
-        "contraception",
-        "thyroid",
-        "anticoagulation",
-        "warfarin",
-        "cancer screening",
-        "cervical",
-        "bowel screening",
-        "breast screening",
-        "heart failure",
-        "atrial fibrillation",
-        "stroke",
-        "obesity",
-        "dementia",
-        "osteoporosis",
-        "primary care"
+        "diabetes", "hypertension", "ckd", "chronic kidney", "cardiovascular",
+        "lipids", "cholesterol", "respiratory", "asthma", "copd",
+        "mental health", "depression", "anxiety", "infection", "antibiotic",
+        "contraception", "thyroid", "anticoagulation", "warfarin",
+        "cancer screening", "cervical", "bowel screening", "breast screening",
+        "heart failure", "atrial fibrillation", "stroke", "obesity",
+        "dementia", "osteoporosis", "primary care"
       ]
     },
     "ncl": {
-      "enabled": true
+      "enabled": true,
+      "rssOnly": true,
+      "keywords": [
+        "guideline", "guidance", "pathway", "protocol", "recommendation",
+        "clinical", "prescribing", "prescribe", "diagnosis", "treatment",
+        "management", "medication", "referral", "screening", "monitoring",
+        "alert", "safety", "update", "bulletin", "reminder",
+        "diabetes", "hypertension", "ckd", "chronic kidney", "cardiovascular",
+        "lipids", "cholesterol", "respiratory", "asthma", "copd",
+        "mental health", "depression", "anxiety", "infection", "antibiotic",
+        "contraception", "thyroid", "anticoagulation", "warfarin",
+        "cancer", "heart failure", "atrial fibrillation", "stroke", "obesity",
+        "dementia", "osteoporosis", "medicines", "pharmacy", "drug",
+        "patient", "primary care", "urgent", "emergency"
+      ],
+      "excludeKeywords": [
+        "student training", "sample container", "proficiency testing",
+        "external quality", "practice manager", "practice vacancy",
+        "job vacancy", "phlebotomy training", "gpit", "it support",
+        "protected learning time", "webinar registration", "training event",
+        "training course", "staff survey", "practice administrator",
+        "workforce planning", "greener nhs", "carbon footprint",
+        "information governance", "systems & facilitation", "buying group",
+        "digital innovation", "practice vacancies", "research opportunities"
+      ]
     },
     "nhs": {
-      "enabled": true
+      "enabled": true,
+      "keywords": [
+        "guideline", "guidance", "pathway", "protocol", "recommendation",
+        "clinical", "prescribing", "prescribe", "diagnosis", "treatment",
+        "management", "medication", "referral", "screening", "monitoring",
+        "alert", "safety", "update", "bulletin", "reminder",
+        "diabetes", "hypertension", "ckd", "chronic kidney", "cardiovascular",
+        "lipids", "cholesterol", "respiratory", "asthma", "copd",
+        "mental health", "depression", "anxiety", "infection", "antibiotic",
+        "contraception", "thyroid", "anticoagulation", "warfarin",
+        "cancer", "heart failure", "atrial fibrillation", "stroke", "obesity",
+        "dementia", "osteoporosis", "medicines", "pharmacy", "drug",
+        "patient", "primary care", "urgent", "emergency"
+      ],
+      "excludeKeywords": [
+        "student training", "sample container", "proficiency testing",
+        "external quality", "practice manager", "practice vacancy",
+        "job vacancy", "phlebotomy training", "gpit", "it support",
+        "protected learning time", "webinar registration", "training event",
+        "training course", "staff survey", "practice administrator",
+        "workforce planning", "greener nhs", "carbon footprint",
+        "information governance", "systems & facilitation", "buying group",
+        "digital innovation", "practice vacancies", "research opportunities"
+      ]
     },
     "artp": {
-      "enabled": true
+      "enabled": true,
+      "excludeKeywords": [
+        "student training", "student scheme", "sample container", "proficiency testing",
+        "external quality", "eqa", "quality control", "qc scheme",
+        "technician training", "training scheme", "training course",
+        "job vacancy", "practice vacancy", "workforce"
+      ]
     }
   },
-  "lastRunStats": {
-    "rssPoller": "2026-02-27T14:10:07.071Z",
-    "rssPollerResults": {
-      "nice": 0,
-      "ncl": 0,
-      "nhs": 1,
-      "total": 1
-    },
-    "htmlPoller": "2026-02-27T14:10:26.512Z"
-  },
-  "unreadChanges": 43
+  "lastRunStats": {},
+  "unreadChanges": 0
 }

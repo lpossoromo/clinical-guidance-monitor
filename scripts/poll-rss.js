@@ -21,6 +21,34 @@ const PRIMARY_CARE_KEYWORDS = [
   'dementia', 'osteoporosis', 'primary care'
 ];
 
+// Keywords used to include/exclude articles for NCL and NHS sources
+// (NICE uses PRIMARY_CARE_KEYWORDS above; these apply to RSS feeds)
+
+const PA_INCLUDE_KEYWORDS = [
+  'guideline', 'guidance', 'pathway', 'protocol', 'recommendation',
+  'clinical', 'prescribing', 'prescribe', 'diagnosis', 'treatment',
+  'management', 'medication', 'referral', 'screening', 'monitoring',
+  'alert', 'safety', 'update', 'bulletin', 'reminder',
+  'diabetes', 'hypertension', 'ckd', 'chronic kidney', 'cardiovascular',
+  'lipids', 'cholesterol', 'respiratory', 'asthma', 'copd',
+  'mental health', 'depression', 'anxiety', 'infection', 'antibiotic',
+  'contraception', 'thyroid', 'anticoagulation', 'warfarin',
+  'cancer', 'heart failure', 'atrial fibrillation', 'stroke', 'obesity',
+  'dementia', 'osteoporosis', 'medicines', 'pharmacy', 'drug',
+  'patient', 'primary care', 'gp ', 'urgent', 'emergency'
+];
+
+const PA_EXCLUDE_KEYWORDS = [
+  'student training', 'sample container', 'proficiency testing',
+  'external quality', 'practice manager', 'practice vacancy',
+  'job vacancy', 'phlebotomy training', 'gpit', 'it support',
+  'protected learning time', 'webinar registration', 'training event',
+  'training course', 'staff survey', 'practice administrator',
+  'workforce planning', 'greener nhs', 'carbon footprint',
+  'information governance', 'systems & facilitation', 'buying group',
+  'digital innovation', 'practice vacancies', 'research opportunities'
+];
+
 // ── Data file helpers ──────────────────────────────────────────────────────────
 
 function readData(filename, defaultValue = {}) {
@@ -330,6 +358,13 @@ async function fetchRSSSource(url, source, seen, guidance, changes, config) {
 
   const itemPattern = /<item>([\s\S]*?)<\/item>/gi;
   const items = [...xml.matchAll(itemPattern)];
+
+  const includeKeywords = config.sources?.[source]?.keywords || PA_INCLUDE_KEYWORDS;
+  const excludeKeywords = config.sources?.[source]?.excludeKeywords || PA_EXCLUDE_KEYWORDS;
+  // rssOnly: store the RSS description directly without fetching the full article page.
+  // Used for NCL because the website's JS-based browser check corrupts scraped content.
+  const rssOnly = config.sources?.[source]?.rssOnly === true;
+
   let count = 0;
 
   for (const itemMatch of items) {
@@ -349,6 +384,17 @@ async function fetchRSSSource(url, source, seen, guidance, changes, config) {
 
     if (!title || !link) continue;
 
+    // PA relevance filtering — check title and description against exclude/include lists
+    const textToCheck = (title + ' ' + description).toLowerCase();
+    if (excludeKeywords.some(kw => textToCheck.includes(kw.toLowerCase()))) {
+      console.log(`  ${source.toUpperCase()}: Skipping (excluded) "${title}"`);
+      continue;
+    }
+    if (includeKeywords.length > 0 && !includeKeywords.some(kw => textToCheck.includes(kw.toLowerCase()))) {
+      console.log(`  ${source.toUpperCase()}: Skipping (no PA keyword match) "${title}"`);
+      continue;
+    }
+
     const hash = hashString(link);
     const seenKey = `${source}:${hash}`;
     if (seen[seenKey]) continue;
@@ -363,13 +409,66 @@ async function fetchRSSSource(url, source, seen, guidance, changes, config) {
     };
 
     console.log(`${source.toUpperCase()}: Found "${title}"`);
-    await crawlAndStore(
-      link, source, 'article',
-      { title, description: description.substring(0, 500), publishedDate: pubDate },
-      guidance, changes, config
-    );
-    count++;
-    await sleep(500);
+
+    if (rssOnly) {
+      // Store the RSS description directly — skip fetching the full article page
+      const storageKey = `content:${hash}`;
+      const content = description || title;
+      const contentHash = hashString(content);
+      const existing = guidance[storageKey];
+      const isNew = !existing;
+      const hasChanged = existing && existing.contentHash !== contentHash;
+
+      if (isNew || hasChanged) {
+        const now = new Date().toISOString();
+        const wordCount = content.split(/\s+/).length;
+
+        guidance[storageKey] = {
+          id: storageKey,
+          url: link,
+          title,
+          source,
+          type: 'article',
+          publishedDate: pubDate ? new Date(pubDate).toISOString().split('T')[0] : now.split('T')[0],
+          fetchedDate: now,
+          contentHash,
+          content,
+          parentUrl: null,
+          metadata: {
+            wordCount,
+            estimatedReadTime: Math.max(1, Math.ceil(wordCount / 250)),
+            description: content.substring(0, 200)
+          }
+        };
+
+        const changeKey = `change:${Date.now()}:${hash}`;
+        changes[changeKey] = {
+          id: changeKey,
+          url: link,
+          title,
+          source,
+          changeType: isNew ? 'new_guidance' : 'content_update',
+          detectedAt: now,
+          previousHash: existing?.contentHash || null,
+          newHash: contentHash,
+          acknowledged: false
+        };
+
+        config.unreadChanges = (config.unreadChanges || 0) + 1;
+        console.log(`  Stored RSS-only ${isNew ? 'new_guidance' : 'content_update'}: "${title}"`);
+        count++;
+      } else {
+        console.log(`  No changes: ${title}`);
+      }
+    } else {
+      await crawlAndStore(
+        link, source, 'article',
+        { title, description: description.substring(0, 500), publishedDate: pubDate },
+        guidance, changes, config
+      );
+      count++;
+      await sleep(500);
+    }
   }
 
   return count;

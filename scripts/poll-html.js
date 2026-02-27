@@ -11,6 +11,15 @@ const crypto = require('crypto');
 
 const DATA_DIR = path.join(process.cwd(), 'data');
 
+// Default exclude keywords for ARTP — filters out non-PA-relevant articles
+// (QC schemes, sample/container updates, student training, technician resources)
+const PA_EXCLUDE_KEYWORDS = [
+  'student training', 'student scheme', 'sample container', 'proficiency testing',
+  'external quality', 'eqa', 'quality control', 'qc scheme',
+  'technician training', 'training scheme', 'training course',
+  'job vacancy', 'practice vacancy', 'workforce'
+];
+
 // ── Data file helpers ──────────────────────────────────────────────────────────
 
 function readData(filename, defaultValue = {}) {
@@ -275,10 +284,19 @@ async function checkARTPNews(seen, guidance, changes, pageHashes, config) {
   console.log('ARTP: Changes detected — processing new articles');
   let newCount = 0;
 
+  const excludeKeywords = config.sources?.artp?.excludeKeywords || PA_EXCLUDE_KEYWORDS;
+
   for (const article of articleLinks) {
     const hash = hashString(article.url);
     const seenKey = `artp:${hash}`;
     if (seen[seenKey]) continue;
+
+    // PA relevance filtering — skip non-PA-relevant ARTP articles by title
+    const titleLower = article.title.toLowerCase();
+    if (excludeKeywords.some(kw => titleLower.includes(kw.toLowerCase()))) {
+      console.log(`  ARTP: Skipping (excluded) "${article.title}"`);
+      continue;
+    }
 
     seen[seenKey] = {
       url: article.url,
