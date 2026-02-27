@@ -44,6 +44,17 @@ function setAcknowledged(data) {
   localStorage.setItem('cgm-acknowledged', JSON.stringify(data));
 }
 
+// ── Saved items (stored in browser localStorage) ───────────────────────────────
+
+function getSavedIds() {
+  try { return JSON.parse(localStorage.getItem('cgm-saved') || '{}'); }
+  catch { return {}; }
+}
+
+function setSavedIds(data) {
+  localStorage.setItem('cgm-saved', JSON.stringify(data));
+}
+
 // ── API object (same interface as the Cloudflare version) ──────────────────────
 
 const Api = {
@@ -164,6 +175,39 @@ const Api = {
     }
     setAcknowledged(ack);
     _lastFetch = 0;
+    return { success: true };
+  },
+
+  // Saved items (localStorage-backed, sync)
+  isSaved(id) {
+    return !!getSavedIds()[id];
+  },
+
+  savedCount() {
+    return Object.keys(getSavedIds()).length;
+  },
+
+  toggleSaved(id) {
+    const saved = getSavedIds();
+    if (saved[id]) { delete saved[id]; } else { saved[id] = true; }
+    setSavedIds(saved);
+    return { saved: !!saved[id] };
+  },
+
+  async getSavedGuidance() {
+    await loadData();
+    const saved = getSavedIds();
+    const items = Object.values(_guidance).filter(item => saved[item.id]);
+    items.sort((a, b) => {
+      const dateA = new Date(a.publishedDate || a.fetchedDate);
+      const dateB = new Date(b.publishedDate || b.fetchedDate);
+      return dateB - dateA;
+    });
+    return { items, total: items.length };
+  },
+
+  clearAllSaved() {
+    setSavedIds({});
     return { success: true };
   },
 

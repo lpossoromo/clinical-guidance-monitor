@@ -65,6 +65,10 @@
           Changes
           <span id="changes-tab-badge" class="ml-1 bg-red-500 text-white text-xs font-bold rounded-full min-w-[18px] h-[18px] inline-flex items-center justify-center px-1 hidden">0</span>
         </button>
+        <button class="nav-tab" data-tab="saved">
+          Saved
+          <span id="saved-tab-badge" class="ml-1 bg-amber-500 text-white text-xs font-bold rounded-full min-w-[18px] h-[18px] inline-flex items-center justify-center px-1 hidden">0</span>
+        </button>
       </div>
     </div>
   </nav>
@@ -172,6 +176,16 @@
             Loading changes...
           </div>
         </div>
+      </div>
+    </div>
+
+    <div id="tab-saved" class="tab-content hidden">
+      <div class="flex justify-between items-center mb-4">
+        <h2 class="text-xl font-bold">Saved Articles</h2>
+        <button onclick="clearAllSaved()" class="btn-secondary text-sm">Clear All</button>
+      </div>
+      <div class="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700">
+        <div id="saved-feed" class="divide-y divide-gray-100 dark:divide-gray-700"></div>
       </div>
     </div>
   </main>

@@ -1,6 +1,11 @@
 // Clinical Guidance Monitor — Main Application
 // ══════════════════════════════════════════════
 
+// ── Bookmark SVG icons ────────────────────────────────────────────────────────
+
+const BOOKMARK_OUTLINE = `<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg>`;
+const BOOKMARK_FILLED  = `<svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg>`;
+
 // ── State ─────────────────────────────────────────────────────────────────────
 
 const state = {
@@ -38,6 +43,7 @@ async function loadDashboard() {
     if (stats.status === 'fulfilled') {
       state.stats = stats.value;
       renderStats(stats.value);
+      updateSavedBadge(Api.savedCount());
     }
 
     if (guidance.status === 'fulfilled') {
@@ -97,6 +103,18 @@ async function loadChanges() {
     console.error('Changes load error:', err);
     document.getElementById('changes-feed').innerHTML =
       '<div class="p-8 text-center text-gray-400">Failed to load changes.</div>';
+  }
+}
+
+async function loadSaved() {
+  try {
+    const result = await Api.getSavedGuidance();
+    renderSaved(result.items);
+    updateSavedBadge(result.total);
+  } catch (err) {
+    console.error('Saved load error:', err);
+    document.getElementById('saved-feed').innerHTML =
+      '<div class="p-8 text-center text-gray-400">Failed to load saved items.</div>';
   }
 }
 
@@ -198,12 +216,20 @@ function renderGuidanceFeed(items, highlightQuery = '') {
     if (highlightQuery) {
       excerpt = highlightText(excerpt, highlightQuery);
     }
+    const saved = Api.isSaved(item.id);
 
     return `
       <div class="guidance-card fade-in" onclick="openGuidance('${escapeAttr(item.id)}')">
         <div class="flex justify-between items-start gap-3 mb-1.5">
           <h3 class="font-semibold text-[0.9375rem] leading-snug flex-1">${escapeHTML(item.title)}</h3>
-          ${badge}
+          <div class="flex items-center gap-2 shrink-0">
+            <button onclick="event.stopPropagation(); toggleSaved('${escapeAttr(item.id)}')"
+                    class="${saved ? 'text-amber-500' : 'text-gray-300 dark:text-gray-600 hover:text-amber-400'} transition-colors"
+                    title="${saved ? 'Remove from saved' : 'Save this article'}">
+              ${saved ? BOOKMARK_FILLED : BOOKMARK_OUTLINE}
+            </button>
+            ${badge}
+          </div>
         </div>
         <p class="text-sm text-gray-500 dark:text-gray-400 mb-2 line-clamp-2">${excerpt}</p>
         <div class="flex flex-wrap gap-x-4 gap-y-1 text-xs text-gray-400">
@@ -253,6 +279,45 @@ function renderChanges(items) {
             ${!item.acknowledged ? `<button onclick="event.stopPropagation(); acknowledgeChange('${escapeAttr(item.id)}')" class="btn-secondary text-xs py-1 px-2">Mark Read</button>` : ''}
             <a href="${escapeAttr(item.url)}" target="_blank" onclick="event.stopPropagation()" class="btn-secondary text-xs py-1 px-2">View</a>
           </div>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+// ── Rendering: Saved Feed ─────────────────────────────────────────────────────
+
+function renderSaved(items) {
+  const container = document.getElementById('saved-feed');
+
+  if (!items || items.length === 0) {
+    container.innerHTML = `
+      <div class="p-8 text-center text-gray-400">
+        <p class="text-lg font-medium">No saved articles yet</p>
+        <p class="text-sm mt-1">Click the bookmark icon on any article to save it here.</p>
+      </div>`;
+    return;
+  }
+
+  container.innerHTML = items.map(item => {
+    const badge = sourceBadge(item.source);
+    const excerpt = escapeHTML(item.metadata?.description || item.content?.substring(0, 200) || '');
+    return `
+      <div class="guidance-card fade-in" onclick="openGuidance('${escapeAttr(item.id)}')">
+        <div class="flex justify-between items-start gap-3 mb-1.5">
+          <h3 class="font-semibold text-[0.9375rem] leading-snug flex-1">${escapeHTML(item.title)}</h3>
+          <div class="flex items-center gap-2 shrink-0">
+            <button onclick="event.stopPropagation(); toggleSaved('${escapeAttr(item.id)}')"
+                    class="text-amber-500 hover:text-gray-400 dark:hover:text-gray-500 transition-colors"
+                    title="Remove from saved">
+              ${BOOKMARK_FILLED}
+            </button>
+            ${badge}
+          </div>
+        </div>
+        <p class="text-sm text-gray-500 dark:text-gray-400 mb-2 line-clamp-2">${excerpt}</p>
+        <div class="flex flex-wrap gap-x-4 gap-y-1 text-xs text-gray-400">
+          <span>Published: ${formatDate(item.publishedDate)}</span>
         </div>
       </div>
     `;
@@ -326,6 +391,31 @@ async function acknowledgeAll() {
   }
 }
 
+// ── Saved actions ─────────────────────────────────────────────────────────────
+
+function toggleSaved(id) {
+  Api.toggleSaved(id);
+  renderGuidanceFeed(state.guidance);
+  updateSavedBadge(Api.savedCount());
+  if (state.activeTab === 'saved') loadSaved();
+}
+
+async function clearAllSaved() {
+  Api.clearAllSaved();
+  renderGuidanceFeed(state.guidance);
+  await loadSaved();
+}
+
+function updateSavedBadge(count) {
+  const badge = document.getElementById('saved-tab-badge');
+  if (count > 0) {
+    badge.textContent = count > 99 ? '99+' : count;
+    badge.classList.remove('hidden');
+  } else {
+    badge.classList.add('hidden');
+  }
+}
+
 // ── Tabs ──────────────────────────────────────────────────────────────────────
 
 function initTabs() {
@@ -348,6 +438,8 @@ function switchTab(tabName) {
   // Load data for the tab
   if (tabName === 'changes') {
     loadChanges();
+  } else if (tabName === 'saved') {
+    loadSaved();
   }
 }
 
