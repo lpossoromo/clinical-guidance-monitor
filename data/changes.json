@@ -9,5 +9,27 @@
     "previousHash": null,
     "newHash": "660fd1d7fe157daa",
     "acknowledged": false
+  },
+  "change:1772547101488:b8a0f8ed4e800243": {
+    "id": "change:1772547101488:b8a0f8ed4e800243",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-releases-guidance-on-ultrasound-clinical-vetting",
+    "title": "News: RFL releases guidance on ultrasound clinical vetting",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-03T14:11:41.488Z",
+    "previousHash": null,
+    "newHash": "3820ae45ce1c9e1c",
+    "acknowledged": false
+  },
+  "change:1772547101489:ea098adae90b1e89": {
+    "id": "change:1772547101489:ea098adae90b1e89",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/support-london-wide-campaign-to-reduce-medicine-waste",
+    "title": "News: Support London&#45;wide campaign to reduce medicine waste",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-03T14:11:41.489Z",
+    "previousHash": null,
+    "newHash": "d079be653d8b7a84",
+    "acknowledged": false
   }
 }
