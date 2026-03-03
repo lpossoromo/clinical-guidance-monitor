@@ -49,5 +49,39 @@
       "estimatedReadTime": 1,
       "description": "Resources for practices and pharmacies to use to encourage patients to only order the right quantity of medicines for their needs to help cut waste and prevent shortages."
     }
+  },
+  "content:1fe6789d9551273f": {
+    "id": "content:1fe6789d9551273f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-23-27-february-2026",
+    "title": "News: EMIS Global update: 23&#45;27 February 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-03",
+    "fetchedDate": "2026-03-03T19:52:38.424Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
+  },
+  "content:0f542d9be7fc9a8b": {
+    "id": "content:0f542d9be7fc9a8b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/ncl-education-faculty-facilitation-skills-workshop",
+    "title": "Event: NCL Education Faculty Facilitation Skills Workshop",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-03",
+    "fetchedDate": "2026-03-03T19:52:38.425Z",
+    "contentHash": "566af861e386a3aa",
+    "content": "This in-person workshop is free to attend for all Primary Care roles who lead, or are preparing to lead, small teams within and across organisations and neighbourhoods. Starts at 2.30pm on Thursday 23 April.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 34,
+      "estimatedReadTime": 1,
+      "description": "This in-person workshop is free to attend for all Primary Care roles who lead, or are preparing to lead, small teams within and across organisations and neighbourhoods. Starts at 2.30pm on Thursday 23"
+    }
   }
 }

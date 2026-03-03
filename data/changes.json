@@ -31,5 +31,27 @@
     "previousHash": null,
     "newHash": "d079be653d8b7a84",
     "acknowledged": false
+  },
+  "change:1772567558424:1fe6789d9551273f": {
+    "id": "change:1772567558424:1fe6789d9551273f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-23-27-february-2026",
+    "title": "News: EMIS Global update: 23&#45;27 February 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-03T19:52:38.424Z",
+    "previousHash": null,
+    "newHash": "648a902f3c028d45",
+    "acknowledged": false
+  },
+  "change:1772567558425:0f542d9be7fc9a8b": {
+    "id": "change:1772567558425:0f542d9be7fc9a8b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/ncl-education-faculty-facilitation-skills-workshop",
+    "title": "Event: NCL Education Faculty Facilitation Skills Workshop",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-03T19:52:38.425Z",
+    "previousHash": null,
+    "newHash": "566af861e386a3aa",
+    "acknowledged": false
   }
 }
