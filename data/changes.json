@@ -53,5 +53,38 @@
     "previousHash": null,
     "newHash": "566af861e386a3aa",
     "acknowledged": false
+  },
+  "change:1772633387453:35bef5d5a8a657d6": {
+    "id": "change:1772633387453:35bef5d5a8a657d6",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/on-demand-training/suicide-awareness-and-response-e-learning-for-primary-care",
+    "title": "On Demand Training: Suicide Awareness and Response e&#45;learning for Primary Care",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-04T14:09:47.453Z",
+    "previousHash": null,
+    "newHash": "058277f0fe6f3699",
+    "acknowledged": false
+  },
+  "change:1772633387454:06252f824df806dc": {
+    "id": "change:1772633387454:06252f824df806dc",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/new-gp-feedback-alert-system-to-replace-quality-alerts-from-9-march",
+    "title": "News: New GP Feedback &amp; Alert system to replace Quality Alerts from 9 March",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-04T14:09:47.454Z",
+    "previousHash": null,
+    "newHash": "d00306df6d21356d",
+    "acknowledged": false
+  },
+  "change:1772633387454:7a5b9b4aa8a47c80": {
+    "id": "change:1772633387454:7a5b9b4aa8a47c80",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/mild-traumatic-brain-injury-a-practical-update-on-assessment-and-management",
+    "title": "Event: Mild Traumatic Brain Injury: A practical update on assessment and management",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-04T14:09:47.454Z",
+    "previousHash": null,
+    "newHash": "21d8ac0ed6a499cd",
+    "acknowledged": false
   }
 }

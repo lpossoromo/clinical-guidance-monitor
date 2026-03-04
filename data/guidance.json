@@ -83,5 +83,56 @@
       "estimatedReadTime": 1,
       "description": "This in-person workshop is free to attend for all Primary Care roles who lead, or are preparing to lead, small teams within and across organisations and neighbourhoods. Starts at 2.30pm on Thursday 23"
     }
+  },
+  "content:35bef5d5a8a657d6": {
+    "id": "content:35bef5d5a8a657d6",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/on-demand-training/suicide-awareness-and-response-e-learning-for-primary-care",
+    "title": "On Demand Training: Suicide Awareness and Response e&#45;learning for Primary Care",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-04",
+    "fetchedDate": "2026-03-04T14:09:47.453Z",
+    "contentHash": "058277f0fe6f3699",
+    "content": "The e-learning on suicide awareness and the use of the Suicide Assessment Framework e-Tool (SAFETool) is designed to equip clinical primary care staff with an understanding of their role in suicide prevention.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 32,
+      "estimatedReadTime": 1,
+      "description": "The e-learning on suicide awareness and the use of the Suicide Assessment Framework e-Tool (SAFETool) is designed to equip clinical primary care staff with an understanding of their role in suicide pr"
+    }
+  },
+  "content:06252f824df806dc": {
+    "id": "content:06252f824df806dc",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/new-gp-feedback-alert-system-to-replace-quality-alerts-from-9-march",
+    "title": "News: New GP Feedback &amp; Alert system to replace Quality Alerts from 9 March",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-04",
+    "fetchedDate": "2026-03-04T14:09:47.454Z",
+    "contentHash": "d00306df6d21356d",
+    "content": "A single route for GPs to raise concerns with providers is being launched, replacing all Quality Alerts and GP liaison clinical emails. Find the new GP Feedback &amp; Alert form in your NCL Global folder in EMIS.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "A single route for GPs to raise concerns with providers is being launched, replacing all Quality Alerts and GP liaison clinical emails. Find the new GP Feedback &amp; Alert form in your NCL Global fol"
+    }
+  },
+  "content:7a5b9b4aa8a47c80": {
+    "id": "content:7a5b9b4aa8a47c80",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/mild-traumatic-brain-injury-a-practical-update-on-assessment-and-management",
+    "title": "Event: Mild Traumatic Brain Injury: A practical update on assessment and management",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-04",
+    "fetchedDate": "2026-03-04T14:09:47.454Z",
+    "contentHash": "21d8ac0ed6a499cd",
+    "content": "This one hour session will provide an update on the assessment and management of mild traumatic brain injury (TBI), featuring insights on neuroimaging and recovery promotion.&nbsp;Join at 6pm on Monday 23 March.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 32,
+      "estimatedReadTime": 1,
+      "description": "This one hour session will provide an update on the assessment and management of mild traumatic brain injury (TBI), featuring insights on neuroimaging and recovery promotion.&nbsp;Join at 6pm on Monda"
+    }
   }
 }

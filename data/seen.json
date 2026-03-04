@@ -166,5 +166,29 @@
     "discovered": "2026-03-03T19:52:38.425Z",
     "publishedDate": "Tue, 03 Mar 2026 16:23:41 +0000",
     "source": "ncl"
+  },
+  "ncl:35bef5d5a8a657d6": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/on-demand-training/suicide-awareness-and-response-e-learning-for-primary-care",
+    "title": "On Demand Training: Suicide Awareness and Response e&#45;learning for Primary Care",
+    "description": "The e-learning on suicide awareness and the use of the Suicide Assessment Framework e-Tool (SAFETool) is designed to equip clinical primary care staff with an understanding of their role in suicide prevention.",
+    "discovered": "2026-03-04T14:09:47.453Z",
+    "publishedDate": "Wed, 04 Mar 2026 11:34:19 +0000",
+    "source": "ncl"
+  },
+  "ncl:06252f824df806dc": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/new-gp-feedback-alert-system-to-replace-quality-alerts-from-9-march",
+    "title": "News: New GP Feedback &amp; Alert system to replace Quality Alerts from 9 March",
+    "description": "A single route for GPs to raise concerns with providers is being launched, replacing all Quality Alerts and GP liaison clinical emails. Find the new GP Feedback &amp; Alert form in your NCL Global folder in EMIS.",
+    "discovered": "2026-03-04T14:09:47.454Z",
+    "publishedDate": "Wed, 04 Mar 2026 10:40:25 +0000",
+    "source": "ncl"
+  },
+  "ncl:7a5b9b4aa8a47c80": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/mild-traumatic-brain-injury-a-practical-update-on-assessment-and-management",
+    "title": "Event: Mild Traumatic Brain Injury: A practical update on assessment and management",
+    "description": "This one hour session will provide an update on the assessment and management of mild traumatic brain injury (TBI), featuring insights on neuroimaging and recovery promotion.&nbsp;Join at 6pm on Monday 23 March.",
+    "discovered": "2026-03-04T14:09:47.454Z",
+    "publishedDate": "Wed, 04 Mar 2026 11:29:52 +0000",
+    "source": "ncl"
   }
 }
