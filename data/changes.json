@@ -86,5 +86,16 @@
     "previousHash": null,
     "newHash": "21d8ac0ed6a499cd",
     "acknowledged": false
+  },
+  "change:1772721203482:fc5fc2bba064e12a": {
+    "id": "change:1772721203482:fc5fc2bba064e12a",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/digital-pre-invites-for-bowel-cancer-screening",
+    "title": "News: Digital pre&#45;invites for bowel cancer screening",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-05T14:33:23.482Z",
+    "previousHash": null,
+    "newHash": "d0bfa5608eecfbc1",
+    "acknowledged": false
   }
 }
