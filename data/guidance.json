@@ -151,5 +151,22 @@
       "estimatedReadTime": 1,
       "description": "The NHS Bowel Screening Programme in London has started to send invites via the NHS App. Help patients stay up to date by downloading the NHS App and turning on notifications for timely screening remi"
     }
+  },
+  "content:e050166aeac72df4": {
+    "id": "content:e050166aeac72df4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-app-ambassadors-leading-transformation-in-patient-access",
+    "title": "News: NHS App Ambassadors: Leading transformation in patient access",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-06",
+    "fetchedDate": "2026-03-06T19:48:24.043Z",
+    "contentHash": "1f45bd46e57c6990",
+    "content": "Read how Brunswick Park Medical Practice improved patient access to repeat prescriptions by implementing a patient-centred digital system through the NHS App.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 22,
+      "estimatedReadTime": 1,
+      "description": "Read how Brunswick Park Medical Practice improved patient access to repeat prescriptions by implementing a patient-centred digital system through the NHS App."
+    }
   }
 }

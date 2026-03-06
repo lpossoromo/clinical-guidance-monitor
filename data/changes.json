@@ -97,5 +97,16 @@
     "previousHash": null,
     "newHash": "d0bfa5608eecfbc1",
     "acknowledged": false
+  },
+  "change:1772826504043:e050166aeac72df4": {
+    "id": "change:1772826504043:e050166aeac72df4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-app-ambassadors-leading-transformation-in-patient-access",
+    "title": "News: NHS App Ambassadors: Leading transformation in patient access",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-06T19:48:24.043Z",
+    "previousHash": null,
+    "newHash": "1f45bd46e57c6990",
+    "acknowledged": false
   }
 }
