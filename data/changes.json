@@ -130,5 +130,27 @@
     "previousHash": null,
     "newHash": "648a902f3c028d45",
     "acknowledged": false
+  },
+  "change:1773086037677:3519bb4c41d92c11": {
+    "id": "change:1773086037677:3519bb4c41d92c11",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mount-vernon-cancer-centre-proposals-share-your-views",
+    "title": "News: Mount Vernon Cancer Centre proposals: Share your views",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-09T19:53:57.677Z",
+    "previousHash": null,
+    "newHash": "e8af3d2657091482",
+    "acknowledged": false
+  },
+  "change:1773086037678:9d99303af8cb86fc": {
+    "id": "change:1773086037678:9d99303af8cb86fc",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/physical-activity-clinical-champion-training-5",
+    "title": "Event: Physical Activity Clinical Champion Training",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-09T19:53:57.678Z",
+    "previousHash": null,
+    "newHash": "0c8e38f5f528067a",
+    "acknowledged": false
   }
 }

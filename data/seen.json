@@ -222,5 +222,21 @@
     "discovered": "2026-03-09T14:39:24.527Z",
     "publishedDate": "Mon, 09 Mar 2026 13:38:39 +0000",
     "source": "ncl"
+  },
+  "ncl:3519bb4c41d92c11": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mount-vernon-cancer-centre-proposals-share-your-views",
+    "title": "News: Mount Vernon Cancer Centre proposals: Share your views",
+    "description": "Healthcare professionals are invited to share their views by completing the online questionnaire or join one of the targeted workshops exploring the proposed changes and what they could mean for the patient pathway.",
+    "discovered": "2026-03-09T19:53:57.677Z",
+    "publishedDate": "Mon, 09 Mar 2026 16:51:19 +0000",
+    "source": "ncl"
+  },
+  "ncl:9d99303af8cb86fc": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/physical-activity-clinical-champion-training-5",
+    "title": "Event: Physical Activity Clinical Champion Training",
+    "description": "Join this introduction session to lean how brief physical activity conversations can be integrated into everyday clinical practice to improve patient outcomes. Starting at 12.30pm on Wednesday 25 March.",
+    "discovered": "2026-03-09T19:53:57.678Z",
+    "publishedDate": "Mon, 09 Mar 2026 15:05:05 +0000",
+    "source": "ncl"
   }
 }

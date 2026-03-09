@@ -202,5 +202,39 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global"
     }
+  },
+  "content:3519bb4c41d92c11": {
+    "id": "content:3519bb4c41d92c11",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mount-vernon-cancer-centre-proposals-share-your-views",
+    "title": "News: Mount Vernon Cancer Centre proposals: Share your views",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-09",
+    "fetchedDate": "2026-03-09T19:53:57.677Z",
+    "contentHash": "e8af3d2657091482",
+    "content": "Healthcare professionals are invited to share their views by completing the online questionnaire or join one of the targeted workshops exploring the proposed changes and what they could mean for the patient pathway.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "Healthcare professionals are invited to share their views by completing the online questionnaire or join one of the targeted workshops exploring the proposed changes and what they could mean for the p"
+    }
+  },
+  "content:9d99303af8cb86fc": {
+    "id": "content:9d99303af8cb86fc",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/physical-activity-clinical-champion-training-5",
+    "title": "Event: Physical Activity Clinical Champion Training",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-09",
+    "fetchedDate": "2026-03-09T19:53:57.678Z",
+    "contentHash": "0c8e38f5f528067a",
+    "content": "Join this introduction session to lean how brief physical activity conversations can be integrated into everyday clinical practice to improve patient outcomes. Starting at 12.30pm on Wednesday 25 March.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 29,
+      "estimatedReadTime": 1,
+      "description": "Join this introduction session to lean how brief physical activity conversations can be integrated into everyday clinical practice to improve patient outcomes. Starting at 12.30pm on Wednesday 25 Marc"
+    }
   }
 }
