@@ -168,5 +168,39 @@
       "estimatedReadTime": 1,
       "description": "Read how Brunswick Park Medical Practice improved patient access to repeat prescriptions by implementing a patient-centred digital system through the NHS App."
     }
+  },
+  "content:d79d271b97a16c10": {
+    "id": "content:d79d271b97a16c10",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/uclh-gastrointestinal-gi-physiology-education-day",
+    "title": "Event: UCLH Gastrointestinal (GI) Physiology Education Day",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-09",
+    "fetchedDate": "2026-03-09T14:39:24.526Z",
+    "contentHash": "de0025ae0320aae9",
+    "content": "This one-day gastrointestinal study day aims to share knowledge and understanding of the complex gastrointestinal system and teach\r\npractical ways to enhance patient care. From 8.30am on Tuesday 5 May.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 30,
+      "estimatedReadTime": 1,
+      "description": "This one-day gastrointestinal study day aims to share knowledge and understanding of the complex gastrointestinal system and teach\r\npractical ways to enhance patient care. From 8.30am on Tuesday 5 May"
+    }
+  },
+  "content:37fe236aba8c8038": {
+    "id": "content:37fe236aba8c8038",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-2-6-march-2026",
+    "title": "News: EMIS Global update: 2&#45;6 March 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-09",
+    "fetchedDate": "2026-03-09T14:39:24.527Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
   }
 }

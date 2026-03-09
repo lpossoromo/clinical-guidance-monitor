@@ -206,5 +206,21 @@
     "discovered": "2026-03-06T19:48:24.043Z",
     "publishedDate": "Fri, 06 Mar 2026 17:50:52 +0000",
     "source": "ncl"
+  },
+  "ncl:d79d271b97a16c10": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/uclh-gastrointestinal-gi-physiology-education-day",
+    "title": "Event: UCLH Gastrointestinal (GI) Physiology Education Day",
+    "description": "This one-day gastrointestinal study day aims to share knowledge and understanding of the complex gastrointestinal system and teach\r\npractical ways to enhance patient care. From 8.30am on Tuesday 5 May.",
+    "discovered": "2026-03-09T14:39:24.526Z",
+    "publishedDate": "Mon, 09 Mar 2026 14:36:30 +0000",
+    "source": "ncl"
+  },
+  "ncl:37fe236aba8c8038": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-2-6-march-2026",
+    "title": "News: EMIS Global update: 2&#45;6 March 2026",
+    "description": "See what&#039;s new in EMIS Global",
+    "discovered": "2026-03-09T14:39:24.527Z",
+    "publishedDate": "Mon, 09 Mar 2026 13:38:39 +0000",
+    "source": "ncl"
   }
 }

@@ -108,5 +108,27 @@
     "previousHash": null,
     "newHash": "1f45bd46e57c6990",
     "acknowledged": false
+  },
+  "change:1773067164526:d79d271b97a16c10": {
+    "id": "change:1773067164526:d79d271b97a16c10",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/uclh-gastrointestinal-gi-physiology-education-day",
+    "title": "Event: UCLH Gastrointestinal (GI) Physiology Education Day",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-09T14:39:24.526Z",
+    "previousHash": null,
+    "newHash": "de0025ae0320aae9",
+    "acknowledged": false
+  },
+  "change:1773067164527:37fe236aba8c8038": {
+    "id": "change:1773067164527:37fe236aba8c8038",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-2-6-march-2026",
+    "title": "News: EMIS Global update: 2&#45;6 March 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-09T14:39:24.527Z",
+    "previousHash": null,
+    "newHash": "648a902f3c028d45",
+    "acknowledged": false
   }
 }
