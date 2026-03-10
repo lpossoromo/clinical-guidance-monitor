@@ -152,5 +152,16 @@
     "previousHash": null,
     "newHash": "0c8e38f5f528067a",
     "acknowledged": false
+  },
+  "change:1773172410839:0b2899fdbc7e8763": {
+    "id": "change:1773172410839:0b2899fdbc7e8763",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wood-green-cdc-announces-temporary-lift-closure",
+    "title": "News: Wood Green CDC announces temporary lift closure",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-10T19:53:30.839Z",
+    "previousHash": null,
+    "newHash": "d90479b7f1b06f0c",
+    "acknowledged": false
   }
 }

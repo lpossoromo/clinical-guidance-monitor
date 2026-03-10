@@ -236,5 +236,22 @@
       "estimatedReadTime": 1,
       "description": "Join this introduction session to lean how brief physical activity conversations can be integrated into everyday clinical practice to improve patient outcomes. Starting at 12.30pm on Wednesday 25 Marc"
     }
+  },
+  "content:0b2899fdbc7e8763": {
+    "id": "content:0b2899fdbc7e8763",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wood-green-cdc-announces-temporary-lift-closure",
+    "title": "News: Wood Green CDC announces temporary lift closure",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-10",
+    "fetchedDate": "2026-03-10T19:53:30.839Z",
+    "contentHash": "d90479b7f1b06f0c",
+    "content": "The Wood Green Community Diagnostic Centre lift will be unavailable for the rest of the week. Please inform patients who require a lift of this temporary service change, and encourage them to postpone their blood test or book at alternative services.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 41,
+      "estimatedReadTime": 1,
+      "description": "The Wood Green Community Diagnostic Centre lift will be unavailable for the rest of the week. Please inform patients who require a lift of this temporary service change, and encourage them to postpone"
+    }
   }
 }

@@ -238,5 +238,13 @@
     "discovered": "2026-03-09T19:53:57.678Z",
     "publishedDate": "Mon, 09 Mar 2026 15:05:05 +0000",
     "source": "ncl"
+  },
+  "ncl:0b2899fdbc7e8763": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wood-green-cdc-announces-temporary-lift-closure",
+    "title": "News: Wood Green CDC announces temporary lift closure",
+    "description": "The Wood Green Community Diagnostic Centre lift will be unavailable for the rest of the week. Please inform patients who require a lift of this temporary service change, and encourage them to postpone their blood test or book at alternative services.",
+    "discovered": "2026-03-10T19:53:30.839Z",
+    "publishedDate": "Tue, 10 Mar 2026 17:06:35 +0000",
+    "source": "ncl"
   }
 }
