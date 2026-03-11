@@ -163,5 +163,137 @@
     "previousHash": null,
     "newHash": "d90479b7f1b06f0c",
     "acknowledged": false
+  },
+  "change:1773239849831:395eeebe5daa45de": {
+    "id": "change:1773239849831:395eeebe5daa45de",
+    "url": "https://www.artp.org.uk/news/165/new_artp_standard_appointment_of_consultant_clinical_scientists_in_respiratory_sleep_science",
+    "title": "New Artp Standard Appointment Of Consultant Clinical Scientists In Respiratory Sleep Science",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:29.830Z",
+    "previousHash": null,
+    "newHash": "1547bdcf0d7b5690",
+    "acknowledged": false
+  },
+  "change:1773239850748:783dd1caa2197070": {
+    "id": "change:1773239850748:783dd1caa2197070",
+    "url": "https://www.artp.org.uk/news/163/free_artp_membership_for_those_on_the_spirometry_register",
+    "title": "Free Artp Membership For Those On The Spirometry Register",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:30.748Z",
+    "previousHash": null,
+    "newHash": "28d7f293c8ba894d",
+    "acknowledged": false
+  },
+  "change:1773239851590:a3ef6fa2c3ab6bdc": {
+    "id": "change:1773239851590:a3ef6fa2c3ab6bdc",
+    "url": "https://www.artp.org.uk/news/162/opportunity_for_artpregistered_professionals_in_spirometry_reporting",
+    "title": "Opportunity For Artpregistered Professionals In Spirometry Reporting",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:31.590Z",
+    "previousHash": null,
+    "newHash": "931b655d7b197b1d",
+    "acknowledged": false
+  },
+  "change:1773239852412:e28e46110208fe0e": {
+    "id": "change:1773239852412:e28e46110208fe0e",
+    "url": "https://www.artp.org.uk/news/155/new_artp_standard_respiratory_and_sleep_physiology_diagnostic_reporting",
+    "title": "New Artp Standard Respiratory And Sleep Physiology Diagnostic Reporting",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:32.412Z",
+    "previousHash": null,
+    "newHash": "ab61468800bd7cd8",
+    "acknowledged": false
+  },
+  "change:1773239853232:aa9d50af0a698e38": {
+    "id": "change:1773239853232:aa9d50af0a698e38",
+    "url": "https://www.artp.org.uk/news/156/dscount_on_spirometry_webinars_for_artp",
+    "title": "Dscount On Spirometry Webinars For Artp",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:33.232Z",
+    "previousHash": null,
+    "newHash": "757891a6431dc526",
+    "acknowledged": false
+  },
+  "change:1773239854049:a4bbe604a50ef028": {
+    "id": "change:1773239854049:a4bbe604a50ef028",
+    "url": "https://www.artp.org.uk/news/158/artp_spirometry_position_on_gli_global_predicted_equations",
+    "title": "Artp Spirometry Position On Gli Global Predicted Equations",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:34.049Z",
+    "previousHash": null,
+    "newHash": "b53dfd75c92dfbac",
+    "acknowledged": false
+  },
+  "change:1773239854863:224d6e8b10be41eb": {
+    "id": "change:1773239854863:224d6e8b10be41eb",
+    "url": "https://www.artp.org.uk/news/159/spirometry_register_renewal_fee_reduction_2025",
+    "title": "Spirometry Register Renewal Fee Reduction 2025",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:34.863Z",
+    "previousHash": null,
+    "newHash": "21f9a154bb0bce40",
+    "acknowledged": false
+  },
+  "change:1773239855681:a9f9025d0fa250a9": {
+    "id": "change:1773239855681:a9f9025d0fa250a9",
+    "url": "https://www.artp.org.uk/news/157/artp_professional_examinations_train_the_trainer_webinar_2025",
+    "title": "Artp Professional Examinations Train The Trainer Webinar 2025",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:35.681Z",
+    "previousHash": null,
+    "newHash": "5091568ef6759d8d",
+    "acknowledged": false
+  },
+  "change:1773239856497:e8c00ecd048ee462": {
+    "id": "change:1773239856497:e8c00ecd048ee462",
+    "url": "https://www.artp.org.uk/news/100/taskforce_for_lung_health_annual_report",
+    "title": "Taskforce For Lung Health Annual Report",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:36.497Z",
+    "previousHash": null,
+    "newHash": "cc49b36b31435b85",
+    "acknowledged": false
+  },
+  "change:1773239857313:11e9e9c31ee9da16": {
+    "id": "change:1773239857313:11e9e9c31ee9da16",
+    "url": "https://www.artp.org.uk/news/154/artp_spirometry_train_the_trainer_webinar_2025",
+    "title": "Artp Spirometry Train The Trainer Webinar 2025",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:37.313Z",
+    "previousHash": null,
+    "newHash": "69b72ec08c0656e8",
+    "acknowledged": false
+  },
+  "change:1773239858134:1e9af78ccc9fb86a": {
+    "id": "change:1773239858134:1e9af78ccc9fb86a",
+    "url": "https://www.artp.org.uk/news/153/position_statement_on_raceneutral_spirometry_reference_equations_june_2025",
+    "title": "Position Statement On Raceneutral Spirometry Reference Equations June 2025",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:38.134Z",
+    "previousHash": null,
+    "newHash": "a7099d498c978767",
+    "acknowledged": false
+  },
+  "change:1773239858957:114028e7c1f50197": {
+    "id": "change:1773239858957:114028e7c1f50197",
+    "url": "https://www.artp.org.uk/news/11/artp_paediatric_cpet_forum_25th_september_2025",
+    "title": "Artp Paediatric Cpet Forum 25th September 2025",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-11T14:37:38.957Z",
+    "previousHash": null,
+    "newHash": "de323a5baaf3c4ae",
+    "acknowledged": false
   }
 }
