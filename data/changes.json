@@ -295,5 +295,16 @@
     "previousHash": null,
     "newHash": "de323a5baaf3c4ae",
     "acknowledged": false
+  },
+  "change:1773326251734:d3bf747bba20ee1c": {
+    "id": "change:1773326251734:d3bf747bba20ee1c",
+    "url": "https://www.artp.org.uk/news/166/temporary_pause_of_artp_spirometry_certificate_enrolments_may_2026",
+    "title": "Temporary Pause Of Artp Spirometry Certificate Enrolments May 2026",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-12T14:37:31.733Z",
+    "previousHash": null,
+    "newHash": "579a44c1abc8b1b0",
+    "acknowledged": false
   }
 }
