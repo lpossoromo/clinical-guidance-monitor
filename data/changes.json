@@ -306,5 +306,16 @@
     "previousHash": null,
     "newHash": "579a44c1abc8b1b0",
     "acknowledged": false
+  },
+  "change:1773412221390:d3565942764dcc30": {
+    "id": "change:1773412221390:d3565942764dcc30",
+    "url": "https://www.artp.org.uk/news/164/spirometry_learning_modules_now_available",
+    "title": "Spirometry Learning Modules Now Available",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-13T14:30:21.389Z",
+    "previousHash": null,
+    "newHash": "99a94def5cd86d0d",
+    "acknowledged": false
   }
 }
