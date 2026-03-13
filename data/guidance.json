@@ -491,5 +491,22 @@
       "estimatedReadTime": 1,
       "description": "Home \n\r\n\r\n\r\n\r\n\r\nNews \n\r\n\r\n\r\nSpirometry Learning Modules now available\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\nSpirometry Learning Modules now available\n\r\n\r\n\r\n\r\n\r\n13 March 2026\r\n(Last updated: 11 Mar 2026 13:49) \r\n\r\n\n\r\n\r\n\r\n\r\n\n"
     }
+  },
+  "content:f555641b2dfb5a16": {
+    "id": "content:f555641b2dfb5a16",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/gp-webinar-summary-12-march-2026",
+    "title": "News: GP Webinar summary: 12 March 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-13",
+    "fetchedDate": "2026-03-13T19:47:00.599Z",
+    "contentHash": "660fd1d7fe157daa",
+    "content": "Find a summary of recent meetings at any time by putting &#039;GP webinar&#039; into the NCL General Practice Website&#039;s search bar.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "Find a summary of recent meetings at any time by putting &#039;GP webinar&#039; into the NCL General Practice Website&#039;s search bar."
+    }
   }
 }

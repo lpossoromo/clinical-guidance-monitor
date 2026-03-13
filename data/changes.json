@@ -317,5 +317,16 @@
     "previousHash": null,
     "newHash": "99a94def5cd86d0d",
     "acknowledged": false
+  },
+  "change:1773431220599:f555641b2dfb5a16": {
+    "id": "change:1773431220599:f555641b2dfb5a16",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/gp-webinar-summary-12-march-2026",
+    "title": "News: GP Webinar summary: 12 March 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-13T19:47:00.599Z",
+    "previousHash": null,
+    "newHash": "660fd1d7fe157daa",
+    "acknowledged": false
   }
 }
