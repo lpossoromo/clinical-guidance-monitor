@@ -328,5 +328,16 @@
     "previousHash": null,
     "newHash": "660fd1d7fe157daa",
     "acknowledged": false
+  },
+  "change:1773691097841:4ced67998e6687ff": {
+    "id": "change:1773691097841:4ced67998e6687ff",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/prostate-cancer-awareness-month-offer-testing-to-high-risk-groups",
+    "title": "News: Prostate Cancer Awareness Month: Offer testing to high&#45;risk groups",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-16T19:58:17.841Z",
+    "previousHash": null,
+    "newHash": "3165dc4df507d915",
+    "acknowledged": false
   }
 }

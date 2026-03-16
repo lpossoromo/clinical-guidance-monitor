@@ -508,5 +508,22 @@
       "estimatedReadTime": 1,
       "description": "Find a summary of recent meetings at any time by putting &#039;GP webinar&#039; into the NCL General Practice Website&#039;s search bar."
     }
+  },
+  "content:4ced67998e6687ff": {
+    "id": "content:4ced67998e6687ff",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/prostate-cancer-awareness-month-offer-testing-to-high-risk-groups",
+    "title": "News: Prostate Cancer Awareness Month: Offer testing to high&#45;risk groups",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-16",
+    "fetchedDate": "2026-03-16T19:58:17.841Z",
+    "contentHash": "3165dc4df507d915",
+    "content": "GPs are reminded to offer a prostate-specific antigen (PSA) test and initiating a brief discussion with patients at high-risk of prostate cancer to support early diagnosis.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "GPs are reminded to offer a prostate-specific antigen (PSA) test and initiating a brief discussion with patients at high-risk of prostate cancer to support early diagnosis."
+    }
   }
 }
