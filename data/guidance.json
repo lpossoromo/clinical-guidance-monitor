@@ -525,5 +525,73 @@
       "estimatedReadTime": 1,
       "description": "GPs are reminded to offer a prostate-specific antigen (PSA) test and initiating a brief discussion with patients at high-risk of prostate cancer to support early diagnosis."
     }
+  },
+  "content:b2d9702923965402": {
+    "id": "content:b2d9702923965402",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-9-13-march-2026",
+    "title": "News: EMIS Global update: 9&#45;13 March 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-17",
+    "fetchedDate": "2026-03-17T20:01:07.868Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
+  },
+  "content:eb4a2f723dafc701": {
+    "id": "content:eb4a2f723dafc701",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/support-groups-available-for-copd-or-asthma-patients-and-their-carers",
+    "title": "News: Support groups available for COPD or asthma patients and their carers",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-17",
+    "fetchedDate": "2026-03-17T20:01:07.869Z",
+    "contentHash": "ea2777e988d1725a",
+    "content": "Practices are encouraged to signpost patients and their carers to education and peer support following a diagnosis of COPD or asthma. Asthma + Lung UK provides free online, phone and face-to-face support services.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "Practices are encouraged to signpost patients and their carers to education and peer support following a diagnosis of COPD or asthma. Asthma + Lung UK provides free online, phone and face-to-face supp"
+    }
+  },
+  "content:bd123cba3badc569": {
+    "id": "content:bd123cba3badc569",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/talking-therapy-service-for-autistic-adults-in-barnet-ends-on-30-june",
+    "title": "News: Talking Therapy service for autistic adults in Barnet ends on 30 June",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-17",
+    "fetchedDate": "2026-03-17T20:01:07.869Z",
+    "contentHash": "f542409b3d361c65",
+    "content": "The Talking Therapy for Autistic Adults in Barnet pilot service will come to an end on Tuesday 30 June. Referrals to the service will no longer be accepted and recent referrals will be informed of the closure.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "The Talking Therapy for Autistic Adults in Barnet pilot service will come to an end on Tuesday 30 June. Referrals to the service will no longer be accepted and recent referrals will be informed of the"
+    }
+  },
+  "content:a0ba5510aed269fb": {
+    "id": "content:a0ba5510aed269fb",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-introduces-measles-polymerase-chain-reaction-testing-via-tquest",
+    "title": "News: RFL Introduces measles polymerase chain reaction testing via TQuest",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-17",
+    "fetchedDate": "2026-03-17T20:01:07.870Z",
+    "contentHash": "0cfb5fe55e91bd45",
+    "content": "GP s can request measles PCR testing through TQuest, with results provided via the Health Services Laboratories keystone system.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 19,
+      "estimatedReadTime": 1,
+      "description": "GP s can request measles PCR testing through TQuest, with results provided via the Health Services Laboratories keystone system."
+    }
   }
 }
