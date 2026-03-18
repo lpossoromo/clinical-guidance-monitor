@@ -610,5 +610,22 @@
       "estimatedReadTime": 1,
       "description": "Prescribers are advised to offer antibiotic prophylaxis for returning individuals linked to the invasive meningococcal disease outbreak."
     }
+  },
+  "content:351aa3ec33f89eac": {
+    "id": "content:351aa3ec33f89eac",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/meningococcal-disease-outbreak-guidance-and-resources-for-gp-practices",
+    "title": "News: Meningococcal disease outbreak: Guidance and resources for GP Practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-18",
+    "fetchedDate": "2026-03-18T19:54:31.439Z",
+    "contentHash": "8f90a360a8d8391c",
+    "content": "Meningococcal outbreak advice for GPs includes vaccines, prevention, and resources for patient guidance.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 13,
+      "estimatedReadTime": 1,
+      "description": "Meningococcal outbreak advice for GPs includes vaccines, prevention, and resources for patient guidance."
+    }
   }
 }

@@ -394,5 +394,16 @@
     "previousHash": null,
     "newHash": "a0dc773b8d9665cd",
     "acknowledged": false
+  },
+  "change:1773863671439:351aa3ec33f89eac": {
+    "id": "change:1773863671439:351aa3ec33f89eac",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/meningococcal-disease-outbreak-guidance-and-resources-for-gp-practices",
+    "title": "News: Meningococcal disease outbreak: Guidance and resources for GP Practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-18T19:54:31.439Z",
+    "previousHash": null,
+    "newHash": "8f90a360a8d8391c",
+    "acknowledged": false
   }
 }
