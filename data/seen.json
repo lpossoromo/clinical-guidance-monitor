@@ -378,5 +378,13 @@
     "discovered": "2026-03-17T20:01:07.869Z",
     "publishedDate": "Tue, 17 Mar 2026 19:39:50 +0000",
     "source": "ncl"
+  },
+  "ncl:c404e0c0d96b1476": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ukhsa-and-nhs-england-issue-prescribing-guidance-for-individuals-returning-from-southeast-england",
+    "title": "News: UKHSA and NHS England issue prescribing guidance for individuals returning from Southeast England",
+    "description": "Prescribers are advised to offer antibiotic prophylaxis for returning individuals linked to the invasive meningococcal disease outbreak.",
+    "discovered": "2026-03-18T15:55:19.494Z",
+    "publishedDate": "Wed, 18 Mar 2026 15:54:11 +0000",
+    "source": "ncl"
   }
 }

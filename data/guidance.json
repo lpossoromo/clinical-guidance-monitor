@@ -593,5 +593,22 @@
       "estimatedReadTime": 1,
       "description": "GP s can request measles PCR testing through TQuest, with results provided via the Health Services Laboratories keystone system."
     }
+  },
+  "content:c404e0c0d96b1476": {
+    "id": "content:c404e0c0d96b1476",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ukhsa-and-nhs-england-issue-prescribing-guidance-for-individuals-returning-from-southeast-england",
+    "title": "News: UKHSA and NHS England issue prescribing guidance for individuals returning from Southeast England",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-18",
+    "fetchedDate": "2026-03-18T15:55:19.495Z",
+    "contentHash": "a0dc773b8d9665cd",
+    "content": "Prescribers are advised to offer antibiotic prophylaxis for returning individuals linked to the invasive meningococcal disease outbreak.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 17,
+      "estimatedReadTime": 1,
+      "description": "Prescribers are advised to offer antibiotic prophylaxis for returning individuals linked to the invasive meningococcal disease outbreak."
+    }
   }
 }
