@@ -394,5 +394,21 @@
     "discovered": "2026-03-18T19:54:31.439Z",
     "publishedDate": "Wed, 18 Mar 2026 17:57:54 +0000",
     "source": "ncl"
+  },
+  "ncl:71a13d1acf2a40a6": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/clinical-pathways/heart-failure-diagnosis-and-assessment-in-adults",
+    "title": "Pathway: Heart Failure Diagnosis and Assessment in Adults",
+    "description": "Following a Prevention of Future Deaths notice to the ICB, this pathway has been updated to include two new referral options to Royal Free London with defined inclusion criteria for urgent assessment of patients with suspected heart failure.",
+    "discovered": "2026-03-19T14:37:58.968Z",
+    "publishedDate": "Thu, 19 Mar 2026 13:36:03 +0000",
+    "source": "ncl"
+  },
+  "ncl:e605de47557b768f": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/ncl-nhs-diabetes-prevention-programme-quarterly-webinar",
+    "title": "Event: NCL NHS Diabetes Prevention Programme Quarterly Webinar",
+    "description": "The session will cover the NDPP&rsquo;s face‑to‑face and online pathways, key topics such as diet and physical activity, and how to refer eligible patients to the programme. 12.30pm on Tuesday 21 April.",
+    "discovered": "2026-03-19T14:37:58.969Z",
+    "publishedDate": "Thu, 19 Mar 2026 12:45:47 +0000",
+    "source": "ncl"
   }
 }

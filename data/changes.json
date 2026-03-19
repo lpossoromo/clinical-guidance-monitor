@@ -405,5 +405,27 @@
     "previousHash": null,
     "newHash": "8f90a360a8d8391c",
     "acknowledged": false
+  },
+  "change:1773931078968:71a13d1acf2a40a6": {
+    "id": "change:1773931078968:71a13d1acf2a40a6",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/clinical-pathways/heart-failure-diagnosis-and-assessment-in-adults",
+    "title": "Pathway: Heart Failure Diagnosis and Assessment in Adults",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-19T14:37:58.968Z",
+    "previousHash": null,
+    "newHash": "a33382a08e413d33",
+    "acknowledged": false
+  },
+  "change:1773931078969:e605de47557b768f": {
+    "id": "change:1773931078969:e605de47557b768f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/ncl-nhs-diabetes-prevention-programme-quarterly-webinar",
+    "title": "Event: NCL NHS Diabetes Prevention Programme Quarterly Webinar",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-19T14:37:58.969Z",
+    "previousHash": null,
+    "newHash": "18d2216eeb3bf1d1",
+    "acknowledged": false
   }
 }
