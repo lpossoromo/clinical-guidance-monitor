@@ -410,5 +410,13 @@
     "discovered": "2026-03-19T14:37:58.969Z",
     "publishedDate": "Thu, 19 Mar 2026 12:45:47 +0000",
     "source": "ncl"
+  },
+  "ncl:39d5581fa8539449": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-update-temporary-decommissioning-of-bone-density-scanner",
+    "title": "News: UCLH update: Temporary decommissioning of bone density scanner",
+    "description": "UCLH&#039;s bone density scanner will be temporarily decommissioned for replacement, with services resuming on Monday 27 April. Additional lists will continue to run to minimise diagnostic delays.",
+    "discovered": "2026-03-20T14:30:22.885Z",
+    "publishedDate": "Fri, 20 Mar 2026 14:27:13 +0000",
+    "source": "ncl"
   }
 }

@@ -427,5 +427,16 @@
     "previousHash": null,
     "newHash": "18d2216eeb3bf1d1",
     "acknowledged": false
+  },
+  "change:1774017022885:39d5581fa8539449": {
+    "id": "change:1774017022885:39d5581fa8539449",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-update-temporary-decommissioning-of-bone-density-scanner",
+    "title": "News: UCLH update: Temporary decommissioning of bone density scanner",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-20T14:30:22.885Z",
+    "previousHash": null,
+    "newHash": "43fb645fc6b6580e",
+    "acknowledged": false
   }
 }

@@ -661,5 +661,22 @@
       "estimatedReadTime": 1,
       "description": "The session will cover the NDPP&rsquo;s face‑to‑face and online pathways, key topics such as diet and physical activity, and how to refer eligible patients to the programme. 12.30pm on Tuesday 21 Apri"
     }
+  },
+  "content:39d5581fa8539449": {
+    "id": "content:39d5581fa8539449",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-update-temporary-decommissioning-of-bone-density-scanner",
+    "title": "News: UCLH update: Temporary decommissioning of bone density scanner",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-20",
+    "fetchedDate": "2026-03-20T14:30:22.885Z",
+    "contentHash": "43fb645fc6b6580e",
+    "content": "UCLH&#039;s bone density scanner will be temporarily decommissioned for replacement, with services resuming on Monday 27 April. Additional lists will continue to run to minimise diagnostic delays.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 27,
+      "estimatedReadTime": 1,
+      "description": "UCLH&#039;s bone density scanner will be temporarily decommissioned for replacement, with services resuming on Monday 27 April. Additional lists will continue to run to minimise diagnostic delays."
+    }
   }
 }
