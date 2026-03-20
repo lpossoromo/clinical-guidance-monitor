@@ -438,5 +438,27 @@
     "previousHash": null,
     "newHash": "43fb645fc6b6580e",
     "acknowledged": false
+  },
+  "change:1774017120247:90cd2a867b4607b7": {
+    "id": "change:1774017120247:90cd2a867b4607b7",
+    "url": "https://www.artp.org.uk/news/168/rtp_news_march_2026",
+    "title": "Rtp News March 2026",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-20T14:32:00.246Z",
+    "previousHash": null,
+    "newHash": "8dbde0608d733008",
+    "acknowledged": false
+  },
+  "change:1774017121220:97df38f4a1e69edc": {
+    "id": "change:1774017121220:97df38f4a1e69edc",
+    "url": "https://www.artp.org.uk/news/167/artp_conference_buddy_scheme",
+    "title": "Artp Conference Buddy Scheme",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-20T14:32:01.220Z",
+    "previousHash": null,
+    "newHash": "e487f0e4ba64b34a",
+    "acknowledged": false
   }
 }
