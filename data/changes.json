@@ -460,5 +460,38 @@
     "previousHash": null,
     "newHash": "e487f0e4ba64b34a",
     "acknowledged": false
+  },
+  "change:1774291239575:61d832028059487f": {
+    "id": "change:1774291239575:61d832028059487f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/reducing-harm-from-psychotropics-in-people-with-learning-disabilities-community-of-practice",
+    "title": "Event: Reducing Harm From Psychotropics in People with Learning Disabilities: Community of Practice",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-23T18:40:39.575Z",
+    "previousHash": null,
+    "newHash": "19cebc51e1d9973b",
+    "acknowledged": false
+  },
+  "change:1774291239575:22306be09178dad8": {
+    "id": "change:1774291239575:22306be09178dad8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-publishes-technical-resources-to-support-delivery-of-the-2026-27-gp-contract",
+    "title": "News: NHS England publishes technical resources to support delivery of the 2026/27 GP Contract",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-23T18:40:39.575Z",
+    "previousHash": null,
+    "newHash": "4e6cd4520300e8d1",
+    "acknowledged": false
+  },
+  "change:1774291239575:9394553b0302c29f": {
+    "id": "change:1774291239575:9394553b0302c29f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhse-releases-nhs-app-feature-for-emis-practices-across-ncl",
+    "title": "News: NHSE releases NHS App feature for EMIS practices across NCL",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-23T18:40:39.575Z",
+    "previousHash": null,
+    "newHash": "6fe80c1378130f5b",
+    "acknowledged": false
   }
 }

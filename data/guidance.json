@@ -712,5 +712,56 @@
       "estimatedReadTime": 1,
       "description": "Home \n\r\n\r\n\r\n\r\n\r\nNews \n\r\n\r\n\r\nARTP Conference Buddy Scheme\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\nARTP Conference Buddy Scheme\n\r\n\r\n\r\n\r\n\r\n20 March 2026\r\n(Last updated: 12 Mar 2026 15:11) \r\n\r\n\n\r\n\r\n\r\n\r\n\n\r\n\r\nClick here to register"
     }
+  },
+  "content:61d832028059487f": {
+    "id": "content:61d832028059487f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/reducing-harm-from-psychotropics-in-people-with-learning-disabilities-community-of-practice",
+    "title": "Event: Reducing Harm From Psychotropics in People with Learning Disabilities: Community of Practice",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-23",
+    "fetchedDate": "2026-03-23T18:40:39.575Z",
+    "contentHash": "19cebc51e1d9973b",
+    "content": "This event supports the NHS England Patient Safety Collaborative programme on reducing harm from psychotropic medicines used for behaviour that challenges in people with a learning disability. Starts at 12.30pm on Tuesday 28 April.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 34,
+      "estimatedReadTime": 1,
+      "description": "This event supports the NHS England Patient Safety Collaborative programme on reducing harm from psychotropic medicines used for behaviour that challenges in people with a learning disability. Starts "
+    }
+  },
+  "content:22306be09178dad8": {
+    "id": "content:22306be09178dad8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-publishes-technical-resources-to-support-delivery-of-the-2026-27-gp-contract",
+    "title": "News: NHS England publishes technical resources to support delivery of the 2026/27 GP Contract",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-23",
+    "fetchedDate": "2026-03-23T18:40:39.575Z",
+    "contentHash": "4e6cd4520300e8d1",
+    "content": "Technical resources to help GPs manage clinically urgent patients and use data systems effectively for the 2026/27 contract.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 18,
+      "estimatedReadTime": 1,
+      "description": "Technical resources to help GPs manage clinically urgent patients and use data systems effectively for the 2026/27 contract."
+    }
+  },
+  "content:9394553b0302c29f": {
+    "id": "content:9394553b0302c29f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhse-releases-nhs-app-feature-for-emis-practices-across-ncl",
+    "title": "News: NHSE releases NHS App feature for EMIS practices across NCL",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-23",
+    "fetchedDate": "2026-03-23T18:40:39.575Z",
+    "contentHash": "6fe80c1378130f5b",
+    "content": "NHS England is seeking feedback to understand the impact of this change to support the national roll‑out. Share your views to help optimise the feature for both patients and practices.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 30,
+      "estimatedReadTime": 1,
+      "description": "NHS England is seeking feedback to understand the impact of this change to support the national roll‑out. Share your views to help optimise the feature for both patients and practices."
+    }
   }
 }
