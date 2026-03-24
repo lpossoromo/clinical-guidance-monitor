@@ -470,5 +470,29 @@
     "discovered": "2026-03-24T12:51:06.398Z",
     "publishedDate": "Mon, 23 Mar 2026 16:14:31 +0000",
     "source": "ncl"
+  },
+  "ncl:f3e8b4c16da7c6f4": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-16-20-march-2026",
+    "title": "News: EMIS Global update: 16&#45;20 March 2026",
+    "description": "See what&#039;s new in EMIS Global",
+    "discovered": "2026-03-24T18:51:03.855Z",
+    "publishedDate": "Tue, 24 Mar 2026 18:15:25 +0000",
+    "source": "ncl"
+  },
+  "ncl:0e669914f4ea3b05": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wh-ceo-delivers-message-to-primary-care-colleagues",
+    "title": "News: WH CEO delivers message to primary care colleagues",
+    "description": "The recently appointed Chief Executive of Whittington Health, Selina Douglas, has written an introductory message to GPs and primary care colleagues in Haringey, Islington and across north central London.",
+    "discovered": "2026-03-24T18:51:03.856Z",
+    "publishedDate": "Tue, 24 Mar 2026 16:15:34 +0000",
+    "source": "ncl"
+  },
+  "ncl:9e1284a5afdb08c9": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/clinical-pathways/chronic-kidney-disease-ckd",
+    "title": "Pathway: Chronic Kidney Disease",
+    "description": "The NCL CKD pathway has been updated to include key updates and NICE guidance. This includes streamlining prescribing guidance for SGLT2 inhibitors. The changes have been approved by the NCL CKD Network, Medicines &amp; GPPA CRG and NCL CAG.",
+    "discovered": "2026-03-24T18:51:03.857Z",
+    "publishedDate": "Tue, 24 Mar 2026 12:53:27 +0000",
+    "source": "ncl"
   }
 }

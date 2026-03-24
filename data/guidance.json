@@ -797,5 +797,56 @@
       "estimatedReadTime": 1,
       "description": "NHS England is seeking feedback to understand the impact of this change to support the national roll‑out. Share your views to help optimise the feature for both patients and practices."
     }
+  },
+  "content:f3e8b4c16da7c6f4": {
+    "id": "content:f3e8b4c16da7c6f4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-16-20-march-2026",
+    "title": "News: EMIS Global update: 16&#45;20 March 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-24",
+    "fetchedDate": "2026-03-24T18:51:03.856Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
+  },
+  "content:0e669914f4ea3b05": {
+    "id": "content:0e669914f4ea3b05",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wh-ceo-delivers-message-to-primary-care-colleagues",
+    "title": "News: WH CEO delivers message to primary care colleagues",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-24",
+    "fetchedDate": "2026-03-24T18:51:03.857Z",
+    "contentHash": "12d4dee6ef7159e6",
+    "content": "The recently appointed Chief Executive of Whittington Health, Selina Douglas, has written an introductory message to GPs and primary care colleagues in Haringey, Islington and across north central London.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 29,
+      "estimatedReadTime": 1,
+      "description": "The recently appointed Chief Executive of Whittington Health, Selina Douglas, has written an introductory message to GPs and primary care colleagues in Haringey, Islington and across north central Lon"
+    }
+  },
+  "content:9e1284a5afdb08c9": {
+    "id": "content:9e1284a5afdb08c9",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/clinical-pathways/chronic-kidney-disease-ckd",
+    "title": "Pathway: Chronic Kidney Disease",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-24",
+    "fetchedDate": "2026-03-24T18:51:03.857Z",
+    "contentHash": "41f70eb04f3ed3b8",
+    "content": "The NCL CKD pathway has been updated to include key updates and NICE guidance. This includes streamlining prescribing guidance for SGLT2 inhibitors. The changes have been approved by the NCL CKD Network, Medicines &amp; GPPA CRG and NCL CAG.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 39,
+      "estimatedReadTime": 1,
+      "description": "The NCL CKD pathway has been updated to include key updates and NICE guidance. This includes streamlining prescribing guidance for SGLT2 inhibitors. The changes have been approved by the NCL CKD Netwo"
+    }
   }
 }
