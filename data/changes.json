@@ -493,5 +493,27 @@
     "previousHash": null,
     "newHash": "6fe80c1378130f5b",
     "acknowledged": false
+  },
+  "change:1774356666397:28da2b076a7d095c": {
+    "id": "change:1774356666397:28da2b076a7d095c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-publishes-technical-resources-to-support-delivery-of-2026-27-gp-contract",
+    "title": "News: NHS England publishes technical resources to support delivery of 2026&#45;27 GP contract",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-24T12:51:06.397Z",
+    "previousHash": null,
+    "newHash": "d2af8e3c55ff5876",
+    "acknowledged": false
+  },
+  "change:1774356666398:6d9918c0021a6e86": {
+    "id": "change:1774356666398:6d9918c0021a6e86",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-releases-nhs-app-feature-for-emis-practices-across-ncl",
+    "title": "News: NHS England releases NHS App feature for EMIS practices across NCL",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-24T12:51:06.398Z",
+    "previousHash": null,
+    "newHash": "6fe80c1378130f5b",
+    "acknowledged": false
   }
 }

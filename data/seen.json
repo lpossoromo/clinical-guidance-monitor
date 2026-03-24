@@ -454,5 +454,21 @@
     "discovered": "2026-03-23T18:40:39.575Z",
     "publishedDate": "Mon, 23 Mar 2026 16:14:31 +0000",
     "source": "ncl"
+  },
+  "ncl:28da2b076a7d095c": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-publishes-technical-resources-to-support-delivery-of-2026-27-gp-contract",
+    "title": "News: NHS England publishes technical resources to support delivery of 2026&#45;27 GP contract",
+    "description": "NHSE Technical resources to help GPs manage clinically urgent patients and use data systems effectively for the 2026/27 contract.",
+    "discovered": "2026-03-24T12:51:06.397Z",
+    "publishedDate": "Tue, 24 Mar 2026 10:24:07 +0000",
+    "source": "ncl"
+  },
+  "ncl:6d9918c0021a6e86": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-releases-nhs-app-feature-for-emis-practices-across-ncl",
+    "title": "News: NHS England releases NHS App feature for EMIS practices across NCL",
+    "description": "NHS England is seeking feedback to understand the impact of this change to support the national roll‑out. Share your views to help optimise the feature for both patients and practices.",
+    "discovered": "2026-03-24T12:51:06.398Z",
+    "publishedDate": "Mon, 23 Mar 2026 16:14:31 +0000",
+    "source": "ncl"
   }
 }
