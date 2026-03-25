@@ -848,5 +848,22 @@
       "estimatedReadTime": 1,
       "description": "The NCL CKD pathway has been updated to include key updates and NICE guidance. This includes streamlining prescribing guidance for SGLT2 inhibitors. The changes have been approved by the NCL CKD Netwo"
     }
+  },
+  "content:72292bc13b5075c8": {
+    "id": "content:72292bc13b5075c8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-on-the-formation-of-nhs-west-and-north-london-on-1-april",
+    "title": "News: Update on the formation of NHS West and North London on 1 April",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-25",
+    "fetchedDate": "2026-03-25T12:45:50.499Z",
+    "contentHash": "33ae4112c5743970",
+    "content": "A message from Sarah McIlwaine, Director of Primary Care, NHS North Central London Integrated Care Board.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 16,
+      "estimatedReadTime": 1,
+      "description": "A message from Sarah McIlwaine, Director of Primary Care, NHS North Central London Integrated Care Board."
+    }
   }
 }
