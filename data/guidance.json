@@ -865,5 +865,22 @@
       "estimatedReadTime": 1,
       "description": "A message from Sarah McIlwaine, Director of Primary Care, NHS North Central London Integrated Care Board."
     }
+  },
+  "content:fbb5f2b2e07af331": {
+    "id": "content:fbb5f2b2e07af331",
+    "url": "https://www.england.nhs.uk/2026/03/record-gp-access-figures/",
+    "title": "Record GP access figures",
+    "source": "nhs",
+    "type": "article",
+    "publishedDate": "Thu, 26 Mar 2026 11:56:05 +0000",
+    "fetchedDate": "2026-03-26T12:54:07.161Z",
+    "contentHash": "686714e0487d994c",
+    "content": "Dr Amanda Doyle, National Director for Primary Care and Community Services at NHS England, said: “GP teams are working harder than ever, delivering more than 1.5 million appointments for patients every working day over the last year – the highest number on record.\n\n“In part, this is due to practices now offering patients the choice of contacting them online – with millions more people choosing this route in February compared to last year.\n\n“We know we still have more to do and it can still be frustrating for patients and practices when people are unable to get through on the phone, particularly first thing in the morning – but increasing online access is helping get rid of that 8am scramble.\n\nBackground\n\nFigures published today (Thursday 26 March 2026) show that 83 million online consultation requests were made over the last 12 months, cementing digital access as a core part of modern general practice.\n\nFebruary was a record month with 8.6 million online consultation submissions, up 85% on February 2025.\n\nThe increase is 53.4% when adjusted for the change in coverage by using the rate per 1,000 patients.\n\nGP teams carried out a record 388 million appointments in the last year , up 8.3 million on the previous year. There were 29.2 million phone calls in February alone – which is more than a million each working day.\n\nLatest Office for National Statistics figures show the proportion of patients now describing contacting their GP practice as easy (73.7%) is up from two-thirds in summer 2024.\n\nDate published : 26 March, 2026 \n\nDate last updated : 26 March, 2026 \n\nTopics\n\nGeneral practice \nGP online services \nPrimary care",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 275,
+      "estimatedReadTime": 2,
+      "description": "Dr Amanda Doyle, National Director for Primary Care and Community Services at NHS England, said: “GP teams are working harder than ever, delivering more than 1.5 million appointments for patients every working day over the last year – the highest number on record. “In part, this is due to practices now offering patients the choice [&#8230;]"
+    }
   }
 }
