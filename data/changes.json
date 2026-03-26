@@ -570,5 +570,16 @@
     "previousHash": null,
     "newHash": "686714e0487d994c",
     "acknowledged": false
+  },
+  "change:1774531106245:3a633239e6b438ca": {
+    "id": "change:1774531106245:3a633239e6b438ca",
+    "url": "https://www.artp.org.uk/news/169/ahcs_latest_update_on_pgds",
+    "title": "Ahcs Latest Update On Pgds",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-26T13:18:26.244Z",
+    "previousHash": null,
+    "newHash": "7e36f47ab6bf0c03",
+    "acknowledged": false
   }
 }

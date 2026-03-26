@@ -510,5 +510,11 @@
     "discovered": "2026-03-26T12:54:07.139Z",
     "publishedDate": "Thu, 26 Mar 2026 11:56:05 +0000",
     "source": "nhs"
+  },
+  "artp:3a633239e6b438ca": {
+    "url": "https://www.artp.org.uk/news/169/ahcs_latest_update_on_pgds",
+    "title": "Ahcs Latest Update On Pgds",
+    "discovered": "2026-03-26T13:18:25.257Z",
+    "source": "artp"
   }
 }
