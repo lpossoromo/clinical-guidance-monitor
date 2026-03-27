@@ -516,5 +516,21 @@
     "title": "Ahcs Latest Update On Pgds",
     "discovered": "2026-03-26T13:18:25.257Z",
     "source": "artp"
+  },
+  "ncl:8d4202d1d6ba65a6": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/gp-webinar-summary-26-march-2026",
+    "title": "News: GP Webinar summary: 26 March 2026",
+    "description": "Find a summary of recent meetings at any time by putting &#039;GP webinar&#039; into the NCL General Practice Website&#039;s search bar.",
+    "discovered": "2026-03-27T18:44:12.470Z",
+    "publishedDate": "Fri, 27 Mar 2026 16:00:30 +0000",
+    "source": "ncl"
+  },
+  "ncl:9513a5328794ac1a": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-death-notifications-to-be-emailed-to-practice-from-1-april",
+    "title": "News: RFL update: Death notifications to be emailed to practice from 1 April",
+    "description": "From 1 April, death notifications from the Royal Free and Barnet Hospital will be emailed to practices with NHS.net addresses. Practices without an NHS email account will continue to receive letters by post.",
+    "discovered": "2026-03-27T18:44:12.471Z",
+    "publishedDate": "Fri, 27 Mar 2026 15:36:43 +0000",
+    "source": "ncl"
   }
 }

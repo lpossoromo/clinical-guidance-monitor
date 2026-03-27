@@ -581,5 +581,27 @@
     "previousHash": null,
     "newHash": "7e36f47ab6bf0c03",
     "acknowledged": false
+  },
+  "change:1774637052470:8d4202d1d6ba65a6": {
+    "id": "change:1774637052470:8d4202d1d6ba65a6",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/gp-webinar-summary-26-march-2026",
+    "title": "News: GP Webinar summary: 26 March 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-27T18:44:12.470Z",
+    "previousHash": null,
+    "newHash": "660fd1d7fe157daa",
+    "acknowledged": false
+  },
+  "change:1774637052471:9513a5328794ac1a": {
+    "id": "change:1774637052471:9513a5328794ac1a",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-death-notifications-to-be-emailed-to-practice-from-1-april",
+    "title": "News: RFL update: Death notifications to be emailed to practice from 1 April",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-27T18:44:12.471Z",
+    "previousHash": null,
+    "newHash": "67d933988fa5eae2",
+    "acknowledged": false
   }
 }
