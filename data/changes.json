@@ -603,5 +603,16 @@
     "previousHash": null,
     "newHash": "67d933988fa5eae2",
     "acknowledged": false
+  },
+  "change:1774875452083:6aaf00052e4db2cf": {
+    "id": "change:1774875452083:6aaf00052e4db2cf",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/eating-and-passover-a-guide-for-professionals",
+    "title": "News: Eating and Passover: A guide for professionals",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-30T12:57:32.083Z",
+    "previousHash": null,
+    "newHash": "f26567cf379b2a84",
+    "acknowledged": false
   }
 }

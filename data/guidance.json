@@ -933,5 +933,22 @@
       "estimatedReadTime": 1,
       "description": "From 1 April, death notifications from the Royal Free and Barnet Hospital will be emailed to practices with NHS.net addresses. Practices without an NHS email account will continue to receive letters b"
     }
+  },
+  "content:6aaf00052e4db2cf": {
+    "id": "content:6aaf00052e4db2cf",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/eating-and-passover-a-guide-for-professionals",
+    "title": "News: Eating and Passover: A guide for professionals",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-30",
+    "fetchedDate": "2026-03-30T12:57:32.083Z",
+    "contentHash": "f26567cf379b2a84",
+    "content": "View the professionals guide to supporting patients with eating disorders over the Jewish holiday of Passover.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 16,
+      "estimatedReadTime": 1,
+      "description": "View the professionals guide to supporting patients with eating disorders over the Jewish holiday of Passover."
+    }
   }
 }

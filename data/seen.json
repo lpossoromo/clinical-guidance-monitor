@@ -532,5 +532,13 @@
     "discovered": "2026-03-27T18:44:12.471Z",
     "publishedDate": "Fri, 27 Mar 2026 15:36:43 +0000",
     "source": "ncl"
+  },
+  "ncl:6aaf00052e4db2cf": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/eating-and-passover-a-guide-for-professionals",
+    "title": "News: Eating and Passover: A guide for professionals",
+    "description": "View the professionals guide to supporting patients with eating disorders over the Jewish holiday of Passover.",
+    "discovered": "2026-03-30T12:57:32.083Z",
+    "publishedDate": "Mon, 30 Mar 2026 08:43:38 +0000",
+    "source": "ncl"
   }
 }
