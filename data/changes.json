@@ -614,5 +614,27 @@
     "previousHash": null,
     "newHash": "f26567cf379b2a84",
     "acknowledged": false
+  },
+  "change:1774961764609:39a559cc9acb1523": {
+    "id": "change:1774961764609:39a559cc9acb1523",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-primary-care-finance-queries-mailbox",
+    "title": "News: Update: Primary Care Finance Queries Mailbox",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-31T12:56:04.609Z",
+    "previousHash": null,
+    "newHash": "440d7c944e3c0dda",
+    "acknowledged": false
+  },
+  "change:1774961764610:5a5f25a253d71870": {
+    "id": "change:1774961764610:5a5f25a253d71870",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nlft-publish-personality-disorder-medication-reduction-information",
+    "title": "News: NLFT publish personality disorder medication reduction information",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-03-31T12:56:04.610Z",
+    "previousHash": null,
+    "newHash": "2e80967e2993ab48",
+    "acknowledged": false
   }
 }

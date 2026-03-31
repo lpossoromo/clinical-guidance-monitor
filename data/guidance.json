@@ -950,5 +950,39 @@
       "estimatedReadTime": 1,
       "description": "View the professionals guide to supporting patients with eating disorders over the Jewish holiday of Passover."
     }
+  },
+  "content:39a559cc9acb1523": {
+    "id": "content:39a559cc9acb1523",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-primary-care-finance-queries-mailbox",
+    "title": "News: Update: Primary Care Finance Queries Mailbox",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-31",
+    "fetchedDate": "2026-03-31T12:56:04.609Z",
+    "contentHash": "440d7c944e3c0dda",
+    "content": "For any primary care finance queries, use the updated email address effective from 1 April.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 15,
+      "estimatedReadTime": 1,
+      "description": "For any primary care finance queries, use the updated email address effective from 1 April."
+    }
+  },
+  "content:5a5f25a253d71870": {
+    "id": "content:5a5f25a253d71870",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nlft-publish-personality-disorder-medication-reduction-information",
+    "title": "News: NLFT publish personality disorder medication reduction information",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-03-31",
+    "fetchedDate": "2026-03-31T12:56:04.610Z",
+    "contentHash": "2e80967e2993ab48",
+    "content": "Developed by Camden and Islington Personality Disorder service based on current NICE guidance and lived experience user feedback.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 18,
+      "estimatedReadTime": 1,
+      "description": "Developed by Camden and Islington Personality Disorder service based on current NICE guidance and lived experience user feedback."
+    }
   }
 }
