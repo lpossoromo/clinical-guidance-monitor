@@ -556,5 +556,45 @@
     "discovered": "2026-03-31T12:56:04.610Z",
     "publishedDate": "Tue, 31 Mar 2026 09:25:21 +0000",
     "source": "ncl"
+  },
+  "ncl:6c16946aae020cbb": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-23-27-march-2026",
+    "title": "News: EMIS Global update: 23&#45;27 March 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-03-31T18:49:16.167Z",
+    "publishedDate": "Tue, 31 Mar 2026 17:29:13 +0000",
+    "source": "ncl"
+  },
+  "ncl:26c104af7aa1eee2": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/heart-failure-awareness-week-webinar",
+    "title": "Event: Heart Failure Awareness Week Webinar",
+    "description": "Find out more about implementing NICE Heart Failure Guidance and the new HF QOF Metric (HF009) in primary care. Starts at 12.30pm on Wednesday 6 May.",
+    "discovered": "2026-03-31T18:49:16.168Z",
+    "publishedDate": "Tue, 31 Mar 2026 16:15:58 +0000",
+    "source": "ncl"
+  },
+  "ncl:f20db5cc8c683dc8": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/rethinking-frailty-innovation-insight-and-integrated-care-at-the-royal-free-london",
+    "title": "Event: Rethinking Frailty: Innovation, Insight and Integrated Care at Royal Free London",
+    "description": "Join this webinar looking at how innovation and integrated care is being used in frailty management at 6pm on Tuesday 21 April 2026. Apply for your place 25 hours in advance.",
+    "discovered": "2026-03-31T18:49:16.168Z",
+    "publishedDate": "Tue, 31 Mar 2026 13:33:19 +0000",
+    "source": "ncl"
+  },
+  "ncl:93405ad6990162f6": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-single-primary-care-finance-queries-mailbox",
+    "title": "News: Update: Single primary care finance queries mailbox",
+    "description": "For any primary care finance queries, use the WNL ICB updated email address effective from 1 April.",
+    "discovered": "2026-03-31T18:49:16.169Z",
+    "publishedDate": "Tue, 31 Mar 2026 12:26:10 +0000",
+    "source": "ncl"
+  },
+  "ncl:148b1621edcda506": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mental-health-trust-publishes-personality-disorder-medication-reduction-information",
+    "title": "News: Mental health trust publishes personality disorder medication&#45;reduction information",
+    "description": "Developed by Camden and Islington Personality Disorder service, the North London Foundation Trust (NLFT) information is based on current NICE guidance and lived experience user feedback.",
+    "discovered": "2026-03-31T18:49:16.169Z",
+    "publishedDate": "Tue, 31 Mar 2026 15:46:23 +0000",
+    "source": "ncl"
   }
 }
