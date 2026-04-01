@@ -702,5 +702,49 @@
     "previousHash": null,
     "newHash": "1134811d4a4974b4",
     "acknowledged": false
+  },
+  "change:1775048296725:075f52a6e3d32a88": {
+    "id": "change:1775048296725:075f52a6e3d32a88",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-uclh-breast-pain-pathway-available-for-referral",
+    "title": "News: Reminder: UCLH breast pain pathway available for referral",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-01T12:58:16.725Z",
+    "previousHash": null,
+    "newHash": "d2e5f60af21a0227",
+    "acknowledged": false
+  },
+  "change:1775048296726:afb68458d7e253bd": {
+    "id": "change:1775048296726:afb68458d7e253bd",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/maternity-referral-changes-taking-place-at-homerton-hospital",
+    "title": "News: Maternity referral changes taking place at Homerton Hospital",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-01T12:58:16.726Z",
+    "previousHash": null,
+    "newHash": "ed58f3b3cecb4a97",
+    "acknowledged": false
+  },
+  "change:1775048296726:ae3f498bbf15ed51": {
+    "id": "change:1775048296726:ae3f498bbf15ed51",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-west-and-north-london-icb-from-wednesday-1-april",
+    "title": "News:  NHS West and North London ICB launched, Wednesday 1 April",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-01T12:58:16.726Z",
+    "previousHash": null,
+    "newHash": "3f96e6a506507a91",
+    "acknowledged": false
+  },
+  "change:1775048296727:c3d86c47c08e68e2": {
+    "id": "change:1775048296727:c3d86c47c08e68e2",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-change-to-email-address-for-primary-care-finance-queries",
+    "title": "News: Update: Change to email address for primary care finance queries",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-01T12:58:16.727Z",
+    "previousHash": null,
+    "newHash": "092005bc0badfb3b",
+    "acknowledged": false
   }
 }

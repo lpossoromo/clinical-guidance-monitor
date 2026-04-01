@@ -604,5 +604,37 @@
     "discovered": "2026-04-01T01:47:37.703Z",
     "publishedDate": "Tue, 31 Mar 2026 23:01:50 +0000",
     "source": "nhs"
+  },
+  "ncl:075f52a6e3d32a88": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-uclh-breast-pain-pathway-available-for-referral",
+    "title": "News: Reminder: UCLH breast pain pathway available for referral",
+    "description": "Breast pain alone isn&rsquo;t a symptom of cancer.&nbsp;University College London Hospitals runs&nbsp;a weekly breast pain clinic, alongside Royal Free London and Whittington Health clinics. Patients with breast abnormalities will be upgraded for imaging.",
+    "discovered": "2026-04-01T12:58:16.725Z",
+    "publishedDate": "Wed, 01 Apr 2026 11:57:11 +0000",
+    "source": "ncl"
+  },
+  "ncl:afb68458d7e253bd": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/maternity-referral-changes-taking-place-at-homerton-hospital",
+    "title": "News: Maternity referral changes taking place at Homerton Hospital",
+    "description": "Pregnant women and people living in NCL registered with an NCL GP practice will no longer be able to book into Homerton Hospital. The change occurred from Tuesday 17 February and will last for 3 months to manage demand and maintain high-quality care.",
+    "discovered": "2026-04-01T12:58:16.726Z",
+    "publishedDate": "Wed, 01 Apr 2026 09:25:30 +0000",
+    "source": "ncl"
+  },
+  "ncl:ae3f498bbf15ed51": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-west-and-north-london-icb-from-wednesday-1-april",
+    "title": "News:  NHS West and North London ICB launched, Wednesday 1 April",
+    "description": "Merger of North Central London and North West London ICBs formally takes place on Wednesday 1 April. There are no immediate changes to how&nbsp;GP practices and primary care providers are working with the ICB.&nbsp;",
+    "discovered": "2026-04-01T12:58:16.726Z",
+    "publishedDate": "Wed, 01 Apr 2026 11:07:51 +0000",
+    "source": "ncl"
+  },
+  "ncl:c3d86c47c08e68e2": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-change-to-email-address-for-primary-care-finance-queries",
+    "title": "News: Update: Change to email address for primary care finance queries",
+    "description": "From 1 April, the Primary Care Finance Queries mailbox will change to wnlicb.primarycarefinance@nhs.net. This is due to the merger of ICBs to form West and North London ICB. Please share with your practice finance colleagues.",
+    "discovered": "2026-04-01T12:58:16.727Z",
+    "publishedDate": "Wed, 01 Apr 2026 12:08:08 +0000",
+    "source": "ncl"
   }
 }
