@@ -691,5 +691,16 @@
     "previousHash": null,
     "newHash": "41f416cda90b19b8",
     "acknowledged": false
+  },
+  "change:1775008057936:c690e1997de2cd03": {
+    "id": "change:1775008057936:c690e1997de2cd03",
+    "url": "https://www.england.nhs.uk/2026/04/million-people-offered-wegovy-cut-heart-attack-stroke-risk/",
+    "title": "Over a million people could be offered Wegovy to cut heart attack and stroke risk on the NHS",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-01T01:47:37.936Z",
+    "previousHash": null,
+    "newHash": "1134811d4a4974b4",
+    "acknowledged": false
   }
 }
