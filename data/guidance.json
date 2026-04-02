@@ -1171,5 +1171,39 @@
       "estimatedReadTime": 1,
       "description": "The Community Rehabilitation Beds (step-up) Pathway is for people who need intensive support with rehabilitation, reablement or recovery (up to three weeks), but do not require admission to an acute."
     }
+  },
+  "content:253b01f6778a5f90": {
+    "id": "content:253b01f6778a5f90",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nice-recommends-oral-treatments-for-endometriosis-and-uterine-fibroids",
+    "title": "News: NICE recommends oral treatments for endometriosis and uterine fibroids",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-02",
+    "fetchedDate": "2026-04-02T18:43:29.564Z",
+    "contentHash": "6aa54b1ee316cc43",
+    "content": "Guidance is available from the National Institute for Health and Care Excellence (NICE) on oral treatments for moderate-to-severe symptoms of uterine fibroids and endometriosis in adults of reproductive age who have had medical or surgical treatment.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 36,
+      "estimatedReadTime": 1,
+      "description": "Guidance is available from the National Institute for Health and Care Excellence (NICE) on oral treatments for moderate-to-severe symptoms of uterine fibroids and endometriosis in adults of reproducti"
+    }
+  },
+  "content:7aa012cf5770b15e": {
+    "id": "content:7aa012cf5770b15e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/community-trust-updates-gps-on-wound-care-prescribing",
+    "title": "News: Community trust updates GPs on wound care prescribing",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-02",
+    "fetchedDate": "2026-04-02T18:43:29.564Z",
+    "contentHash": "c3704e56c5c76f53",
+    "content": "The trust will occasionally ask GPs to issue prescriptions for wound care products for patients in the community to ensure there are no delays to patient care.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 27,
+      "estimatedReadTime": 1,
+      "description": "The trust will occasionally ask GPs to issue prescriptions for wound care products for patients in the community to ensure there are no delays to patient care."
+    }
   }
 }

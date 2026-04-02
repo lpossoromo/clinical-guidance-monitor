@@ -757,5 +757,27 @@
     "previousHash": null,
     "newHash": "7d6b70aeb13f1689",
     "acknowledged": false
+  },
+  "change:1775155409564:253b01f6778a5f90": {
+    "id": "change:1775155409564:253b01f6778a5f90",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nice-recommends-oral-treatments-for-endometriosis-and-uterine-fibroids",
+    "title": "News: NICE recommends oral treatments for endometriosis and uterine fibroids",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-02T18:43:29.564Z",
+    "previousHash": null,
+    "newHash": "6aa54b1ee316cc43",
+    "acknowledged": false
+  },
+  "change:1775155409564:7aa012cf5770b15e": {
+    "id": "change:1775155409564:7aa012cf5770b15e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/community-trust-updates-gps-on-wound-care-prescribing",
+    "title": "News: Community trust updates GPs on wound care prescribing",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-02T18:43:29.564Z",
+    "previousHash": null,
+    "newHash": "c3704e56c5c76f53",
+    "acknowledged": false
   }
 }

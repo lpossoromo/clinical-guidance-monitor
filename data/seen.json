@@ -644,5 +644,21 @@
     "discovered": "2026-04-02T12:52:31.053Z",
     "publishedDate": "Thu, 02 Apr 2026 11:17:36 +0000",
     "source": "ncl"
+  },
+  "ncl:253b01f6778a5f90": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nice-recommends-oral-treatments-for-endometriosis-and-uterine-fibroids",
+    "title": "News: NICE recommends oral treatments for endometriosis and uterine fibroids",
+    "description": "Guidance is available from the National Institute for Health and Care Excellence (NICE) on oral treatments for moderate-to-severe symptoms of uterine fibroids and endometriosis in adults of reproductive age who have had medical or surgical treatment.",
+    "discovered": "2026-04-02T18:43:29.564Z",
+    "publishedDate": "Thu, 02 Apr 2026 17:15:06 +0000",
+    "source": "ncl"
+  },
+  "ncl:7aa012cf5770b15e": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/community-trust-updates-gps-on-wound-care-prescribing",
+    "title": "News: Community trust updates GPs on wound care prescribing",
+    "description": "The trust will occasionally ask GPs to issue prescriptions for wound care products for patients in the community to ensure there are no delays to patient care.",
+    "discovered": "2026-04-02T18:43:29.564Z",
+    "publishedDate": "Thu, 02 Apr 2026 14:44:28 +0000",
+    "source": "ncl"
   }
 }
