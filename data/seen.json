@@ -636,5 +636,13 @@
     "discovered": "2026-04-01T12:58:16.727Z",
     "publishedDate": "Wed, 01 Apr 2026 12:08:08 +0000",
     "source": "ncl"
+  },
+  "ncl:e463037407705579": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/community-rehabilitation-beds-step-up-pathway",
+    "title": "Service: Community Rehabilitation Beds (step&#45;up) Pathway",
+    "description": "The Community Rehabilitation Beds (step-up) Pathway is for people who need intensive support with rehabilitation, reablement or recovery (up to three weeks), but do not require admission to an acute.",
+    "discovered": "2026-04-02T12:52:31.053Z",
+    "publishedDate": "Thu, 02 Apr 2026 11:17:36 +0000",
+    "source": "ncl"
   }
 }

@@ -1154,5 +1154,22 @@
       "estimatedReadTime": 1,
       "description": "From 1 April, the Primary Care Finance Queries mailbox will change to wnlicb.primarycarefinance@nhs.net. This is due to the merger of ICBs to form West and North London ICB. Please share with your pra"
     }
+  },
+  "content:e463037407705579": {
+    "id": "content:e463037407705579",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/community-rehabilitation-beds-step-up-pathway",
+    "title": "Service: Community Rehabilitation Beds (step&#45;up) Pathway",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-02",
+    "fetchedDate": "2026-04-02T12:52:31.053Z",
+    "contentHash": "7d6b70aeb13f1689",
+    "content": "The Community Rehabilitation Beds (step-up) Pathway is for people who need intensive support with rehabilitation, reablement or recovery (up to three weeks), but do not require admission to an acute.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 30,
+      "estimatedReadTime": 1,
+      "description": "The Community Rehabilitation Beds (step-up) Pathway is for people who need intensive support with rehabilitation, reablement or recovery (up to three weeks), but do not require admission to an acute."
+    }
   }
 }

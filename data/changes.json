@@ -746,5 +746,16 @@
     "previousHash": null,
     "newHash": "092005bc0badfb3b",
     "acknowledged": false
+  },
+  "change:1775134351054:e463037407705579": {
+    "id": "change:1775134351054:e463037407705579",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/community-rehabilitation-beds-step-up-pathway",
+    "title": "Service: Community Rehabilitation Beds (step&#45;up) Pathway",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-02T12:52:31.053Z",
+    "previousHash": null,
+    "newHash": "7d6b70aeb13f1689",
+    "acknowledged": false
   }
 }
