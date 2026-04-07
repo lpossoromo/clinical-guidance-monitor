@@ -1222,5 +1222,73 @@
       "estimatedReadTime": 1,
       "description": "Resident doctors&rsquo; strikes &ndash; communications toolkit for GP practices\r\nStrikes taking place from 7.00 Tuesday 7 April to 7.00 Monday 13 April"
     }
+  },
+  "content:519998e7f050a9fe": {
+    "id": "content:519998e7f050a9fe",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-30-march-3-april-2026",
+    "title": "News: EMIS Global update: 30 March&#45;3 April 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-07",
+    "fetchedDate": "2026-04-07T18:51:15.406Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
+  },
+  "content:1abf23ead96b51db": {
+    "id": "content:1abf23ead96b51db",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-offer-psa-testing-to-men-at-high-risk-of-prostate-cancer",
+    "title": "News: Reminder: Offer PSA testing to men at high&#45;risk of prostate cancer",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-07",
+    "fetchedDate": "2026-04-07T18:51:15.407Z",
+    "contentHash": "d066a21f528de1bc",
+    "content": "GPs are reminded to offer a PSA test and initiate a brief discussion with high-risk patients to support early detection of prostate cancer.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "GPs are reminded to offer a PSA test and initiate a brief discussion with high-risk patients to support early detection of prostate cancer."
+    }
+  },
+  "content:c9af13a88d7df850": {
+    "id": "content:c9af13a88d7df850",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resident-doctors-strike-communications-toolkit-for-gp-practices-1",
+    "title": "News: Resident doctors’ strike: Communications toolkit for GP practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-07",
+    "fetchedDate": "2026-04-07T18:51:15.407Z",
+    "contentHash": "6963d68aaee23426",
+    "content": "WNL ICB have created a communications toolkit to support GP practices during the doctors strike.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 15,
+      "estimatedReadTime": 1,
+      "description": "WNL ICB have created a communications toolkit to support GP practices during the doctors strike."
+    }
+  },
+  "content:e9bc95488d76e415": {
+    "id": "content:e9bc95488d76e415",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/awaiting-local-guidance-on-fezolinetant-veoza-r-for-menopause-hot-flush-symptoms",
+    "title": "News: Awaiting local guidance on Fezolinetant (▼Veoza®) for menopause hot flush symptoms",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-02",
+    "fetchedDate": "2026-04-07T18:51:15.408Z",
+    "contentHash": "cc50ac4ebecf5544",
+    "content": "This is for moderate to severe vasomotor symptoms of menopause when hormone replacement therapy (HRT) is not suitable.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 18,
+      "estimatedReadTime": 1,
+      "description": "This is for moderate to severe vasomotor symptoms of menopause when hormone replacement therapy (HRT) is not suitable."
+    }
   }
 }

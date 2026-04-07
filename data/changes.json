@@ -790,5 +790,49 @@
     "previousHash": null,
     "newHash": "ee5647b31f074ae5",
     "acknowledged": false
+  },
+  "change:1775587875406:519998e7f050a9fe": {
+    "id": "change:1775587875406:519998e7f050a9fe",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-30-march-3-april-2026",
+    "title": "News: EMIS Global update: 30 March&#45;3 April 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-07T18:51:15.406Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
+  },
+  "change:1775587875407:1abf23ead96b51db": {
+    "id": "change:1775587875407:1abf23ead96b51db",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-offer-psa-testing-to-men-at-high-risk-of-prostate-cancer",
+    "title": "News: Reminder: Offer PSA testing to men at high&#45;risk of prostate cancer",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-07T18:51:15.407Z",
+    "previousHash": null,
+    "newHash": "d066a21f528de1bc",
+    "acknowledged": false
+  },
+  "change:1775587875407:c9af13a88d7df850": {
+    "id": "change:1775587875407:c9af13a88d7df850",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resident-doctors-strike-communications-toolkit-for-gp-practices-1",
+    "title": "News: Resident doctors’ strike: Communications toolkit for GP practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-07T18:51:15.407Z",
+    "previousHash": null,
+    "newHash": "6963d68aaee23426",
+    "acknowledged": false
+  },
+  "change:1775587875408:e9bc95488d76e415": {
+    "id": "change:1775587875408:e9bc95488d76e415",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/awaiting-local-guidance-on-fezolinetant-veoza-r-for-menopause-hot-flush-symptoms",
+    "title": "News: Awaiting local guidance on Fezolinetant (▼Veoza®) for menopause hot flush symptoms",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-07T18:51:15.408Z",
+    "previousHash": null,
+    "newHash": "cc50ac4ebecf5544",
+    "acknowledged": false
   }
 }

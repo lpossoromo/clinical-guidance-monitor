@@ -668,5 +668,37 @@
     "discovered": "2026-04-07T12:59:55.887Z",
     "publishedDate": "Tue, 07 Apr 2026 09:54:18 +0000",
     "source": "ncl"
+  },
+  "ncl:519998e7f050a9fe": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-30-march-3-april-2026",
+    "title": "News: EMIS Global update: 30 March&#45;3 April 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-04-07T18:51:15.406Z",
+    "publishedDate": "Tue, 07 Apr 2026 16:59:15 +0000",
+    "source": "ncl"
+  },
+  "ncl:1abf23ead96b51db": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-offer-psa-testing-to-men-at-high-risk-of-prostate-cancer",
+    "title": "News: Reminder: Offer PSA testing to men at high&#45;risk of prostate cancer",
+    "description": "GPs are reminded to offer a PSA test and initiate a brief discussion with high-risk patients to support early detection of prostate cancer.",
+    "discovered": "2026-04-07T18:51:15.407Z",
+    "publishedDate": "Tue, 07 Apr 2026 15:52:10 +0000",
+    "source": "ncl"
+  },
+  "ncl:c9af13a88d7df850": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resident-doctors-strike-communications-toolkit-for-gp-practices-1",
+    "title": "News: Resident doctors’ strike: Communications toolkit for GP practices",
+    "description": "WNL ICB have created a communications toolkit to support GP practices during the doctors strike.",
+    "discovered": "2026-04-07T18:51:15.407Z",
+    "publishedDate": "Tue, 07 Apr 2026 15:24:20 +0000",
+    "source": "ncl"
+  },
+  "ncl:e9bc95488d76e415": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/awaiting-local-guidance-on-fezolinetant-veoza-r-for-menopause-hot-flush-symptoms",
+    "title": "News: Awaiting local guidance on Fezolinetant (▼Veoza®) for menopause hot flush symptoms",
+    "description": "This is for moderate to severe vasomotor symptoms of menopause when hormone replacement therapy (HRT) is not suitable.",
+    "discovered": "2026-04-07T18:51:15.408Z",
+    "publishedDate": "Thu, 02 Apr 2026 15:57:26 +0000",
+    "source": "ncl"
   }
 }
