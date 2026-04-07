@@ -1205,5 +1205,22 @@
       "estimatedReadTime": 1,
       "description": "The trust will occasionally ask GPs to issue prescriptions for wound care products for patients in the community to ensure there are no delays to patient care."
     }
+  },
+  "content:8af3ae545bd0815c": {
+    "id": "content:8af3ae545bd0815c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resident-doctors-strikes-communications-toolkit-for-gp-practices-1",
+    "title": "News: Resident doctors’ strikes: Communications toolkit for GP practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-07",
+    "fetchedDate": "2026-04-07T12:59:55.887Z",
+    "contentHash": "ee5647b31f074ae5",
+    "content": "Resident doctors&rsquo; strikes &ndash; communications toolkit for GP practices\r\nStrikes taking place from 7.00 Tuesday 7 April to 7.00 Monday 13 April",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 22,
+      "estimatedReadTime": 1,
+      "description": "Resident doctors&rsquo; strikes &ndash; communications toolkit for GP practices\r\nStrikes taking place from 7.00 Tuesday 7 April to 7.00 Monday 13 April"
+    }
   }
 }
