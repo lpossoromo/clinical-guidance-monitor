@@ -834,5 +834,16 @@
     "previousHash": null,
     "newHash": "cc50ac4ebecf5544",
     "acknowledged": false
+  },
+  "change:1775742169472:f736c1afac3147db": {
+    "id": "change:1775742169472:f736c1afac3147db",
+    "url": "https://www.artp.org.uk/news/170/new_artp_business_continuity_planning_sop",
+    "title": "New Artp Business Continuity Planning Sop",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-09T13:42:49.472Z",
+    "previousHash": null,
+    "newHash": "e855ab89784a5576",
+    "acknowledged": false
   }
 }

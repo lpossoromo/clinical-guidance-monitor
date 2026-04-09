@@ -700,5 +700,11 @@
     "discovered": "2026-04-07T18:51:15.408Z",
     "publishedDate": "Thu, 02 Apr 2026 15:57:26 +0000",
     "source": "ncl"
+  },
+  "artp:f736c1afac3147db": {
+    "url": "https://www.artp.org.uk/news/170/new_artp_business_continuity_planning_sop",
+    "title": "New Artp Business Continuity Planning Sop",
+    "discovered": "2026-04-09T13:42:48.585Z",
+    "source": "artp"
   }
 }
