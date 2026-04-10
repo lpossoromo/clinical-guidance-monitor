@@ -714,5 +714,21 @@
     "discovered": "2026-04-10T12:49:49.000Z",
     "publishedDate": "Fri, 10 Apr 2026 09:00:34 +0000",
     "source": "ncl"
+  },
+  "ncl:7ede23bc595082a4": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/red-cell-community-service",
+    "title": "Service: Red Cell Community Service",
+    "description": "Read more on the UCLH Hospital@Home sickle cell step-up pathway offering safe, specialist hospital-level care at home for suitable UCLH-registered patients experiencing an acute sickle cell pain episode in the community.",
+    "discovered": "2026-04-10T18:40:06.610Z",
+    "publishedDate": "Fri, 10 Apr 2026 15:34:44 +0000",
+    "source": "ncl"
+  },
+  "ncl:7b256cf0d3633878": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/change-to-rapid-access-chest-pain-clinic-referrals-new-form-and-pathway",
+    "title": "Event: Change to Rapid Access Chest Pain Clinic Referrals: New Form and Pathway",
+    "description": "Join this training session covering stable angina and the introduction of a new referral form to support patient pathways and echance clinical efficiency. Wednesday 22 April at 1pm.",
+    "discovered": "2026-04-10T18:40:06.610Z",
+    "publishedDate": "Fri, 10 Apr 2026 13:34:11 +0000",
+    "source": "ncl"
   }
 }

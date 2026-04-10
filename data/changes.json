@@ -856,5 +856,27 @@
     "previousHash": null,
     "newHash": "40487fd2f50d166f",
     "acknowledged": false
+  },
+  "change:1775846406610:7ede23bc595082a4": {
+    "id": "change:1775846406610:7ede23bc595082a4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/red-cell-community-service",
+    "title": "Service: Red Cell Community Service",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-10T18:40:06.610Z",
+    "previousHash": null,
+    "newHash": "e059c31aa6c89baf",
+    "acknowledged": false
+  },
+  "change:1775846406610:7b256cf0d3633878": {
+    "id": "change:1775846406610:7b256cf0d3633878",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/change-to-rapid-access-chest-pain-clinic-referrals-new-form-and-pathway",
+    "title": "Event: Change to Rapid Access Chest Pain Clinic Referrals: New Form and Pathway",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-10T18:40:06.610Z",
+    "previousHash": null,
+    "newHash": "9d4b753ccfe07f1a",
+    "acknowledged": false
   }
 }

@@ -1324,5 +1324,39 @@
       "estimatedReadTime": 1,
       "description": "NCL Cancer Alliance develop EMIS template to improve primary care clinical coding."
     }
+  },
+  "content:7ede23bc595082a4": {
+    "id": "content:7ede23bc595082a4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/red-cell-community-service",
+    "title": "Service: Red Cell Community Service",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-10",
+    "fetchedDate": "2026-04-10T18:40:06.610Z",
+    "contentHash": "e059c31aa6c89baf",
+    "content": "Read more on the UCLH Hospital@Home sickle cell step-up pathway offering safe, specialist hospital-level care at home for suitable UCLH-registered patients experiencing an acute sickle cell pain episode in the community.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "Read more on the UCLH Hospital@Home sickle cell step-up pathway offering safe, specialist hospital-level care at home for suitable UCLH-registered patients experiencing an acute sickle cell pain episo"
+    }
+  },
+  "content:7b256cf0d3633878": {
+    "id": "content:7b256cf0d3633878",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/change-to-rapid-access-chest-pain-clinic-referrals-new-form-and-pathway",
+    "title": "Event: Change to Rapid Access Chest Pain Clinic Referrals: New Form and Pathway",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-10",
+    "fetchedDate": "2026-04-10T18:40:06.610Z",
+    "contentHash": "9d4b753ccfe07f1a",
+    "content": "Join this training session covering stable angina and the introduction of a new referral form to support patient pathways and echance clinical efficiency. Wednesday 22 April at 1pm.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 28,
+      "estimatedReadTime": 1,
+      "description": "Join this training session covering stable angina and the introduction of a new referral form to support patient pathways and echance clinical efficiency. Wednesday 22 April at 1pm."
+    }
   }
 }
