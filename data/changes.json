@@ -845,5 +845,16 @@
     "previousHash": null,
     "newHash": "e855ab89784a5576",
     "acknowledged": false
+  },
+  "change:1775825389000:47ae18e9aba85f67": {
+    "id": "change:1775825389000:47ae18e9aba85f67",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-cancer-alliance-develop-template-to-improve-primary-care-clinical-coding",
+    "title": "News: NCL Cancer Alliance develop template to improve primary care clinical coding",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-10T12:49:49.000Z",
+    "previousHash": null,
+    "newHash": "40487fd2f50d166f",
+    "acknowledged": false
   }
 }

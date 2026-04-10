@@ -706,5 +706,13 @@
     "title": "New Artp Business Continuity Planning Sop",
     "discovered": "2026-04-09T13:42:48.585Z",
     "source": "artp"
+  },
+  "ncl:47ae18e9aba85f67": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-cancer-alliance-develop-template-to-improve-primary-care-clinical-coding",
+    "title": "News: NCL Cancer Alliance develop template to improve primary care clinical coding",
+    "description": "NCL Cancer Alliance develop EMIS template to improve primary care clinical coding.",
+    "discovered": "2026-04-10T12:49:49.000Z",
+    "publishedDate": "Fri, 10 Apr 2026 09:00:34 +0000",
+    "source": "ncl"
   }
 }
