@@ -730,5 +730,21 @@
     "discovered": "2026-04-10T18:40:06.610Z",
     "publishedDate": "Fri, 10 Apr 2026 13:34:11 +0000",
     "source": "ncl"
+  },
+  "ncl:db021021a8223df8": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-10-april-2026",
+    "title": "News: EMIS Global update: 6&#45;10 April 2026",
+    "description": "See what&#039;s new in EMIS Global",
+    "discovered": "2026-04-14T19:00:32.124Z",
+    "publishedDate": "Tue, 14 Apr 2026 14:20:50 +0000",
+    "source": "ncl"
+  },
+  "ncl:8f4755c04dc3bf3c": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-cancer-alliance-develops-template-to-improve-primary-care-clinical-coding",
+    "title": "News: NCL Cancer Alliance develops template to improve primary care clinical coding",
+    "description": "NCL Cancer Alliance has developed an EMIS template to improve primary care clinical coding.",
+    "discovered": "2026-04-14T19:00:32.126Z",
+    "publishedDate": "Tue, 14 Apr 2026 15:48:57 +0000",
+    "source": "ncl"
   }
 }

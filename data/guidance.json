@@ -1358,5 +1358,39 @@
       "estimatedReadTime": 1,
       "description": "Join this training session covering stable angina and the introduction of a new referral form to support patient pathways and echance clinical efficiency. Wednesday 22 April at 1pm."
     }
+  },
+  "content:db021021a8223df8": {
+    "id": "content:db021021a8223df8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-10-april-2026",
+    "title": "News: EMIS Global update: 6&#45;10 April 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-14",
+    "fetchedDate": "2026-04-14T19:00:32.124Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
+  },
+  "content:8f4755c04dc3bf3c": {
+    "id": "content:8f4755c04dc3bf3c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-cancer-alliance-develops-template-to-improve-primary-care-clinical-coding",
+    "title": "News: NCL Cancer Alliance develops template to improve primary care clinical coding",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-14",
+    "fetchedDate": "2026-04-14T19:00:32.126Z",
+    "contentHash": "9fe8ff5e5613608a",
+    "content": "NCL Cancer Alliance has developed an EMIS template to improve primary care clinical coding.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 14,
+      "estimatedReadTime": 1,
+      "description": "NCL Cancer Alliance has developed an EMIS template to improve primary care clinical coding."
+    }
   }
 }
