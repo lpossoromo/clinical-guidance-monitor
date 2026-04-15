@@ -746,5 +746,13 @@
     "discovered": "2026-04-14T19:00:32.126Z",
     "publishedDate": "Tue, 14 Apr 2026 15:48:57 +0000",
     "source": "ncl"
+  },
+  "ncl:7d422b55f5d4b1c0": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/smokefree-enfield",
+    "title": "Service: Smokefree Enfield",
+    "description": "A 12-week self-referral stop smoking programme offering prescription-only medication, vapes and nicotine-replacement therapy (NRT) with behavioural support.",
+    "discovered": "2026-04-15T19:01:59.052Z",
+    "publishedDate": "Wed, 08 Apr 2026 16:12:03 +0000",
+    "source": "ncl"
   }
 }

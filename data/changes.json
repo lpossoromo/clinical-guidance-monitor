@@ -900,5 +900,16 @@
     "previousHash": null,
     "newHash": "9fe8ff5e5613608a",
     "acknowledged": false
+  },
+  "change:1776279719052:7d422b55f5d4b1c0": {
+    "id": "change:1776279719052:7d422b55f5d4b1c0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/smokefree-enfield",
+    "title": "Service: Smokefree Enfield",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-15T19:01:59.052Z",
+    "previousHash": null,
+    "newHash": "fa2b3a5515be461a",
+    "acknowledged": false
   }
 }
