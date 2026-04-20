@@ -1409,5 +1409,22 @@
       "estimatedReadTime": 1,
       "description": "A 12-week self-referral stop smoking programme offering prescription-only medication, vapes and nicotine-replacement therapy (NRT) with behavioural support."
     }
+  },
+  "content:7746c722668c0221": {
+    "id": "content:7746c722668c0221",
+    "url": "https://www.england.nhs.uk/2026/04/lifesaving-spring-covid-19-jab-offers-protection-to-millions-of-vulnerable-people/",
+    "title": "Lifesaving spring COVID-19 jab offers protection to millions of vulnerable people",
+    "source": "nhs",
+    "type": "article",
+    "publishedDate": "Mon, 20 Apr 2026 07:20:04 +0000",
+    "fetchedDate": "2026-04-20T07:52:16.351Z",
+    "contentHash": "fa718607d4e6b44c",
+    "content": "Millions of eligible older people and those with a weakened immune system can now get potentially lifesaving protection from COVID-19 with NHS spring vaccinations starting this week.\n\nTens of thousands of appointments are now available across the country every day at GP practices and community pharmacies for people aged 75 and over, older people in care homes and people who are immunosuppressed.\n\nCOVID-19 spreads easily all year round and can be very dangerous and even life threatening for vulnerable groups.\n\nProtection from a previous vaccination can fade over time and the circulating strain of the virus can change, so if you are at higher risk of severe illness, it is important to top up your protection and prevent potential hospital admission.\n\nOn Thursday 16 April 2026, as part of the COVID-19 Inquiry, a report by Baroness Hallett cited 1 study which estimated that by March 2023, COVID-19 vaccines had saved the lives of 475,000 people in England and Scotland.\n\nPeople who are eligible for their spring COVID-19 vaccination will be invited to come forward by the NHS, but you do not need to wait for this to book.\n\nYou can download the NHS App and make an appointment, book online , visit a walk-in site or call 119 for free if you can’t get online.\n\nNHS Director of Vaccination Caroline Temmink said: “With us all experiencing lighter and warmer days, it can be harder to imagine getting sick from viruses like COVID-19, but they do circulate all year and can be just as dangerous for those who are vulnerable.\n\n“Previous immunity can wane over time, so we are encouraging all those who are eligible to come forward as soon as possible to get protected.\n\n“You do not need to wait for an invite to book if you’re eligible – just visit the NHS website, use the NHS App or call 119 to get an appointment in your diary.”\n\nDate published : 20 April, 2026 \n\nDate last updated : 20 April, 2026 \n\nTopics\n\nCoronavirus \nVaccination",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 334,
+      "estimatedReadTime": 2,
+      "description": "Millions of eligible older people and those with a weakened immune system can now get potentially lifesaving protection from COVID-19 with NHS spring vaccinations starting this week. Tens of thousands of appointments are now available across the country every day at GP practices and community pharmacies for people aged 75 and over, older people in [&#8230;]"
+    }
   }
 }

@@ -911,5 +911,16 @@
     "previousHash": null,
     "newHash": "fa2b3a5515be461a",
     "acknowledged": false
+  },
+  "change:1776671536351:7746c722668c0221": {
+    "id": "change:1776671536351:7746c722668c0221",
+    "url": "https://www.england.nhs.uk/2026/04/lifesaving-spring-covid-19-jab-offers-protection-to-millions-of-vulnerable-people/",
+    "title": "Lifesaving spring COVID-19 jab offers protection to millions of vulnerable people",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-20T07:52:16.351Z",
+    "previousHash": null,
+    "newHash": "fa718607d4e6b44c",
+    "acknowledged": false
   }
 }
