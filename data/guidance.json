@@ -1460,5 +1460,39 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global"
     }
+  },
+  "content:cd4f0c88a276eda4": {
+    "id": "content:cd4f0c88a276eda4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-on-meningococcal-disease-outbreak-guidance-and-resources-for-practices",
+    "title": "News: Update on meningococcal disease outbreak: guidance and resources for practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-21",
+    "fetchedDate": "2026-04-21T18:59:21.840Z",
+    "contentHash": "79330b682f0b55bd",
+    "content": "UKHSA is working with Dorset Council, the NHS and local partners following three confirmed cases of meningococcal B infection (meningitis) in young people in Weymouth, Dorset.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "UKHSA is working with Dorset Council, the NHS and local partners following three confirmed cases of meningococcal B infection (meningitis) in young people in Weymouth, Dorset."
+    }
+  },
+  "content:65bf1935e63d90ef": {
+    "id": "content:65bf1935e63d90ef",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-to-fully-complete-finchley-memorial-hospital-cdc-x-ray-referral-forms",
+    "title": "News: Reminder to fully complete Finchley Memorial Hospital CDC X&#45;ray referral forms",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-21",
+    "fetchedDate": "2026-04-21T18:59:21.841Z",
+    "contentHash": "d45e31874ef52dd7",
+    "content": "Finchley Memorial Hospital CDC would like to remind practices to ensure that referral forms are completed clearly and in full, including ensuring the GP referrer&rsquo;s name, is provided in full, accompanied by their signature and registration number.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "Finchley Memorial Hospital CDC would like to remind practices to ensure that referral forms are completed clearly and in full, including ensuring the GP referrer&rsquo;s name, is provided in full, acc"
+    }
   }
 }

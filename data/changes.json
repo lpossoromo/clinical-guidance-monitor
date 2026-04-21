@@ -944,5 +944,27 @@
     "previousHash": null,
     "newHash": "648a902f3c028d45",
     "acknowledged": false
+  },
+  "change:1776797961840:cd4f0c88a276eda4": {
+    "id": "change:1776797961840:cd4f0c88a276eda4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-on-meningococcal-disease-outbreak-guidance-and-resources-for-practices",
+    "title": "News: Update on meningococcal disease outbreak: guidance and resources for practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-21T18:59:21.840Z",
+    "previousHash": null,
+    "newHash": "79330b682f0b55bd",
+    "acknowledged": false
+  },
+  "change:1776797961841:65bf1935e63d90ef": {
+    "id": "change:1776797961841:65bf1935e63d90ef",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-to-fully-complete-finchley-memorial-hospital-cdc-x-ray-referral-forms",
+    "title": "News: Reminder to fully complete Finchley Memorial Hospital CDC X&#45;ray referral forms",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-21T18:59:21.841Z",
+    "previousHash": null,
+    "newHash": "d45e31874ef52dd7",
+    "acknowledged": false
   }
 }

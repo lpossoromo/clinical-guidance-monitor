@@ -778,5 +778,21 @@
     "discovered": "2026-04-21T13:03:02.496Z",
     "publishedDate": "Tue, 21 Apr 2026 09:39:43 +0000",
     "source": "ncl"
+  },
+  "ncl:cd4f0c88a276eda4": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-on-meningococcal-disease-outbreak-guidance-and-resources-for-practices",
+    "title": "News: Update on meningococcal disease outbreak: guidance and resources for practices",
+    "description": "UKHSA is working with Dorset Council, the NHS and local partners following three confirmed cases of meningococcal B infection (meningitis) in young people in Weymouth, Dorset.",
+    "discovered": "2026-04-21T18:59:21.839Z",
+    "publishedDate": "Tue, 21 Apr 2026 16:20:22 +0000",
+    "source": "ncl"
+  },
+  "ncl:65bf1935e63d90ef": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-to-fully-complete-finchley-memorial-hospital-cdc-x-ray-referral-forms",
+    "title": "News: Reminder to fully complete Finchley Memorial Hospital CDC X&#45;ray referral forms",
+    "description": "Finchley Memorial Hospital CDC would like to remind practices to ensure that referral forms are completed clearly and in full, including ensuring the GP referrer&rsquo;s name, is provided in full, accompanied by their signature and registration number.",
+    "discovered": "2026-04-21T18:59:21.840Z",
+    "publishedDate": "Tue, 21 Apr 2026 16:43:10 +0000",
+    "source": "ncl"
   }
 }
