@@ -1443,5 +1443,22 @@
       "estimatedReadTime": 4,
       "description": "Millions more people are now benefiting from lifesaving bowel screening compared to a decade ago, as the NHS urges even more people to get tested. Almost 7 million people have had bowel screening from the NHS during 2024/25, compared to around 4.7 million in 2014/15. Since bowel screening started 2 decades ago, the NHS has [&#8230;]"
     }
+  },
+  "content:3328756339d046d9": {
+    "id": "content:3328756339d046d9",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-13-17-april-2026",
+    "title": "News: EMIS Global update: 13&#45;17 April 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-21",
+    "fetchedDate": "2026-04-21T13:03:02.496Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
   }
 }
