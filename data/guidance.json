@@ -1494,5 +1494,22 @@
       "estimatedReadTime": 1,
       "description": "Finchley Memorial Hospital CDC would like to remind practices to ensure that referral forms are completed clearly and in full, including ensuring the GP referrer&rsquo;s name, is provided in full, acc"
     }
+  },
+  "content:ad9e986abedfbc5f": {
+    "id": "content:ad9e986abedfbc5f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/learn-how-gp-direct-access-imaging-pathways-can-support-cancer-diagnosis",
+    "title": "News: Learn how GP direct&#45;access imaging pathways can support cancer diagnosis",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-22",
+    "fetchedDate": "2026-04-22T13:04:39.623Z",
+    "contentHash": "a0fc3a395512bcdc",
+    "content": "Join this West and North London ICB webinar at 1.30pm on Friday 8 May for an overview of best clinical practice and a live Q&amp;A.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 25,
+      "estimatedReadTime": 1,
+      "description": "Join this West and North London ICB webinar at 1.30pm on Friday 8 May for an overview of best clinical practice and a live Q&amp;A."
+    }
   }
 }
