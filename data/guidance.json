@@ -1528,5 +1528,22 @@
       "estimatedReadTime": 2,
       "description": "Home \n\r\n\r\n\r\n\r\n\r\nNews \n\r\n\r\n\r\nARTP Webinar: Spirometry Train the Trainer 2026\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\nARTP Webinar: Spirometry Train the Trainer 2026\n\r\n\r\n\r\n\r\n\r\n22 April 2026\r\n(Last updated: 22 Apr 2026 15:18) \r\n"
     }
+  },
+  "content:a902d3e907f84ff0": {
+    "id": "content:a902d3e907f84ff0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/cardiology-task-and-finish-group-launches-improved-referral-forms",
+    "title": "News: Cardiology task and finish group launches improved referral forms",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-23",
+    "fetchedDate": "2026-04-23T18:56:33.028Z",
+    "contentHash": "64adb4733de4dbe0",
+    "content": "New NCL‑wide cardiology referral forms available for practices",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 8,
+      "estimatedReadTime": 1,
+      "description": "New NCL‑wide cardiology referral forms available for practices"
+    }
   }
 }

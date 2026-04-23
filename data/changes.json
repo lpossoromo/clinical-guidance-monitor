@@ -988,5 +988,16 @@
     "previousHash": null,
     "newHash": "03b1d207e705506f",
     "acknowledged": false
+  },
+  "change:1776970593028:a902d3e907f84ff0": {
+    "id": "change:1776970593028:a902d3e907f84ff0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/cardiology-task-and-finish-group-launches-improved-referral-forms",
+    "title": "News: Cardiology task and finish group launches improved referral forms",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-23T18:56:33.028Z",
+    "previousHash": null,
+    "newHash": "64adb4733de4dbe0",
+    "acknowledged": false
   }
 }
