@@ -977,5 +977,16 @@
     "previousHash": null,
     "newHash": "a0fc3a395512bcdc",
     "acknowledged": false
+  },
+  "change:1776912139809:fd7498cc49288ff3": {
+    "id": "change:1776912139809:fd7498cc49288ff3",
+    "url": "https://www.artp.org.uk/news/171/artp_webinar_spirometry_train_the_trainer_2026",
+    "title": "Artp Webinar Spirometry Train The Trainer 2026",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-23T02:42:19.809Z",
+    "previousHash": null,
+    "newHash": "03b1d207e705506f",
+    "acknowledged": false
   }
 }

@@ -802,5 +802,11 @@
     "discovered": "2026-04-22T13:04:39.623Z",
     "publishedDate": "Wed, 22 Apr 2026 11:00:38 +0000",
     "source": "ncl"
+  },
+  "artp:fd7498cc49288ff3": {
+    "url": "https://www.artp.org.uk/news/171/artp_webinar_spirometry_train_the_trainer_2026",
+    "title": "Artp Webinar Spirometry Train The Trainer 2026",
+    "discovered": "2026-04-23T02:42:18.743Z",
+    "source": "artp"
   }
 }
