@@ -999,5 +999,16 @@
     "previousHash": null,
     "newHash": "64adb4733de4dbe0",
     "acknowledged": false
+  },
+  "change:1777035703000:171f82a7da525a28": {
+    "id": "change:1777035703000:171f82a7da525a28",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/complete-the-ncl-primary-care-learning-needs-survey",
+    "title": "News: Complete the NCL Primary Care Learning Needs Survey",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-24T13:01:43.000Z",
+    "previousHash": null,
+    "newHash": "c547fb089e8f1308",
+    "acknowledged": false
   }
 }
