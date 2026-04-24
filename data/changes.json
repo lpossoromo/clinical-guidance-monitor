@@ -1010,5 +1010,16 @@
     "previousHash": null,
     "newHash": "c547fb089e8f1308",
     "acknowledged": false
+  },
+  "change:1777055891479:e69b9ada91b881e2": {
+    "id": "change:1777055891479:e69b9ada91b881e2",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/beam-digital-rehabilitation-service-available-for-patients",
+    "title": "News: Beam digital rehabilitation service available for patients",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-24T18:38:11.479Z",
+    "previousHash": null,
+    "newHash": "d6b819da4b9f7c73",
+    "acknowledged": false
   }
 }
