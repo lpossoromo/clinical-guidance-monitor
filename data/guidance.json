@@ -1579,5 +1579,39 @@
       "estimatedReadTime": 1,
       "description": "Support your patients with kidney disease with the Beam digital rehabilitation service. It includes classes, programmes, education and more."
     }
+  },
+  "content:ce6a26fceec37eeb": {
+    "id": "content:ce6a26fceec37eeb",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-20-24-april-2026",
+    "title": "News: EMIS Global update: 20&#45;24 April 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-27",
+    "fetchedDate": "2026-04-27T19:04:47.782Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
+  },
+  "content:99187cd4ac546328": {
+    "id": "content:99187cd4ac546328",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-share-clinical-documents-through-london-care-record",
+    "title": "News: UCLH share clinical documents through London Care Record",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-27",
+    "fetchedDate": "2026-04-27T19:04:47.783Z",
+    "contentHash": "d050c1b89b898bc2",
+    "content": "UCLH clinic letters, discharge summaries and diagnostic reports can be viewed on the London Care Record from Wednesday 13 May. Supporting safe, informed clinical decision-making and help avoid unnecessary repeat tests.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "UCLH clinic letters, discharge summaries and diagnostic reports can be viewed on the London Care Record from Wednesday 13 May. Supporting safe, informed clinical decision-making and help avoid unneces"
+    }
   }
 }

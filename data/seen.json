@@ -832,5 +832,21 @@
     "discovered": "2026-04-24T18:38:11.479Z",
     "publishedDate": "Fri, 24 Apr 2026 14:06:16 +0000",
     "source": "ncl"
+  },
+  "ncl:ce6a26fceec37eeb": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-20-24-april-2026",
+    "title": "News: EMIS Global update: 20&#45;24 April 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-04-27T19:04:47.781Z",
+    "publishedDate": "Mon, 27 Apr 2026 17:17:29 +0000",
+    "source": "ncl"
+  },
+  "ncl:99187cd4ac546328": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-share-clinical-documents-through-london-care-record",
+    "title": "News: UCLH share clinical documents through London Care Record",
+    "description": "UCLH clinic letters, discharge summaries and diagnostic reports can be viewed on the London Care Record from Wednesday 13 May. Supporting safe, informed clinical decision-making and help avoid unnecessary repeat tests.",
+    "discovered": "2026-04-27T19:04:47.783Z",
+    "publishedDate": "Mon, 27 Apr 2026 14:08:10 +0000",
+    "source": "ncl"
   }
 }
