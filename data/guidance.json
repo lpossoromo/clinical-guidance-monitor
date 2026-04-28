@@ -1613,5 +1613,56 @@
       "estimatedReadTime": 1,
       "description": "UCLH clinic letters, discharge summaries and diagnostic reports can be viewed on the London Care Record from Wednesday 13 May. Supporting safe, informed clinical decision-making and help avoid unneces"
     }
+  },
+  "content:de2c8e7686bc8d9a": {
+    "id": "content:de2c8e7686bc8d9a",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wood-green-cdc-x-ray-closed-thursday-30-april",
+    "title": "News: Wood Green CDC X&#45;ray closed, Thursday 30 April.",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-28",
+    "fetchedDate": "2026-04-28T19:21:09.897Z",
+    "contentHash": "c2e425181a2617fd",
+    "content": "Wood Green CDC X-ray service will be closed between 9am and 3pm on Thursday 30 April. All other services will run as normal. Please advise patients you refer.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 28,
+      "estimatedReadTime": 1,
+      "description": "Wood Green CDC X-ray service will be closed between 9am and 3pm on Thursday 30 April. All other services will run as normal. Please advise patients you refer."
+    }
+  },
+  "content:44f497fe1996effa": {
+    "id": "content:44f497fe1996effa",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hpv-self-sampling-rolled-out-to-all-west-north-london-gp-practices",
+    "title": "News: HPV self&#45;sampling rolled out to all West &amp; North London GP practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-28",
+    "fetchedDate": "2026-04-28T19:21:09.898Z",
+    "contentHash": "50b9539f9b3a0985",
+    "content": "A communications toolkit is available for practices to support the HPV self-sampling roll out across north central London.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 18,
+      "estimatedReadTime": 1,
+      "description": "A communications toolkit is available for practices to support the HPV self-sampling roll out across north central London."
+    }
+  },
+  "content:67c6794bfa9732d2": {
+    "id": "content:67c6794bfa9732d2",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-child-weight-management-pathway-for-0-18-year-olds-launched-by-icb",
+    "title": "News: NCL Child Weight Management Pathway for 0&#45;18 year olds launched by ICB",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-04-28",
+    "fetchedDate": "2026-04-28T19:21:09.899Z",
+    "contentHash": "6ebafd33049e4516",
+    "content": "A NCL-wide child weight management clinical pathway focusing on weight reduction has been launched to replace individual borough pathways. Read more",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "A NCL-wide child weight management clinical pathway focusing on weight reduction has been launched to replace individual borough pathways. Read more"
+    }
   }
 }

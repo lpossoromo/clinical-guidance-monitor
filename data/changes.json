@@ -1043,5 +1043,38 @@
     "previousHash": null,
     "newHash": "d050c1b89b898bc2",
     "acknowledged": false
+  },
+  "change:1777404069897:de2c8e7686bc8d9a": {
+    "id": "change:1777404069897:de2c8e7686bc8d9a",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wood-green-cdc-x-ray-closed-thursday-30-april",
+    "title": "News: Wood Green CDC X&#45;ray closed, Thursday 30 April.",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-28T19:21:09.897Z",
+    "previousHash": null,
+    "newHash": "c2e425181a2617fd",
+    "acknowledged": false
+  },
+  "change:1777404069898:44f497fe1996effa": {
+    "id": "change:1777404069898:44f497fe1996effa",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hpv-self-sampling-rolled-out-to-all-west-north-london-gp-practices",
+    "title": "News: HPV self&#45;sampling rolled out to all West &amp; North London GP practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-28T19:21:09.898Z",
+    "previousHash": null,
+    "newHash": "50b9539f9b3a0985",
+    "acknowledged": false
+  },
+  "change:1777404069899:67c6794bfa9732d2": {
+    "id": "change:1777404069899:67c6794bfa9732d2",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-child-weight-management-pathway-for-0-18-year-olds-launched-by-icb",
+    "title": "News: NCL Child Weight Management Pathway for 0&#45;18 year olds launched by ICB",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-28T19:21:09.899Z",
+    "previousHash": null,
+    "newHash": "6ebafd33049e4516",
+    "acknowledged": false
   }
 }

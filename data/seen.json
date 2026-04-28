@@ -848,5 +848,29 @@
     "discovered": "2026-04-27T19:04:47.783Z",
     "publishedDate": "Mon, 27 Apr 2026 14:08:10 +0000",
     "source": "ncl"
+  },
+  "ncl:de2c8e7686bc8d9a": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wood-green-cdc-x-ray-closed-thursday-30-april",
+    "title": "News: Wood Green CDC X&#45;ray closed, Thursday 30 April.",
+    "description": "Wood Green CDC X-ray service will be closed between 9am and 3pm on Thursday 30 April. All other services will run as normal. Please advise patients you refer.",
+    "discovered": "2026-04-28T19:21:09.897Z",
+    "publishedDate": "Tue, 28 Apr 2026 17:16:16 +0000",
+    "source": "ncl"
+  },
+  "ncl:44f497fe1996effa": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hpv-self-sampling-rolled-out-to-all-west-north-london-gp-practices",
+    "title": "News: HPV self&#45;sampling rolled out to all West &amp; North London GP practices",
+    "description": "A communications toolkit is available for practices to support the HPV self-sampling roll out across north central London.",
+    "discovered": "2026-04-28T19:21:09.898Z",
+    "publishedDate": "Tue, 28 Apr 2026 17:10:25 +0000",
+    "source": "ncl"
+  },
+  "ncl:67c6794bfa9732d2": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-child-weight-management-pathway-for-0-18-year-olds-launched-by-icb",
+    "title": "News: NCL Child Weight Management Pathway for 0&#45;18 year olds launched by ICB",
+    "description": "A NCL-wide child weight management clinical pathway focusing on weight reduction has been launched to replace individual borough pathways. Read more",
+    "discovered": "2026-04-28T19:21:09.898Z",
+    "publishedDate": "Tue, 28 Apr 2026 17:04:40 +0000",
+    "source": "ncl"
   }
 }
