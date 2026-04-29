@@ -1076,5 +1076,16 @@
     "previousHash": null,
     "newHash": "6ebafd33049e4516",
     "acknowledged": false
+  },
+  "change:1777469091866:8ab7849d75b5de2c": {
+    "id": "change:1777469091866:8ab7849d75b5de2c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-starts-sharing-clinical-documents-via-london-care-record-in-may",
+    "title": "News: UCLH to start sharing clinical documents via London Care Record in May",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-04-29T13:24:51.866Z",
+    "previousHash": null,
+    "newHash": "1e036368efb8070a",
+    "acknowledged": false
   }
 }

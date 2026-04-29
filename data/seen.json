@@ -872,5 +872,13 @@
     "discovered": "2026-04-28T19:21:09.898Z",
     "publishedDate": "Tue, 28 Apr 2026 17:04:40 +0000",
     "source": "ncl"
+  },
+  "ncl:8ab7849d75b5de2c": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-starts-sharing-clinical-documents-via-london-care-record-in-may",
+    "title": "News: UCLH to start sharing clinical documents via London Care Record in May",
+    "description": "From Wednesday 13 May, clinic letters, discharge summaries and diagnostic reports from University College London Hospitals&#039; services can be viewed on the London Care Record.",
+    "discovered": "2026-04-29T13:24:51.866Z",
+    "publishedDate": "Wed, 29 Apr 2026 10:00:02 +0000",
+    "source": "ncl"
   }
 }
