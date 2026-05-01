@@ -880,5 +880,37 @@
     "discovered": "2026-04-29T13:24:51.866Z",
     "publishedDate": "Wed, 29 Apr 2026 10:00:02 +0000",
     "source": "ncl"
+  },
+  "ncl:d5aaa41eeaa749f7": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-update-dexa-bone-density-scanner-fully-operational-at-uclh",
+    "title": "News: UCLH update: DEXA Bone Density scanner fully operational at UCLH",
+    "description": "The DEXA Bone Density scanner is fully operational at UCLH. Services have resumed as normal and the team are working hard to reduce the backlog.",
+    "discovered": "2026-05-01T12:58:05.024Z",
+    "publishedDate": "Fri, 01 May 2026 12:42:34 +0000",
+    "source": "ncl"
+  },
+  "ncl:2490e2204bfca6d6": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/changes-to-continence-pads-provision-for-patients-with-haringey-and-islington-gps-from-may-2026",
+    "title": "News: Changes to continence pads provision for patients with Haringey and Islington GPs from May 2026",
+    "description": "Changes to continence pads provision for patients with Haringey and Islington GPs from May 2026",
+    "discovered": "2026-05-01T12:58:05.025Z",
+    "publishedDate": "Fri, 01 May 2026 11:57:56 +0000",
+    "source": "ncl"
+  },
+  "ncl:c1d82aad4dad0c31": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/altered-airways-and-complex-respiratory-service-aacrs-live-across-ncl",
+    "title": "News: Altered Airways and Complex Respiratory Service (AACRS) live across NCL",
+    "description": "The Altered Airways and Complex Respiratory Service (AACRS) is live across north central London. It provides a holistic approach to adults who have complex respiratory needs or an altered pathway needs which fall outside of existing pathways.",
+    "discovered": "2026-05-01T12:58:05.025Z",
+    "publishedDate": "Fri, 01 May 2026 11:47:52 +0000",
+    "source": "ncl"
+  },
+  "ncl:e52d6fc4c1ff9238": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/general-practice-change-management-support",
+    "title": "Page: General Practice Change Management Support",
+    "description": "Updated local support is available to help GP practices improve patient access, care for people with long-term conditions and digital transformation. An informal, no-obligation conversation is available, either in person or online.",
+    "discovered": "2026-05-01T12:58:05.026Z",
+    "publishedDate": "Fri, 01 May 2026 10:11:39 +0000",
+    "source": "ncl"
   }
 }

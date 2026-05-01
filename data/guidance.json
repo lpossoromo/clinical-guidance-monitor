@@ -1681,5 +1681,73 @@
       "estimatedReadTime": 1,
       "description": "From Wednesday 13 May, clinic letters, discharge summaries and diagnostic reports from University College London Hospitals&#039; services can be viewed on the London Care Record."
     }
+  },
+  "content:d5aaa41eeaa749f7": {
+    "id": "content:d5aaa41eeaa749f7",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-update-dexa-bone-density-scanner-fully-operational-at-uclh",
+    "title": "News: UCLH update: DEXA Bone Density scanner fully operational at UCLH",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-01",
+    "fetchedDate": "2026-05-01T12:58:05.024Z",
+    "contentHash": "1bacc2647cd72b31",
+    "content": "The DEXA Bone Density scanner is fully operational at UCLH. Services have resumed as normal and the team are working hard to reduce the backlog.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 25,
+      "estimatedReadTime": 1,
+      "description": "The DEXA Bone Density scanner is fully operational at UCLH. Services have resumed as normal and the team are working hard to reduce the backlog."
+    }
+  },
+  "content:2490e2204bfca6d6": {
+    "id": "content:2490e2204bfca6d6",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/changes-to-continence-pads-provision-for-patients-with-haringey-and-islington-gps-from-may-2026",
+    "title": "News: Changes to continence pads provision for patients with Haringey and Islington GPs from May 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-01",
+    "fetchedDate": "2026-05-01T12:58:05.025Z",
+    "contentHash": "389299cd6008415a",
+    "content": "Changes to continence pads provision for patients with Haringey and Islington GPs from May 2026",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 15,
+      "estimatedReadTime": 1,
+      "description": "Changes to continence pads provision for patients with Haringey and Islington GPs from May 2026"
+    }
+  },
+  "content:c1d82aad4dad0c31": {
+    "id": "content:c1d82aad4dad0c31",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/altered-airways-and-complex-respiratory-service-aacrs-live-across-ncl",
+    "title": "News: Altered Airways and Complex Respiratory Service (AACRS) live across NCL",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-01",
+    "fetchedDate": "2026-05-01T12:58:05.026Z",
+    "contentHash": "de1f45ba19dfc218",
+    "content": "The Altered Airways and Complex Respiratory Service (AACRS) is live across north central London. It provides a holistic approach to adults who have complex respiratory needs or an altered pathway needs which fall outside of existing pathways.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "The Altered Airways and Complex Respiratory Service (AACRS) is live across north central London. It provides a holistic approach to adults who have complex respiratory needs or an altered pathway need"
+    }
+  },
+  "content:e52d6fc4c1ff9238": {
+    "id": "content:e52d6fc4c1ff9238",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/general-practice-change-management-support",
+    "title": "Page: General Practice Change Management Support",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-01",
+    "fetchedDate": "2026-05-01T12:58:05.026Z",
+    "contentHash": "74b9e95b71f0430d",
+    "content": "Updated local support is available to help GP practices improve patient access, care for people with long-term conditions and digital transformation. An informal, no-obligation conversation is available, either in person or online.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 32,
+      "estimatedReadTime": 1,
+      "description": "Updated local support is available to help GP practices improve patient access, care for people with long-term conditions and digital transformation. An informal, no-obligation conversation is availab"
+    }
   }
 }

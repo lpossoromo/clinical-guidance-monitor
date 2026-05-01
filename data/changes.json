@@ -1087,5 +1087,49 @@
     "previousHash": null,
     "newHash": "1e036368efb8070a",
     "acknowledged": false
+  },
+  "change:1777640285024:d5aaa41eeaa749f7": {
+    "id": "change:1777640285024:d5aaa41eeaa749f7",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-update-dexa-bone-density-scanner-fully-operational-at-uclh",
+    "title": "News: UCLH update: DEXA Bone Density scanner fully operational at UCLH",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-01T12:58:05.024Z",
+    "previousHash": null,
+    "newHash": "1bacc2647cd72b31",
+    "acknowledged": false
+  },
+  "change:1777640285025:2490e2204bfca6d6": {
+    "id": "change:1777640285025:2490e2204bfca6d6",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/changes-to-continence-pads-provision-for-patients-with-haringey-and-islington-gps-from-may-2026",
+    "title": "News: Changes to continence pads provision for patients with Haringey and Islington GPs from May 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-01T12:58:05.025Z",
+    "previousHash": null,
+    "newHash": "389299cd6008415a",
+    "acknowledged": false
+  },
+  "change:1777640285026:c1d82aad4dad0c31": {
+    "id": "change:1777640285026:c1d82aad4dad0c31",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/altered-airways-and-complex-respiratory-service-aacrs-live-across-ncl",
+    "title": "News: Altered Airways and Complex Respiratory Service (AACRS) live across NCL",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-01T12:58:05.026Z",
+    "previousHash": null,
+    "newHash": "de1f45ba19dfc218",
+    "acknowledged": false
+  },
+  "change:1777640285026:e52d6fc4c1ff9238": {
+    "id": "change:1777640285026:e52d6fc4c1ff9238",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/general-practice-change-management-support",
+    "title": "Page: General Practice Change Management Support",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-01T12:58:05.026Z",
+    "previousHash": null,
+    "newHash": "74b9e95b71f0430d",
+    "acknowledged": false
   }
 }
