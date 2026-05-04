@@ -1131,5 +1131,16 @@
     "previousHash": null,
     "newHash": "74b9e95b71f0430d",
     "acknowledged": false
+  },
+  "change:1777860057241:31d7a9e82b479745": {
+    "id": "change:1777860057241:31d7a9e82b479745",
+    "url": "https://www.england.nhs.uk/2026/05/1-minute-immunotherapy-jab-rolled-out-on-nhs-for-tens-of-thousands-with-cancer/",
+    "title": "‘1-minute’ immunotherapy jab rolled out on NHS for tens of thousands with cancer",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-04T02:00:57.240Z",
+    "previousHash": null,
+    "newHash": "6f3d93b089a0d4c1",
+    "acknowledged": false
   }
 }

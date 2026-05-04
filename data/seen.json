@@ -912,5 +912,13 @@
     "discovered": "2026-05-01T12:58:05.026Z",
     "publishedDate": "Fri, 01 May 2026 10:11:39 +0000",
     "source": "ncl"
+  },
+  "nhs:31d7a9e82b479745": {
+    "url": "https://www.england.nhs.uk/2026/05/1-minute-immunotherapy-jab-rolled-out-on-nhs-for-tens-of-thousands-with-cancer/",
+    "title": "‘1-minute’ immunotherapy jab rolled out on NHS for tens of thousands with cancer",
+    "description": "Tens of thousands of patients could benefit from a ‘rapid’ new immunotherapy jab on the NHS for over a dozen different cancers, which can be given in just 60 seconds. The NHS is rolling out a new injectable form of pembrolizumab (Keytruda) which can slash the time the treatment takes by up to 90%, to [&#8230;]",
+    "discovered": "2026-05-04T02:00:57.063Z",
+    "publishedDate": "Sun, 03 May 2026 23:01:03 +0000",
+    "source": "nhs"
   }
 }
