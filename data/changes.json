@@ -1142,5 +1142,60 @@
     "previousHash": null,
     "newHash": "6f3d93b089a0d4c1",
     "acknowledged": false
+  },
+  "change:1778007965210:0b39a2b12b1869d7": {
+    "id": "change:1778007965210:0b39a2b12b1869d7",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/beam-digital-rehab-service-available-for-patients-with-kidney-disease",
+    "title": "News: Beam digital rehab service available for patients with kidney disease",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-05T19:06:05.210Z",
+    "previousHash": null,
+    "newHash": "6522c67e121daf07",
+    "acknowledged": false
+  },
+  "change:1778007965212:61d618fac46c0bd7": {
+    "id": "change:1778007965212:61d618fac46c0bd7",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-primary-and-secondary-care-interface-improvement-programme-update",
+    "title": "News: NCL Primary and Secondary Care Interface Improvement Programme update",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-05T19:06:05.212Z",
+    "previousHash": null,
+    "newHash": "8cb12587b57b54de",
+    "acknowledged": false
+  },
+  "change:1778007965212:68ff708a494f5e27": {
+    "id": "change:1778007965212:68ff708a494f5e27",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/guidance-available-to-support-urgent-appointment-slot-mapping",
+    "title": "News: Guidance available to support urgent appointment slot mapping",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-05T19:06:05.212Z",
+    "previousHash": null,
+    "newHash": "f24bebf36f35e4ff",
+    "acknowledged": false
+  },
+  "change:1778007965212:920d0f11e172cc4d": {
+    "id": "change:1778007965212:920d0f11e172cc4d",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mount-vernon-cancer-centre-have-your-say-by-17-may",
+    "title": "News: Mount Vernon Cancer Centre – have your say by 17 May",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-05T19:06:05.212Z",
+    "previousHash": null,
+    "newHash": "b53391dff3a00be6",
+    "acknowledged": false
+  },
+  "change:1778007965213:dddc96e6f6b5c17b": {
+    "id": "change:1778007965213:dddc96e6f6b5c17b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-update-dexa-bone-density-scanner-is-fully-operational",
+    "title": "News: UCLH update: Dexa bone density scanner is fully operational",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-05T19:06:05.213Z",
+    "previousHash": null,
+    "newHash": "d438c52fb829229a",
+    "acknowledged": false
   }
 }

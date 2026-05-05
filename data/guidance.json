@@ -1766,5 +1766,90 @@
       "estimatedReadTime": 4,
       "description": "Tens of thousands of patients could benefit from a ‘rapid’ new immunotherapy jab on the NHS for over a dozen different cancers, which can be given in just 60 seconds. The NHS is rolling out a new injectable form of pembrolizumab (Keytruda) which can slash the time the treatment takes by up to 90%, to [&#8230;]"
     }
+  },
+  "content:0b39a2b12b1869d7": {
+    "id": "content:0b39a2b12b1869d7",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/beam-digital-rehab-service-available-for-patients-with-kidney-disease",
+    "title": "News: Beam digital rehab service available for patients with kidney disease",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-05",
+    "fetchedDate": "2026-05-05T19:06:05.210Z",
+    "contentHash": "6522c67e121daf07",
+    "content": "Support patients with kidney disease with the Beam digital rehabilitation service. It includes classes, programmes, education and more to encourage and empower patients and their wellbeing.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "Support patients with kidney disease with the Beam digital rehabilitation service. It includes classes, programmes, education and more to encourage and empower patients and their wellbeing."
+    }
+  },
+  "content:61d618fac46c0bd7": {
+    "id": "content:61d618fac46c0bd7",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-primary-and-secondary-care-interface-improvement-programme-update",
+    "title": "News: NCL Primary and Secondary Care Interface Improvement Programme update",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-05",
+    "fetchedDate": "2026-05-05T19:06:05.212Z",
+    "contentHash": "8cb12587b57b54de",
+    "content": "The NCL Interface Improvement Programme has been active for two years. Here is an update on the key priority areas.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 20,
+      "estimatedReadTime": 1,
+      "description": "The NCL Interface Improvement Programme has been active for two years. Here is an update on the key priority areas."
+    }
+  },
+  "content:68ff708a494f5e27": {
+    "id": "content:68ff708a494f5e27",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/guidance-available-to-support-urgent-appointment-slot-mapping",
+    "title": "News: Guidance available to support urgent appointment slot mapping",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-05",
+    "fetchedDate": "2026-05-05T19:06:05.212Z",
+    "contentHash": "f24bebf36f35e4ff",
+    "content": "A new guide is available to help GP practices map same-day appointments for clinically urgent patients in line with the 2026&ndash;27 contract requirement.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "A new guide is available to help GP practices map same-day appointments for clinically urgent patients in line with the 2026&ndash;27 contract requirement."
+    }
+  },
+  "content:920d0f11e172cc4d": {
+    "id": "content:920d0f11e172cc4d",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mount-vernon-cancer-centre-have-your-say-by-17-may",
+    "title": "News: Mount Vernon Cancer Centre – have your say by 17 May",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-05",
+    "fetchedDate": "2026-05-05T19:06:05.212Z",
+    "contentHash": "b53391dff3a00be6",
+    "content": "have your say by 17 May 2026.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 7,
+      "estimatedReadTime": 1,
+      "description": "have your say by 17 May 2026."
+    }
+  },
+  "content:dddc96e6f6b5c17b": {
+    "id": "content:dddc96e6f6b5c17b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-update-dexa-bone-density-scanner-is-fully-operational",
+    "title": "News: UCLH update: Dexa bone density scanner is fully operational",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-05",
+    "fetchedDate": "2026-05-05T19:06:05.213Z",
+    "contentHash": "d438c52fb829229a",
+    "content": "The Dexa bone density scanner is fully operational at UCLH. Services have resumed as normal and the team are working hard to reduce the backlog.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 25,
+      "estimatedReadTime": 1,
+      "description": "The Dexa bone density scanner is fully operational at UCLH. Services have resumed as normal and the team are working hard to reduce the backlog."
+    }
   }
 }

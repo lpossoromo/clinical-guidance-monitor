@@ -920,5 +920,45 @@
     "discovered": "2026-05-04T02:00:57.063Z",
     "publishedDate": "Sun, 03 May 2026 23:01:03 +0000",
     "source": "nhs"
+  },
+  "ncl:0b39a2b12b1869d7": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/beam-digital-rehab-service-available-for-patients-with-kidney-disease",
+    "title": "News: Beam digital rehab service available for patients with kidney disease",
+    "description": "Support patients with kidney disease with the Beam digital rehabilitation service. It includes classes, programmes, education and more to encourage and empower patients and their wellbeing.",
+    "discovered": "2026-05-05T19:06:05.210Z",
+    "publishedDate": "Tue, 05 May 2026 15:42:32 +0000",
+    "source": "ncl"
+  },
+  "ncl:61d618fac46c0bd7": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-primary-and-secondary-care-interface-improvement-programme-update",
+    "title": "News: NCL Primary and Secondary Care Interface Improvement Programme update",
+    "description": "The NCL Interface Improvement Programme has been active for two years. Here is an update on the key priority areas.",
+    "discovered": "2026-05-05T19:06:05.212Z",
+    "publishedDate": "Tue, 05 May 2026 15:37:36 +0000",
+    "source": "ncl"
+  },
+  "ncl:68ff708a494f5e27": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/guidance-available-to-support-urgent-appointment-slot-mapping",
+    "title": "News: Guidance available to support urgent appointment slot mapping",
+    "description": "A new guide is available to help GP practices map same-day appointments for clinically urgent patients in line with the 2026&ndash;27 contract requirement.",
+    "discovered": "2026-05-05T19:06:05.212Z",
+    "publishedDate": "Tue, 05 May 2026 15:24:00 +0000",
+    "source": "ncl"
+  },
+  "ncl:920d0f11e172cc4d": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mount-vernon-cancer-centre-have-your-say-by-17-may",
+    "title": "News: Mount Vernon Cancer Centre – have your say by 17 May",
+    "description": "have your say by 17 May 2026.",
+    "discovered": "2026-05-05T19:06:05.212Z",
+    "publishedDate": "Tue, 05 May 2026 14:37:15 +0000",
+    "source": "ncl"
+  },
+  "ncl:dddc96e6f6b5c17b": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-update-dexa-bone-density-scanner-is-fully-operational",
+    "title": "News: UCLH update: Dexa bone density scanner is fully operational",
+    "description": "The Dexa bone density scanner is fully operational at UCLH. Services have resumed as normal and the team are working hard to reduce the backlog.",
+    "discovered": "2026-05-05T19:06:05.213Z",
+    "publishedDate": "Tue, 05 May 2026 14:04:27 +0000",
+    "source": "ncl"
   }
 }
