@@ -960,5 +960,21 @@
     "discovered": "2026-05-05T19:06:05.213Z",
     "publishedDate": "Tue, 05 May 2026 14:04:27 +0000",
     "source": "ncl"
+  },
+  "ncl:f16be3218344273b": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-27-april-1-may-2026",
+    "title": "News: EMIS Global update: 27 April&#45;1 May 2026",
+    "description": "See what&#039;s new in EMIS Global",
+    "discovered": "2026-05-06T13:46:34.851Z",
+    "publishedDate": "Wed, 06 May 2026 08:45:05 +0000",
+    "source": "ncl"
+  },
+  "ncl:01f8fe0b43cedcf1": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mount-vernon-cancer-centre-share-your-views-on-travelling-to-the-centre",
+    "title": "News: Mount Vernon Cancer Centre: Share your views on travelling to the centre",
+    "description": "Practices are asked to help promote a survey on travelling to Mount Vernon Cancer Centre. View are sought from those who have and have not been treated at the centre. Feedback requested by Sunday 17 May.",
+    "discovered": "2026-05-06T13:46:34.852Z",
+    "publishedDate": "Wed, 06 May 2026 09:13:17 +0000",
+    "source": "ncl"
   }
 }

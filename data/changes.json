@@ -1197,5 +1197,27 @@
     "previousHash": null,
     "newHash": "d438c52fb829229a",
     "acknowledged": false
+  },
+  "change:1778075194852:f16be3218344273b": {
+    "id": "change:1778075194852:f16be3218344273b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-27-april-1-may-2026",
+    "title": "News: EMIS Global update: 27 April&#45;1 May 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-06T13:46:34.851Z",
+    "previousHash": null,
+    "newHash": "648a902f3c028d45",
+    "acknowledged": false
+  },
+  "change:1778075194852:01f8fe0b43cedcf1": {
+    "id": "change:1778075194852:01f8fe0b43cedcf1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mount-vernon-cancer-centre-share-your-views-on-travelling-to-the-centre",
+    "title": "News: Mount Vernon Cancer Centre: Share your views on travelling to the centre",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-06T13:46:34.852Z",
+    "previousHash": null,
+    "newHash": "1483f7f2b1c4c52b",
+    "acknowledged": false
   }
 }

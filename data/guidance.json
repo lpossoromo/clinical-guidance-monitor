@@ -1851,5 +1851,39 @@
       "estimatedReadTime": 1,
       "description": "The Dexa bone density scanner is fully operational at UCLH. Services have resumed as normal and the team are working hard to reduce the backlog."
     }
+  },
+  "content:f16be3218344273b": {
+    "id": "content:f16be3218344273b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-27-april-1-may-2026",
+    "title": "News: EMIS Global update: 27 April&#45;1 May 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-06",
+    "fetchedDate": "2026-05-06T13:46:34.851Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
+  },
+  "content:01f8fe0b43cedcf1": {
+    "id": "content:01f8fe0b43cedcf1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mount-vernon-cancer-centre-share-your-views-on-travelling-to-the-centre",
+    "title": "News: Mount Vernon Cancer Centre: Share your views on travelling to the centre",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-06",
+    "fetchedDate": "2026-05-06T13:46:34.852Z",
+    "contentHash": "1483f7f2b1c4c52b",
+    "content": "Practices are asked to help promote a survey on travelling to Mount Vernon Cancer Centre. View are sought from those who have and have not been treated at the centre. Feedback requested by Sunday 17 May.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 36,
+      "estimatedReadTime": 1,
+      "description": "Practices are asked to help promote a survey on travelling to Mount Vernon Cancer Centre. View are sought from those who have and have not been treated at the centre. Feedback requested by Sunday 17 M"
+    }
   }
 }
