@@ -1885,5 +1885,22 @@
       "estimatedReadTime": 1,
       "description": "Practices are asked to help promote a survey on travelling to Mount Vernon Cancer Centre. View are sought from those who have and have not been treated at the centre. Feedback requested by Sunday 17 M"
     }
+  },
+  "content:34472ac8fda36a3c": {
+    "id": "content:34472ac8fda36a3c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/survey-tools-to-support-code-automation-in-primary-care",
+    "title": "News: Survey: Tools to support code automation in primary care",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-07",
+    "fetchedDate": "2026-05-07T19:26:56.353Z",
+    "contentHash": "0db0635e311faf7f",
+    "content": "This short survey can be completed by any primary care staff member on implementation of the NHS England Patient Registration Forms as a tool to support code automation in primary care",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "This short survey can be completed by any primary care staff member on implementation of the NHS England Patient Registration Forms as a tool to support code automation in primary care"
+    }
   }
 }

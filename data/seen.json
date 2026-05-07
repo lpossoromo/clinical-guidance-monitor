@@ -976,5 +976,13 @@
     "discovered": "2026-05-06T13:46:34.852Z",
     "publishedDate": "Wed, 06 May 2026 09:13:17 +0000",
     "source": "ncl"
+  },
+  "ncl:34472ac8fda36a3c": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/survey-tools-to-support-code-automation-in-primary-care",
+    "title": "News: Survey: Tools to support code automation in primary care",
+    "description": "This short survey can be completed by any primary care staff member on implementation of the NHS England Patient Registration Forms as a tool to support code automation in primary care",
+    "discovered": "2026-05-07T19:26:56.352Z",
+    "publishedDate": "Thu, 07 May 2026 15:16:42 +0000",
+    "source": "ncl"
   }
 }
