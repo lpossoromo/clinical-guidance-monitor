@@ -984,5 +984,13 @@
     "discovered": "2026-05-07T19:26:56.352Z",
     "publishedDate": "Thu, 07 May 2026 15:16:42 +0000",
     "source": "ncl"
+  },
+  "ncl:33922ca9e06c6657": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resources-available-for-implementation-of-continuous-glucose-monitoring-for-patients-with-type-2-diabetes",
+    "title": "News: Resources available for implementation of Continuous Glucose Monitoring for patients with Type 2 Diabetes",
+    "description": "Resources developed by Medicines Optimisation Team and clinicians across primary and secondary care to support implementation of continuous glucose monitoring.",
+    "discovered": "2026-05-08T13:10:29.143Z",
+    "publishedDate": "Fri, 08 May 2026 11:57:43 +0000",
+    "source": "ncl"
   }
 }

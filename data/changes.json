@@ -1230,5 +1230,16 @@
     "previousHash": null,
     "newHash": "0db0635e311faf7f",
     "acknowledged": false
+  },
+  "change:1778245829143:33922ca9e06c6657": {
+    "id": "change:1778245829143:33922ca9e06c6657",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resources-available-for-implementation-of-continuous-glucose-monitoring-for-patients-with-type-2-diabetes",
+    "title": "News: Resources available for implementation of Continuous Glucose Monitoring for patients with Type 2 Diabetes",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-08T13:10:29.143Z",
+    "previousHash": null,
+    "newHash": "9f91301985d8025c",
+    "acknowledged": false
   }
 }
