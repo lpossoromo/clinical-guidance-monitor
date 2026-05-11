@@ -1252,5 +1252,16 @@
     "previousHash": null,
     "newHash": "2aafb96aeacb1fb1",
     "acknowledged": false
+  },
+  "change:1778527677619:a93ba859cf9ee7b8": {
+    "id": "change:1778527677619:a93ba859cf9ee7b8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/register-your-expressions-of-interest-to-deliver-the-asylum-seekers-locally-commissioned-service",
+    "title": "News: Register your expressions of interest to deliver the asylum seekers locally commissioned service",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-11T19:27:57.619Z",
+    "previousHash": null,
+    "newHash": "51bc374ec5446dc0",
+    "acknowledged": false
   }
 }

@@ -1936,5 +1936,22 @@
       "estimatedReadTime": 1,
       "description": "Immunisations Flipbook: Watch the video explaining how the flipbook can supports confident vaccine questions and conversations between clinicians and patients. The flipbook covers topics that people a"
     }
+  },
+  "content:a93ba859cf9ee7b8": {
+    "id": "content:a93ba859cf9ee7b8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/register-your-expressions-of-interest-to-deliver-the-asylum-seekers-locally-commissioned-service",
+    "title": "News: Register your expressions of interest to deliver the asylum seekers locally commissioned service",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-11",
+    "fetchedDate": "2026-05-11T19:27:57.619Z",
+    "contentHash": "51bc374ec5446dc0",
+    "content": "Interested practices should review the updated specification and FAQs and submit Expression of Interest by Wednesday 20 May 2026.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 19,
+      "estimatedReadTime": 1,
+      "description": "Interested practices should review the updated specification and FAQs and submit Expression of Interest by Wednesday 20 May 2026."
+    }
   }
 }
