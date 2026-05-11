@@ -1241,5 +1241,16 @@
     "previousHash": null,
     "newHash": "9f91301985d8025c",
     "acknowledged": false
+  },
+  "change:1778509738955:b519b894ea004999": {
+    "id": "change:1778509738955:b519b894ea004999",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/immunisations-and-vaccinations/childhood-immunisations-0-5/immunisation-resources-for-ncl-gp-practices",
+    "title": "Page: Immunisation resources for NCL GP Practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-11T14:28:58.955Z",
+    "previousHash": null,
+    "newHash": "2aafb96aeacb1fb1",
+    "acknowledged": false
   }
 }

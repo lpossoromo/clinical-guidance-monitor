@@ -992,5 +992,13 @@
     "discovered": "2026-05-08T13:10:29.143Z",
     "publishedDate": "Fri, 08 May 2026 11:57:43 +0000",
     "source": "ncl"
+  },
+  "ncl:b519b894ea004999": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/immunisations-and-vaccinations/childhood-immunisations-0-5/immunisation-resources-for-ncl-gp-practices",
+    "title": "Page: Immunisation resources for NCL GP Practices",
+    "description": "Immunisations Flipbook: Watch the video explaining how the flipbook can supports confident vaccine questions and conversations between clinicians and patients. The flipbook covers topics that people ask doctors, nurses and practice staff about.",
+    "discovered": "2026-05-11T14:28:58.954Z",
+    "publishedDate": "Mon, 11 May 2026 14:07:21 +0000",
+    "source": "ncl"
   }
 }

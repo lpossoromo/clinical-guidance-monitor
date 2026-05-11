@@ -1919,5 +1919,22 @@
       "estimatedReadTime": 1,
       "description": "Resources developed by Medicines Optimisation Team and clinicians across primary and secondary care to support implementation of continuous glucose monitoring."
     }
+  },
+  "content:b519b894ea004999": {
+    "id": "content:b519b894ea004999",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/immunisations-and-vaccinations/childhood-immunisations-0-5/immunisation-resources-for-ncl-gp-practices",
+    "title": "Page: Immunisation resources for NCL GP Practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-11",
+    "fetchedDate": "2026-05-11T14:28:58.955Z",
+    "contentHash": "2aafb96aeacb1fb1",
+    "content": "Immunisations Flipbook: Watch the video explaining how the flipbook can supports confident vaccine questions and conversations between clinicians and patients. The flipbook covers topics that people ask doctors, nurses and practice staff about.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "Immunisations Flipbook: Watch the video explaining how the flipbook can supports confident vaccine questions and conversations between clinicians and patients. The flipbook covers topics that people a"
+    }
   }
 }
