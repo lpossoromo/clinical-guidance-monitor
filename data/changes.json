@@ -1263,5 +1263,16 @@
     "previousHash": null,
     "newHash": "51bc374ec5446dc0",
     "acknowledged": false
+  },
+  "change:1778551699778:f445d3c59524041d": {
+    "id": "change:1778551699778:f445d3c59524041d",
+    "url": "https://www.england.nhs.uk/2026/05/nhs-and-morrisons-put-cancer-warning-signs-in-the-shower/",
+    "title": "NHS and Morrisons put cancer warning signs in the shower",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-12T02:08:19.778Z",
+    "previousHash": null,
+    "newHash": "6d52b0d5815b1b86",
+    "acknowledged": false
   }
 }
