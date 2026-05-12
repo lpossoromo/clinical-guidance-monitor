@@ -1016,5 +1016,21 @@
     "discovered": "2026-05-12T02:08:19.664Z",
     "publishedDate": "Mon, 11 May 2026 23:01:31 +0000",
     "source": "nhs"
+  },
+  "ncl:41350ba62dabd9c8": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/tissue-viability-service-clch",
+    "title": "Service: Tissue Viability Service: CLCH",
+    "description": "An updated referral form is available in EMIS and now collects details on a patient&#039;s lasting power of attorney. Accepted patients  receive a comprehensive assessment and treatment plan delivered in clinic, at home or shared with care professionals.",
+    "discovered": "2026-05-12T13:57:13.038Z",
+    "publishedDate": "Tue, 12 May 2026 11:59:56 +0000",
+    "source": "ncl"
+  },
+  "ncl:184907832690fe73": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/lcr-update-uclh-clinical-correspondence-is-now-available-to-view-in-lcr",
+    "title": "News: LCR Update: UCLH Clinical Correspondence is now available to view in LCR",
+    "description": "LCR Update: UCLH Clinical Correspondence is now available to view in LCR",
+    "discovered": "2026-05-12T13:57:13.039Z",
+    "publishedDate": "Tue, 12 May 2026 08:57:31 +0000",
+    "source": "ncl"
   }
 }

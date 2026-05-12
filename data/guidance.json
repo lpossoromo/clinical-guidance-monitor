@@ -1970,5 +1970,39 @@
       "estimatedReadTime": 5,
       "description": "Shoppers are being urged to look out for lumps, swelling, skin changes and unexplained bruising as Morrisons teams up with the NHS to put cancer advice on its own-brand bath and shower products. The range of nine new shower and bath products will carry messages including “Be body aware” and “Know the signs of cancer”, [&#8230;]"
     }
+  },
+  "content:41350ba62dabd9c8": {
+    "id": "content:41350ba62dabd9c8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/tissue-viability-service-clch",
+    "title": "Service: Tissue Viability Service: CLCH",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-12",
+    "fetchedDate": "2026-05-12T13:57:13.038Z",
+    "contentHash": "727af6c429b5bc4a",
+    "content": "An updated referral form is available in EMIS and now collects details on a patient&#039;s lasting power of attorney. Accepted patients  receive a comprehensive assessment and treatment plan delivered in clinic, at home or shared with care professionals.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 38,
+      "estimatedReadTime": 1,
+      "description": "An updated referral form is available in EMIS and now collects details on a patient&#039;s lasting power of attorney. Accepted patients  receive a comprehensive assessment and treatment plan delivered"
+    }
+  },
+  "content:184907832690fe73": {
+    "id": "content:184907832690fe73",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/lcr-update-uclh-clinical-correspondence-is-now-available-to-view-in-lcr",
+    "title": "News: LCR Update: UCLH Clinical Correspondence is now available to view in LCR",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-12",
+    "fetchedDate": "2026-05-12T13:57:13.039Z",
+    "contentHash": "aaa34c631c149932",
+    "content": "LCR Update: UCLH Clinical Correspondence is now available to view in LCR",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 12,
+      "estimatedReadTime": 1,
+      "description": "LCR Update: UCLH Clinical Correspondence is now available to view in LCR"
+    }
   }
 }

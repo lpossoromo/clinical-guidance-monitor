@@ -1274,5 +1274,27 @@
     "previousHash": null,
     "newHash": "6d52b0d5815b1b86",
     "acknowledged": false
+  },
+  "change:1778594233038:41350ba62dabd9c8": {
+    "id": "change:1778594233038:41350ba62dabd9c8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/tissue-viability-service-clch",
+    "title": "Service: Tissue Viability Service: CLCH",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-12T13:57:13.038Z",
+    "previousHash": null,
+    "newHash": "727af6c429b5bc4a",
+    "acknowledged": false
+  },
+  "change:1778594233039:184907832690fe73": {
+    "id": "change:1778594233039:184907832690fe73",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/lcr-update-uclh-clinical-correspondence-is-now-available-to-view-in-lcr",
+    "title": "News: LCR Update: UCLH Clinical Correspondence is now available to view in LCR",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-12T13:57:13.039Z",
+    "previousHash": null,
+    "newHash": "aaa34c631c149932",
+    "acknowledged": false
   }
 }
