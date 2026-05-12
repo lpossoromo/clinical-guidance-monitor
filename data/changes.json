@@ -1296,5 +1296,27 @@
     "previousHash": null,
     "newHash": "aaa34c631c149932",
     "acknowledged": false
+  },
+  "change:1778614129940:ad41863467e1e859": {
+    "id": "change:1778614129940:ad41863467e1e859",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-4-8-may-2026",
+    "title": "News: EMIS Global update: 4&#45;8 May 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-12T19:28:49.940Z",
+    "previousHash": null,
+    "newHash": "648a902f3c028d45",
+    "acknowledged": false
+  },
+  "change:1778614129941:87e1c0a50b56e934": {
+    "id": "change:1778614129941:87e1c0a50b56e934",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/london-care-record-update-uclh-clinical-correspondence-available-to-view",
+    "title": "News: London Care Record Update: UCLH clinical correspondence available to view",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-12T19:28:49.941Z",
+    "previousHash": null,
+    "newHash": "afe23dbace5c35cc",
+    "acknowledged": false
   }
 }

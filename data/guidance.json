@@ -2004,5 +2004,39 @@
       "estimatedReadTime": 1,
       "description": "LCR Update: UCLH Clinical Correspondence is now available to view in LCR"
     }
+  },
+  "content:ad41863467e1e859": {
+    "id": "content:ad41863467e1e859",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-4-8-may-2026",
+    "title": "News: EMIS Global update: 4&#45;8 May 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-12",
+    "fetchedDate": "2026-05-12T19:28:49.940Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
+  },
+  "content:87e1c0a50b56e934": {
+    "id": "content:87e1c0a50b56e934",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/london-care-record-update-uclh-clinical-correspondence-available-to-view",
+    "title": "News: London Care Record Update: UCLH clinical correspondence available to view",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-12",
+    "fetchedDate": "2026-05-12T19:28:49.941Z",
+    "contentHash": "afe23dbace5c35cc",
+    "content": "UCLH clinical correspondence and diagnostic reports are available to view in the London Care Record via existing widgets.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 18,
+      "estimatedReadTime": 1,
+      "description": "UCLH clinical correspondence and diagnostic reports are available to view in the London Care Record via existing widgets."
+    }
   }
 }

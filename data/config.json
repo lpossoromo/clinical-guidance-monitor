@@ -241,7 +241,7 @@
     }
   },
   "lastRunStats": {
-    "rssPoller": "2026-05-12T13:57:13.319Z",
+    "rssPoller": "2026-05-12T19:28:50.280Z",
     "rssPollerResults": {
       "nice": 0,
       "ncl": 2,
@@ -250,5 +250,5 @@
     },
     "htmlPoller": "2026-05-12T14:26:46.832Z"
   },
-  "unreadChanges": 134
+  "unreadChanges": 136
 }

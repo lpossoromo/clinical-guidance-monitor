@@ -1032,5 +1032,21 @@
     "discovered": "2026-05-12T13:57:13.039Z",
     "publishedDate": "Tue, 12 May 2026 08:57:31 +0000",
     "source": "ncl"
+  },
+  "ncl:ad41863467e1e859": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-4-8-may-2026",
+    "title": "News: EMIS Global update: 4&#45;8 May 2026",
+    "description": "See what&#039;s new in EMIS Global",
+    "discovered": "2026-05-12T19:28:49.940Z",
+    "publishedDate": "Tue, 12 May 2026 14:21:00 +0000",
+    "source": "ncl"
+  },
+  "ncl:87e1c0a50b56e934": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/london-care-record-update-uclh-clinical-correspondence-available-to-view",
+    "title": "News: London Care Record Update: UCLH clinical correspondence available to view",
+    "description": "UCLH clinical correspondence and diagnostic reports are available to view in the London Care Record via existing widgets.",
+    "discovered": "2026-05-12T19:28:49.941Z",
+    "publishedDate": "Tue, 12 May 2026 14:01:55 +0000",
+    "source": "ncl"
   }
 }
