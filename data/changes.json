@@ -1318,5 +1318,49 @@
     "previousHash": null,
     "newHash": "afe23dbace5c35cc",
     "acknowledged": false
+  },
+  "change:1778681302035:a6ab26fc0bcc3410": {
+    "id": "change:1778681302035:a6ab26fc0bcc3410",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/clinical-pathways/hyperthyroidism-in-adults",
+    "title": "Pathway: Hyperthyroidism in Adults",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-13T14:08:22.035Z",
+    "previousHash": null,
+    "newHash": "5ae9da0076bf24c5",
+    "acknowledged": false
+  },
+  "change:1778681302036:b8e7e5b1e8839a93": {
+    "id": "change:1778681302036:b8e7e5b1e8839a93",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/london-care-record-update-uclh-clinical-correspondence-available",
+    "title": "News: London Care Record Update: UCLH clinical correspondence available",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-13T14:08:22.036Z",
+    "previousHash": null,
+    "newHash": "fce4b90811d18258",
+    "acknowledged": false
+  },
+  "change:1778681302037:ca735eafdfc989c2": {
+    "id": "change:1778681302037:ca735eafdfc989c2",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/register-expressions-of-interest-to-deliver-asylum-seekers-locally-commissioned-service",
+    "title": "News: Register expressions of interest to deliver asylum seekers locally commissioned service",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-13T14:08:22.037Z",
+    "previousHash": null,
+    "newHash": "cd3f898d5abde438",
+    "acknowledged": false
+  },
+  "change:1778681302037:5c8b2f5803cf48f4": {
+    "id": "change:1778681302037:5c8b2f5803cf48f4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resources-available-for-implementation-of-continuous-glucose-monitoring",
+    "title": "News: Resources available for implementation of continuous glucose monitoring",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-13T14:08:22.037Z",
+    "previousHash": null,
+    "newHash": "d4a8cdea1a1a0387",
+    "acknowledged": false
   }
 }

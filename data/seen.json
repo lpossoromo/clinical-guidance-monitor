@@ -1048,5 +1048,37 @@
     "discovered": "2026-05-12T19:28:49.941Z",
     "publishedDate": "Tue, 12 May 2026 14:01:55 +0000",
     "source": "ncl"
+  },
+  "ncl:a6ab26fc0bcc3410": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/clinical-pathways/hyperthyroidism-in-adults",
+    "title": "Pathway: Hyperthyroidism in Adults",
+    "description": "The adult hyperthyroidism pathway supports primary care management of patients, including guidance on when to refer. A dedicated hypothyroidism pathway has been released at the same time. To find them search for &#039;thyroid&#039; on the NCL GP Website.",
+    "discovered": "2026-05-13T14:08:22.035Z",
+    "publishedDate": "Wed, 13 May 2026 09:00:56 +0000",
+    "source": "ncl"
+  },
+  "ncl:b8e7e5b1e8839a93": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/london-care-record-update-uclh-clinical-correspondence-available",
+    "title": "News: London Care Record Update: UCLH clinical correspondence available",
+    "description": "University College London Hospitals (UCLH) clinical correspondence and diagnostic reports are available to view in the London Care Record via the existing widgets.",
+    "discovered": "2026-05-13T14:08:22.036Z",
+    "publishedDate": "Tue, 12 May 2026 14:01:55 +0000",
+    "source": "ncl"
+  },
+  "ncl:ca735eafdfc989c2": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/register-expressions-of-interest-to-deliver-asylum-seekers-locally-commissioned-service",
+    "title": "News: Register expressions of interest to deliver asylum seekers locally commissioned service",
+    "description": "Interested practices should review the updated specification and FAQs, and express interest by Wednesday 20 May.",
+    "discovered": "2026-05-13T14:08:22.036Z",
+    "publishedDate": "Wed, 13 May 2026 10:42:28 +0000",
+    "source": "ncl"
+  },
+  "ncl:5c8b2f5803cf48f4": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resources-available-for-implementation-of-continuous-glucose-monitoring",
+    "title": "News: Resources available for implementation of continuous glucose monitoring",
+    "description": "Developed by the Medicines Optimisation Team and clinicians across primary and secondary care to support implementation of continuous glucose monitoring.",
+    "discovered": "2026-05-13T14:08:22.037Z",
+    "publishedDate": "Wed, 13 May 2026 10:38:16 +0000",
+    "source": "ncl"
   }
 }

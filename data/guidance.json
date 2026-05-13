@@ -2038,5 +2038,73 @@
       "estimatedReadTime": 1,
       "description": "UCLH clinical correspondence and diagnostic reports are available to view in the London Care Record via existing widgets."
     }
+  },
+  "content:a6ab26fc0bcc3410": {
+    "id": "content:a6ab26fc0bcc3410",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/clinical-pathways/hyperthyroidism-in-adults",
+    "title": "Pathway: Hyperthyroidism in Adults",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-13",
+    "fetchedDate": "2026-05-13T14:08:22.035Z",
+    "contentHash": "5ae9da0076bf24c5",
+    "content": "The adult hyperthyroidism pathway supports primary care management of patients, including guidance on when to refer. A dedicated hypothyroidism pathway has been released at the same time. To find them search for &#039;thyroid&#039; on the NCL GP Website.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 38,
+      "estimatedReadTime": 1,
+      "description": "The adult hyperthyroidism pathway supports primary care management of patients, including guidance on when to refer. A dedicated hypothyroidism pathway has been released at the same time. To find them"
+    }
+  },
+  "content:b8e7e5b1e8839a93": {
+    "id": "content:b8e7e5b1e8839a93",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/london-care-record-update-uclh-clinical-correspondence-available",
+    "title": "News: London Care Record Update: UCLH clinical correspondence available",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-12",
+    "fetchedDate": "2026-05-13T14:08:22.036Z",
+    "contentHash": "fce4b90811d18258",
+    "content": "University College London Hospitals (UCLH) clinical correspondence and diagnostic reports are available to view in the London Care Record via the existing widgets.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "University College London Hospitals (UCLH) clinical correspondence and diagnostic reports are available to view in the London Care Record via the existing widgets."
+    }
+  },
+  "content:ca735eafdfc989c2": {
+    "id": "content:ca735eafdfc989c2",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/register-expressions-of-interest-to-deliver-asylum-seekers-locally-commissioned-service",
+    "title": "News: Register expressions of interest to deliver asylum seekers locally commissioned service",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-13",
+    "fetchedDate": "2026-05-13T14:08:22.037Z",
+    "contentHash": "cd3f898d5abde438",
+    "content": "Interested practices should review the updated specification and FAQs, and express interest by Wednesday 20 May.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 16,
+      "estimatedReadTime": 1,
+      "description": "Interested practices should review the updated specification and FAQs, and express interest by Wednesday 20 May."
+    }
+  },
+  "content:5c8b2f5803cf48f4": {
+    "id": "content:5c8b2f5803cf48f4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resources-available-for-implementation-of-continuous-glucose-monitoring",
+    "title": "News: Resources available for implementation of continuous glucose monitoring",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-13",
+    "fetchedDate": "2026-05-13T14:08:22.037Z",
+    "contentHash": "d4a8cdea1a1a0387",
+    "content": "Developed by the Medicines Optimisation Team and clinicians across primary and secondary care to support implementation of continuous glucose monitoring.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 20,
+      "estimatedReadTime": 1,
+      "description": "Developed by the Medicines Optimisation Team and clinicians across primary and secondary care to support implementation of continuous glucose monitoring."
+    }
   }
 }
