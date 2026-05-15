@@ -1080,5 +1080,13 @@
     "discovered": "2026-05-13T14:08:22.037Z",
     "publishedDate": "Wed, 13 May 2026 10:38:16 +0000",
     "source": "ncl"
+  },
+  "ncl:84f26ffe30027f59": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/blue-badge-help-and-support",
+    "title": "News: Blue Badge help and support",
+    "description": "GP practices are being asked to display the Camden Accessible Travel Solutions poster and signpost eligible patients who may have questions about applying for a Blue Badge.",
+    "discovered": "2026-05-15T13:44:31.265Z",
+    "publishedDate": "Fri, 15 May 2026 11:00:57 +0000",
+    "source": "ncl"
   }
 }

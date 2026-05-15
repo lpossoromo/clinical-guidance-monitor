@@ -1362,5 +1362,16 @@
     "previousHash": null,
     "newHash": "d4a8cdea1a1a0387",
     "acknowledged": false
+  },
+  "change:1778852671266:84f26ffe30027f59": {
+    "id": "change:1778852671266:84f26ffe30027f59",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/blue-badge-help-and-support",
+    "title": "News: Blue Badge help and support",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-15T13:44:31.266Z",
+    "previousHash": null,
+    "newHash": "cdabc786073baf72",
+    "acknowledged": false
   }
 }
