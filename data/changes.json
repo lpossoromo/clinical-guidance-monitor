@@ -1373,5 +1373,27 @@
     "previousHash": null,
     "newHash": "cdabc786073baf72",
     "acknowledged": false
+  },
+  "change:1779116098463:d1dfba3e9336cb36": {
+    "id": "change:1779116098463:d1dfba3e9336cb36",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/expression-of-interest-pg-certificate-in-clinical-education-open-to-general-practice-nurses",
+    "title": "News: Expression of Interest: PG Certificate in Clinical Education open to general practice nurses",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-18T14:54:58.463Z",
+    "previousHash": null,
+    "newHash": "5d292c338d0d30f0",
+    "acknowledged": false
+  },
+  "change:1779116098464:5abeb048fcb9d2d5": {
+    "id": "change:1779116098464:5abeb048fcb9d2d5",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/cardiology-diagnostics-finchley-memorial-hospital-cdc",
+    "title": "Service: Cardiology Diagnostics: Finchley Memorial Hospital CDC",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-18T14:54:58.464Z",
+    "previousHash": null,
+    "newHash": "1e81889318018e4a",
+    "acknowledged": false
   }
 }

@@ -2123,5 +2123,39 @@
       "estimatedReadTime": 1,
       "description": "GP practices are being asked to display the Camden Accessible Travel Solutions poster and signpost eligible patients who may have questions about applying for a Blue Badge."
     }
+  },
+  "content:d1dfba3e9336cb36": {
+    "id": "content:d1dfba3e9336cb36",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/expression-of-interest-pg-certificate-in-clinical-education-open-to-general-practice-nurses",
+    "title": "News: Expression of Interest: PG Certificate in Clinical Education open to general practice nurses",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-18",
+    "fetchedDate": "2026-05-18T14:54:58.463Z",
+    "contentHash": "5d292c338d0d30f0",
+    "content": "Seeking EOI from GP nurses interested in advancing their clinical and teaching skills. Submit EOI by COP Friday 12 June.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 20,
+      "estimatedReadTime": 1,
+      "description": "Seeking EOI from GP nurses interested in advancing their clinical and teaching skills. Submit EOI by COP Friday 12 June."
+    }
+  },
+  "content:5abeb048fcb9d2d5": {
+    "id": "content:5abeb048fcb9d2d5",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/cardiology-diagnostics-finchley-memorial-hospital-cdc",
+    "title": "Service: Cardiology Diagnostics: Finchley Memorial Hospital CDC",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-18",
+    "fetchedDate": "2026-05-18T14:54:58.464Z",
+    "contentHash": "1e81889318018e4a",
+    "content": "Reminder: Finchley Memorial Hospital Community Diagnostic Centre (CDC) offers a one-stop cardiology clinic, open seven days a week offering flexible and accessible appointments.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "Reminder: Finchley Memorial Hospital Community Diagnostic Centre (CDC) offers a one-stop cardiology clinic, open seven days a week offering flexible and accessible appointments."
+    }
   }
 }

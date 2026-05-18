@@ -1088,5 +1088,21 @@
     "discovered": "2026-05-15T13:44:31.265Z",
     "publishedDate": "Fri, 15 May 2026 11:00:57 +0000",
     "source": "ncl"
+  },
+  "ncl:d1dfba3e9336cb36": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/expression-of-interest-pg-certificate-in-clinical-education-open-to-general-practice-nurses",
+    "title": "News: Expression of Interest: PG Certificate in Clinical Education open to general practice nurses",
+    "description": "Seeking EOI from GP nurses interested in advancing their clinical and teaching skills. Submit EOI by COP Friday 12 June.",
+    "discovered": "2026-05-18T14:54:58.463Z",
+    "publishedDate": "Mon, 18 May 2026 13:42:10 +0000",
+    "source": "ncl"
+  },
+  "ncl:5abeb048fcb9d2d5": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/cardiology-diagnostics-finchley-memorial-hospital-cdc",
+    "title": "Service: Cardiology Diagnostics: Finchley Memorial Hospital CDC",
+    "description": "Reminder: Finchley Memorial Hospital Community Diagnostic Centre (CDC) offers a one-stop cardiology clinic, open seven days a week offering flexible and accessible appointments.",
+    "discovered": "2026-05-18T14:54:58.464Z",
+    "publishedDate": "Mon, 18 May 2026 11:39:39 +0000",
+    "source": "ncl"
   }
 }
