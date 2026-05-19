@@ -1417,5 +1417,16 @@
     "previousHash": null,
     "newHash": "b663dab7e1320e89",
     "acknowledged": false
+  },
+  "change:1779219790517:b503efeb4324c955": {
+    "id": "change:1779219790517:b503efeb4324c955",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/help-support-oesophageal-cancer-research-projects",
+    "title": "News: Help support oesophageal cancer research projects",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-19T19:43:10.516Z",
+    "previousHash": null,
+    "newHash": "fc38ebac72c8a515",
+    "acknowledged": false
   }
 }
