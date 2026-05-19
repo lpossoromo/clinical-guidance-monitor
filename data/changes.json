@@ -1395,5 +1395,27 @@
     "previousHash": null,
     "newHash": "1e81889318018e4a",
     "acknowledged": false
+  },
+  "change:1779201508882:5f940b68c5a183a3": {
+    "id": "change:1779201508882:5f940b68c5a183a3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-11-15-may-2026",
+    "title": "News: EMIS Global update: 11&#45;15 May 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-19T14:38:28.882Z",
+    "previousHash": null,
+    "newHash": "648a902f3c028d45",
+    "acknowledged": false
+  },
+  "change:1779201508883:2128bcd82e665a34": {
+    "id": "change:1779201508883:2128bcd82e665a34",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/patient-volunteers-required-for-oesophageal-cancer-research",
+    "title": "News: Patient volunteers required for oesophageal cancer research",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-19T14:38:28.883Z",
+    "previousHash": null,
+    "newHash": "b663dab7e1320e89",
+    "acknowledged": false
   }
 }

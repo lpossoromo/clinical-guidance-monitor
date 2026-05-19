@@ -2157,5 +2157,39 @@
       "estimatedReadTime": 1,
       "description": "Reminder: Finchley Memorial Hospital Community Diagnostic Centre (CDC) offers a one-stop cardiology clinic, open seven days a week offering flexible and accessible appointments."
     }
+  },
+  "content:5f940b68c5a183a3": {
+    "id": "content:5f940b68c5a183a3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-11-15-may-2026",
+    "title": "News: EMIS Global update: 11&#45;15 May 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-19",
+    "fetchedDate": "2026-05-19T14:38:28.882Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
+  },
+  "content:2128bcd82e665a34": {
+    "id": "content:2128bcd82e665a34",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/patient-volunteers-required-for-oesophageal-cancer-research",
+    "title": "News: Patient volunteers required for oesophageal cancer research",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-19",
+    "fetchedDate": "2026-05-19T14:38:28.883Z",
+    "contentHash": "b663dab7e1320e89",
+    "content": "Two oesophageal cancer projects are coming to North Central London. Volunteers are required to support these on heartburn and Barratt&#039;s oesophagus.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "Two oesophageal cancer projects are coming to North Central London. Volunteers are required to support these on heartburn and Barratt&#039;s oesophagus."
+    }
   }
 }
