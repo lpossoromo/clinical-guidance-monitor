@@ -1128,5 +1128,13 @@
     "discovered": "2026-05-19T19:43:10.516Z",
     "publishedDate": "Tue, 19 May 2026 15:14:11 +0000",
     "source": "ncl"
+  },
+  "ncl:8700198c1b9cb85f": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/chronic-kidney-disease-ncl-ckd-pathway-updates-new-treatments-and-launch-of-kidney-beam",
+    "title": "Event: Chronic Kidney Disease: NCL CKD pathway updates, new treatments, and launch of Kidney Beam",
+    "description": "This event focuses on updates on the management of chronic kidney disease as a leading cause of CVD morbidity and mortality.",
+    "discovered": "2026-05-20T08:54:17.079Z",
+    "publishedDate": "Wed, 20 May 2026 08:25:27 +0000",
+    "source": "ncl"
   }
 }

@@ -1428,5 +1428,16 @@
     "previousHash": null,
     "newHash": "fc38ebac72c8a515",
     "acknowledged": false
+  },
+  "change:1779267257079:8700198c1b9cb85f": {
+    "id": "change:1779267257079:8700198c1b9cb85f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/chronic-kidney-disease-ncl-ckd-pathway-updates-new-treatments-and-launch-of-kidney-beam",
+    "title": "Event: Chronic Kidney Disease: NCL CKD pathway updates, new treatments, and launch of Kidney Beam",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-20T08:54:17.079Z",
+    "previousHash": null,
+    "newHash": "152e1509b357cbbc",
+    "acknowledged": false
   }
 }

@@ -2208,5 +2208,22 @@
       "estimatedReadTime": 1,
       "description": "Two oesophageal cancer projects are coming to north central London. Volunteers can take part to support research on heartburn and Barratt&#039;s oesophagus."
     }
+  },
+  "content:8700198c1b9cb85f": {
+    "id": "content:8700198c1b9cb85f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/chronic-kidney-disease-ncl-ckd-pathway-updates-new-treatments-and-launch-of-kidney-beam",
+    "title": "Event: Chronic Kidney Disease: NCL CKD pathway updates, new treatments, and launch of Kidney Beam",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-20",
+    "fetchedDate": "2026-05-20T08:54:17.079Z",
+    "contentHash": "152e1509b357cbbc",
+    "content": "This event focuses on updates on the management of chronic kidney disease as a leading cause of CVD morbidity and mortality.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "This event focuses on updates on the management of chronic kidney disease as a leading cause of CVD morbidity and mortality."
+    }
   }
 }
