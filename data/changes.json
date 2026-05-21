@@ -1439,5 +1439,16 @@
     "previousHash": null,
     "newHash": "152e1509b357cbbc",
     "acknowledged": false
+  },
+  "change:1779392623481:b6d79c020babe652": {
+    "id": "change:1779392623481:b6d79c020babe652",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hpv-self-sampling-is-live-across-all-west-and-north-london-practices",
+    "title": "News: HPV Self&#45;sampling is live across all west and north London practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-21T19:43:43.480Z",
+    "previousHash": null,
+    "newHash": "5b8c2c06f08b8294",
+    "acknowledged": false
   }
 }
