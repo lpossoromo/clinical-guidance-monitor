@@ -1450,5 +1450,27 @@
     "previousHash": null,
     "newHash": "5b8c2c06f08b8294",
     "acknowledged": false
+  },
+  "change:1779459519938:d0cc7056d5f0e5fd": {
+    "id": "change:1779459519938:d0cc7056d5f0e5fd",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mhra-drug-safety-update-safety-warnings-for-finasteride-and-dutasteride",
+    "title": "News: MHRA drug safety update: Safety warnings for Finasteride and Dutasteride",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-22T14:18:39.938Z",
+    "previousHash": null,
+    "newHash": "c883903c78ae2a8d",
+    "acknowledged": false
+  },
+  "change:1779459519938:d96e2bd9c29278eb": {
+    "id": "change:1779459519938:d96e2bd9c29278eb",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hot-weather-update-key-actions-for-gp-practices",
+    "title": "News: Hot weather update: Key actions for GP practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-22T14:18:39.938Z",
+    "previousHash": null,
+    "newHash": "f2e41b6c24d2edc0",
+    "acknowledged": false
   }
 }

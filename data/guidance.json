@@ -2242,5 +2242,39 @@
       "estimatedReadTime": 1,
       "description": "NHS England have provided a launch pack for practices to support the self-sampling HPV pathway across west and north London."
     }
+  },
+  "content:d0cc7056d5f0e5fd": {
+    "id": "content:d0cc7056d5f0e5fd",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mhra-drug-safety-update-safety-warnings-for-finasteride-and-dutasteride",
+    "title": "News: MHRA drug safety update: Safety warnings for Finasteride and Dutasteride",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-22",
+    "fetchedDate": "2026-05-22T14:18:39.938Z",
+    "contentHash": "c883903c78ae2a8d",
+    "content": "MHRA has reviewed safety information for Finasteride and Dutasteride. This is for continued psychiatric or sexual dysfunction side effects even once treatment has stopped.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 24,
+      "estimatedReadTime": 1,
+      "description": "MHRA has reviewed safety information for Finasteride and Dutasteride. This is for continued psychiatric or sexual dysfunction side effects even once treatment has stopped."
+    }
+  },
+  "content:d96e2bd9c29278eb": {
+    "id": "content:d96e2bd9c29278eb",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hot-weather-update-key-actions-for-gp-practices",
+    "title": "News: Hot weather update: Key actions for GP practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-22",
+    "fetchedDate": "2026-05-22T14:18:39.938Z",
+    "contentHash": "f2e41b6c24d2edc0",
+    "content": "Key actions for GP practices over the hot weather period to identify and support at risk and vulnerable patients.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 19,
+      "estimatedReadTime": 1,
+      "description": "Key actions for GP practices over the hot weather period to identify and support at risk and vulnerable patients."
+    }
   }
 }

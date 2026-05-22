@@ -1144,5 +1144,21 @@
     "discovered": "2026-05-21T19:43:43.480Z",
     "publishedDate": "Thu, 21 May 2026 16:27:22 +0000",
     "source": "ncl"
+  },
+  "ncl:d0cc7056d5f0e5fd": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mhra-drug-safety-update-safety-warnings-for-finasteride-and-dutasteride",
+    "title": "News: MHRA drug safety update: Safety warnings for Finasteride and Dutasteride",
+    "description": "MHRA has reviewed safety information for Finasteride and Dutasteride. This is for continued psychiatric or sexual dysfunction side effects even once treatment has stopped.",
+    "discovered": "2026-05-22T14:18:39.938Z",
+    "publishedDate": "Fri, 22 May 2026 12:21:36 +0000",
+    "source": "ncl"
+  },
+  "ncl:d96e2bd9c29278eb": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hot-weather-update-key-actions-for-gp-practices",
+    "title": "News: Hot weather update: Key actions for GP practices",
+    "description": "Key actions for GP practices over the hot weather period to identify and support at risk and vulnerable patients.",
+    "discovered": "2026-05-22T14:18:39.938Z",
+    "publishedDate": "Fri, 22 May 2026 10:27:25 +0000",
+    "source": "ncl"
   }
 }
