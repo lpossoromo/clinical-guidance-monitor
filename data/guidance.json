@@ -2293,5 +2293,22 @@
       "estimatedReadTime": 6,
       "description": "Thousands of people in England have had lung cancer caught early thanks to NHS scanning trucks in supermarket car parks, sports stadiums and busy high streets. New NHS data shows 10,678 lung cancers have been detected through the programme since it began – more than three quarters of which were caught at stages one or [&#8230;]"
     }
+  },
+  "content:250de2f834f76887": {
+    "id": "content:250de2f834f76887",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-18-22-may-2026",
+    "title": "News: EMIS Global update: 18&#45;22 May 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-26",
+    "fetchedDate": "2026-05-26T19:57:02.820Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
   }
 }
