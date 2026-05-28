@@ -1494,5 +1494,16 @@
     "previousHash": null,
     "newHash": "648a902f3c028d45",
     "acknowledged": false
+  },
+  "change:1779982213578:4bfaec274b2d7900": {
+    "id": "change:1779982213578:4bfaec274b2d7900",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/whittington-health-ambulatory-care-closed-sunday-31-may",
+    "title": "News: Whittington Health Ambulatory Care closed, Sunday 31 May",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-05-28T15:30:13.578Z",
+    "previousHash": null,
+    "newHash": "9760c1fbaa9b7a07",
+    "acknowledged": false
   }
 }

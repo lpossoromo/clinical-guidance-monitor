@@ -2310,5 +2310,22 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global"
     }
+  },
+  "content:4bfaec274b2d7900": {
+    "id": "content:4bfaec274b2d7900",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/whittington-health-ambulatory-care-closed-sunday-31-may",
+    "title": "News: Whittington Health Ambulatory Care closed, Sunday 31 May",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-05-28",
+    "fetchedDate": "2026-05-28T15:30:13.578Z",
+    "contentHash": "9760c1fbaa9b7a07",
+    "content": "Send urgent referrals via emergency department.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "Send urgent referrals via emergency department."
+    }
   }
 }

@@ -1176,5 +1176,13 @@
     "discovered": "2026-05-26T19:57:02.820Z",
     "publishedDate": "Tue, 26 May 2026 15:01:13 +0000",
     "source": "ncl"
+  },
+  "ncl:4bfaec274b2d7900": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/whittington-health-ambulatory-care-closed-sunday-31-may",
+    "title": "News: Whittington Health Ambulatory Care closed, Sunday 31 May",
+    "description": "Send urgent referrals via emergency department.",
+    "discovered": "2026-05-28T15:30:13.578Z",
+    "publishedDate": "Thu, 28 May 2026 15:01:19 +0000",
+    "source": "ncl"
   }
 }
