@@ -2327,5 +2327,22 @@
       "estimatedReadTime": 1,
       "description": "Send urgent referrals via emergency department."
     }
+  },
+  "content:461bd5d18a9c193e": {
+    "id": "content:461bd5d18a9c193e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-25-29-may-2026",
+    "title": "News: EMIS Global update: 25&#45;29 May 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-01",
+    "fetchedDate": "2026-06-01T17:18:44.215Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }

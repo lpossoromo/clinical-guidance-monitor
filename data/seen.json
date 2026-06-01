@@ -1184,5 +1184,13 @@
     "discovered": "2026-05-28T15:30:13.578Z",
     "publishedDate": "Thu, 28 May 2026 15:01:19 +0000",
     "source": "ncl"
+  },
+  "ncl:461bd5d18a9c193e": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-25-29-may-2026",
+    "title": "News: EMIS Global update: 25&#45;29 May 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-06-01T17:18:44.215Z",
+    "publishedDate": "Mon, 01 Jun 2026 13:35:12 +0000",
+    "source": "ncl"
   }
 }
