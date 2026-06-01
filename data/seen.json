@@ -1192,5 +1192,17 @@
     "discovered": "2026-06-01T17:18:44.215Z",
     "publishedDate": "Mon, 01 Jun 2026 13:35:12 +0000",
     "source": "ncl"
+  },
+  "artp:7122583629a5a48a": {
+    "url": "https://www.artp.org.uk/news/172/new_artp_sleep_position_statement",
+    "title": "New Artp Sleep Position Statement",
+    "discovered": "2026-06-01T17:39:57.381Z",
+    "source": "artp"
+  },
+  "artp:a1f4bf84c57e5673": {
+    "url": "https://www.artp.org.uk/news/173/new_artp_sleep_position_statement",
+    "title": "New Artp Sleep Position Statement",
+    "discovered": "2026-06-01T17:39:57.381Z",
+    "source": "artp"
   }
 }
