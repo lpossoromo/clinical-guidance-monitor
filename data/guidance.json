@@ -2378,5 +2378,39 @@
       "estimatedReadTime": 2,
       "description": "Home \n\r\n\r\n\r\n\r\n\r\nNews \n\r\n\r\n\r\nNew ARTP Sleep Position Statement\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\nNew ARTP Sleep Position Statement\n\r\n\r\n\r\n\r\nBenefits of Multi-Supplier Procurement within Adult Sleep Services\n\r\n\r\n\r\n\r\n01 Jun"
     }
+  },
+  "content:d841e24a632b0bdc": {
+    "id": "content:d841e24a632b0bdc",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/changes-to-telecare-referrals",
+    "title": "News: Changes to telecare referrals",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-02",
+    "fetchedDate": "2026-06-02T10:05:19.846Z",
+    "contentHash": "6f5bfabc5354670f",
+    "content": "Healthcare professionals to signpost patients to source their own assistive technology directly.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 12,
+      "estimatedReadTime": 1,
+      "description": "Healthcare professionals to signpost patients to source their own assistive technology directly."
+    }
+  },
+  "content:72fd3129ce2750f9": {
+    "id": "content:72fd3129ce2750f9",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/suicide-prevention-e-learning-available-for-all-primary-care-staff",
+    "title": "News: Suicide prevention e&#45;learning available for all primary care staff",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-02",
+    "fetchedDate": "2026-06-02T10:05:19.847Z",
+    "contentHash": "91fa5103c4534c04",
+    "content": "Training delivered by 4 Mental Health. There are three offers tailored to different staff groups available supporting colleagues to increase their confidence to deal with someone having suicidal thoughts.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 29,
+      "estimatedReadTime": 1,
+      "description": "Training delivered by 4 Mental Health. There are three offers tailored to different staff groups available supporting colleagues to increase their confidence to deal with someone having suicidal thoug"
+    }
   }
 }

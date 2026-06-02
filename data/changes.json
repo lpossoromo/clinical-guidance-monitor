@@ -1538,5 +1538,27 @@
     "previousHash": null,
     "newHash": "d74066589d71cbd7",
     "acknowledged": false
+  },
+  "change:1780394719846:d841e24a632b0bdc": {
+    "id": "change:1780394719846:d841e24a632b0bdc",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/changes-to-telecare-referrals",
+    "title": "News: Changes to telecare referrals",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-02T10:05:19.846Z",
+    "previousHash": null,
+    "newHash": "6f5bfabc5354670f",
+    "acknowledged": false
+  },
+  "change:1780394719847:72fd3129ce2750f9": {
+    "id": "change:1780394719847:72fd3129ce2750f9",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/suicide-prevention-e-learning-available-for-all-primary-care-staff",
+    "title": "News: Suicide prevention e&#45;learning available for all primary care staff",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-02T10:05:19.847Z",
+    "previousHash": null,
+    "newHash": "91fa5103c4534c04",
+    "acknowledged": false
   }
 }

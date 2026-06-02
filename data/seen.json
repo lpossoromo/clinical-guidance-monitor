@@ -1204,5 +1204,21 @@
     "title": "New Artp Sleep Position Statement",
     "discovered": "2026-06-01T17:39:57.381Z",
     "source": "artp"
+  },
+  "ncl:d841e24a632b0bdc": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/changes-to-telecare-referrals",
+    "title": "News: Changes to telecare referrals",
+    "description": "Healthcare professionals to signpost patients to source their own assistive technology directly.",
+    "discovered": "2026-06-02T10:05:19.846Z",
+    "publishedDate": "Tue, 02 Jun 2026 10:03:25 +0000",
+    "source": "ncl"
+  },
+  "ncl:72fd3129ce2750f9": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/suicide-prevention-e-learning-available-for-all-primary-care-staff",
+    "title": "News: Suicide prevention e&#45;learning available for all primary care staff",
+    "description": "Training delivered by 4 Mental Health. There are three offers tailored to different staff groups available supporting colleagues to increase their confidence to deal with someone having suicidal thoughts.",
+    "discovered": "2026-06-02T10:05:19.846Z",
+    "publishedDate": "Tue, 02 Jun 2026 09:23:37 +0000",
+    "source": "ncl"
   }
 }
