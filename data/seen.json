@@ -1220,5 +1220,29 @@
     "discovered": "2026-06-02T10:05:19.846Z",
     "publishedDate": "Tue, 02 Jun 2026 09:23:37 +0000",
     "source": "ncl"
+  },
+  "ncl:503d3c52f6979e59": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/royal-national-orthopaedic-hospital-accepting-routine-elective-referrals",
+    "title": "News: Royal National Orthopaedic Hospital accepting routine elective referrals",
+    "description": "Reduce waiting times and improve access to planned elective care on selected procedures. Referrals are made via e-RS.",
+    "discovered": "2026-06-02T16:02:40.597Z",
+    "publishedDate": "Tue, 02 Jun 2026 15:52:55 +0000",
+    "source": "ncl"
+  },
+  "ncl:561fc8ee0cbf3231": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-advice-guidance-for-insomnia-in-adults",
+    "title": "News: UCLH advice &amp; guidance service for insomnia in adults",
+    "description": "Use advice and guidance requests to help keep clinic waiting times down.",
+    "discovered": "2026-06-02T16:02:40.598Z",
+    "publishedDate": "Tue, 02 Jun 2026 15:30:22 +0000",
+    "source": "ncl"
+  },
+  "ncl:16e415092f4d740d": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/council-makes-changes-to-telecare-referrals",
+    "title": "News: Council makes changes to telecare referrals",
+    "description": "Telecare-only referrals are no longer accepted. Instead patients can be signposted to directly source their own assistive technology.",
+    "discovered": "2026-06-02T16:02:40.599Z",
+    "publishedDate": "Tue, 02 Jun 2026 10:03:25 +0000",
+    "source": "ncl"
   }
 }

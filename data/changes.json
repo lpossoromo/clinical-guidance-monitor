@@ -1560,5 +1560,38 @@
     "previousHash": null,
     "newHash": "91fa5103c4534c04",
     "acknowledged": false
+  },
+  "change:1780416160598:503d3c52f6979e59": {
+    "id": "change:1780416160598:503d3c52f6979e59",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/royal-national-orthopaedic-hospital-accepting-routine-elective-referrals",
+    "title": "News: Royal National Orthopaedic Hospital accepting routine elective referrals",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-02T16:02:40.598Z",
+    "previousHash": null,
+    "newHash": "7ac5f4aec8a2521a",
+    "acknowledged": false
+  },
+  "change:1780416160598:561fc8ee0cbf3231": {
+    "id": "change:1780416160598:561fc8ee0cbf3231",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-advice-guidance-for-insomnia-in-adults",
+    "title": "News: UCLH advice &amp; guidance service for insomnia in adults",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-02T16:02:40.598Z",
+    "previousHash": null,
+    "newHash": "a842e59274b2429b",
+    "acknowledged": false
+  },
+  "change:1780416160599:16e415092f4d740d": {
+    "id": "change:1780416160599:16e415092f4d740d",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/council-makes-changes-to-telecare-referrals",
+    "title": "News: Council makes changes to telecare referrals",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-02T16:02:40.599Z",
+    "previousHash": null,
+    "newHash": "2e3b2d81674966c0",
+    "acknowledged": false
   }
 }

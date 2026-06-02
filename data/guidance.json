@@ -2412,5 +2412,56 @@
       "estimatedReadTime": 1,
       "description": "Training delivered by 4 Mental Health. There are three offers tailored to different staff groups available supporting colleagues to increase their confidence to deal with someone having suicidal thoug"
     }
+  },
+  "content:503d3c52f6979e59": {
+    "id": "content:503d3c52f6979e59",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/royal-national-orthopaedic-hospital-accepting-routine-elective-referrals",
+    "title": "News: Royal National Orthopaedic Hospital accepting routine elective referrals",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-02",
+    "fetchedDate": "2026-06-02T16:02:40.598Z",
+    "contentHash": "7ac5f4aec8a2521a",
+    "content": "Reduce waiting times and improve access to planned elective care on selected procedures. Referrals are made via e-RS.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 18,
+      "estimatedReadTime": 1,
+      "description": "Reduce waiting times and improve access to planned elective care on selected procedures. Referrals are made via e-RS."
+    }
+  },
+  "content:561fc8ee0cbf3231": {
+    "id": "content:561fc8ee0cbf3231",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-advice-guidance-for-insomnia-in-adults",
+    "title": "News: UCLH advice &amp; guidance service for insomnia in adults",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-02",
+    "fetchedDate": "2026-06-02T16:02:40.598Z",
+    "contentHash": "a842e59274b2429b",
+    "content": "Use advice and guidance requests to help keep clinic waiting times down.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 12,
+      "estimatedReadTime": 1,
+      "description": "Use advice and guidance requests to help keep clinic waiting times down."
+    }
+  },
+  "content:16e415092f4d740d": {
+    "id": "content:16e415092f4d740d",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/council-makes-changes-to-telecare-referrals",
+    "title": "News: Council makes changes to telecare referrals",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-02",
+    "fetchedDate": "2026-06-02T16:02:40.599Z",
+    "contentHash": "2e3b2d81674966c0",
+    "content": "Telecare-only referrals are no longer accepted. Instead patients can be signposted to directly source their own assistive technology.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 18,
+      "estimatedReadTime": 1,
+      "description": "Telecare-only referrals are no longer accepted. Instead patients can be signposted to directly source their own assistive technology."
+    }
   }
 }
