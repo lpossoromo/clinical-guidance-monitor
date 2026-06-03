@@ -1615,5 +1615,16 @@
     "previousHash": null,
     "newHash": "a842e59274b2429b",
     "acknowledged": false
+  },
+  "change:1780505399828:c00fc403da7b1637": {
+    "id": "change:1780505399828:c00fc403da7b1637",
+    "url": "https://www.artp.org.uk/news/174/artp_spirometry_portfolio_version_3_now_live_update_for_artp_members",
+    "title": "Artp Spirometry Portfolio Version 3 Now Live Update For Artp Members",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-03T16:49:59.827Z",
+    "previousHash": null,
+    "newHash": "a86c7c1891aff8d7",
+    "acknowledged": false
   }
 }

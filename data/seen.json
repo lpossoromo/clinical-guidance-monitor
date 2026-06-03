@@ -1260,5 +1260,11 @@
     "discovered": "2026-06-03T16:18:38.503Z",
     "publishedDate": "Tue, 02 Jun 2026 15:30:22 +0000",
     "source": "ncl"
+  },
+  "artp:c00fc403da7b1637": {
+    "url": "https://www.artp.org.uk/news/174/artp_spirometry_portfolio_version_3_now_live_update_for_artp_members",
+    "title": "Artp Spirometry Portfolio Version 3 Now Live Update For Artp Members",
+    "discovered": "2026-06-03T16:49:58.910Z",
+    "source": "artp"
   }
 }
