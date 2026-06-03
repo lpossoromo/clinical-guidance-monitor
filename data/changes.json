@@ -1604,5 +1604,16 @@
     "previousHash": null,
     "newHash": "c341e0559bd533cb",
     "acknowledged": false
+  },
+  "change:1780503518503:13130f3587edc1e8": {
+    "id": "change:1780503518503:13130f3587edc1e8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-offers-advice-guidance-service-for-insomnia-in-adults",
+    "title": "News: UCLH offers advice &amp; guidance service for insomnia in adults",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-03T16:18:38.503Z",
+    "previousHash": null,
+    "newHash": "a842e59274b2429b",
+    "acknowledged": false
   }
 }
