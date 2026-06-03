@@ -1244,5 +1244,13 @@
     "discovered": "2026-06-02T16:02:40.599Z",
     "publishedDate": "Tue, 02 Jun 2026 10:03:25 +0000",
     "source": "ncl"
+  },
+  "ncl:e1699aa0d209aafe": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/nhse-pancreatic-cancer-webinar-recognise-red-flags-with-confidence",
+    "title": "Event: Pancreatic Cancer Webinar: Recognise Red Flags with Confidence",
+    "description": "As part of the NHS England webinar series in partnership with GatewayC, this session will explore pathways for suspected pancreatic cancer and the NHS Pancreatic Cancer Case Finding Pilot. Wednesday 10 June at 12.30pm. Register to secure your spot.",
+    "discovered": "2026-06-03T10:44:09.133Z",
+    "publishedDate": "Wed, 03 Jun 2026 10:30:36 +0000",
+    "source": "ncl"
   }
 }

@@ -1593,5 +1593,16 @@
     "previousHash": null,
     "newHash": "2e3b2d81674966c0",
     "acknowledged": false
+  },
+  "change:1780483449134:e1699aa0d209aafe": {
+    "id": "change:1780483449134:e1699aa0d209aafe",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/nhse-pancreatic-cancer-webinar-recognise-red-flags-with-confidence",
+    "title": "Event: Pancreatic Cancer Webinar: Recognise Red Flags with Confidence",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-03T10:44:09.134Z",
+    "previousHash": null,
+    "newHash": "c341e0559bd533cb",
+    "acknowledged": false
   }
 }

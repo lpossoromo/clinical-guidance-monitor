@@ -2463,5 +2463,22 @@
       "estimatedReadTime": 1,
       "description": "Telecare-only referrals are no longer accepted. Instead patients can be signposted to directly source their own assistive technology."
     }
+  },
+  "content:e1699aa0d209aafe": {
+    "id": "content:e1699aa0d209aafe",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/nhse-pancreatic-cancer-webinar-recognise-red-flags-with-confidence",
+    "title": "Event: Pancreatic Cancer Webinar: Recognise Red Flags with Confidence",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-03",
+    "fetchedDate": "2026-06-03T10:44:09.134Z",
+    "contentHash": "c341e0559bd533cb",
+    "content": "As part of the NHS England webinar series in partnership with GatewayC, this session will explore pathways for suspected pancreatic cancer and the NHS Pancreatic Cancer Case Finding Pilot. Wednesday 10 June at 12.30pm. Register to secure your spot.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 39,
+      "estimatedReadTime": 1,
+      "description": "As part of the NHS England webinar series in partnership with GatewayC, this session will explore pathways for suspected pancreatic cancer and the NHS Pancreatic Cancer Case Finding Pilot. Wednesday 1"
+    }
   }
 }
