@@ -1626,5 +1626,16 @@
     "previousHash": null,
     "newHash": "a86c7c1891aff8d7",
     "acknowledged": false
+  },
+  "change:1780541287491:aa1642da2e8d1fcd": {
+    "id": "change:1780541287491:aa1642da2e8d1fcd",
+    "url": "https://www.england.nhs.uk/2026/06/nhs-rolls-out-life-extending-drug-for-hundreds-of-women-with-ovarian-cancer/",
+    "title": "NHS rolls out life-extending drug for hundreds of women with ovarian cancer",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-04T02:48:07.491Z",
+    "previousHash": null,
+    "newHash": "a62ce1547e73581e",
+    "acknowledged": false
   }
 }
