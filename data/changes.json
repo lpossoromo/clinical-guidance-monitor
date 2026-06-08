@@ -1637,5 +1637,16 @@
     "previousHash": null,
     "newHash": "a62ce1547e73581e",
     "acknowledged": false
+  },
+  "change:1780948922971:93e094661ea1efec": {
+    "id": "change:1780948922971:93e094661ea1efec",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-1-5-june-2026",
+    "title": "News: EMIS Global update: 1&#45;5 June 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-08T20:02:02.971Z",
+    "previousHash": null,
+    "newHash": "648a902f3c028d45",
+    "acknowledged": false
   }
 }

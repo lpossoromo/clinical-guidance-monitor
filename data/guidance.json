@@ -2531,5 +2531,22 @@
       "estimatedReadTime": 5,
       "description": "Hundreds of women with hard-to-treat ovarian cancer could benefit from a new, life-extending drug on the NHS from today – the first new addition to NHS treatment in over 20 years. The new targeted therapy – mirvetuximab soravtansine – will be offered to patients living with ovarian cancer whose disease has stopped responding to standard [&#8230;]"
     }
+  },
+  "content:93e094661ea1efec": {
+    "id": "content:93e094661ea1efec",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-1-5-june-2026",
+    "title": "News: EMIS Global update: 1&#45;5 June 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-08",
+    "fetchedDate": "2026-06-08T20:02:02.971Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
   }
 }
