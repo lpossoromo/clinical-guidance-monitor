@@ -2565,5 +2565,22 @@
       "estimatedReadTime": 1,
       "description": "WNL ICB has created a communications toolkit to help GP practices communicate effectively during the upcoming resident doctors&#039; strike."
     }
+  },
+  "content:da739552ba880c26": {
+    "id": "content:da739552ba880c26",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/listening-learning-and-leading-for-improvement",
+    "title": "News: Listening, learning and leading for improvement",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-09",
+    "fetchedDate": "2026-06-09T19:56:44.188Z",
+    "contentHash": "c1e1774f2b1db6d2",
+    "content": "Welcome message from Frankie Swords, National Medical Director NHS England, Priortising listening and collaboration to enhance patient care and support for NHS professionals.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "Welcome message from Frankie Swords, National Medical Director NHS England, Priortising listening and collaboration to enhance patient care and support for NHS professionals."
+    }
   }
 }

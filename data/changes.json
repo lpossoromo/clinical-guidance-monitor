@@ -1659,5 +1659,16 @@
     "previousHash": null,
     "newHash": "3454e7ca0e508558",
     "acknowledged": false
+  },
+  "change:1781035004189:da739552ba880c26": {
+    "id": "change:1781035004189:da739552ba880c26",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/listening-learning-and-leading-for-improvement",
+    "title": "News: Listening, learning and leading for improvement",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-09T19:56:44.188Z",
+    "previousHash": null,
+    "newHash": "c1e1774f2b1db6d2",
+    "acknowledged": false
   }
 }
