@@ -2548,5 +2548,22 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global"
     }
+  },
+  "content:ea5a317e6adf9b0a": {
+    "id": "content:ea5a317e6adf9b0a",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resident-doctors-strike-communications-toolkit-for-gp-practices-2",
+    "title": "News: Resident doctors’ strike: Communications toolkit for GP practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-09",
+    "fetchedDate": "2026-06-09T14:28:12.774Z",
+    "contentHash": "3454e7ca0e508558",
+    "content": "WNL ICB has created a communications toolkit to help GP practices communicate effectively during the upcoming resident doctors&#039; strike.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 19,
+      "estimatedReadTime": 1,
+      "description": "WNL ICB has created a communications toolkit to help GP practices communicate effectively during the upcoming resident doctors&#039; strike."
+    }
   }
 }

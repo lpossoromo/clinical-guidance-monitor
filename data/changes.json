@@ -1648,5 +1648,16 @@
     "previousHash": null,
     "newHash": "648a902f3c028d45",
     "acknowledged": false
+  },
+  "change:1781015292774:ea5a317e6adf9b0a": {
+    "id": "change:1781015292774:ea5a317e6adf9b0a",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/resident-doctors-strike-communications-toolkit-for-gp-practices-2",
+    "title": "News: Resident doctors’ strike: Communications toolkit for GP practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-09T14:28:12.774Z",
+    "previousHash": null,
+    "newHash": "3454e7ca0e508558",
+    "acknowledged": false
   }
 }
