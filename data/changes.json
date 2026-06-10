@@ -1681,5 +1681,16 @@
     "previousHash": null,
     "newHash": "2cc56451dcc3d86c",
     "acknowledged": false
+  },
+  "change:1781103266791:54ec69258e6d5899": {
+    "id": "change:1781103266791:54ec69258e6d5899",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/cancer-alliance-seeks-insight-into-practices-new-patient-registration-processes",
+    "title": "News: Cancer alliance seeks insight into practices&apos; new patient registration processes",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-10T14:54:26.791Z",
+    "previousHash": null,
+    "newHash": "bb6d6876b2a82103",
+    "acknowledged": false
   }
 }

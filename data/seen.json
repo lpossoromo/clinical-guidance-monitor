@@ -1306,5 +1306,13 @@
     "discovered": "2026-06-10T02:35:21.883Z",
     "publishedDate": "Tue, 09 Jun 2026 23:01:35 +0000",
     "source": "nhs"
+  },
+  "ncl:54ec69258e6d5899": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/cancer-alliance-seeks-insight-into-practices-new-patient-registration-processes",
+    "title": "News: Cancer alliance seeks insight into practices&apos; new patient registration processes",
+    "description": "Complete a short survey on implementation of the NHS England patient registration form as a tool to support code automation in primary care; by Friday 26 June.",
+    "discovered": "2026-06-10T14:54:26.791Z",
+    "publishedDate": "Wed, 10 Jun 2026 11:53:04 +0000",
+    "source": "ncl"
   }
 }
