@@ -1670,5 +1670,16 @@
     "previousHash": null,
     "newHash": "c1e1774f2b1db6d2",
     "acknowledged": false
+  },
+  "change:1781058922050:b81d5516099f8880": {
+    "id": "change:1781058922050:b81d5516099f8880",
+    "url": "https://www.england.nhs.uk/2026/06/nhs-to-offer-multi-beam-precision-radiotherapy-to-thousands-with-prostate-cancer/",
+    "title": "NHS to offer ‘multi-beam’ precision radiotherapy to thousands with prostate cancer",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-10T02:35:22.050Z",
+    "previousHash": null,
+    "newHash": "2cc56451dcc3d86c",
+    "acknowledged": false
   }
 }
