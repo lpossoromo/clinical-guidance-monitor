@@ -1692,5 +1692,16 @@
     "previousHash": null,
     "newHash": "bb6d6876b2a82103",
     "acknowledged": false
+  },
+  "change:1781192208367:74497854df907370": {
+    "id": "change:1781192208367:74497854df907370",
+    "url": "https://www.england.nhs.uk/2026/06/nhs-heroes-recognised-after-accelerating-cancer-diagnosis-and-transforming-patient-care/",
+    "title": "NHS heroes recognised after accelerating cancer diagnosis and transforming patient care",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-11T15:36:48.367Z",
+    "previousHash": null,
+    "newHash": "42ed0138d2e81c4d",
+    "acknowledged": false
   }
 }
