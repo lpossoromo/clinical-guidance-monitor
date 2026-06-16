@@ -1703,5 +1703,16 @@
     "previousHash": null,
     "newHash": "42ed0138d2e81c4d",
     "acknowledged": false
+  },
+  "change:1781627107196:cadc3adf464bbba3": {
+    "id": "change:1781627107196:cadc3adf464bbba3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/survey-wood-green-cdc-seeks-views-on-transvaginal-ultrasound-service",
+    "title": "News: Survey: Wood Green CDC seeks views on transvaginal ultrasound service",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-16T16:25:07.196Z",
+    "previousHash": null,
+    "newHash": "698dd77108acfcb5",
+    "acknowledged": false
   }
 }

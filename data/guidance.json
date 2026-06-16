@@ -2633,5 +2633,22 @@
       "estimatedReadTime": 3,
       "description": "‘Groundbreaking’ NHS teams that have freed up thousands of hospital beds, accelerated cancer diagnosis, and transformed care for patients have been recognised at the inaugural 2026 NHS Excellence Awards. Held today at NHS ConfedExpo in Manchester, the awards celebrated some of the most innovative and impactful healthcare initiatives from across England, showcasing how frontline staff [&#8230;]"
     }
+  },
+  "content:cadc3adf464bbba3": {
+    "id": "content:cadc3adf464bbba3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/survey-wood-green-cdc-seeks-views-on-transvaginal-ultrasound-service",
+    "title": "News: Survey: Wood Green CDC seeks views on transvaginal ultrasound service",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-16",
+    "fetchedDate": "2026-06-16T16:25:07.196Z",
+    "contentHash": "698dd77108acfcb5",
+    "content": "Wood Green CDC also asks referrers to advise patients undergoing a transvaginal ultrasound scan about&nbsp;the possibility of a male sonographer.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 20,
+      "estimatedReadTime": 1,
+      "description": "Wood Green CDC also asks referrers to advise patients undergoing a transvaginal ultrasound scan about&nbsp;the possibility of a male sonographer."
+    }
   }
 }
