@@ -2650,5 +2650,39 @@
       "estimatedReadTime": 1,
       "description": "Wood Green CDC also asks referrers to advise patients undergoing a transvaginal ultrasound scan about&nbsp;the possibility of a male sonographer."
     }
+  },
+  "content:731f7620f4c1f328": {
+    "id": "content:731f7620f4c1f328",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-long-term-conditions-locally-commissioned-service",
+    "title": "News: Update: Long Term Conditions Locally Commissioned Service",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-18",
+    "fetchedDate": "2026-06-18T20:11:50.896Z",
+    "contentHash": "b9b643cf27392316",
+    "content": "WNL ICB is pleased to confirm that all PCNs across north central London have achieved the Hypertension Good Control outcome target at the end of 2025/26, demonstrating sustained improvement in population health outcomes and strong system-wide delivery.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "WNL ICB is pleased to confirm that all PCNs across north central London have achieved the Hypertension Good Control outcome target at the end of 2025/26, demonstrating sustained improvement in populat"
+    }
+  },
+  "content:28ea909d703a2b5a": {
+    "id": "content:28ea909d703a2b5a",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/help-re-engage-people-living-with-hiv-with-available-care",
+    "title": "News: Help re&#45;engage people living with HIV with available care",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-18",
+    "fetchedDate": "2026-06-18T20:11:50.897Z",
+    "contentHash": "dc3731b0872a3a80",
+    "content": "If you have a patient who is living with HIV and not accessing treatment, please consider sharing the contact details for Terence Higgins Trust.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 24,
+      "estimatedReadTime": 1,
+      "description": "If you have a patient who is living with HIV and not accessing treatment, please consider sharing the contact details for Terence Higgins Trust."
+    }
   }
 }

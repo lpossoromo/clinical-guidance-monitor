@@ -1714,5 +1714,27 @@
     "previousHash": null,
     "newHash": "698dd77108acfcb5",
     "acknowledged": false
+  },
+  "change:1781813510897:731f7620f4c1f328": {
+    "id": "change:1781813510897:731f7620f4c1f328",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-long-term-conditions-locally-commissioned-service",
+    "title": "News: Update: Long Term Conditions Locally Commissioned Service",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-18T20:11:50.896Z",
+    "previousHash": null,
+    "newHash": "b9b643cf27392316",
+    "acknowledged": false
+  },
+  "change:1781813510897:28ea909d703a2b5a": {
+    "id": "change:1781813510897:28ea909d703a2b5a",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/help-re-engage-people-living-with-hiv-with-available-care",
+    "title": "News: Help re&#45;engage people living with HIV with available care",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-18T20:11:50.897Z",
+    "previousHash": null,
+    "newHash": "dc3731b0872a3a80",
+    "acknowledged": false
   }
 }
