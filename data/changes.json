@@ -1769,5 +1769,27 @@
     "previousHash": null,
     "newHash": "648a902f3c028d45",
     "acknowledged": false
+  },
+  "change:1782244211947:f7a084a3966a7f1e": {
+    "id": "change:1782244211947:f7a084a3966a7f1e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/cancer-webinar-best-practice-for-skin-and-prostate-referrals",
+    "title": "Event: Cancer Webinar: Best Practice for Skin and Prostate Referrals",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-23T19:50:11.947Z",
+    "previousHash": null,
+    "newHash": "3f8d33ee53442432",
+    "acknowledged": false
+  },
+  "change:1782244211948:81b9b8bb169e7e4d": {
+    "id": "change:1782244211948:81b9b8bb169e7e4d",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/oesophageal-cancer-pilot-goes-live-in-haringey",
+    "title": "News: Oesophageal cancer pilot goes live in Haringey",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-23T19:50:11.948Z",
+    "previousHash": null,
+    "newHash": "16e151b0b04727fa",
+    "acknowledged": false
   }
 }

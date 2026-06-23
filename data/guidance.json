@@ -2735,5 +2735,39 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global"
     }
+  },
+  "content:f7a084a3966a7f1e": {
+    "id": "content:f7a084a3966a7f1e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/cancer-webinar-best-practice-for-skin-and-prostate-referrals",
+    "title": "Event: Cancer Webinar: Best Practice for Skin and Prostate Referrals",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-23",
+    "fetchedDate": "2026-06-23T19:50:11.947Z",
+    "contentHash": "3f8d33ee53442432",
+    "content": "Join the North Central London Cancer Alliance webinar for GPs on skin and prostate cancer referrals, exploring tips, hormone updates, and PSA advice with a Q&amp;A session. 1pm on Thursday 9 July.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 32,
+      "estimatedReadTime": 1,
+      "description": "Join the North Central London Cancer Alliance webinar for GPs on skin and prostate cancer referrals, exploring tips, hormone updates, and PSA advice with a Q&amp;A session. 1pm on Thursday 9 July."
+    }
+  },
+  "content:81b9b8bb169e7e4d": {
+    "id": "content:81b9b8bb169e7e4d",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/oesophageal-cancer-pilot-goes-live-in-haringey",
+    "title": "News: Oesophageal cancer pilot goes live in Haringey",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-23",
+    "fetchedDate": "2026-06-23T19:50:11.948Z",
+    "contentHash": "16e151b0b04727fa",
+    "content": "This community pilot aims to enhance early diagnosis of oesophageal cancer by providing innovative capsule sponge tests to patients identified in pharmacy and community settings across north London.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 28,
+      "estimatedReadTime": 1,
+      "description": "This community pilot aims to enhance early diagnosis of oesophageal cancer by providing innovative capsule sponge tests to patients identified in pharmacy and community settings across north London."
+    }
   }
 }

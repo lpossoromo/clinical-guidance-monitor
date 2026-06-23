@@ -1370,5 +1370,21 @@
     "discovered": "2026-06-23T14:29:10.155Z",
     "publishedDate": "Tue, 23 Jun 2026 13:31:15 +0000",
     "source": "ncl"
+  },
+  "ncl:f7a084a3966a7f1e": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/cancer-webinar-best-practice-for-skin-and-prostate-referrals",
+    "title": "Event: Cancer Webinar: Best Practice for Skin and Prostate Referrals",
+    "description": "Join the North Central London Cancer Alliance webinar for GPs on skin and prostate cancer referrals, exploring tips, hormone updates, and PSA advice with a Q&amp;A session. 1pm on Thursday 9 July.",
+    "discovered": "2026-06-23T19:50:11.947Z",
+    "publishedDate": "Tue, 23 Jun 2026 16:43:56 +0000",
+    "source": "ncl"
+  },
+  "ncl:81b9b8bb169e7e4d": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/oesophageal-cancer-pilot-goes-live-in-haringey",
+    "title": "News: Oesophageal cancer pilot goes live in Haringey",
+    "description": "This community pilot aims to enhance early diagnosis of oesophageal cancer by providing innovative capsule sponge tests to patients identified in pharmacy and community settings across north London.",
+    "discovered": "2026-06-23T19:50:11.948Z",
+    "publishedDate": "Tue, 23 Jun 2026 14:16:47 +0000",
+    "source": "ncl"
   }
 }
