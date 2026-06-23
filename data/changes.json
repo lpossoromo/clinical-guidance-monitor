@@ -1736,5 +1736,38 @@
     "previousHash": null,
     "newHash": "dc3731b0872a3a80",
     "acknowledged": false
+  },
+  "change:1782224950154:85aef6fa7d9e7381": {
+    "id": "change:1782224950154:85aef6fa7d9e7381",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/capsule-sponge-endoscopy-pilot-goes-live-in-haringey",
+    "title": "News: Capsule sponge endoscopy pilot goes live in Haringey",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-23T14:29:10.154Z",
+    "previousHash": null,
+    "newHash": "e3ea102a64474cd6",
+    "acknowledged": false
+  },
+  "change:1782224950154:1c4a7e8c834ec417": {
+    "id": "change:1782224950154:1c4a7e8c834ec417",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/lung-cancer-screening-results-available-electronically",
+    "title": "News: Lung cancer screening results available electronically",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-23T14:29:10.154Z",
+    "previousHash": null,
+    "newHash": "5c18162d4fd0272a",
+    "acknowledged": false
+  },
+  "change:1782224950155:721dad9a744052e8": {
+    "id": "change:1782224950155:721dad9a744052e8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-15-19-june-2026",
+    "title": "News: EMIS Global update: 15&#45;19 June 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-23T14:29:10.155Z",
+    "previousHash": null,
+    "newHash": "648a902f3c028d45",
+    "acknowledged": false
   }
 }

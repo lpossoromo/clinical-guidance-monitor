@@ -1346,5 +1346,29 @@
     "discovered": "2026-06-18T20:11:50.897Z",
     "publishedDate": "Thu, 18 Jun 2026 14:55:46 +0000",
     "source": "ncl"
+  },
+  "ncl:85aef6fa7d9e7381": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/capsule-sponge-endoscopy-pilot-goes-live-in-haringey",
+    "title": "News: Capsule sponge endoscopy pilot goes live in Haringey",
+    "description": "Community pilot aims to enhance early diagnosis of oesophageal cancer using innovative capsule sponge tests through community pharmacies across North London.",
+    "discovered": "2026-06-23T14:29:10.154Z",
+    "publishedDate": "Tue, 23 Jun 2026 14:16:47 +0000",
+    "source": "ncl"
+  },
+  "ncl:1c4a7e8c834ec417": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/lung-cancer-screening-results-available-electronically",
+    "title": "News: Lung cancer screening results available electronically",
+    "description": "Lung cancer screening results will be sent to GP practices electronically and no longer sent by post. This is effective from 1 July.",
+    "discovered": "2026-06-23T14:29:10.154Z",
+    "publishedDate": "Tue, 23 Jun 2026 14:23:18 +0000",
+    "source": "ncl"
+  },
+  "ncl:721dad9a744052e8": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-15-19-june-2026",
+    "title": "News: EMIS Global update: 15&#45;19 June 2026",
+    "description": "See what&#039;s new in EMIS Global",
+    "discovered": "2026-06-23T14:29:10.155Z",
+    "publishedDate": "Tue, 23 Jun 2026 13:31:15 +0000",
+    "source": "ncl"
   }
 }

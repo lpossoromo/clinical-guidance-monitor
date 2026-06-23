@@ -2684,5 +2684,56 @@
       "estimatedReadTime": 1,
       "description": "If you have a patient who is living with HIV and not accessing treatment, please consider sharing the contact details for Terence Higgins Trust."
     }
+  },
+  "content:85aef6fa7d9e7381": {
+    "id": "content:85aef6fa7d9e7381",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/capsule-sponge-endoscopy-pilot-goes-live-in-haringey",
+    "title": "News: Capsule sponge endoscopy pilot goes live in Haringey",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-23",
+    "fetchedDate": "2026-06-23T14:29:10.154Z",
+    "contentHash": "e3ea102a64474cd6",
+    "content": "Community pilot aims to enhance early diagnosis of oesophageal cancer using innovative capsule sponge tests through community pharmacies across North London.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "Community pilot aims to enhance early diagnosis of oesophageal cancer using innovative capsule sponge tests through community pharmacies across North London."
+    }
+  },
+  "content:1c4a7e8c834ec417": {
+    "id": "content:1c4a7e8c834ec417",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/lung-cancer-screening-results-available-electronically",
+    "title": "News: Lung cancer screening results available electronically",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-23",
+    "fetchedDate": "2026-06-23T14:29:10.154Z",
+    "contentHash": "5c18162d4fd0272a",
+    "content": "Lung cancer screening results will be sent to GP practices electronically and no longer sent by post. This is effective from 1 July.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "Lung cancer screening results will be sent to GP practices electronically and no longer sent by post. This is effective from 1 July."
+    }
+  },
+  "content:721dad9a744052e8": {
+    "id": "content:721dad9a744052e8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-15-19-june-2026",
+    "title": "News: EMIS Global update: 15&#45;19 June 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-23",
+    "fetchedDate": "2026-06-23T14:29:10.155Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
   }
 }
