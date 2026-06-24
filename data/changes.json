@@ -1791,5 +1791,16 @@
     "previousHash": null,
     "newHash": "16e151b0b04727fa",
     "acknowledged": false
+  },
+  "change:1782310091571:542781e6c6823b67": {
+    "id": "change:1782310091571:542781e6c6823b67",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/referral-assessment-service-launched-for-ear-nose-and-throat-services-at-royal-free",
+    "title": "News: Referral assessment service launched for ear, nose and throat services at Royal Free",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-24T14:08:11.571Z",
+    "previousHash": null,
+    "newHash": "eae24b3e35410f3e",
+    "acknowledged": false
   }
 }

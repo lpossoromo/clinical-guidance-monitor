@@ -2769,5 +2769,22 @@
       "estimatedReadTime": 1,
       "description": "This community pilot aims to enhance early diagnosis of oesophageal cancer by providing innovative capsule sponge tests to patients identified in pharmacy and community settings across north London."
     }
+  },
+  "content:542781e6c6823b67": {
+    "id": "content:542781e6c6823b67",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/referral-assessment-service-launched-for-ear-nose-and-throat-services-at-royal-free",
+    "title": "News: Referral assessment service launched for ear, nose and throat services at Royal Free",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-24",
+    "fetchedDate": "2026-06-24T14:08:11.571Z",
+    "contentHash": "eae24b3e35410f3e",
+    "content": "An update on the referral processes for adult and paediatric ear, nose and throat services at Royal Free London.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 19,
+      "estimatedReadTime": 1,
+      "description": "An update on the referral processes for adult and paediatric ear, nose and throat services at Royal Free London."
+    }
   }
 }
