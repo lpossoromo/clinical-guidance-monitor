@@ -1802,5 +1802,16 @@
     "previousHash": null,
     "newHash": "eae24b3e35410f3e",
     "acknowledged": false
+  },
+  "change:1782354591866:915d9446e18d7424": {
+    "id": "change:1782354591866:915d9446e18d7424",
+    "url": "https://www.england.nhs.uk/2026/06/nhs-offer-new-immunotherapy-hundreds-women-with-aggressive-cervical-cancer/",
+    "title": "NHS to offer new immunotherapy for hundreds of women with aggressive cervical cancer",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-25T02:29:51.866Z",
+    "previousHash": null,
+    "newHash": "18096de012d2c717",
+    "acknowledged": false
   }
 }
