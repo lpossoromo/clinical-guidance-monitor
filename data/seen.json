@@ -1402,5 +1402,13 @@
     "discovered": "2026-06-25T02:29:51.849Z",
     "publishedDate": "Wed, 24 Jun 2026 23:01:51 +0000",
     "source": "nhs"
+  },
+  "ncl:a61e71e4ccab65f1": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/introduction-of-referral-assessment-service-for-gynaecology-services",
+    "title": "News: Introduction of referral assessment service for gynaecology services",
+    "description": "From Tuesday 21 July the Royal Free London gynaecology service at will change to a single RAS point of access for all sites.",
+    "discovered": "2026-06-25T14:05:00.062Z",
+    "publishedDate": "Thu, 25 Jun 2026 09:29:13 +0000",
+    "source": "ncl"
   }
 }

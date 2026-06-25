@@ -2803,5 +2803,22 @@
       "estimatedReadTime": 4,
       "description": "Hundreds of women with aggressive cervical cancer are to be offered a new immunotherapy on the NHS, which could help more women survive and stay cancer-free in the long-term. Pembrolizumab – which experts describe as being able to ‘take the handbrake off the body’s immune system’ to target cancer – will now offer a new [&#8230;]"
     }
+  },
+  "content:a61e71e4ccab65f1": {
+    "id": "content:a61e71e4ccab65f1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/introduction-of-referral-assessment-service-for-gynaecology-services",
+    "title": "News: Introduction of referral assessment service for gynaecology services",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-25",
+    "fetchedDate": "2026-06-25T14:05:00.063Z",
+    "contentHash": "f27abf62365d4553",
+    "content": "From Tuesday 21 July the Royal Free London gynaecology service at will change to a single RAS point of access for all sites.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "From Tuesday 21 July the Royal Free London gynaecology service at will change to a single RAS point of access for all sites."
+    }
   }
 }

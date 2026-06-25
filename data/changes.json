@@ -1813,5 +1813,16 @@
     "previousHash": null,
     "newHash": "18096de012d2c717",
     "acknowledged": false
+  },
+  "change:1782396300063:a61e71e4ccab65f1": {
+    "id": "change:1782396300063:a61e71e4ccab65f1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/introduction-of-referral-assessment-service-for-gynaecology-services",
+    "title": "News: Introduction of referral assessment service for gynaecology services",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-25T14:05:00.063Z",
+    "previousHash": null,
+    "newHash": "f27abf62365d4553",
+    "acknowledged": false
   }
 }
