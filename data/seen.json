@@ -1418,5 +1418,13 @@
     "discovered": "2026-06-26T02:31:57.964Z",
     "publishedDate": "Thu, 25 Jun 2026 21:30:37 +0000",
     "source": "nhs"
+  },
+  "ncl:564cf65467a51bc3": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-referral-assessment-service-introduced-for-ent-and-gynaecology-services-at-rfl",
+    "title": "News: Update: Referral assessment service introduced for ENT and gynaecology services at RFL",
+    "description": "Royal Free London introduces a referral assessment service for ENT and gynaecology services, providing a single access point for non-urgent referrals.",
+    "discovered": "2026-06-26T14:04:34.146Z",
+    "publishedDate": "Fri, 26 Jun 2026 09:24:43 +0000",
+    "source": "ncl"
   }
 }

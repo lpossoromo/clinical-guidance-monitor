@@ -1835,5 +1835,16 @@
     "previousHash": null,
     "newHash": "53a16c59bd14b397",
     "acknowledged": false
+  },
+  "change:1782482674146:564cf65467a51bc3": {
+    "id": "change:1782482674146:564cf65467a51bc3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-referral-assessment-service-introduced-for-ent-and-gynaecology-services-at-rfl",
+    "title": "News: Update: Referral assessment service introduced for ENT and gynaecology services at RFL",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-26T14:04:34.146Z",
+    "previousHash": null,
+    "newHash": "7f7c31889b381ba8",
+    "acknowledged": false
   }
 }

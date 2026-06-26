@@ -2837,5 +2837,22 @@
       "estimatedReadTime": 5,
       "description": "Nearly 2,000 people unknowingly living with HIV have been diagnosed by a pioneering NHS programme, which tests anyone needing a blood test in A&#38;E, saving lives and preventing new infections, shows new data. Under the first-of-its kind, large scale programme, adults in need of a blood test in A&#38;E in 88 areas of England with [&#8230;]"
     }
+  },
+  "content:564cf65467a51bc3": {
+    "id": "content:564cf65467a51bc3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-referral-assessment-service-introduced-for-ent-and-gynaecology-services-at-rfl",
+    "title": "News: Update: Referral assessment service introduced for ENT and gynaecology services at RFL",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-26",
+    "fetchedDate": "2026-06-26T14:04:34.146Z",
+    "contentHash": "7f7c31889b381ba8",
+    "content": "Royal Free London introduces a referral assessment service for ENT and gynaecology services, providing a single access point for non-urgent referrals.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "Royal Free London introduces a referral assessment service for ENT and gynaecology services, providing a single access point for non-urgent referrals."
+    }
   }
 }
