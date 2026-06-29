@@ -2854,5 +2854,22 @@
       "estimatedReadTime": 1,
       "description": "Royal Free London introduces a referral assessment service for ENT and gynaecology services, providing a single access point for non-urgent referrals."
     }
+  },
+  "content:3c9c5b0acd6471f3": {
+    "id": "content:3c9c5b0acd6471f3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-guidance-available-for-treating-clinically-urgent-patients-on-same-day",
+    "title": "News: NHS England guidance available for treating clinically urgent patients on same day",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-29",
+    "fetchedDate": "2026-06-29T10:23:37.272Z",
+    "contentHash": "ffd7eb3c891ed84f",
+    "content": "NHS England have published a frequently asked questions guide for practices which determine patients as clinically urgent and offered same day appointments.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 22,
+      "estimatedReadTime": 1,
+      "description": "NHS England have published a frequently asked questions guide for practices which determine patients as clinically urgent and offered same day appointments."
+    }
   }
 }

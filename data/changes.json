@@ -1846,5 +1846,16 @@
     "previousHash": null,
     "newHash": "7f7c31889b381ba8",
     "acknowledged": false
+  },
+  "change:1782728617272:3c9c5b0acd6471f3": {
+    "id": "change:1782728617272:3c9c5b0acd6471f3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-guidance-available-for-treating-clinically-urgent-patients-on-same-day",
+    "title": "News: NHS England guidance available for treating clinically urgent patients on same day",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-29T10:23:37.272Z",
+    "previousHash": null,
+    "newHash": "ffd7eb3c891ed84f",
+    "acknowledged": false
   }
 }

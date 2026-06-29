@@ -1426,5 +1426,13 @@
     "discovered": "2026-06-26T14:04:34.146Z",
     "publishedDate": "Fri, 26 Jun 2026 09:24:43 +0000",
     "source": "ncl"
+  },
+  "ncl:3c9c5b0acd6471f3": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-guidance-available-for-treating-clinically-urgent-patients-on-same-day",
+    "title": "News: NHS England guidance available for treating clinically urgent patients on same day",
+    "description": "NHS England have published a frequently asked questions guide for practices which determine patients as clinically urgent and offered same day appointments.",
+    "discovered": "2026-06-29T10:23:37.271Z",
+    "publishedDate": "Mon, 29 Jun 2026 10:21:26 +0000",
+    "source": "ncl"
   }
 }
