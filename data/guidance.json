@@ -2871,5 +2871,56 @@
       "estimatedReadTime": 1,
       "description": "NHS England have published a frequently asked questions guide for practices which determine patients as clinically urgent and offered same day appointments."
     }
+  },
+  "content:d22db50eedb4fd09": {
+    "id": "content:d22db50eedb4fd09",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/whittington-diabetes-self-management-support-programme-july-places-available",
+    "title": "News: Whittington diabetes self&#45;management support programme, July places available",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-29",
+    "fetchedDate": "2026-06-29T15:31:48.077Z",
+    "contentHash": "e394fd495328f1bc",
+    "content": "The Diabetes Self-Management Programme helps those with long-term conditions build confidence and improve their wellbeing. Visit the service pages to find out more and how to refer your patients.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 29,
+      "estimatedReadTime": 1,
+      "description": "The Diabetes Self-Management Programme helps those with long-term conditions build confidence and improve their wellbeing. Visit the service pages to find out more and how to refer your patients."
+    }
+  },
+  "content:3d99b904642ecaef": {
+    "id": "content:3d99b904642ecaef",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/whittington-health-launching-pilot-for-podiatrists-to-supply-oral-antibiotics-for-community-patients",
+    "title": "News: Whittington Health launching pilot for podiatrists to supply oral antibiotics for community patients",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-29",
+    "fetchedDate": "2026-06-29T15:31:48.077Z",
+    "contentHash": "00239425e4953bb4",
+    "content": "The pilot aims to reduce requests to GPs and streamline care. Full roll-out is anticipated by the end of the year.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "The pilot aims to reduce requests to GPs and streamline care. Full roll-out is anticipated by the end of the year."
+    }
+  },
+  "content:9d38cba74f4fece1": {
+    "id": "content:9d38cba74f4fece1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-referral-assessment-service-introduced-for-ent-and-gynaecology-services",
+    "title": "News: RFL Update: Referral assessment service introduced for ENT and gynaecology services",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-26",
+    "fetchedDate": "2026-06-29T15:31:48.077Z",
+    "contentHash": "7f7c31889b381ba8",
+    "content": "Royal Free London introduces a referral assessment service for ENT and gynaecology services, providing a single access point for non-urgent referrals.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "Royal Free London introduces a referral assessment service for ENT and gynaecology services, providing a single access point for non-urgent referrals."
+    }
   }
 }

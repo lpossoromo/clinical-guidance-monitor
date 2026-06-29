@@ -1434,5 +1434,29 @@
     "discovered": "2026-06-29T10:23:37.271Z",
     "publishedDate": "Mon, 29 Jun 2026 10:21:26 +0000",
     "source": "ncl"
+  },
+  "ncl:d22db50eedb4fd09": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/whittington-diabetes-self-management-support-programme-july-places-available",
+    "title": "News: Whittington diabetes self&#45;management support programme, July places available",
+    "description": "The Diabetes Self-Management Programme helps those with long-term conditions build confidence and improve their wellbeing. Visit the service pages to find out more and how to refer your patients.",
+    "discovered": "2026-06-29T15:31:48.077Z",
+    "publishedDate": "Mon, 29 Jun 2026 11:32:40 +0000",
+    "source": "ncl"
+  },
+  "ncl:3d99b904642ecaef": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/whittington-health-launching-pilot-for-podiatrists-to-supply-oral-antibiotics-for-community-patients",
+    "title": "News: Whittington Health launching pilot for podiatrists to supply oral antibiotics for community patients",
+    "description": "The pilot aims to reduce requests to GPs and streamline care. Full roll-out is anticipated by the end of the year.",
+    "discovered": "2026-06-29T15:31:48.077Z",
+    "publishedDate": "Mon, 29 Jun 2026 11:21:42 +0000",
+    "source": "ncl"
+  },
+  "ncl:9d38cba74f4fece1": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-referral-assessment-service-introduced-for-ent-and-gynaecology-services",
+    "title": "News: RFL Update: Referral assessment service introduced for ENT and gynaecology services",
+    "description": "Royal Free London introduces a referral assessment service for ENT and gynaecology services, providing a single access point for non-urgent referrals.",
+    "discovered": "2026-06-29T15:31:48.077Z",
+    "publishedDate": "Fri, 26 Jun 2026 09:24:43 +0000",
+    "source": "ncl"
   }
 }

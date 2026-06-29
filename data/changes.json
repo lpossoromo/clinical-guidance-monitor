@@ -1857,5 +1857,38 @@
     "previousHash": null,
     "newHash": "ffd7eb3c891ed84f",
     "acknowledged": false
+  },
+  "change:1782747108077:d22db50eedb4fd09": {
+    "id": "change:1782747108077:d22db50eedb4fd09",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/whittington-diabetes-self-management-support-programme-july-places-available",
+    "title": "News: Whittington diabetes self&#45;management support programme, July places available",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-29T15:31:48.077Z",
+    "previousHash": null,
+    "newHash": "e394fd495328f1bc",
+    "acknowledged": false
+  },
+  "change:1782747108077:3d99b904642ecaef": {
+    "id": "change:1782747108077:3d99b904642ecaef",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/whittington-health-launching-pilot-for-podiatrists-to-supply-oral-antibiotics-for-community-patients",
+    "title": "News: Whittington Health launching pilot for podiatrists to supply oral antibiotics for community patients",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-29T15:31:48.077Z",
+    "previousHash": null,
+    "newHash": "00239425e4953bb4",
+    "acknowledged": false
+  },
+  "change:1782747108078:9d38cba74f4fece1": {
+    "id": "change:1782747108078:9d38cba74f4fece1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-referral-assessment-service-introduced-for-ent-and-gynaecology-services",
+    "title": "News: RFL Update: Referral assessment service introduced for ENT and gynaecology services",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-06-29T15:31:48.077Z",
+    "previousHash": null,
+    "newHash": "7f7c31889b381ba8",
+    "acknowledged": false
   }
 }
