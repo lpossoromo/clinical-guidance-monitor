@@ -2922,5 +2922,39 @@
       "estimatedReadTime": 1,
       "description": "Royal Free London introduces a referral assessment service for ENT and gynaecology services, providing a single access point for non-urgent referrals."
     }
+  },
+  "content:11c8c5e95022ed25": {
+    "id": "content:11c8c5e95022ed25",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-22-26-june-2026",
+    "title": "News: EMIS Global update: 22&#45;26 June 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-30",
+    "fetchedDate": "2026-06-30T13:58:03.199Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
+  },
+  "content:808478ce42d57461": {
+    "id": "content:808478ce42d57461",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-imaging-policy-update-for-alerts-and-notifications",
+    "title": "News: UCLH Imaging: Policy update for alerts and notifications",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-06-30",
+    "fetchedDate": "2026-06-30T13:58:03.200Z",
+    "contentHash": "17583a7baebb93fe",
+    "content": "For GP requested imaging, UCLH imaging teams will notify external referrers of new cancer alerts and significant addenda through established notification processes.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 22,
+      "estimatedReadTime": 1,
+      "description": "For GP requested imaging, UCLH imaging teams will notify external referrers of new cancer alerts and significant addenda through established notification processes."
+    }
   }
 }

@@ -1458,5 +1458,21 @@
     "discovered": "2026-06-29T15:31:48.077Z",
     "publishedDate": "Fri, 26 Jun 2026 09:24:43 +0000",
     "source": "ncl"
+  },
+  "ncl:11c8c5e95022ed25": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-22-26-june-2026",
+    "title": "News: EMIS Global update: 22&#45;26 June 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-06-30T13:58:03.199Z",
+    "publishedDate": "Tue, 30 Jun 2026 09:28:48 +0000",
+    "source": "ncl"
+  },
+  "ncl:808478ce42d57461": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/uclh-imaging-policy-update-for-alerts-and-notifications",
+    "title": "News: UCLH Imaging: Policy update for alerts and notifications",
+    "description": "For GP requested imaging, UCLH imaging teams will notify external referrers of new cancer alerts and significant addenda through established notification processes.",
+    "discovered": "2026-06-30T13:58:03.200Z",
+    "publishedDate": "Tue, 30 Jun 2026 09:47:51 +0000",
+    "source": "ncl"
   }
 }
