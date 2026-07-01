@@ -1912,5 +1912,27 @@
     "previousHash": null,
     "newHash": "17583a7baebb93fe",
     "acknowledged": false
+  },
+  "change:1782898213374:296bb7cd7e5bd240": {
+    "id": "change:1782898213374:296bb7cd7e5bd240",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/evening-weekend-and-bank-holiday-appointments-information-for-patients",
+    "title": "News: Evening, weekend and bank holiday appointments: Information for patients",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-01T09:30:13.374Z",
+    "previousHash": null,
+    "newHash": "1621dc562e99a0d2",
+    "acknowledged": false
+  },
+  "change:1782898213375:4bb993aeed74bb21": {
+    "id": "change:1782898213375:4bb993aeed74bb21",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-freedom-to-speak-up-guardian",
+    "title": "News: Update: Freedom to Speak Up Guardian",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-01T09:30:13.375Z",
+    "previousHash": null,
+    "newHash": "5d870e9f6ccb828f",
+    "acknowledged": false
   }
 }

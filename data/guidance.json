@@ -2956,5 +2956,39 @@
       "estimatedReadTime": 1,
       "description": "For GP requested imaging, UCLH imaging teams will notify external referrers of new cancer alerts and significant addenda through established notification processes."
     }
+  },
+  "content:296bb7cd7e5bd240": {
+    "id": "content:296bb7cd7e5bd240",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/evening-weekend-and-bank-holiday-appointments-information-for-patients",
+    "title": "News: Evening, weekend and bank holiday appointments: Information for patients",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-01",
+    "fetchedDate": "2026-07-01T09:30:13.374Z",
+    "contentHash": "1621dc562e99a0d2",
+    "content": "The Camden Bridging Access Service provider is due to change on 1 July, WNL ICB has prepared a communication for sharing with patients to explain that there will be no noticeable change for them.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 34,
+      "estimatedReadTime": 1,
+      "description": "The Camden Bridging Access Service provider is due to change on 1 July, WNL ICB has prepared a communication for sharing with patients to explain that there will be no noticeable change for them."
+    }
+  },
+  "content:4bb993aeed74bb21": {
+    "id": "content:4bb993aeed74bb21",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-freedom-to-speak-up-guardian",
+    "title": "News: Update: Freedom to Speak Up Guardian",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-01",
+    "fetchedDate": "2026-07-01T09:30:13.375Z",
+    "contentHash": "5d870e9f6ccb828f",
+    "content": "NCL Freedom to Speak Up Guardian (FTSU) update",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 8,
+      "estimatedReadTime": 1,
+      "description": "NCL Freedom to Speak Up Guardian (FTSU) update"
+    }
   }
 }

@@ -1474,5 +1474,21 @@
     "discovered": "2026-06-30T13:58:03.200Z",
     "publishedDate": "Tue, 30 Jun 2026 09:47:51 +0000",
     "source": "ncl"
+  },
+  "ncl:296bb7cd7e5bd240": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/evening-weekend-and-bank-holiday-appointments-information-for-patients",
+    "title": "News: Evening, weekend and bank holiday appointments: Information for patients",
+    "description": "The Camden Bridging Access Service provider is due to change on 1 July, WNL ICB has prepared a communication for sharing with patients to explain that there will be no noticeable change for them.",
+    "discovered": "2026-07-01T09:30:13.374Z",
+    "publishedDate": "Wed, 01 Jul 2026 09:12:22 +0000",
+    "source": "ncl"
+  },
+  "ncl:4bb993aeed74bb21": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-freedom-to-speak-up-guardian",
+    "title": "News: Update: Freedom to Speak Up Guardian",
+    "description": "NCL Freedom to Speak Up Guardian (FTSU) update",
+    "discovered": "2026-07-01T09:30:13.375Z",
+    "publishedDate": "Wed, 01 Jul 2026 09:07:48 +0000",
+    "source": "ncl"
   }
 }
