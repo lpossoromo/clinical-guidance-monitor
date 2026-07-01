@@ -2990,5 +2990,39 @@
       "estimatedReadTime": 1,
       "description": "NCL Freedom to Speak Up Guardian (FTSU) update"
     }
+  },
+  "content:d46962e727fd86f1": {
+    "id": "content:d46962e727fd86f1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/cultural-intelligence-in-primary-care-part-2-moving-into-action-and-navigating-uncomfortable-conversations",
+    "title": "Event: Cultural Intelligence in Primary Care Part 2: Moving into Action and Navigating Uncomfortable Conversations",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-01",
+    "fetchedDate": "2026-07-01T14:10:21.658Z",
+    "contentHash": "f200fd3ad549d986",
+    "content": "The NCL Workforce Race Equality Standard and Equality, Diversity &amp; Inclusion team are providing support and training for all NCL primary care staff. Join the next session at 1pm on Tuesday 16 July.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "The NCL Workforce Race Equality Standard and Equality, Diversity &amp; Inclusion team are providing support and training for all NCL primary care staff. Join the next session at 1pm on Tuesday 16 July"
+    }
+  },
+  "content:f9261293bb867741": {
+    "id": "content:f9261293bb867741",
+    "url": "https://www.england.nhs.uk/2026/07/thousands-more-vulnerable-adults-to-be-offered-rsv-vaccine-to-prevent-serious-lung-infection/",
+    "title": "Thousands more vulnerable adults to be offered RSV vaccine to prevent serious lung infection",
+    "source": "nhs",
+    "type": "article",
+    "publishedDate": "Wed, 01 Jul 2026 11:38:52 +0000",
+    "fetchedDate": "2026-07-01T14:10:21.888Z",
+    "contentHash": "4226a91ec31f8521",
+    "content": "Thousands more people at risk from a virus which causes pneumonia and other serious lung infections will be able to get vital protection on the NHS this winter. \n\nFrom September, all adults aged 65-74 who are living with a chronic respiratory condition or who have a suppressed immune system will be offered the respiratory syncytial virus (RSV) vaccine, as the NHS expands its life-saving programme to protect those who are most vulnerable.\n\nThis includes thousands of people living with chronic asthma, bronchitis or cystic fibrosis or who have weakened immune systems caused by other conditions (such as diabetes or blood cancer) or by medical treatments such as chemotherapy.\n\nEligible people will be able to receive their jab from their local GP practice or, in some parts of the country, at their local high street pharmacy from 1st September, to protect themselves from serious illness and hospitalisation.\n\nThe roll-out follows the expansion of eligibility earlier this year to all older adults over the age of 80, with new figures published today by NHS England showing over half a million people aged 80 years and over have been given the jab in the past three months alone (519,571).\n\nRSV is a common virus that infects the lungs. While symptoms are mild for many people, the virus can be severe in older adults, causing pneumonia, bronchitis and flare-ups of existing lung disease and other long-term conditions. This can make it difficult to breathe and leave some older people requiring hospital treatment.\n\nThe latest expansion comes after the government accepted advice from the Joint Committee on Vaccination and Immunisation (JCVI) to expand eligibility for the RSV vaccination programme in England.\n\nThe newly eligible groups were identified by JCVI as having a higher risk of severe outcomes from RSV infection, including hospitalisation, particularly during winter when cases peak. JCVI is continuing to review data on RSV vaccination in other adults with underlying health conditions.\n\nMillions of people aged 75 years and over and all residents in care homes for older adults are already able to get the RSV vaccine ahead of this winter – and since 2024, the NHS has also offered the RSV vaccine to all pregnant women, helping to protect 300,000 mothers and babies in its first year alone.\n\nThe vaccine works by stimulating the body to produce antibodies for the RSV virus by giving a small amount of RSV protein in the jab. This means that when the actual virus enters the body, the immune system can act much quicker to remove the threat.\n\nCaroline Temmink, Director of Vaccination at NHS England, said : “RSV can make people seriously ill, which is why it’s so important for those who are particularly vulnerable to be protected. Expanding the vaccine to this group offers them the best possible protection and can help keep people out of hospital.\n\n“If you are aged 75 or over, or live in a care home for older adults and are yet to get vaccinated, now is the time to come forward. Although RSV spreads most in winter, this virus poses a risk all year round, so if you’ve been offered the jab, please come forward to your GP or local pharmacy.\n\nPublic Health Minister Sharon Hodgson said : Respiratory Syncytial Virus can cause serious illness for older adults and those with underlying health conditions.\n\n“By expanding the vaccination programme, we’re making sure more people who are at higher risk are protected before they become seriously ill.\n\n“This will save lives, prevent hundreds of avoidable hospital admissions and reduce pressure on the NHS during the winter months.”\n\nDr Conall Watson, Consultant Epidemiologist at the UK Health Security Agency, said: “This is an important expansion of the RSV immunisation programme. New evidence makes it clear that these two groups of patients are at the highest risk of needing hospital admission due to RSV.\n\n“The vaccine gives excellent protection against severe lung infection, and I would encourage anyone eligible to take it up when offered. It could make a real difference to your health.”\n\nDate published : 1 July, 2026 \n\nDate last updated : 1 July, 2026 \n\nTopics\n\nVaccination \nWinter news and guidance",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 691,
+      "estimatedReadTime": 3,
+      "description": "Thousands more people at risk from a virus which causes pneumonia and other serious lung infections will be able to get vital protection on the NHS this winter. From September, all adults aged 65-74 who are living with a chronic respiratory condition or who have a suppressed immune system will be offered the respiratory syncytial [&#8230;]"
+    }
   }
 }

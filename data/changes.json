@@ -1934,5 +1934,27 @@
     "previousHash": null,
     "newHash": "5d870e9f6ccb828f",
     "acknowledged": false
+  },
+  "change:1782915021658:d46962e727fd86f1": {
+    "id": "change:1782915021658:d46962e727fd86f1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/cultural-intelligence-in-primary-care-part-2-moving-into-action-and-navigating-uncomfortable-conversations",
+    "title": "Event: Cultural Intelligence in Primary Care Part 2: Moving into Action and Navigating Uncomfortable Conversations",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-01T14:10:21.658Z",
+    "previousHash": null,
+    "newHash": "f200fd3ad549d986",
+    "acknowledged": false
+  },
+  "change:1782915021888:f9261293bb867741": {
+    "id": "change:1782915021888:f9261293bb867741",
+    "url": "https://www.england.nhs.uk/2026/07/thousands-more-vulnerable-adults-to-be-offered-rsv-vaccine-to-prevent-serious-lung-infection/",
+    "title": "Thousands more vulnerable adults to be offered RSV vaccine to prevent serious lung infection",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-01T14:10:21.888Z",
+    "previousHash": null,
+    "newHash": "4226a91ec31f8521",
+    "acknowledged": false
   }
 }
