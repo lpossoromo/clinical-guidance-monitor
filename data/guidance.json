@@ -3024,5 +3024,22 @@
       "estimatedReadTime": 3,
       "description": "Thousands more people at risk from a virus which causes pneumonia and other serious lung infections will be able to get vital protection on the NHS this winter. From September, all adults aged 65-74 who are living with a chronic respiratory condition or who have a suppressed immune system will be offered the respiratory syncytial [&#8230;]"
     }
+  },
+  "content:e4c2919948031aa0": {
+    "id": "content:e4c2919948031aa0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/ncl-induction-programme",
+    "title": "Event: NCL Induction Programme",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-02",
+    "fetchedDate": "2026-07-02T13:39:27.090Z",
+    "contentHash": "b3e4dc8d492ae3e5",
+    "content": "This is the August 2026 induction programme for new clinicians in primary care, including doctors in training and locums in NCL.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "This is the August 2026 induction programme for new clinicians in primary care, including doctors in training and locums in NCL."
+    }
   }
 }

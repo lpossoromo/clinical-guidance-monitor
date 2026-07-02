@@ -1506,5 +1506,13 @@
     "discovered": "2026-07-01T14:10:21.854Z",
     "publishedDate": "Wed, 01 Jul 2026 11:38:52 +0000",
     "source": "nhs"
+  },
+  "ncl:e4c2919948031aa0": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/ncl-induction-programme",
+    "title": "Event: NCL Induction Programme",
+    "description": "This is the August 2026 induction programme for new clinicians in primary care, including doctors in training and locums in NCL.",
+    "discovered": "2026-07-02T13:39:27.090Z",
+    "publishedDate": "Thu, 02 Jul 2026 13:16:24 +0000",
+    "source": "ncl"
   }
 }

@@ -1956,5 +1956,16 @@
     "previousHash": null,
     "newHash": "4226a91ec31f8521",
     "acknowledged": false
+  },
+  "change:1782999567090:e4c2919948031aa0": {
+    "id": "change:1782999567090:e4c2919948031aa0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/ncl-induction-programme",
+    "title": "Event: NCL Induction Programme",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-02T13:39:27.090Z",
+    "previousHash": null,
+    "newHash": "b3e4dc8d492ae3e5",
+    "acknowledged": false
   }
 }
