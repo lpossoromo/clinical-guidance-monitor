@@ -1967,5 +1967,16 @@
     "previousHash": null,
     "newHash": "b3e4dc8d492ae3e5",
     "acknowledged": false
+  },
+  "change:1783019417696:d6f69c13cb71a49e": {
+    "id": "change:1783019417696:d6f69c13cb71a49e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/daleham-gardens-mental-health-crisis-house",
+    "title": "Service: Daleham Gardens Crisis House",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-02T19:10:17.696Z",
+    "previousHash": null,
+    "newHash": "9ccdd42d9212743a",
+    "acknowledged": false
   }
 }

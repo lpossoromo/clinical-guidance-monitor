@@ -3041,5 +3041,22 @@
       "estimatedReadTime": 1,
       "description": "This is the August 2026 induction programme for new clinicians in primary care, including doctors in training and locums in NCL."
     }
+  },
+  "content:d6f69c13cb71a49e": {
+    "id": "content:d6f69c13cb71a49e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/daleham-gardens-mental-health-crisis-house",
+    "title": "Service: Daleham Gardens Crisis House",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-02",
+    "fetchedDate": "2026-07-02T19:10:17.696Z",
+    "contentHash": "9ccdd42d9212743a",
+    "content": "Update: The Rivers Crisis House has relocated to Daleham Gardens (Camden Crisis House). The newly refurbished service has expanded from 6 to 12 beds, providing therapeutic, recovery-focused support and help with daily living skills in a homely environment.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 38,
+      "estimatedReadTime": 1,
+      "description": "Update: The Rivers Crisis House has relocated to Daleham Gardens (Camden Crisis House). The newly refurbished service has expanded from 6 to 12 beds, providing therapeutic, recovery-focused support an"
+    }
   }
 }

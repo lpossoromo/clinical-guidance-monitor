@@ -1514,5 +1514,13 @@
     "discovered": "2026-07-02T13:39:27.090Z",
     "publishedDate": "Thu, 02 Jul 2026 13:16:24 +0000",
     "source": "ncl"
+  },
+  "ncl:d6f69c13cb71a49e": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/daleham-gardens-mental-health-crisis-house",
+    "title": "Service: Daleham Gardens Crisis House",
+    "description": "Update: The Rivers Crisis House has relocated to Daleham Gardens (Camden Crisis House). The newly refurbished service has expanded from 6 to 12 beds, providing therapeutic, recovery-focused support and help with daily living skills in a homely environment.",
+    "discovered": "2026-07-02T19:10:17.696Z",
+    "publishedDate": "Thu, 02 Jul 2026 16:03:30 +0000",
+    "source": "ncl"
   }
 }
