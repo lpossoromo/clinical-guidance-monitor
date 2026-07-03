@@ -2000,5 +2000,16 @@
     "previousHash": null,
     "newHash": "e18619afa81cb715",
     "acknowledged": false
+  },
+  "change:1783105383697:49ea8f34ed0e982f": {
+    "id": "change:1783105383697:49ea8f34ed0e982f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/universal-therapies-haringey",
+    "title": "Service: Universal Therapies",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-03T19:03:03.697Z",
+    "previousHash": null,
+    "newHash": "2746f7b779c53db8",
+    "acknowledged": false
   }
 }

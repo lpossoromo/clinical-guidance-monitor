@@ -3092,5 +3092,22 @@
       "estimatedReadTime": 1,
       "description": "NHS England&#039;s data packs aid primary care in improving type 2 diabetes treatment with enhanced insight and consistent care strategies."
     }
+  },
+  "content:49ea8f34ed0e982f": {
+    "id": "content:49ea8f34ed0e982f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/universal-therapies-haringey",
+    "title": "Service: Universal Therapies",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-03",
+    "fetchedDate": "2026-07-03T19:03:03.697Z",
+    "contentHash": "2746f7b779c53db8",
+    "content": "Haringey&rsquo;s Universal Therapies Service (HUTS) provides free occupational therapy and speech and language therapy support for families with children and young people under 19, with no referral required. View the service page to find out more.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 36,
+      "estimatedReadTime": 1,
+      "description": "Haringey&rsquo;s Universal Therapies Service (HUTS) provides free occupational therapy and speech and language therapy support for families with children and young people under 19, with no referral re"
+    }
   }
 }
