@@ -1522,5 +1522,21 @@
     "discovered": "2026-07-02T19:10:17.696Z",
     "publishedDate": "Thu, 02 Jul 2026 16:03:30 +0000",
     "source": "ncl"
+  },
+  "ncl:a4f6c00a739fcb14": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wnl-gp-webinar-safety-resilience-and-responding-to-hate-crime",
+    "title": "News: WNL GP Webinar: Safety, resilience and responding to hate crime",
+    "description": "Providing practical guidance and support strategies for primary care staff. Watch the recording and register your place for the next session on Thursday 16 July at 1pm.",
+    "discovered": "2026-07-03T13:44:01.411Z",
+    "publishedDate": "Fri, 03 Jul 2026 13:31:05 +0000",
+    "source": "ncl"
+  },
+  "ncl:405bd3beb4ef576c": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-releases-local-data-packs-to-support-type-2-diabetes-care",
+    "title": "News: NHS England releases local data packs to support type 2 diabetes care",
+    "description": "NHS England&#039;s data packs aid primary care in improving type 2 diabetes treatment with enhanced insight and consistent care strategies.",
+    "discovered": "2026-07-03T13:44:01.412Z",
+    "publishedDate": "Fri, 03 Jul 2026 13:17:08 +0000",
+    "source": "ncl"
   }
 }

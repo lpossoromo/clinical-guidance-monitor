@@ -1978,5 +1978,27 @@
     "previousHash": null,
     "newHash": "9ccdd42d9212743a",
     "acknowledged": false
+  },
+  "change:1783086241412:a4f6c00a739fcb14": {
+    "id": "change:1783086241412:a4f6c00a739fcb14",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wnl-gp-webinar-safety-resilience-and-responding-to-hate-crime",
+    "title": "News: WNL GP Webinar: Safety, resilience and responding to hate crime",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-03T13:44:01.412Z",
+    "previousHash": null,
+    "newHash": "e8c4bc244d8353e5",
+    "acknowledged": false
+  },
+  "change:1783086241412:405bd3beb4ef576c": {
+    "id": "change:1783086241412:405bd3beb4ef576c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-releases-local-data-packs-to-support-type-2-diabetes-care",
+    "title": "News: NHS England releases local data packs to support type 2 diabetes care",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-03T13:44:01.412Z",
+    "previousHash": null,
+    "newHash": "e18619afa81cb715",
+    "acknowledged": false
   }
 }

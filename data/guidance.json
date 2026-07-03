@@ -3058,5 +3058,39 @@
       "estimatedReadTime": 1,
       "description": "Update: The Rivers Crisis House has relocated to Daleham Gardens (Camden Crisis House). The newly refurbished service has expanded from 6 to 12 beds, providing therapeutic, recovery-focused support an"
     }
+  },
+  "content:a4f6c00a739fcb14": {
+    "id": "content:a4f6c00a739fcb14",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wnl-gp-webinar-safety-resilience-and-responding-to-hate-crime",
+    "title": "News: WNL GP Webinar: Safety, resilience and responding to hate crime",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-03",
+    "fetchedDate": "2026-07-03T13:44:01.412Z",
+    "contentHash": "e8c4bc244d8353e5",
+    "content": "Providing practical guidance and support strategies for primary care staff. Watch the recording and register your place for the next session on Thursday 16 July at 1pm.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 27,
+      "estimatedReadTime": 1,
+      "description": "Providing practical guidance and support strategies for primary care staff. Watch the recording and register your place for the next session on Thursday 16 July at 1pm."
+    }
+  },
+  "content:405bd3beb4ef576c": {
+    "id": "content:405bd3beb4ef576c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-england-releases-local-data-packs-to-support-type-2-diabetes-care",
+    "title": "News: NHS England releases local data packs to support type 2 diabetes care",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-03",
+    "fetchedDate": "2026-07-03T13:44:01.412Z",
+    "contentHash": "e18619afa81cb715",
+    "content": "NHS England&#039;s data packs aid primary care in improving type 2 diabetes treatment with enhanced insight and consistent care strategies.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 20,
+      "estimatedReadTime": 1,
+      "description": "NHS England&#039;s data packs aid primary care in improving type 2 diabetes treatment with enhanced insight and consistent care strategies."
+    }
   }
 }
