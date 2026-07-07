@@ -3143,5 +3143,39 @@
       "estimatedReadTime": 1,
       "description": "Due to withdrawal of the Menarini boronate affinity method, HbA1c results for patients with certain haemoglobin variants will no longer be reported. Further guidance and recommendations from HSL are a"
     }
+  },
+  "content:e8d4b64274a55276": {
+    "id": "content:e8d4b64274a55276",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hot-weather-update-actions-for-gp-practices",
+    "title": "News: Hot weather update: Actions for GP practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-07-07T19:42:20.520Z",
+    "contentHash": "e39a054110211ee2",
+    "content": "Identify and support at risk and vulnerable patients over the hot weather period to enable early planning, staff briefing, and prioritisation.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "Identify and support at risk and vulnerable patients over the hot weather period to enable early planning, staff briefing, and prioritisation."
+    }
+  },
+  "content:0800e3efa87e3353": {
+    "id": "content:0800e3efa87e3353",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hba1c-results-for-patients-with-certain-haemoglobin-variants-no-longer-reported",
+    "title": "News: HbA1c results for patients with certain haemoglobin variants no longer reported",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-07-07T19:42:20.522Z",
+    "contentHash": "8bd0332eb42b7345",
+    "content": "Due to withdrawal of the Menarini boronate affinity method, HbA1c results for patients with certain haemoglobin variants will no longer be reported. Further guidance and recommendations from HSL are available.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 30,
+      "estimatedReadTime": 1,
+      "description": "Due to withdrawal of the Menarini boronate affinity method, HbA1c results for patients with certain haemoglobin variants will no longer be reported. Further guidance and recommendations from HSL are a"
+    }
   }
 }

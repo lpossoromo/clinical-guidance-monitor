@@ -2033,5 +2033,27 @@
     "previousHash": null,
     "newHash": "8bd0332eb42b7345",
     "acknowledged": false
+  },
+  "change:1783453340521:e8d4b64274a55276": {
+    "id": "change:1783453340521:e8d4b64274a55276",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hot-weather-update-actions-for-gp-practices",
+    "title": "News: Hot weather update: Actions for GP practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-07T19:42:20.520Z",
+    "previousHash": null,
+    "newHash": "e39a054110211ee2",
+    "acknowledged": false
+  },
+  "change:1783453340522:0800e3efa87e3353": {
+    "id": "change:1783453340522:0800e3efa87e3353",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hba1c-results-for-patients-with-certain-haemoglobin-variants-no-longer-reported",
+    "title": "News: HbA1c results for patients with certain haemoglobin variants no longer reported",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-07T19:42:20.522Z",
+    "previousHash": null,
+    "newHash": "8bd0332eb42b7345",
+    "acknowledged": false
   }
 }

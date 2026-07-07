@@ -1562,5 +1562,21 @@
     "discovered": "2026-07-07T14:08:38.387Z",
     "publishedDate": "Tue, 07 Jul 2026 09:54:15 +0000",
     "source": "ncl"
+  },
+  "ncl:e8d4b64274a55276": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hot-weather-update-actions-for-gp-practices",
+    "title": "News: Hot weather update: Actions for GP practices",
+    "description": "Identify and support at risk and vulnerable patients over the hot weather period to enable early planning, staff briefing, and prioritisation.",
+    "discovered": "2026-07-07T19:42:20.520Z",
+    "publishedDate": "Tue, 07 Jul 2026 15:57:38 +0000",
+    "source": "ncl"
+  },
+  "ncl:0800e3efa87e3353": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/hba1c-results-for-patients-with-certain-haemoglobin-variants-no-longer-reported",
+    "title": "News: HbA1c results for patients with certain haemoglobin variants no longer reported",
+    "description": "Due to withdrawal of the Menarini boronate affinity method, HbA1c results for patients with certain haemoglobin variants will no longer be reported. Further guidance and recommendations from HSL are available.",
+    "discovered": "2026-07-07T19:42:20.521Z",
+    "publishedDate": "Tue, 07 Jul 2026 09:54:15 +0000",
+    "source": "ncl"
   }
 }
