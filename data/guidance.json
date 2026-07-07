@@ -3109,5 +3109,39 @@
       "estimatedReadTime": 1,
       "description": "Haringey&rsquo;s Universal Therapies Service (HUTS) provides free occupational therapy and speech and language therapy support for families with children and young people under 19, with no referral re"
     }
+  },
+  "content:02df62c4060392f4": {
+    "id": "content:02df62c4060392f4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-29-3-july-2026",
+    "title": "News: EMIS Global update: 29&#45;3 July 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-07-07T14:08:38.386Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
+  },
+  "content:f77857e22bf2c75b": {
+    "id": "content:f77857e22bf2c75b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/cessation-of-blood-glucose-testing-for-patients-with-haemoglobin-variants",
+    "title": "News: Cessation of blood glucose testing for patients with haemoglobin variants",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-07",
+    "fetchedDate": "2026-07-07T14:08:38.387Z",
+    "contentHash": "8bd0332eb42b7345",
+    "content": "Due to withdrawal of the Menarini boronate affinity method, HbA1c results for patients with certain haemoglobin variants will no longer be reported. Further guidance and recommendations from HSL are available.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 30,
+      "estimatedReadTime": 1,
+      "description": "Due to withdrawal of the Menarini boronate affinity method, HbA1c results for patients with certain haemoglobin variants will no longer be reported. Further guidance and recommendations from HSL are a"
+    }
   }
 }

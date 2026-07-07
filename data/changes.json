@@ -2011,5 +2011,27 @@
     "previousHash": null,
     "newHash": "2746f7b779c53db8",
     "acknowledged": false
+  },
+  "change:1783433318386:02df62c4060392f4": {
+    "id": "change:1783433318386:02df62c4060392f4",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-29-3-july-2026",
+    "title": "News: EMIS Global update: 29&#45;3 July 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-07T14:08:38.386Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
+  },
+  "change:1783433318387:f77857e22bf2c75b": {
+    "id": "change:1783433318387:f77857e22bf2c75b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/cessation-of-blood-glucose-testing-for-patients-with-haemoglobin-variants",
+    "title": "News: Cessation of blood glucose testing for patients with haemoglobin variants",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-07T14:08:38.387Z",
+    "previousHash": null,
+    "newHash": "8bd0332eb42b7345",
+    "acknowledged": false
   }
 }

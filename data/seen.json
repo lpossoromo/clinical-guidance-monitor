@@ -1546,5 +1546,21 @@
     "discovered": "2026-07-03T19:03:03.697Z",
     "publishedDate": "Fri, 03 Jul 2026 14:12:38 +0000",
     "source": "ncl"
+  },
+  "ncl:02df62c4060392f4": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-29-3-july-2026",
+    "title": "News: EMIS Global update: 29&#45;3 July 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-07-07T14:08:38.386Z",
+    "publishedDate": "Tue, 07 Jul 2026 09:53:25 +0000",
+    "source": "ncl"
+  },
+  "ncl:f77857e22bf2c75b": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/cessation-of-blood-glucose-testing-for-patients-with-haemoglobin-variants",
+    "title": "News: Cessation of blood glucose testing for patients with haemoglobin variants",
+    "description": "Due to withdrawal of the Menarini boronate affinity method, HbA1c results for patients with certain haemoglobin variants will no longer be reported. Further guidance and recommendations from HSL are available.",
+    "discovered": "2026-07-07T14:08:38.387Z",
+    "publishedDate": "Tue, 07 Jul 2026 09:54:15 +0000",
+    "source": "ncl"
   }
 }
