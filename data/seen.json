@@ -1578,5 +1578,21 @@
     "discovered": "2026-07-07T19:42:20.521Z",
     "publishedDate": "Tue, 07 Jul 2026 09:54:15 +0000",
     "source": "ncl"
+  },
+  "ncl:c2c69cd9b1249b8f": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/video/prescribing-quality-scheme-2026-27",
+    "title": "Video: Prescribing Quality Scheme 2026&#45;27",
+    "description": "Watch the recording of the NCL Medicines Optimisation Team&rsquo;s 2026-27 Prescribing Quality Scheme launch, covering entry criteria, markers, monitoring, resources, ScriptSwitch&reg; messages, key dates and payments.",
+    "discovered": "2026-07-08T13:42:10.855Z",
+    "publishedDate": "Wed, 08 Jul 2026 09:27:08 +0000",
+    "source": "ncl"
+  },
+  "nhs:4d8959675e889b9e": {
+    "url": "https://www.england.nhs.uk/2026/07/snooping-staff-face-sack-prison-inappropriate-access-patient-data/",
+    "title": "NHS warns ‘snooping’ staff face sack or prison for inappropriate access of patient data",
+    "description": "The head of the NHS has today issued a stark warning to staff that they face the sack or even prison if they access patient records without a legitimate reason, as part of a new crackdown by the health service. Sir Jim Mackey today said that staff looking at medical records for personal reasons or out of curiosity was “wholly unacceptable, [&#8230;]",
+    "discovered": "2026-07-08T13:42:11.118Z",
+    "publishedDate": "Wed, 08 Jul 2026 10:23:27 +0000",
+    "source": "nhs"
   }
 }

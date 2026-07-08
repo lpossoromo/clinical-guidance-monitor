@@ -2055,5 +2055,27 @@
     "previousHash": null,
     "newHash": "8bd0332eb42b7345",
     "acknowledged": false
+  },
+  "change:1783518130855:c2c69cd9b1249b8f": {
+    "id": "change:1783518130855:c2c69cd9b1249b8f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/video/prescribing-quality-scheme-2026-27",
+    "title": "Video: Prescribing Quality Scheme 2026&#45;27",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-08T13:42:10.855Z",
+    "previousHash": null,
+    "newHash": "a05a95860cff340d",
+    "acknowledged": false
+  },
+  "change:1783518131230:4d8959675e889b9e": {
+    "id": "change:1783518131230:4d8959675e889b9e",
+    "url": "https://www.england.nhs.uk/2026/07/snooping-staff-face-sack-prison-inappropriate-access-patient-data/",
+    "title": "NHS warns ‘snooping’ staff face sack or prison for inappropriate access of patient data",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-08T13:42:11.230Z",
+    "previousHash": null,
+    "newHash": "6355668e1c3962ae",
+    "acknowledged": false
   }
 }

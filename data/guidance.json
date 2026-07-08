@@ -3177,5 +3177,39 @@
       "estimatedReadTime": 1,
       "description": "Due to withdrawal of the Menarini boronate affinity method, HbA1c results for patients with certain haemoglobin variants will no longer be reported. Further guidance and recommendations from HSL are a"
     }
+  },
+  "content:c2c69cd9b1249b8f": {
+    "id": "content:c2c69cd9b1249b8f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/video/prescribing-quality-scheme-2026-27",
+    "title": "Video: Prescribing Quality Scheme 2026&#45;27",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-08",
+    "fetchedDate": "2026-07-08T13:42:10.855Z",
+    "contentHash": "a05a95860cff340d",
+    "content": "Watch the recording of the NCL Medicines Optimisation Team&rsquo;s 2026-27 Prescribing Quality Scheme launch, covering entry criteria, markers, monitoring, resources, ScriptSwitch&reg; messages, key dates and payments.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "Watch the recording of the NCL Medicines Optimisation Team&rsquo;s 2026-27 Prescribing Quality Scheme launch, covering entry criteria, markers, monitoring, resources, ScriptSwitch&reg; messages, key d"
+    }
+  },
+  "content:4d8959675e889b9e": {
+    "id": "content:4d8959675e889b9e",
+    "url": "https://www.england.nhs.uk/2026/07/snooping-staff-face-sack-prison-inappropriate-access-patient-data/",
+    "title": "NHS warns ‘snooping’ staff face sack or prison for inappropriate access of patient data",
+    "source": "nhs",
+    "type": "article",
+    "publishedDate": "Wed, 08 Jul 2026 10:23:27 +0000",
+    "fetchedDate": "2026-07-08T13:42:11.230Z",
+    "contentHash": "6355668e1c3962ae",
+    "content": "The head of the NHS has today issued a stark warning to staff that they face the sack or even prison if they access patient records without a legitimate reason, as part of a new crackdown by the health service. \n\nSir Jim Mackey today said that staff looking at medical records for personal reasons or out of curiosity was “wholly unacceptable, a disgraceful breach of patient trust and against the law”, and would not be tolerated by the NHS.\n\nSir Jim’s warning comes as the NHS today launched a new campaign to remind staff what constitutes unlawful access, the potential impacts on patients and what the consequences could be for their career.\n\nThe campaign follows several incidents of staff being dismissed from their posts after accessing the medical records of victims of high-profile crimes, including the Nottingham attacks.\n\nNHS England has today published new guidance for all NHS organisations on preventing and monitoring unauthorised access, as well as their responsibilities in investigating and reporting it.\n\nThe guidance sets out the different types of unlawful access, and makes clear that where it occurs, employers may report it to the Information Commissioner’s Office (ICO) and police – both of whom have the power to pursue a criminal prosecution – as well as to professional regulators, which can end a career.\n\nIt also provides guidance for how monitoring and regular audits can be conducted depending on the IT systems organisations have in place. For example, some newer electronic patient record systems may be able to identify unlawful access in ‘real’ time, with the capability to set up alert ‘flags’ to identify suspicious activity.\n\nEmployers are being asked to ensure appropriate technical controls are in place for their organisation to protect people’s information without stopping staff from doing their jobs – such as ‘role-based’ controls – and minimising access to very sensitive information to only those that must see it to fulfil their role, and multi-factor authentication.\n\nNHS England’s new campaign launches today with screensavers on staff computers and posters around NHS organisations urging staff to protect patients privacy, respect confidentiality, and not to ‘let curiosity kill your career.’\n\nSir Jim Mackey, NHS Chief Executive, said : “Patients must be able to trust that their personal information is kept confidential by the NHS – any instance of staff looking at records without a valid reason is wholly unacceptable, a disgraceful breach of patients’ trust and against the law.\n\n“While the majority of NHS staff handle patient information responsibly and professionally every day, it’s been incredibly worrying that a small number have chosen to undermine the trust that patients place in them and caused such additional distress for families who deserved so much better from us.\n\n“Anyone considering accessing records for personal reasons or out of curiosity should be in no doubt they could be putting their career at risk, and may face disciplinary action, dismissal, referral to the regulator or even time in prison.\n\n“We will not tolerate a culture of curiosity when it comes to patient confidentiality – there is no place in the NHS for those who misuse patient information and together we will take firm action to prevent and monitor unlawful access, and to act decisively when that occurs.”\n\nPaul Arnold, ICO Chief Executive Officer, said: When people seek medical care, they share some of their most sensitive personal information in the trust that it will be kept safe. Unauthorised access to those records is not just a breach of data protection law — it is a betrayal of that trust, with real and lasting consequences for patients and their families.\n\nHaving the ability to view a record is not the same as having a legitimate need to do so. Every member of staff has a personal responsibility to respect that boundary, and every patient has a right to expect that they will. Staff who breach that trust face serious consequences: loss of employment, removal of professional accreditation and criminal prosecution.”\n\nDate published : 8 July, 2026 \n\nDate last updated : 8 July, 2026 \n\nTopics\n\nInformation governance",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 676,
+      "estimatedReadTime": 3,
+      "description": "The head of the NHS has today issued a stark warning to staff that they face the sack or even prison if they access patient records without a legitimate reason, as part of a new crackdown by the health service. Sir Jim Mackey today said that staff looking at medical records for personal reasons or out of curiosity was “wholly unacceptable, [&#8230;]"
+    }
   }
 }
