@@ -3211,5 +3211,39 @@
       "estimatedReadTime": 3,
       "description": "The head of the NHS has today issued a stark warning to staff that they face the sack or even prison if they access patient records without a legitimate reason, as part of a new crackdown by the health service. Sir Jim Mackey today said that staff looking at medical records for personal reasons or out of curiosity was “wholly unacceptable, [&#8230;]"
     }
+  },
+  "content:ffcac92a63e599b5": {
+    "id": "content:ffcac92a63e599b5",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/camden-bridging-access-service-actions-for-gp-practices",
+    "title": "News: Camden Bridging Access Service: Actions for GP practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-10",
+    "fetchedDate": "2026-07-10T14:01:28.058Z",
+    "contentHash": "3e7a7d041f37f103",
+    "content": "Practices should update their websites promptly to reflect current Camden Bridging Access Service details, minimising patient confusion.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 17,
+      "estimatedReadTime": 1,
+      "description": "Practices should update their websites promptly to reflect current Camden Bridging Access Service details, minimising patient confusion."
+    }
+  },
+  "content:991000e5e9fb742f": {
+    "id": "content:991000e5e9fb742f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/appointment-mapping",
+    "title": "Event: Appointment Mapping",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-10",
+    "fetchedDate": "2026-07-10T14:01:28.059Z",
+    "contentHash": "1f6b24bc289c2bbc",
+    "content": "This webinar provides guidance on mapping, using EMIS and interpreting the appointments dashboard to meet the contract requirement for 90% of urgent appointments to be booked the same day.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 29,
+      "estimatedReadTime": 1,
+      "description": "This webinar provides guidance on mapping, using EMIS and interpreting the appointments dashboard to meet the contract requirement for 90% of urgent appointments to be booked the same day."
+    }
   }
 }

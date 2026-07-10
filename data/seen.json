@@ -1594,5 +1594,21 @@
     "discovered": "2026-07-08T13:42:11.118Z",
     "publishedDate": "Wed, 08 Jul 2026 10:23:27 +0000",
     "source": "nhs"
+  },
+  "ncl:ffcac92a63e599b5": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/camden-bridging-access-service-actions-for-gp-practices",
+    "title": "News: Camden Bridging Access Service: Actions for GP practices",
+    "description": "Practices should update their websites promptly to reflect current Camden Bridging Access Service details, minimising patient confusion.",
+    "discovered": "2026-07-10T14:01:28.058Z",
+    "publishedDate": "Fri, 10 Jul 2026 11:53:58 +0000",
+    "source": "ncl"
+  },
+  "ncl:991000e5e9fb742f": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/appointment-mapping",
+    "title": "Event: Appointment Mapping",
+    "description": "This webinar provides guidance on mapping, using EMIS and interpreting the appointments dashboard to meet the contract requirement for 90% of urgent appointments to be booked the same day.",
+    "discovered": "2026-07-10T14:01:28.059Z",
+    "publishedDate": "Fri, 10 Jul 2026 12:04:50 +0000",
+    "source": "ncl"
   }
 }

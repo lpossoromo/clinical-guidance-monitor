@@ -2077,5 +2077,27 @@
     "previousHash": null,
     "newHash": "6355668e1c3962ae",
     "acknowledged": false
+  },
+  "change:1783692088058:ffcac92a63e599b5": {
+    "id": "change:1783692088058:ffcac92a63e599b5",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/camden-bridging-access-service-actions-for-gp-practices",
+    "title": "News: Camden Bridging Access Service: Actions for GP practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-10T14:01:28.058Z",
+    "previousHash": null,
+    "newHash": "3e7a7d041f37f103",
+    "acknowledged": false
+  },
+  "change:1783692088059:991000e5e9fb742f": {
+    "id": "change:1783692088059:991000e5e9fb742f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/appointment-mapping",
+    "title": "Event: Appointment Mapping",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-10T14:01:28.059Z",
+    "previousHash": null,
+    "newHash": "1f6b24bc289c2bbc",
+    "acknowledged": false
   }
 }
