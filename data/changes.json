@@ -2099,5 +2099,16 @@
     "previousHash": null,
     "newHash": "1f6b24bc289c2bbc",
     "acknowledged": false
+  },
+  "change:1783734558148:77af5e879c513ac9": {
+    "id": "change:1783734558148:77af5e879c513ac9",
+    "url": "https://www.england.nhs.uk/2026/07/nhs-urges-people-50s-return-bowel-screening-kits-100-cancers-found-week/",
+    "title": "NHS urges people in their 50s to return bowel screening kits as 100 cancers found a week",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-11T01:49:18.148Z",
+    "previousHash": null,
+    "newHash": "ebbdd83ecd2e296c",
+    "acknowledged": false
   }
 }
