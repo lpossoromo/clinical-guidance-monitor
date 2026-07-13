@@ -3262,5 +3262,73 @@
       "estimatedReadTime": 3,
       "description": "The NHS is urging millions of people in their 50s to complete lifesaving bowel cancer screening tests, as new figures show this age group is less likely to take part. The latest annual bowel screening figures show that just over half (56.2%) of 54-year-olds took part in screening in the year April 2024 to March [&#8230;]"
     }
+  },
+  "content:c70905d20ef12590": {
+    "id": "content:c70905d20ef12590",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-change-management-webinar-series",
+    "title": "News: NCL change management webinar series",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-13",
+    "fetchedDate": "2026-07-13T14:07:50.115Z",
+    "contentHash": "70a96fa13ab009b9",
+    "content": "Webinar series of 4 sessions by the NCL Change Management team. Topics covered include appointment mapping, total triage, LTC LCS and reasonable adjustments.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "Webinar series of 4 sessions by the NCL Change Management team. Topics covered include appointment mapping, total triage, LTC LCS and reasonable adjustments."
+    }
+  },
+  "content:3a125285e3e30ee8": {
+    "id": "content:3a125285e3e30ee8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/supporting-vulnerable-patients-using-reasonable-adjustment-digital-flags",
+    "title": "Event: Supporting Vulnerable Patients: Using Reasonable Adjustment Digital Flags",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-13",
+    "fetchedDate": "2026-07-13T14:07:50.116Z",
+    "contentHash": "01d0a16b9d24f39b",
+    "content": "This webinar is part of the NCL Change Management support series. It focuses on supporting vulnerable patients and the use of reasonable adjustments Reasonable Adjustment Digital Flags (RADFs) to increase accessibility to care.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "This webinar is part of the NCL Change Management support series. It focuses on supporting vulnerable patients and the use of reasonable adjustments Reasonable Adjustment Digital Flags (RADFs) to incr"
+    }
+  },
+  "content:66650fdcb242d5b3": {
+    "id": "content:66650fdcb242d5b3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/long-term-conditions-locally-commissioned-services-quarterly-drop-in",
+    "title": "Event: Long Term Conditions Locally Commissioned Services Quarterly Drop&#45;in",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-13",
+    "fetchedDate": "2026-07-13T14:07:50.116Z",
+    "contentHash": "ce15c124aeaa583e",
+    "content": "This webinar is part of the NCL Change Management support series. It is an open forum for any questions and will review the 2026/27 KPI requirements and updates to long term conditions locally commissioned services.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 35,
+      "estimatedReadTime": 1,
+      "description": "This webinar is part of the NCL Change Management support series. It is an open forum for any questions and will review the 2026/27 KPI requirements and updates to long term conditions locally commiss"
+    }
+  },
+  "content:cce0f46bb47af904": {
+    "id": "content:cce0f46bb47af904",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/optimising-total-triage",
+    "title": "Event: Optimising total triage",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-13",
+    "fetchedDate": "2026-07-13T14:07:50.116Z",
+    "contentHash": "eaf9c0ac625c61bf",
+    "content": "This webinar is part of the NCL Change Management support series. Learn practical strategies for sustainable continuity of care using the total triage system.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 24,
+      "estimatedReadTime": 1,
+      "description": "This webinar is part of the NCL Change Management support series. Learn practical strategies for sustainable continuity of care using the total triage system."
+    }
   }
 }

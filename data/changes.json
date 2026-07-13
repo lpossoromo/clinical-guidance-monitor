@@ -2110,5 +2110,49 @@
     "previousHash": null,
     "newHash": "ebbdd83ecd2e296c",
     "acknowledged": false
+  },
+  "change:1783951670115:c70905d20ef12590": {
+    "id": "change:1783951670115:c70905d20ef12590",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-change-management-webinar-series",
+    "title": "News: NCL change management webinar series",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-13T14:07:50.115Z",
+    "previousHash": null,
+    "newHash": "70a96fa13ab009b9",
+    "acknowledged": false
+  },
+  "change:1783951670116:3a125285e3e30ee8": {
+    "id": "change:1783951670116:3a125285e3e30ee8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/supporting-vulnerable-patients-using-reasonable-adjustment-digital-flags",
+    "title": "Event: Supporting Vulnerable Patients: Using Reasonable Adjustment Digital Flags",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-13T14:07:50.116Z",
+    "previousHash": null,
+    "newHash": "01d0a16b9d24f39b",
+    "acknowledged": false
+  },
+  "change:1783951670116:66650fdcb242d5b3": {
+    "id": "change:1783951670116:66650fdcb242d5b3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/long-term-conditions-locally-commissioned-services-quarterly-drop-in",
+    "title": "Event: Long Term Conditions Locally Commissioned Services Quarterly Drop&#45;in",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-13T14:07:50.116Z",
+    "previousHash": null,
+    "newHash": "ce15c124aeaa583e",
+    "acknowledged": false
+  },
+  "change:1783951670116:cce0f46bb47af904": {
+    "id": "change:1783951670116:cce0f46bb47af904",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/optimising-total-triage",
+    "title": "Event: Optimising total triage",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-13T14:07:50.116Z",
+    "previousHash": null,
+    "newHash": "eaf9c0ac625c61bf",
+    "acknowledged": false
   }
 }
