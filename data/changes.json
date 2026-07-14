@@ -2154,5 +2154,16 @@
     "previousHash": null,
     "newHash": "eaf9c0ac625c61bf",
     "acknowledged": false
+  },
+  "change:1783993289414:5f684aa6519c132a": {
+    "id": "change:1783993289414:5f684aa6519c132a",
+    "url": "https://www.england.nhs.uk/2026/07/nhs-aims-to-prevent-one-in-four-sepsis-deaths/",
+    "title": "NHS aims to prevent one in four sepsis deaths",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-14T01:41:29.414Z",
+    "previousHash": null,
+    "newHash": "95f17d7b1cd2caac",
+    "acknowledged": false
   }
 }

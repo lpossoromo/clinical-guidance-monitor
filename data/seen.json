@@ -1650,5 +1650,13 @@
     "discovered": "2026-07-13T14:07:50.116Z",
     "publishedDate": "Mon, 13 Jul 2026 11:50:57 +0000",
     "source": "ncl"
+  },
+  "nhs:5f684aa6519c132a": {
+    "url": "https://www.england.nhs.uk/2026/07/nhs-aims-to-prevent-one-in-four-sepsis-deaths/",
+    "title": "NHS aims to prevent one in four sepsis deaths",
+    "description": "The NHS will aim to prevent thousands of deaths from sepsis by 2035 as part of a series of measures to improve the treatment of the deadly condition. Sepsis is a life-threatening response to an infection in the body, which can cause significant damage to tissues and organs, and is estimated to cause around 4,000 [&#8230;]",
+    "discovered": "2026-07-14T01:41:29.275Z",
+    "publishedDate": "Mon, 13 Jul 2026 23:01:09 +0000",
+    "source": "nhs"
   }
 }
