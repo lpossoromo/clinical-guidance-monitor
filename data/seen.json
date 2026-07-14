@@ -1682,5 +1682,17 @@
     "discovered": "2026-07-14T13:10:39.461Z",
     "publishedDate": "Tue, 14 Jul 2026 09:31:36 +0000",
     "source": "ncl"
+  },
+  "artp:f0a0b1f7d16dce58": {
+    "url": "https://www.artp.org.uk/news/176/urgent_field_safety_notice_from_resmed_regarding_astral_100150_ventilators",
+    "title": "Urgent Field Safety Notice From Resmed Regarding Astral 100150 Ventilators",
+    "discovered": "2026-07-14T13:44:03.488Z",
+    "source": "artp"
+  },
+  "artp:0c23ddc3a766f2f1": {
+    "url": "https://www.artp.org.uk/news/174/new_portfolio_launch_including_updates_to_standards_and_guidance",
+    "title": "New Portfolio Launch Including Updates To Standards And Guidance",
+    "discovered": "2026-07-14T13:44:03.488Z",
+    "source": "artp"
   }
 }

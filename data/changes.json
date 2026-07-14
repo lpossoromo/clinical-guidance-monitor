@@ -2198,5 +2198,27 @@
     "previousHash": null,
     "newHash": "1fa6f43ab9aee43d",
     "acknowledged": false
+  },
+  "change:1784036644543:f0a0b1f7d16dce58": {
+    "id": "change:1784036644543:f0a0b1f7d16dce58",
+    "url": "https://www.artp.org.uk/news/176/urgent_field_safety_notice_from_resmed_regarding_astral_100150_ventilators",
+    "title": "Urgent Field Safety Notice From Resmed Regarding Astral 100150 Ventilators",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-14T13:44:04.543Z",
+    "previousHash": null,
+    "newHash": "c528794823d5da02",
+    "acknowledged": false
+  },
+  "change:1784036645613:0c23ddc3a766f2f1": {
+    "id": "change:1784036645613:0c23ddc3a766f2f1",
+    "url": "https://www.artp.org.uk/news/174/new_portfolio_launch_including_updates_to_standards_and_guidance",
+    "title": "New Portfolio Launch Including Updates To Standards And Guidance",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-14T13:44:05.613Z",
+    "previousHash": null,
+    "newHash": "68f91e60f38ac37d",
+    "acknowledged": false
   }
 }
