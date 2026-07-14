@@ -3432,5 +3432,73 @@
       "estimatedReadTime": 2,
       "description": "Home \n\r\n\r\n\r\n\r\n\r\nNews \n\r\n\r\n\r\nNew portfolio launch including updates to standards and guidance \n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\nNew portfolio launch including updates to standards and guidance \n\r\n\r\n\r\n\r\n\r\n03 June 2026\r\n("
     }
+  },
+  "content:d3ddd79fe6ab9b76": {
+    "id": "content:d3ddd79fe6ab9b76",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-6-10-july-2026",
+    "title": "News: EMIS Global update: 6&#45;10 July 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-14",
+    "fetchedDate": "2026-07-14T19:03:35.568Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
+  },
+  "content:91dfc9a81bc8fcb9": {
+    "id": "content:91dfc9a81bc8fcb9",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-ensure-correct-pathway-is-selected-for-urology-referrals",
+    "title": "News: Reminder: Ensure correct pathway is selected for urology referrals",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-14",
+    "fetchedDate": "2026-07-14T19:03:35.569Z",
+    "contentHash": "d4b8fc2385d3ac38",
+    "content": "Ensure the correct target pathway is selected for the urgent suspected prostrate cancer and haematuria pathways.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 16,
+      "estimatedReadTime": 1,
+      "description": "Ensure the correct target pathway is selected for the urgent suspected prostrate cancer and haematuria pathways."
+    }
+  },
+  "content:258fb87e37325016": {
+    "id": "content:258fb87e37325016",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/two-london-trusts-change-electronic-document-transmission-delivery-method",
+    "title": "News: Two London trusts change electronic document transmission delivery method",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-14",
+    "fetchedDate": "2026-07-14T19:03:35.570Z",
+    "contentHash": "1fa6f43ab9aee43d",
+    "content": "Two trusts are now using the national Message Exchange for Social Care and Health (MESH) system for sending clinical documents to GP practices across West North London.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 27,
+      "estimatedReadTime": 1,
+      "description": "Two trusts are now using the national Message Exchange for Social Care and Health (MESH) system for sending clinical documents to GP practices across West North London."
+    }
+  },
+  "content:be3f5a2fb1c20f92": {
+    "id": "content:be3f5a2fb1c20f92",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/register-for-the-ncl-change-management-webinar-series",
+    "title": "News: Register for the NCL change management webinar series",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-13",
+    "fetchedDate": "2026-07-14T19:03:35.570Z",
+    "contentHash": "70a96fa13ab009b9",
+    "content": "Webinar series of 4 sessions by the NCL Change Management team. Topics covered include appointment mapping, total triage, LTC LCS and reasonable adjustments.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "Webinar series of 4 sessions by the NCL Change Management team. Topics covered include appointment mapping, total triage, LTC LCS and reasonable adjustments."
+    }
   }
 }

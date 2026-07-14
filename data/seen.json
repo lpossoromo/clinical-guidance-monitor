@@ -1694,5 +1694,37 @@
     "title": "New Portfolio Launch Including Updates To Standards And Guidance",
     "discovered": "2026-07-14T13:44:03.488Z",
     "source": "artp"
+  },
+  "ncl:d3ddd79fe6ab9b76": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-6-10-july-2026",
+    "title": "News: EMIS Global update: 6&#45;10 July 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-07-14T19:03:35.568Z",
+    "publishedDate": "Tue, 14 Jul 2026 15:25:53 +0000",
+    "source": "ncl"
+  },
+  "ncl:91dfc9a81bc8fcb9": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-ensure-correct-pathway-is-selected-for-urology-referrals",
+    "title": "News: Reminder: Ensure correct pathway is selected for urology referrals",
+    "description": "Ensure the correct target pathway is selected for the urgent suspected prostrate cancer and haematuria pathways.",
+    "discovered": "2026-07-14T19:03:35.569Z",
+    "publishedDate": "Tue, 14 Jul 2026 14:25:59 +0000",
+    "source": "ncl"
+  },
+  "ncl:258fb87e37325016": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/two-london-trusts-change-electronic-document-transmission-delivery-method",
+    "title": "News: Two London trusts change electronic document transmission delivery method",
+    "description": "Two trusts are now using the national Message Exchange for Social Care and Health (MESH) system for sending clinical documents to GP practices across West North London.",
+    "discovered": "2026-07-14T19:03:35.570Z",
+    "publishedDate": "Tue, 14 Jul 2026 09:31:36 +0000",
+    "source": "ncl"
+  },
+  "ncl:be3f5a2fb1c20f92": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/register-for-the-ncl-change-management-webinar-series",
+    "title": "News: Register for the NCL change management webinar series",
+    "description": "Webinar series of 4 sessions by the NCL Change Management team. Topics covered include appointment mapping, total triage, LTC LCS and reasonable adjustments.",
+    "discovered": "2026-07-14T19:03:35.570Z",
+    "publishedDate": "Mon, 13 Jul 2026 12:11:47 +0000",
+    "source": "ncl"
   }
 }

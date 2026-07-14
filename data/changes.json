@@ -2220,5 +2220,49 @@
     "previousHash": null,
     "newHash": "68f91e60f38ac37d",
     "acknowledged": false
+  },
+  "change:1784055815568:d3ddd79fe6ab9b76": {
+    "id": "change:1784055815568:d3ddd79fe6ab9b76",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-6-10-july-2026",
+    "title": "News: EMIS Global update: 6&#45;10 July 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-14T19:03:35.568Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
+  },
+  "change:1784055815569:91dfc9a81bc8fcb9": {
+    "id": "change:1784055815569:91dfc9a81bc8fcb9",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-ensure-correct-pathway-is-selected-for-urology-referrals",
+    "title": "News: Reminder: Ensure correct pathway is selected for urology referrals",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-14T19:03:35.569Z",
+    "previousHash": null,
+    "newHash": "d4b8fc2385d3ac38",
+    "acknowledged": false
+  },
+  "change:1784055815570:258fb87e37325016": {
+    "id": "change:1784055815570:258fb87e37325016",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/two-london-trusts-change-electronic-document-transmission-delivery-method",
+    "title": "News: Two London trusts change electronic document transmission delivery method",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-14T19:03:35.570Z",
+    "previousHash": null,
+    "newHash": "1fa6f43ab9aee43d",
+    "acknowledged": false
+  },
+  "change:1784055815570:be3f5a2fb1c20f92": {
+    "id": "change:1784055815570:be3f5a2fb1c20f92",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/register-for-the-ncl-change-management-webinar-series",
+    "title": "News: Register for the NCL change management webinar series",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-14T19:03:35.570Z",
+    "previousHash": null,
+    "newHash": "70a96fa13ab009b9",
+    "acknowledged": false
   }
 }
