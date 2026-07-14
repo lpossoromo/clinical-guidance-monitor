@@ -3347,5 +3347,56 @@
       "estimatedReadTime": 6,
       "description": "The NHS will aim to prevent thousands of deaths from sepsis by 2035 as part of a series of measures to improve the treatment of the deadly condition. Sepsis is a life-threatening response to an infection in the body, which can cause significant damage to tissues and organs, and is estimated to cause around 4,000 [&#8230;]"
     }
+  },
+  "content:03936fddd612d7d0": {
+    "id": "content:03936fddd612d7d0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/nhs-app-national-webinar",
+    "title": "Event: NHS App National Webinar",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-14",
+    "fetchedDate": "2026-07-14T13:10:39.460Z",
+    "contentHash": "a76e39c77cc0b34f",
+    "content": "Join the NHS App webinar for updates on prescriptions, new features, and the app&#039;s roadmap. Wednesday 29 July at 11.30am.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 20,
+      "estimatedReadTime": 1,
+      "description": "Join the NHS App webinar for updates on prescriptions, new features, and the app&#039;s roadmap. Wednesday 29 July at 11.30am."
+    }
+  },
+  "content:713d7c542a902766": {
+    "id": "content:713d7c542a902766",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/ncl-nhs-diabetes-prevention-programme-quarterly-webinar-1",
+    "title": "Event: NCL NHS Diabetes Prevention Programme Quarterly Webinar",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-14",
+    "fetchedDate": "2026-07-14T13:10:39.461Z",
+    "contentHash": "c5ad5956f844bc85",
+    "content": "Join the NDPP quarterly webinar covering referral data, best practices, and strategies for consistent support across localities. Monday 27 July at 12.30pm",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 22,
+      "estimatedReadTime": 1,
+      "description": "Join the NDPP quarterly webinar covering referral data, best practices, and strategies for consistent support across localities. Monday 27 July at 12.30pm"
+    }
+  },
+  "content:4de8676090b3742e": {
+    "id": "content:4de8676090b3742e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/clinical-documents-sent-via-the-national-message-exchange-for-social-care-and-health-system",
+    "title": "News: Clinical documents sent via the national Message Exchange for Social Care and Health system",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-14",
+    "fetchedDate": "2026-07-14T13:10:39.461Z",
+    "contentHash": "1fa6f43ab9aee43d",
+    "content": "Two trusts are now using the national Message Exchange for Social Care and Health (MESH) system for sending clinical documents to GP practices across West North London.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 27,
+      "estimatedReadTime": 1,
+      "description": "Two trusts are now using the national Message Exchange for Social Care and Health (MESH) system for sending clinical documents to GP practices across West North London."
+    }
   }
 }

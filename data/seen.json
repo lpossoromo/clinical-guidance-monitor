@@ -1658,5 +1658,29 @@
     "discovered": "2026-07-14T01:41:29.275Z",
     "publishedDate": "Mon, 13 Jul 2026 23:01:09 +0000",
     "source": "nhs"
+  },
+  "ncl:03936fddd612d7d0": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/nhs-app-national-webinar",
+    "title": "Event: NHS App National Webinar",
+    "description": "Join the NHS App webinar for updates on prescriptions, new features, and the app&#039;s roadmap. Wednesday 29 July at 11.30am.",
+    "discovered": "2026-07-14T13:10:39.460Z",
+    "publishedDate": "Tue, 14 Jul 2026 10:03:42 +0000",
+    "source": "ncl"
+  },
+  "ncl:713d7c542a902766": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/ncl-nhs-diabetes-prevention-programme-quarterly-webinar-1",
+    "title": "Event: NCL NHS Diabetes Prevention Programme Quarterly Webinar",
+    "description": "Join the NDPP quarterly webinar covering referral data, best practices, and strategies for consistent support across localities. Monday 27 July at 12.30pm",
+    "discovered": "2026-07-14T13:10:39.461Z",
+    "publishedDate": "Tue, 14 Jul 2026 09:45:13 +0000",
+    "source": "ncl"
+  },
+  "ncl:4de8676090b3742e": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/clinical-documents-sent-via-the-national-message-exchange-for-social-care-and-health-system",
+    "title": "News: Clinical documents sent via the national Message Exchange for Social Care and Health system",
+    "description": "Two trusts are now using the national Message Exchange for Social Care and Health (MESH) system for sending clinical documents to GP practices across West North London.",
+    "discovered": "2026-07-14T13:10:39.461Z",
+    "publishedDate": "Tue, 14 Jul 2026 09:31:36 +0000",
+    "source": "ncl"
   }
 }

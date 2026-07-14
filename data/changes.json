@@ -2165,5 +2165,38 @@
     "previousHash": null,
     "newHash": "95f17d7b1cd2caac",
     "acknowledged": false
+  },
+  "change:1784034639460:03936fddd612d7d0": {
+    "id": "change:1784034639460:03936fddd612d7d0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/nhs-app-national-webinar",
+    "title": "Event: NHS App National Webinar",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-14T13:10:39.460Z",
+    "previousHash": null,
+    "newHash": "a76e39c77cc0b34f",
+    "acknowledged": false
+  },
+  "change:1784034639461:713d7c542a902766": {
+    "id": "change:1784034639461:713d7c542a902766",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/ncl-nhs-diabetes-prevention-programme-quarterly-webinar-1",
+    "title": "Event: NCL NHS Diabetes Prevention Programme Quarterly Webinar",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-14T13:10:39.461Z",
+    "previousHash": null,
+    "newHash": "c5ad5956f844bc85",
+    "acknowledged": false
+  },
+  "change:1784034639461:4de8676090b3742e": {
+    "id": "change:1784034639461:4de8676090b3742e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/clinical-documents-sent-via-the-national-message-exchange-for-social-care-and-health-system",
+    "title": "News: Clinical documents sent via the national Message Exchange for Social Care and Health system",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-14T13:10:39.461Z",
+    "previousHash": null,
+    "newHash": "1fa6f43ab9aee43d",
+    "acknowledged": false
   }
 }
