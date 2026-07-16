@@ -1726,5 +1726,21 @@
     "discovered": "2026-07-14T19:03:35.570Z",
     "publishedDate": "Mon, 13 Jul 2026 12:11:47 +0000",
     "source": "ncl"
+  },
+  "ncl:db17c2263f3cfbd0": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-rfl-back-pain-clinic-has-closed",
+    "title": "News: Reminder: RFL back pain clinic has closed",
+    "description": "RFL back pain clinic has closed, refer patients via community musculoskeletal services for appropriate assessment and management.",
+    "discovered": "2026-07-16T13:22:09.360Z",
+    "publishedDate": "Thu, 16 Jul 2026 11:43:39 +0000",
+    "source": "ncl"
+  },
+  "nhs:39bcdfae65a4035c": {
+    "url": "https://www.england.nhs.uk/2026/07/cancer-patients-rate-nhs-care-highly-as-record-numbers-checked-and-treated/",
+    "title": "Cancer patients rate NHS care highly as record numbers checked and treated",
+    "description": "Tens of thousands of cancer patients have rated the care they received from the NHS as nearly 9 out of 10, as NHS teams see and treat record numbers of people for the disease. The latest patient experience figures come as NHS cancer checks have reached nearly 3.4 million in a year &#8211; more than doubling in the last decade. The number of patients receiving cancer [&#8230;]",
+    "discovered": "2026-07-16T13:22:09.692Z",
+    "publishedDate": "Thu, 16 Jul 2026 11:45:40 +0000",
+    "source": "nhs"
   }
 }

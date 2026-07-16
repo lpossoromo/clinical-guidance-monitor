@@ -2264,5 +2264,27 @@
     "previousHash": null,
     "newHash": "70a96fa13ab009b9",
     "acknowledged": false
+  },
+  "change:1784208129360:db17c2263f3cfbd0": {
+    "id": "change:1784208129360:db17c2263f3cfbd0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-rfl-back-pain-clinic-has-closed",
+    "title": "News: Reminder: RFL back pain clinic has closed",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-16T13:22:09.360Z",
+    "previousHash": null,
+    "newHash": "3baadb99bd82aa2f",
+    "acknowledged": false
+  },
+  "change:1784208129757:39bcdfae65a4035c": {
+    "id": "change:1784208129757:39bcdfae65a4035c",
+    "url": "https://www.england.nhs.uk/2026/07/cancer-patients-rate-nhs-care-highly-as-record-numbers-checked-and-treated/",
+    "title": "Cancer patients rate NHS care highly as record numbers checked and treated",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-16T13:22:09.757Z",
+    "previousHash": null,
+    "newHash": "384a5220bc773fd5",
+    "acknowledged": false
   }
 }

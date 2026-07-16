@@ -3500,5 +3500,39 @@
       "estimatedReadTime": 1,
       "description": "Webinar series of 4 sessions by the NCL Change Management team. Topics covered include appointment mapping, total triage, LTC LCS and reasonable adjustments."
     }
+  },
+  "content:db17c2263f3cfbd0": {
+    "id": "content:db17c2263f3cfbd0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-rfl-back-pain-clinic-has-closed",
+    "title": "News: Reminder: RFL back pain clinic has closed",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-16",
+    "fetchedDate": "2026-07-16T13:22:09.360Z",
+    "contentHash": "3baadb99bd82aa2f",
+    "content": "RFL back pain clinic has closed, refer patients via community musculoskeletal services for appropriate assessment and management.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 17,
+      "estimatedReadTime": 1,
+      "description": "RFL back pain clinic has closed, refer patients via community musculoskeletal services for appropriate assessment and management."
+    }
+  },
+  "content:39bcdfae65a4035c": {
+    "id": "content:39bcdfae65a4035c",
+    "url": "https://www.england.nhs.uk/2026/07/cancer-patients-rate-nhs-care-highly-as-record-numbers-checked-and-treated/",
+    "title": "Cancer patients rate NHS care highly as record numbers checked and treated",
+    "source": "nhs",
+    "type": "article",
+    "publishedDate": "Thu, 16 Jul 2026 11:45:40 +0000",
+    "fetchedDate": "2026-07-16T13:22:09.757Z",
+    "contentHash": "384a5220bc773fd5",
+    "content": "Tens of thousands of cancer patients have rated the care they received from the NHS as nearly 9 out of 10, as NHS teams see and treat record numbers of people for the disease. \n\nThe latest patient experience figures  come as NHS cancer checks have reached nearly 3.4 million in a year  more than doubling in the last decade.\n\nThe number of patients receiving cancer treatment has also reached a record high, with the NHS starting 700,000 treatments in the year to May  almost 2,000 every day on average.\n\nMore than 64,000 people responded to the 2025 National cancer patient experience survey, giving their overall care an average score of 8.92 out of 10  maintaining the high standards of care seen last year.\n\nPatients gave some of the highest scores to the advice, information and support provided by their cancer teams.\n\nMore than 9 in 10 patients (91.4%) said they had a main point of contact within their care team, while 95.6% of those who received advice from that person found it helpful.\n\nMore than 9 in 10 said they received all the information they needed before a diagnostic test, while 94.6% said they were always given enough privacy when receiving their results.\n\nThe main areas of improvement for patients over the past year related to communication or sharing information, with more patients receiving clear information about what to do after leaving hospital, rising from 87.3% to 88.4%, and more saying someone close to them could speak to their hospital team, up from 70.8% to 72.1%.\n\nProfessor Peter Johnson, NHS National Clinical Director for Cancer said:  “NHS teams are seeing and treating record numbers of patients for cancer, so it is hugely encouraging that patients continue to rate their care nearly 9 out of 10.\n\n“Being diagnosed with cancer is incredibly difficult, and these results are testament to staff who make sure patients receive clear information, have their privacy respected and know there is someone they can turn to.\n\n“We always want to go further for patients, and we know there is more we can do to ensure every patient receives the same high-quality experience. Our National Cancer Plan will see every patient receiving personalised support before, during and after treatment”.\n\nHealth Minister Sharon Hodgson said: “This important survey shows that thousands of cancer patients continue to receive high-quality care from the NHS, and highlights where there is more work to do.\n\nWe are determined to ensure that every single patient gets the high standard of care they deserve and that their loved ones and carers get the right support, too.\n\n“These findings will help inform future improvements as we put our National Cancer Plan into action”.\n\nThe National cancer patient experience survey has run annually since 2010 and helps NHS organisations identify good practice and areas where care can be improved.\n\nDate published : 16 July, 2026 \n\nDate last updated : 16 July, 2026 \n\nTopics\n\nCancer",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 487,
+      "estimatedReadTime": 2,
+      "description": "Tens of thousands of cancer patients have rated the care they received from the NHS as nearly 9 out of 10, as NHS teams see and treat record numbers of people for the disease. The latest patient experience figures come as NHS cancer checks have reached nearly 3.4 million in a year &#8211; more than doubling in the last decade. The number of patients receiving cancer [&#8230;]"
+    }
   }
 }
