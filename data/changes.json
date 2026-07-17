@@ -2286,5 +2286,16 @@
     "previousHash": null,
     "newHash": "384a5220bc773fd5",
     "acknowledged": false
+  },
+  "change:1784293588684:1114caf07c083d1b": {
+    "id": "change:1784293588684:1114caf07c083d1b",
+    "url": "https://www.england.nhs.uk/2026/07/landmark-nhs-approval-of-cancer-drugs-offers-new-hope-for-children-and-adults-with-rare-blood-cancers/",
+    "title": "Landmark NHS approval of cancer drugs offers new hope for children and adults with rare blood cancers",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-17T13:06:28.684Z",
+    "previousHash": null,
+    "newHash": "f5328bd8b230b2e7",
+    "acknowledged": false
   }
 }
