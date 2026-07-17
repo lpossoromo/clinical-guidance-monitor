@@ -241,12 +241,12 @@
     }
   },
   "lastRunStats": {
-    "rssPoller": "2026-07-17T13:06:29.185Z",
+    "rssPoller": "2026-07-17T18:53:54.384Z",
     "rssPollerResults": {
       "nice": 0,
       "ncl": 0,
-      "nhs": 1,
-      "total": 1
+      "nhs": 0,
+      "total": 0
     },
     "htmlPoller": "2026-07-17T13:37:49.498Z"
   },
