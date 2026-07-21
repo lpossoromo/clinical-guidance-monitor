@@ -3551,5 +3551,56 @@
       "estimatedReadTime": 6,
       "description": "Infants and young children are among hundreds of patients set to receive new life-saving drugs for rare blood cancers. Around 200 patients a year will benefit from the 2 new cutting-edge treatments approved by NHS England, offering fresh hope to families when other therapies have failed. Dabrafenib is a tablet that treats histiocytic neoplasms – [&#8230;]"
     }
+  },
+  "content:3901f1726e96af11": {
+    "id": "content:3901f1726e96af11",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/find-palliative-care-guidance-in-minutes-with-hpal",
+    "title": "News: Find palliative care guidance in minutes with HPAL",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-21",
+    "fetchedDate": "2026-07-21T13:18:04.923Z",
+    "contentHash": "dd23b22165b081da",
+    "content": "Access local palliative care resources with HPAL\r\n\r\nFind palliative care guidance in minutes with HPAL\r\n\r\nAccess palliative care guidance swiftly with HPAL, a resource designed for clinicians and patients in north west and central London.\r\n\r\nVisit the HPAL website, select your borough, search for a symptom, and explore the local directory of services.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 53,
+      "estimatedReadTime": 1,
+      "description": "Access local palliative care resources with HPAL\r\n\r\nFind palliative care guidance in minutes with HPAL\r\n\r\nAccess palliative care guidance swiftly with HPAL, a resource designed for clinicians and pati"
+    }
+  },
+  "content:228303e93364ea57": {
+    "id": "content:228303e93364ea57",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/find-out-about-e-rs-changes-supporting-the-nhs-single-point-of-access-model-for-elective-care",
+    "title": "News: Find out about e&#45;RS changes supporting the NHS single point of access model for elective care",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-21",
+    "fetchedDate": "2026-07-21T13:18:04.924Z",
+    "contentHash": "ce31f5ab3746b26e",
+    "content": "These sessions are intended to raise awareness and provide an opportunity to ask questions and inform local readiness ahead of implementation. Book on a session for primary care between 3 and 14 August.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "These sessions are intended to raise awareness and provide an opportunity to ask questions and inform local readiness ahead of implementation. Book on a session for primary care between 3 and 14 Augus"
+    }
+  },
+  "content:48abb923ece40f16": {
+    "id": "content:48abb923ece40f16",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ice-system-down-for-upgrade-sunday-26-july",
+    "title": "News: ICE system down for upgrade, Sunday 26 July",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-21",
+    "fetchedDate": "2026-07-21T13:18:04.924Z",
+    "contentHash": "4d2486cdf4d6496b",
+    "content": "GP practices will not be able to place ICE requests for pathology or imaging on the Whittington ICE system via EMIS systems on Sunday 26 July, from 8am to approximately 5pm.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "GP practices will not be able to place ICE requests for pathology or imaging on the Whittington ICE system via EMIS systems on Sunday 26 July, from 8am to approximately 5pm."
+    }
   }
 }

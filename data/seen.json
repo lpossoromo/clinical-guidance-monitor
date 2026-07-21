@@ -1750,5 +1750,29 @@
     "discovered": "2026-07-17T13:06:28.526Z",
     "publishedDate": "Fri, 17 Jul 2026 09:00:17 +0000",
     "source": "nhs"
+  },
+  "ncl:3901f1726e96af11": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/find-palliative-care-guidance-in-minutes-with-hpal",
+    "title": "News: Find palliative care guidance in minutes with HPAL",
+    "description": "Access local palliative care resources with HPAL\r\n\r\nFind palliative care guidance in minutes with HPAL\r\n\r\nAccess palliative care guidance swiftly with HPAL, a resource designed for clinicians and patients in north west and central London.\r\n\r\nVisit the HPAL website, select your borough, search for a symptom, and explore the local directory of services.",
+    "discovered": "2026-07-21T13:18:04.923Z",
+    "publishedDate": "Tue, 21 Jul 2026 11:25:53 +0000",
+    "source": "ncl"
+  },
+  "ncl:228303e93364ea57": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/find-out-about-e-rs-changes-supporting-the-nhs-single-point-of-access-model-for-elective-care",
+    "title": "News: Find out about e&#45;RS changes supporting the NHS single point of access model for elective care",
+    "description": "These sessions are intended to raise awareness and provide an opportunity to ask questions and inform local readiness ahead of implementation. Book on a session for primary care between 3 and 14 August.",
+    "discovered": "2026-07-21T13:18:04.924Z",
+    "publishedDate": "Tue, 21 Jul 2026 09:40:01 +0000",
+    "source": "ncl"
+  },
+  "ncl:48abb923ece40f16": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ice-system-down-for-upgrade-sunday-26-july",
+    "title": "News: ICE system down for upgrade, Sunday 26 July",
+    "description": "GP practices will not be able to place ICE requests for pathology or imaging on the Whittington ICE system via EMIS systems on Sunday 26 July, from 8am to approximately 5pm.",
+    "discovered": "2026-07-21T13:18:04.924Z",
+    "publishedDate": "Tue, 21 Jul 2026 09:28:49 +0000",
+    "source": "ncl"
   }
 }

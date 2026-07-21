@@ -2297,5 +2297,38 @@
     "previousHash": null,
     "newHash": "f5328bd8b230b2e7",
     "acknowledged": false
+  },
+  "change:1784639884923:3901f1726e96af11": {
+    "id": "change:1784639884923:3901f1726e96af11",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/find-palliative-care-guidance-in-minutes-with-hpal",
+    "title": "News: Find palliative care guidance in minutes with HPAL",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-21T13:18:04.923Z",
+    "previousHash": null,
+    "newHash": "dd23b22165b081da",
+    "acknowledged": false
+  },
+  "change:1784639884924:228303e93364ea57": {
+    "id": "change:1784639884924:228303e93364ea57",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/find-out-about-e-rs-changes-supporting-the-nhs-single-point-of-access-model-for-elective-care",
+    "title": "News: Find out about e&#45;RS changes supporting the NHS single point of access model for elective care",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-21T13:18:04.924Z",
+    "previousHash": null,
+    "newHash": "ce31f5ab3746b26e",
+    "acknowledged": false
+  },
+  "change:1784639884924:48abb923ece40f16": {
+    "id": "change:1784639884924:48abb923ece40f16",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ice-system-down-for-upgrade-sunday-26-july",
+    "title": "News: ICE system down for upgrade, Sunday 26 July",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-21T13:18:04.924Z",
+    "previousHash": null,
+    "newHash": "4d2486cdf4d6496b",
+    "acknowledged": false
   }
 }
