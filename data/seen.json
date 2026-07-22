@@ -1774,5 +1774,21 @@
     "discovered": "2026-07-21T13:18:04.924Z",
     "publishedDate": "Tue, 21 Jul 2026 09:28:49 +0000",
     "source": "ncl"
+  },
+  "ncl:095814f6a9253cf8": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/neuro-navigation-and-motor-neurone-disease-co-ordinator-service",
+    "title": "Service: Neuro Navigation and Motor Neurone Disease Co&#45;ordinator Service",
+    "description": "Specialist support for people with acquired or traumatic injuries and complex neurological conditions. The services offer assessment, care coordination, referral management, signposting and support to help patients and families access the right care and services.",
+    "discovered": "2026-07-22T13:22:41.733Z",
+    "publishedDate": "Wed, 22 Jul 2026 11:41:30 +0000",
+    "source": "ncl"
+  },
+  "ncl:40888189e7f0a75b": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-13-17-july-2026",
+    "title": "News: EMIS Global update: 13&#45;17 July 2026",
+    "description": "See what&#039;s new in EMIS Global",
+    "discovered": "2026-07-22T13:22:41.734Z",
+    "publishedDate": "Wed, 22 Jul 2026 09:38:06 +0000",
+    "source": "ncl"
   }
 }

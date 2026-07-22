@@ -2330,5 +2330,27 @@
     "previousHash": null,
     "newHash": "4d2486cdf4d6496b",
     "acknowledged": false
+  },
+  "change:1784726561733:095814f6a9253cf8": {
+    "id": "change:1784726561733:095814f6a9253cf8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/neuro-navigation-and-motor-neurone-disease-co-ordinator-service",
+    "title": "Service: Neuro Navigation and Motor Neurone Disease Co&#45;ordinator Service",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-22T13:22:41.733Z",
+    "previousHash": null,
+    "newHash": "51915c35acf51e0f",
+    "acknowledged": false
+  },
+  "change:1784726561734:40888189e7f0a75b": {
+    "id": "change:1784726561734:40888189e7f0a75b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-13-17-july-2026",
+    "title": "News: EMIS Global update: 13&#45;17 July 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-22T13:22:41.734Z",
+    "previousHash": null,
+    "newHash": "648a902f3c028d45",
+    "acknowledged": false
   }
 }
