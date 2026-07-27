@@ -3636,5 +3636,22 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global"
     }
+  },
+  "content:cfaeb64471a3b071": {
+    "id": "content:cfaeb64471a3b071",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-20-24-july-2026",
+    "title": "News: EMIS Global update: 20&#45;24 July 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-27",
+    "fetchedDate": "2026-07-27T19:13:26.659Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
   }
 }
