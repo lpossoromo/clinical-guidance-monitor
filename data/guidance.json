@@ -3653,5 +3653,22 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global"
     }
+  },
+  "content:e593391e0ff9eba8": {
+    "id": "content:e593391e0ff9eba8",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/new-lung-function-tests-referral-form-at-finchley-memorial-hospital-cdc",
+    "title": "News: New lung function tests referral form at Finchley Memorial Hospital CDC",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-28",
+    "fetchedDate": "2026-07-28T19:09:04.643Z",
+    "contentHash": "5836f2f437c0d2fe",
+    "content": "From 1 August, Finchley Memorial Hospital CDC will introduce a new lung function service referral form designed to make referrals easier to complete and reduce the number of incorrectly submitted referrals. See the service page for referral criteria.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 38,
+      "estimatedReadTime": 1,
+      "description": "From 1 August, Finchley Memorial Hospital CDC will introduce a new lung function service referral form designed to make referrals easier to complete and reduce the number of incorrectly submitted refe"
+    }
   }
 }
