@@ -3687,5 +3687,22 @@
       "estimatedReadTime": 1,
       "description": "Haringey GP Federation is piloting a service that reviews paediatric hospital referrals from East Haringey GPs to agree next steps in care. Eligible practices can email referrals directly to the&nbsp;"
     }
+  },
+  "content:ce66d38af388330e": {
+    "id": "content:ce66d38af388330e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/royal-national-orthopaedic-hospital-high-volume-low-complexity-orthopaedic-pathways",
+    "title": "Event: Royal National Orthopaedic Hospital High&#45;volume, Low&#45;complexity Orthopaedic Pathways",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-29",
+    "fetchedDate": "2026-07-29T18:58:39.288Z",
+    "contentHash": "4b0f0fd9c083a336",
+    "content": "RNOH is accepting routine elective orthopaedic referrals from practices across West and North London. Join this in-person event to explore RNOH&rsquo;s MSK pathways and learn how they can improve patient flow and MSK care. Thursday 10 September, 11:30am.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 38,
+      "estimatedReadTime": 1,
+      "description": "RNOH is accepting routine elective orthopaedic referrals from practices across West and North London. Join this in-person event to explore RNOH&rsquo;s MSK pathways and learn how they can improve pati"
+    }
   }
 }

@@ -1814,5 +1814,13 @@
     "discovered": "2026-07-29T13:47:10.503Z",
     "publishedDate": "Wed, 29 Jul 2026 10:22:17 +0000",
     "source": "ncl"
+  },
+  "ncl:ce66d38af388330e": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/royal-national-orthopaedic-hospital-high-volume-low-complexity-orthopaedic-pathways",
+    "title": "Event: Royal National Orthopaedic Hospital High&#45;volume, Low&#45;complexity Orthopaedic Pathways",
+    "description": "RNOH is accepting routine elective orthopaedic referrals from practices across West and North London. Join this in-person event to explore RNOH&rsquo;s MSK pathways and learn how they can improve patient flow and MSK care. Thursday 10 September, 11:30am.",
+    "discovered": "2026-07-29T18:58:39.288Z",
+    "publishedDate": "Wed, 29 Jul 2026 16:01:56 +0000",
+    "source": "ncl"
   }
 }

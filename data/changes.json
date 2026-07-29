@@ -2385,5 +2385,16 @@
     "previousHash": null,
     "newHash": "809c14158c1427a7",
     "acknowledged": false
+  },
+  "change:1785351519288:ce66d38af388330e": {
+    "id": "change:1785351519288:ce66d38af388330e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/royal-national-orthopaedic-hospital-high-volume-low-complexity-orthopaedic-pathways",
+    "title": "Event: Royal National Orthopaedic Hospital High&#45;volume, Low&#45;complexity Orthopaedic Pathways",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-29T18:58:39.288Z",
+    "previousHash": null,
+    "newHash": "4b0f0fd9c083a336",
+    "acknowledged": false
   }
 }
