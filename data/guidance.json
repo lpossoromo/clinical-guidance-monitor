@@ -3670,5 +3670,22 @@
       "estimatedReadTime": 1,
       "description": "From 1 August, Finchley Memorial Hospital CDC will introduce a new lung function service referral form designed to make referrals easier to complete and reduce the number of incorrectly submitted refe"
     }
+  },
+  "content:60a1a2b2035fcedd": {
+    "id": "content:60a1a2b2035fcedd",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/paediatric-super-triage-service",
+    "title": "Service: Paediatric Super&#45;Triage Service",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-29",
+    "fetchedDate": "2026-07-29T13:47:10.503Z",
+    "contentHash": "809c14158c1427a7",
+    "content": "Haringey GP Federation is piloting a service that reviews paediatric hospital referrals from East Haringey GPs to agree next steps in care. Eligible practices can email referrals directly to the&nbsp;team instead of refering&nbsp;via the e-Referral Service. Read more",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 38,
+      "estimatedReadTime": 1,
+      "description": "Haringey GP Federation is piloting a service that reviews paediatric hospital referrals from East Haringey GPs to agree next steps in care. Eligible practices can email referrals directly to the&nbsp;"
+    }
   }
 }

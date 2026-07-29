@@ -1806,5 +1806,13 @@
     "discovered": "2026-07-28T19:09:04.643Z",
     "publishedDate": "Tue, 28 Jul 2026 15:06:26 +0000",
     "source": "ncl"
+  },
+  "ncl:60a1a2b2035fcedd": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/paediatric-super-triage-service",
+    "title": "Service: Paediatric Super&#45;Triage Service",
+    "description": "Haringey GP Federation is piloting a service that reviews paediatric hospital referrals from East Haringey GPs to agree next steps in care. Eligible practices can email referrals directly to the&nbsp;team instead of refering&nbsp;via the e-Referral Service. Read more",
+    "discovered": "2026-07-29T13:47:10.503Z",
+    "publishedDate": "Wed, 29 Jul 2026 10:22:17 +0000",
+    "source": "ncl"
   }
 }

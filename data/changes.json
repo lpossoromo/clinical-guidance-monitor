@@ -2374,5 +2374,16 @@
     "previousHash": null,
     "newHash": "5836f2f437c0d2fe",
     "acknowledged": false
+  },
+  "change:1785332830503:60a1a2b2035fcedd": {
+    "id": "change:1785332830503:60a1a2b2035fcedd",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/paediatric-super-triage-service",
+    "title": "Service: Paediatric Super&#45;Triage Service",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-29T13:47:10.503Z",
+    "previousHash": null,
+    "newHash": "809c14158c1427a7",
+    "acknowledged": false
   }
 }
