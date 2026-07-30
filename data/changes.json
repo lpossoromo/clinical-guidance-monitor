@@ -2396,5 +2396,16 @@
     "previousHash": null,
     "newHash": "4b0f0fd9c083a336",
     "acknowledged": false
+  },
+  "change:1785420117080:d6cd10200f055e55": {
+    "id": "change:1785420117080:d6cd10200f055e55",
+    "url": "https://www.artp.org.uk/news/177/right_touch_assurance_assessment_for_healthcare_science_in_scotland",
+    "title": "Right Touch Assurance Assessment For Healthcare Science In Scotland",
+    "source": "artp",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-30T14:01:57.080Z",
+    "previousHash": null,
+    "newHash": "427fc282ee31b888",
+    "acknowledged": false
   }
 }
