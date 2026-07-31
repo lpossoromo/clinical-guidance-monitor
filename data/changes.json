@@ -2407,5 +2407,16 @@
     "previousHash": null,
     "newHash": "427fc282ee31b888",
     "acknowledged": false
+  },
+  "change:1785505335383:5fc0749d21c133b5": {
+    "id": "change:1785505335383:5fc0749d21c133b5",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/support-healthier-lifestyles-with-the-barnet-tier-2-weight-management-service",
+    "title": "News: Support healthier lifestyles with the Barnet tier 2 weight management service",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-07-31T13:42:15.383Z",
+    "previousHash": null,
+    "newHash": "e6a0b7f28fa380b8",
+    "acknowledged": false
   }
 }

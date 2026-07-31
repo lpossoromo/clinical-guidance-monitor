@@ -3721,5 +3721,22 @@
       "estimatedReadTime": 2,
       "description": "Home \n\r\n\r\n\r\n\r\n\r\nNews \n\r\n\r\n\r\nRight Touch Assurance Assessment for Healthcare Science in Scotland\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\nRight Touch Assurance Assessment for Healthcare Science in Scotland\n\r\n\r\n\r\n\r\n\r\n29 July 202"
     }
+  },
+  "content:5fc0749d21c133b5": {
+    "id": "content:5fc0749d21c133b5",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/support-healthier-lifestyles-with-the-barnet-tier-2-weight-management-service",
+    "title": "News: Support healthier lifestyles with the Barnet tier 2 weight management service",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-31",
+    "fetchedDate": "2026-07-31T13:42:15.383Z",
+    "contentHash": "e6a0b7f28fa380b8",
+    "content": "The service provides evidence-based support to help children and young people achieve and maintain a healthier weight through personalised coaching and practical lifestyle support.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 24,
+      "estimatedReadTime": 1,
+      "description": "The service provides evidence-based support to help children and young people achieve and maintain a healthier weight through personalised coaching and practical lifestyle support."
+    }
   }
 }
