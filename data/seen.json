@@ -1844,5 +1844,13 @@
     "discovered": "2026-08-03T01:56:22.079Z",
     "publishedDate": "Sat, 01 Aug 2026 05:00:36 +0000",
     "source": "nhs"
+  },
+  "ncl:8603f4e6580f410a": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/morelife-weight-management-service-decommissioned-in-islington",
+    "title": "News: MoreLife Weight Management Service – decommissioned in Islington",
+    "description": "MoreLife Weight Management Service &ndash; decommissioned in Islington",
+    "discovered": "2026-08-03T09:23:16.386Z",
+    "publishedDate": "Mon, 03 Aug 2026 09:05:42 +0000",
+    "source": "ncl"
   }
 }

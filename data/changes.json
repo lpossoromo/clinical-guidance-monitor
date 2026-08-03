@@ -2429,5 +2429,16 @@
     "previousHash": null,
     "newHash": "4f7ec1d800ff92c5",
     "acknowledged": false
+  },
+  "change:1785748996386:8603f4e6580f410a": {
+    "id": "change:1785748996386:8603f4e6580f410a",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/morelife-weight-management-service-decommissioned-in-islington",
+    "title": "News: MoreLife Weight Management Service – decommissioned in Islington",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-03T09:23:16.386Z",
+    "previousHash": null,
+    "newHash": "4c3a6ee79626dc29",
+    "acknowledged": false
   }
 }

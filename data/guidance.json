@@ -3755,5 +3755,22 @@
       "estimatedReadTime": 6,
       "description": "The NHS will begin contacting half a million men from this week inviting them to join a major research programme to improve early detection and treatment of prostate cancer. Men who have had or are living with prostate cancer will receive letters and text messages explaining how they can register to take part in what [&#8230;]"
     }
+  },
+  "content:8603f4e6580f410a": {
+    "id": "content:8603f4e6580f410a",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/morelife-weight-management-service-decommissioned-in-islington",
+    "title": "News: MoreLife Weight Management Service – decommissioned in Islington",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-03",
+    "fetchedDate": "2026-08-03T09:23:16.386Z",
+    "contentHash": "4c3a6ee79626dc29",
+    "content": "MoreLife Weight Management Service &ndash; decommissioned in Islington",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 8,
+      "estimatedReadTime": 1,
+      "description": "MoreLife Weight Management Service &ndash; decommissioned in Islington"
+    }
   }
 }
