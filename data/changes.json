@@ -2418,5 +2418,16 @@
     "previousHash": null,
     "newHash": "e6a0b7f28fa380b8",
     "acknowledged": false
+  },
+  "change:1785722182098:67787308d1ffed59": {
+    "id": "change:1785722182098:67787308d1ffed59",
+    "url": "https://www.england.nhs.uk/2026/08/nhs-inviting-500000-men-to-join-major-prostate-cancer-research-programme/",
+    "title": "NHS inviting 500,000 men to join major prostate cancer research programme",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-03T01:56:22.098Z",
+    "previousHash": null,
+    "newHash": "4f7ec1d800ff92c5",
+    "acknowledged": false
   }
 }
