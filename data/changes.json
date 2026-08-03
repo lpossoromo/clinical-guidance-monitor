@@ -2440,5 +2440,38 @@
     "previousHash": null,
     "newHash": "4c3a6ee79626dc29",
     "acknowledged": false
+  },
+  "change:1785766642983:2c8536d41aeabf03": {
+    "id": "change:1785766642983:2c8536d41aeabf03",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/children-and-young-people-type-1-diabetes-awareness-guidance-for-practices",
+    "title": "News: Children and young people type 1 diabetes awareness: Guidance for practices",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-03T14:17:22.983Z",
+    "previousHash": null,
+    "newHash": "86101c4881aa9c76",
+    "acknowledged": false
+  },
+  "change:1785766642984:ce125f125c81d1cf": {
+    "id": "change:1785766642984:ce125f125c81d1cf",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/west-and-north-london-icb-launch-attention-deficit-hyperactivity-disorder-and-autism-spectrum-disorder-information-page",
+    "title": "News: West and north London ICB launch Attention Deficit Hyperactivity Disorder and Autism Spectrum Disorder information page",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-03T14:17:22.984Z",
+    "previousHash": null,
+    "newHash": "85b7bfa7d87bdaac",
+    "acknowledged": false
+  },
+  "change:1785766642985:0e6734882b64791e": {
+    "id": "change:1785766642985:0e6734882b64791e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/support-healthier-weight-management-for-children-and-young-people",
+    "title": "News: Support healthier weight management for children and young people",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-03T14:17:22.985Z",
+    "previousHash": null,
+    "newHash": "e6a0b7f28fa380b8",
+    "acknowledged": false
   }
 }

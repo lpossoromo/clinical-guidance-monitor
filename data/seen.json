@@ -1852,5 +1852,29 @@
     "discovered": "2026-08-03T09:23:16.386Z",
     "publishedDate": "Mon, 03 Aug 2026 09:05:42 +0000",
     "source": "ncl"
+  },
+  "ncl:2c8536d41aeabf03": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/children-and-young-people-type-1-diabetes-awareness-guidance-for-practices",
+    "title": "News: Children and young people type 1 diabetes awareness: Guidance for practices",
+    "description": "Practices are encouraged to access resources that support early recognition of the signs and syptoms of type 1 diabetes in children and young people.",
+    "discovered": "2026-08-03T14:17:22.983Z",
+    "publishedDate": "Mon, 03 Aug 2026 13:42:02 +0000",
+    "source": "ncl"
+  },
+  "ncl:ce125f125c81d1cf": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/west-and-north-london-icb-launch-attention-deficit-hyperactivity-disorder-and-autism-spectrum-disorder-information-page",
+    "title": "News: West and north London ICB launch Attention Deficit Hyperactivity Disorder and Autism Spectrum Disorder information page",
+    "description": "West and north London ICB have launched a dedicated ADHD and ASD information page to help navigate the referral process. Signpost your patients to further support.",
+    "discovered": "2026-08-03T14:17:22.984Z",
+    "publishedDate": "Mon, 03 Aug 2026 10:53:17 +0000",
+    "source": "ncl"
+  },
+  "ncl:0e6734882b64791e": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/support-healthier-weight-management-for-children-and-young-people",
+    "title": "News: Support healthier weight management for children and young people",
+    "description": "The service provides evidence-based support to help children and young people achieve and maintain a healthier weight through personalised coaching and practical lifestyle support.",
+    "discovered": "2026-08-03T14:17:22.985Z",
+    "publishedDate": "Fri, 31 Jul 2026 10:12:54 +0000",
+    "source": "ncl"
   }
 }

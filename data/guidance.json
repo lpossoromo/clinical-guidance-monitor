@@ -3772,5 +3772,56 @@
       "estimatedReadTime": 1,
       "description": "MoreLife Weight Management Service &ndash; decommissioned in Islington"
     }
+  },
+  "content:2c8536d41aeabf03": {
+    "id": "content:2c8536d41aeabf03",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/children-and-young-people-type-1-diabetes-awareness-guidance-for-practices",
+    "title": "News: Children and young people type 1 diabetes awareness: Guidance for practices",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-03",
+    "fetchedDate": "2026-08-03T14:17:22.983Z",
+    "contentHash": "86101c4881aa9c76",
+    "content": "Practices are encouraged to access resources that support early recognition of the signs and syptoms of type 1 diabetes in children and young people.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 24,
+      "estimatedReadTime": 1,
+      "description": "Practices are encouraged to access resources that support early recognition of the signs and syptoms of type 1 diabetes in children and young people."
+    }
+  },
+  "content:ce125f125c81d1cf": {
+    "id": "content:ce125f125c81d1cf",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/west-and-north-london-icb-launch-attention-deficit-hyperactivity-disorder-and-autism-spectrum-disorder-information-page",
+    "title": "News: West and north London ICB launch Attention Deficit Hyperactivity Disorder and Autism Spectrum Disorder information page",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-03",
+    "fetchedDate": "2026-08-03T14:17:22.984Z",
+    "contentHash": "85b7bfa7d87bdaac",
+    "content": "West and north London ICB have launched a dedicated ADHD and ASD information page to help navigate the referral process. Signpost your patients to further support.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "West and north London ICB have launched a dedicated ADHD and ASD information page to help navigate the referral process. Signpost your patients to further support."
+    }
+  },
+  "content:0e6734882b64791e": {
+    "id": "content:0e6734882b64791e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/support-healthier-weight-management-for-children-and-young-people",
+    "title": "News: Support healthier weight management for children and young people",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-07-31",
+    "fetchedDate": "2026-08-03T14:17:22.985Z",
+    "contentHash": "e6a0b7f28fa380b8",
+    "content": "The service provides evidence-based support to help children and young people achieve and maintain a healthier weight through personalised coaching and practical lifestyle support.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 24,
+      "estimatedReadTime": 1,
+      "description": "The service provides evidence-based support to help children and young people achieve and maintain a healthier weight through personalised coaching and practical lifestyle support."
+    }
   }
 }
