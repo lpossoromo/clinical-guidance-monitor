@@ -3823,5 +3823,39 @@
       "estimatedReadTime": 1,
       "description": "The service provides evidence-based support to help children and young people achieve and maintain a healthier weight through personalised coaching and practical lifestyle support."
     }
+  },
+  "content:36d96b4dca6c9492": {
+    "id": "content:36d96b4dca6c9492",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mhra-drug-safety-update-domperidone-contraindication-in-patients-with-phaeochromocytoma",
+    "title": "News: MHRA Drug Safety Update: Domperidone contraindication in patients with phaeochromocytoma",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-04",
+    "fetchedDate": "2026-08-04T13:48:46.399Z",
+    "contentHash": "dd2195e06b7e86e9",
+    "content": "Domperidone contraindication in patients with phaeochromocytoma due to the risk of severe hypertension. Read on for advice for prescribers.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 19,
+      "estimatedReadTime": 1,
+      "description": "Domperidone contraindication in patients with phaeochromocytoma due to the risk of severe hypertension. Read on for advice for prescribers."
+    }
+  },
+  "content:1127b9e979a26e8e": {
+    "id": "content:1127b9e979a26e8e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-27-31-july-2026",
+    "title": "News: EMIS Global update: 27&#45;31 July 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-04",
+    "fetchedDate": "2026-08-04T13:48:46.399Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }

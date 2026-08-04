@@ -1876,5 +1876,21 @@
     "discovered": "2026-08-03T14:17:22.985Z",
     "publishedDate": "Fri, 31 Jul 2026 10:12:54 +0000",
     "source": "ncl"
+  },
+  "ncl:36d96b4dca6c9492": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mhra-drug-safety-update-domperidone-contraindication-in-patients-with-phaeochromocytoma",
+    "title": "News: MHRA Drug Safety Update: Domperidone contraindication in patients with phaeochromocytoma",
+    "description": "Domperidone contraindication in patients with phaeochromocytoma due to the risk of severe hypertension. Read on for advice for prescribers.",
+    "discovered": "2026-08-04T13:48:46.399Z",
+    "publishedDate": "Tue, 04 Aug 2026 13:37:05 +0000",
+    "source": "ncl"
+  },
+  "ncl:1127b9e979a26e8e": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-27-31-july-2026",
+    "title": "News: EMIS Global update: 27&#45;31 July 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-08-04T13:48:46.399Z",
+    "publishedDate": "Tue, 04 Aug 2026 09:10:22 +0000",
+    "source": "ncl"
   }
 }

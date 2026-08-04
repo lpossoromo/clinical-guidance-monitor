@@ -2473,5 +2473,27 @@
     "previousHash": null,
     "newHash": "e6a0b7f28fa380b8",
     "acknowledged": false
+  },
+  "change:1785851326399:36d96b4dca6c9492": {
+    "id": "change:1785851326399:36d96b4dca6c9492",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/mhra-drug-safety-update-domperidone-contraindication-in-patients-with-phaeochromocytoma",
+    "title": "News: MHRA Drug Safety Update: Domperidone contraindication in patients with phaeochromocytoma",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-04T13:48:46.399Z",
+    "previousHash": null,
+    "newHash": "dd2195e06b7e86e9",
+    "acknowledged": false
+  },
+  "change:1785851326399:1127b9e979a26e8e": {
+    "id": "change:1785851326399:1127b9e979a26e8e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-27-31-july-2026",
+    "title": "News: EMIS Global update: 27&#45;31 July 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-04T13:48:46.399Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
   }
 }
