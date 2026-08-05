@@ -1908,5 +1908,13 @@
     "discovered": "2026-08-05T13:44:30.649Z",
     "publishedDate": "Mon, 03 Aug 2026 09:29:41 +0000",
     "source": "ncl"
+  },
+  "ncl:21e80f57ce29e935": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/explore-the-latest-nhs-app-core-capabilities-guidance-pack",
+    "title": "News: Explore the latest NHS App core capabilities guidance pack",
+    "description": "Developed to support GP practices, the guidance provides practical information on enabling the six core capabilities within the NHS App.",
+    "discovered": "2026-08-05T19:15:32.268Z",
+    "publishedDate": "Wed, 05 Aug 2026 14:44:08 +0000",
+    "source": "ncl"
   }
 }

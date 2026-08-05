@@ -2517,5 +2517,16 @@
     "previousHash": null,
     "newHash": "a58e103f23998330",
     "acknowledged": false
+  },
+  "change:1785957332269:21e80f57ce29e935": {
+    "id": "change:1785957332269:21e80f57ce29e935",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/explore-the-latest-nhs-app-core-capabilities-guidance-pack",
+    "title": "News: Explore the latest NHS App core capabilities guidance pack",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-05T19:15:32.268Z",
+    "previousHash": null,
+    "newHash": "638f4340986d3c6a",
+    "acknowledged": false
   }
 }
