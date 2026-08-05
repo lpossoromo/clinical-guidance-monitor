@@ -3857,5 +3857,39 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global."
     }
+  },
+  "content:f5e9aa24a3c2d8a2": {
+    "id": "content:f5e9aa24a3c2d8a2",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wnl-icb-launches-attention-deficit-hyperactivity-and-autism-spectrum-information-page",
+    "title": "News: WNL ICB launches attention deficit hyperactivity and autism spectrum patient information page",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-05",
+    "fetchedDate": "2026-08-05T13:44:30.649Z",
+    "contentHash": "a80300ac97591670",
+    "content": "The dedicated attention deficit hyperactivity and autism spectrum disorders information page is designed to help people navigate the referral process. Signpost your patients to this support.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "The dedicated attention deficit hyperactivity and autism spectrum disorders information page is designed to help people navigate the referral process. Signpost your patients to this support."
+    }
+  },
+  "content:09a5d470547a2b30": {
+    "id": "content:09a5d470547a2b30",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/finchley-memorial-hospital-cdc-update-changes-to-lung-function-tests-referral-form",
+    "title": "News: Finchley Memorial Hospital CDC update: Changes to lung function tests referral form",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-03",
+    "fetchedDate": "2026-08-05T13:44:30.649Z",
+    "contentHash": "a58e103f23998330",
+    "content": "On Saturday 1 August, Finchley Memorial Hospital CDC updated the lung function service referral form to make referrals easier to complete and to reduce the number of incorrectly submitted referrals. See the service page for referral criteria.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "On Saturday 1 August, Finchley Memorial Hospital CDC updated the lung function service referral form to make referrals easier to complete and to reduce the number of incorrectly submitted referrals. S"
+    }
   }
 }

@@ -1892,5 +1892,21 @@
     "discovered": "2026-08-04T13:48:46.399Z",
     "publishedDate": "Tue, 04 Aug 2026 09:10:22 +0000",
     "source": "ncl"
+  },
+  "ncl:f5e9aa24a3c2d8a2": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/wnl-icb-launches-attention-deficit-hyperactivity-and-autism-spectrum-information-page",
+    "title": "News: WNL ICB launches attention deficit hyperactivity and autism spectrum patient information page",
+    "description": "The dedicated attention deficit hyperactivity and autism spectrum disorders information page is designed to help people navigate the referral process. Signpost your patients to this support.",
+    "discovered": "2026-08-05T13:44:30.649Z",
+    "publishedDate": "Wed, 05 Aug 2026 08:53:40 +0000",
+    "source": "ncl"
+  },
+  "ncl:09a5d470547a2b30": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/finchley-memorial-hospital-cdc-update-changes-to-lung-function-tests-referral-form",
+    "title": "News: Finchley Memorial Hospital CDC update: Changes to lung function tests referral form",
+    "description": "On Saturday 1 August, Finchley Memorial Hospital CDC updated the lung function service referral form to make referrals easier to complete and to reduce the number of incorrectly submitted referrals. See the service page for referral criteria.",
+    "discovered": "2026-08-05T13:44:30.649Z",
+    "publishedDate": "Mon, 03 Aug 2026 09:29:41 +0000",
+    "source": "ncl"
   }
 }
