@@ -3908,5 +3908,22 @@
       "estimatedReadTime": 1,
       "description": "Developed to support GP practices, the guidance provides practical information on enabling the six core capabilities within the NHS App."
     }
+  },
+  "content:88b3a5ace079e9fd": {
+    "id": "content:88b3a5ace079e9fd",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-app-toolkit-resources-to-promote-and-support-patient-engagement",
+    "title": "News: NHS App Toolkit: Resources to promote and support patient engagement",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-06",
+    "fetchedDate": "2026-08-06T13:42:28.797Z",
+    "contentHash": "2c549ea839a9dad3",
+    "content": "Access updated NHS App Toolkit resources, including posters, videos, and promotional packs, to enhance patient engagement and support.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 18,
+      "estimatedReadTime": 1,
+      "description": "Access updated NHS App Toolkit resources, including posters, videos, and promotional packs, to enhance patient engagement and support."
+    }
   }
 }
