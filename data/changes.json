@@ -2539,5 +2539,16 @@
     "previousHash": null,
     "newHash": "2c549ea839a9dad3",
     "acknowledged": false
+  },
+  "change:1786106460256:bdcee1d53bf31c7e": {
+    "id": "change:1786106460256:bdcee1d53bf31c7e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/support-veterans-through-op-courage",
+    "title": "News: Support veterans through Op COURAGE",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-07T12:41:00.256Z",
+    "previousHash": null,
+    "newHash": "873daa0d7e1187bf",
+    "acknowledged": false
   }
 }

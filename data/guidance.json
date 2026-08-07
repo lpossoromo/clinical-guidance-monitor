@@ -3925,5 +3925,22 @@
       "estimatedReadTime": 1,
       "description": "Access updated NHS App Toolkit resources, including posters, videos, and promotional packs, to enhance patient engagement and support."
     }
+  },
+  "content:bdcee1d53bf31c7e": {
+    "id": "content:bdcee1d53bf31c7e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/support-veterans-through-op-courage",
+    "title": "News: Support veterans through Op COURAGE",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-07",
+    "fetchedDate": "2026-08-07T12:41:00.256Z",
+    "contentHash": "873daa0d7e1187bf",
+    "content": "Op COURAGE offers dedicated mental health and wellbeing support for veterans in London, with comprehensive care and specialist guidance.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 19,
+      "estimatedReadTime": 1,
+      "description": "Op COURAGE offers dedicated mental health and wellbeing support for veterans in London, with comprehensive care and specialist guidance."
+    }
   }
 }
