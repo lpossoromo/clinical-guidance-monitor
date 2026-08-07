@@ -1932,5 +1932,13 @@
     "discovered": "2026-08-07T12:41:00.256Z",
     "publishedDate": "Fri, 07 Aug 2026 11:30:56 +0000",
     "source": "ncl"
+  },
+  "ncl:f8ea461602ea3cd9": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/nhs-cervical-screening-webinar-1",
+    "title": "Event: NHS Cervical Screening Webinar",
+    "description": "Join the NHSE webinar for an overview of HPV self-testing and what it means for colleagues delivering and supporting cervical screening services. Wednesday 9 September at 12pm.",
+    "discovered": "2026-08-07T18:40:32.963Z",
+    "publishedDate": "Fri, 07 Aug 2026 16:02:24 +0000",
+    "source": "ncl"
   }
 }

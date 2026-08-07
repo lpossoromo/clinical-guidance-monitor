@@ -3942,5 +3942,22 @@
       "estimatedReadTime": 1,
       "description": "Op COURAGE offers dedicated mental health and wellbeing support for veterans in London, with comprehensive care and specialist guidance."
     }
+  },
+  "content:f8ea461602ea3cd9": {
+    "id": "content:f8ea461602ea3cd9",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/nhs-cervical-screening-webinar-1",
+    "title": "Event: NHS Cervical Screening Webinar",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-07",
+    "fetchedDate": "2026-08-07T18:40:32.963Z",
+    "contentHash": "fc53c686e00c6c2a",
+    "content": "Join the NHSE webinar for an overview of HPV self-testing and what it means for colleagues delivering and supporting cervical screening services. Wednesday 9 September at 12pm.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 27,
+      "estimatedReadTime": 1,
+      "description": "Join the NHSE webinar for an overview of HPV self-testing and what it means for colleagues delivering and supporting cervical screening services. Wednesday 9 September at 12pm."
+    }
   }
 }
