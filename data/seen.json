@@ -1940,5 +1940,21 @@
     "discovered": "2026-08-07T18:40:32.963Z",
     "publishedDate": "Fri, 07 Aug 2026 16:02:24 +0000",
     "source": "ncl"
+  },
+  "ncl:d1969e3a705b8c63": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/op-courage-veterans-mental-health-wellbeing-service-nlft",
+    "title": "Service: Op Courage Veterans&apos; Mental Health &amp; Wellbeing Service: NLFT",
+    "description": "A specialist mental health and wellbeing support for veterans aged 18 and over living in London. GPs are encouraged to consider referrals for veterans who may benefit from psychological therapies, psychiatric care and practical support.",
+    "discovered": "2026-08-10T12:46:00.806Z",
+    "publishedDate": "Mon, 10 Aug 2026 11:28:54 +0000",
+    "source": "ncl"
+  },
+  "ncl:b3917149fd9449aa": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/extended-cervical-screening-intervals-for-hpv-self-sampling",
+    "title": "News: Extended cervical screening intervals for HPV self&#45;sampling",
+    "description": "For patients who have a negative result following a HPV self-sampling test, the cervical screening intervals have been extended from 3 to five years. Read more.",
+    "discovered": "2026-08-10T12:46:00.807Z",
+    "publishedDate": "Mon, 10 Aug 2026 10:43:27 +0000",
+    "source": "ncl"
   }
 }

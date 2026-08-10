@@ -3959,5 +3959,39 @@
       "estimatedReadTime": 1,
       "description": "Join the NHSE webinar for an overview of HPV self-testing and what it means for colleagues delivering and supporting cervical screening services. Wednesday 9 September at 12pm."
     }
+  },
+  "content:d1969e3a705b8c63": {
+    "id": "content:d1969e3a705b8c63",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/op-courage-veterans-mental-health-wellbeing-service-nlft",
+    "title": "Service: Op Courage Veterans&apos; Mental Health &amp; Wellbeing Service: NLFT",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-10",
+    "fetchedDate": "2026-08-10T12:46:00.806Z",
+    "contentHash": "9fe2259d59cb86a2",
+    "content": "A specialist mental health and wellbeing support for veterans aged 18 and over living in London. GPs are encouraged to consider referrals for veterans who may benefit from psychological therapies, psychiatric care and practical support.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 35,
+      "estimatedReadTime": 1,
+      "description": "A specialist mental health and wellbeing support for veterans aged 18 and over living in London. GPs are encouraged to consider referrals for veterans who may benefit from psychological therapies, psy"
+    }
+  },
+  "content:b3917149fd9449aa": {
+    "id": "content:b3917149fd9449aa",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/extended-cervical-screening-intervals-for-hpv-self-sampling",
+    "title": "News: Extended cervical screening intervals for HPV self&#45;sampling",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-10",
+    "fetchedDate": "2026-08-10T12:46:00.807Z",
+    "contentHash": "0c413a0731400232",
+    "content": "For patients who have a negative result following a HPV self-sampling test, the cervical screening intervals have been extended from 3 to five years. Read more.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "For patients who have a negative result following a HPV self-sampling test, the cervical screening intervals have been extended from 3 to five years. Read more."
+    }
   }
 }
