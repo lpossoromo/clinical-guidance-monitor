@@ -3993,5 +3993,22 @@
       "estimatedReadTime": 1,
       "description": "For patients who have a negative result following a HPV self-sampling test, the cervical screening intervals have been extended from 3 to five years. Read more."
     }
+  },
+  "content:c3a9b6d56c9e466d": {
+    "id": "content:c3a9b6d56c9e466d",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/reminder-cardiology-task-and-finish-group-launched-improved-referral-form",
+    "title": "News: Reminder: Cardiology task and finish group launched improved referral form",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-10",
+    "fetchedDate": "2026-08-10T18:42:49.818Z",
+    "contentHash": "42d61b00ae4f6665",
+    "content": "The Rapid Access Chest Pain Clinic referral was retired and replaced by the NCL-wide Suspected Stable Angina Form &ndash; NCL, avaiable in the NCL Global Documents Cardiology folder. Quick to complete and aligned with 2024 ESC guidelines.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "The Rapid Access Chest Pain Clinic referral was retired and replaced by the NCL-wide Suspected Stable Angina Form &ndash; NCL, avaiable in the NCL Global Documents Cardiology folder. Quick to complete"
+    }
   }
 }
