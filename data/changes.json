@@ -2594,5 +2594,27 @@
     "previousHash": null,
     "newHash": "42d61b00ae4f6665",
     "acknowledged": false
+  },
+  "change:1786452143887:5ec615c4def49841": {
+    "id": "change:1786452143887:5ec615c4def49841",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-3-7-august-2026",
+    "title": "News: EMIS Global update: 3&#45;7 August 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-11T12:42:23.887Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
+  },
+  "change:1786452143888:b0c1c6aa09ea110f": {
+    "id": "change:1786452143888:b0c1c6aa09ea110f",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-app-toolkit-updated-to-promote-and-support-patient-engagement",
+    "title": "News: NHS App: Toolkit updated to promote and support patient engagement",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-11T12:42:23.888Z",
+    "previousHash": null,
+    "newHash": "2c549ea839a9dad3",
+    "acknowledged": false
   }
 }

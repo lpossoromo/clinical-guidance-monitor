@@ -1964,5 +1964,21 @@
     "discovered": "2026-08-10T18:42:49.818Z",
     "publishedDate": "Mon, 10 Aug 2026 15:45:09 +0000",
     "source": "ncl"
+  },
+  "ncl:5ec615c4def49841": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-3-7-august-2026",
+    "title": "News: EMIS Global update: 3&#45;7 August 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-08-11T12:42:23.886Z",
+    "publishedDate": "Tue, 11 Aug 2026 10:02:18 +0000",
+    "source": "ncl"
+  },
+  "ncl:b0c1c6aa09ea110f": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-app-toolkit-updated-to-promote-and-support-patient-engagement",
+    "title": "News: NHS App: Toolkit updated to promote and support patient engagement",
+    "description": "Access updated NHS App Toolkit resources, including posters, videos, and promotional packs, to enhance patient engagement and support.",
+    "discovered": "2026-08-11T12:42:23.888Z",
+    "publishedDate": "Thu, 06 Aug 2026 10:08:55 +0000",
+    "source": "ncl"
   }
 }
