@@ -1980,5 +1980,21 @@
     "discovered": "2026-08-11T12:42:23.888Z",
     "publishedDate": "Thu, 06 Aug 2026 10:08:55 +0000",
     "source": "ncl"
+  },
+  "ncl:e3b346f71083a631": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/expression-of-interest-nursing-associate-conversion-to-registered-nurse-with-middlesex-university-london",
+    "title": "News: Expression of interest: Nursing Associate conversion to Registered Nurse with Middlesex University London",
+    "description": "Reminder: An NHS-England-funded opportunity for nursing associates to become registered nurses via the registered nursing degree apprenticeship route. Submit an expression of interest by close of play on Friday 21 August.",
+    "discovered": "2026-08-12T12:45:41.565Z",
+    "publishedDate": "Wed, 12 Aug 2026 09:17:49 +0000",
+    "source": "ncl"
+  },
+  "ncl:a7919211b1bfb618": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/chronic-pain-management-in-primary-care-practical-updates-for-gps",
+    "title": "Event: Chronic Pain Management in Primary Care: Practical Updates for GPs",
+    "description": "Learn about evidence-based practical strategies to support patients with chronic pain at this UCLH Private Healthcare webinar with Dr Alan Fayaz, consultant in pain management. At 6pm on Thursday 17 September.",
+    "discovered": "2026-08-12T12:45:41.565Z",
+    "publishedDate": "Wed, 12 Aug 2026 09:05:47 +0000",
+    "source": "ncl"
   }
 }

@@ -4044,5 +4044,39 @@
       "estimatedReadTime": 1,
       "description": "Access updated NHS App Toolkit resources, including posters, videos, and promotional packs, to enhance patient engagement and support."
     }
+  },
+  "content:e3b346f71083a631": {
+    "id": "content:e3b346f71083a631",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/expression-of-interest-nursing-associate-conversion-to-registered-nurse-with-middlesex-university-london",
+    "title": "News: Expression of interest: Nursing Associate conversion to Registered Nurse with Middlesex University London",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-12",
+    "fetchedDate": "2026-08-12T12:45:41.565Z",
+    "contentHash": "00f8e2bba186c2c8",
+    "content": "Reminder: An NHS-England-funded opportunity for nursing associates to become registered nurses via the registered nursing degree apprenticeship route. Submit an expression of interest by close of play on Friday 21 August.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "Reminder: An NHS-England-funded opportunity for nursing associates to become registered nurses via the registered nursing degree apprenticeship route. Submit an expression of interest by close of play"
+    }
+  },
+  "content:a7919211b1bfb618": {
+    "id": "content:a7919211b1bfb618",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/chronic-pain-management-in-primary-care-practical-updates-for-gps",
+    "title": "Event: Chronic Pain Management in Primary Care: Practical Updates for GPs",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-12",
+    "fetchedDate": "2026-08-12T12:45:41.565Z",
+    "contentHash": "6efc7106995fa2d6",
+    "content": "Learn about evidence-based practical strategies to support patients with chronic pain at this UCLH Private Healthcare webinar with Dr Alan Fayaz, consultant in pain management. At 6pm on Thursday 17 September.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "Learn about evidence-based practical strategies to support patients with chronic pain at this UCLH Private Healthcare webinar with Dr Alan Fayaz, consultant in pain management. At 6pm on Thursday 17 S"
+    }
   }
 }

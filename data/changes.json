@@ -2616,5 +2616,27 @@
     "previousHash": null,
     "newHash": "2c549ea839a9dad3",
     "acknowledged": false
+  },
+  "change:1786538741565:e3b346f71083a631": {
+    "id": "change:1786538741565:e3b346f71083a631",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/expression-of-interest-nursing-associate-conversion-to-registered-nurse-with-middlesex-university-london",
+    "title": "News: Expression of interest: Nursing Associate conversion to Registered Nurse with Middlesex University London",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-12T12:45:41.565Z",
+    "previousHash": null,
+    "newHash": "00f8e2bba186c2c8",
+    "acknowledged": false
+  },
+  "change:1786538741565:a7919211b1bfb618": {
+    "id": "change:1786538741565:a7919211b1bfb618",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/chronic-pain-management-in-primary-care-practical-updates-for-gps",
+    "title": "Event: Chronic Pain Management in Primary Care: Practical Updates for GPs",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-12T12:45:41.565Z",
+    "previousHash": null,
+    "newHash": "6efc7106995fa2d6",
+    "acknowledged": false
   }
 }
