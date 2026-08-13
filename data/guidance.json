@@ -4078,5 +4078,39 @@
       "estimatedReadTime": 1,
       "description": "Learn about evidence-based practical strategies to support patients with chronic pain at this UCLH Private Healthcare webinar with Dr Alan Fayaz, consultant in pain management. At 6pm on Thursday 17 S"
     }
+  },
+  "content:af691a7facc5501d": {
+    "id": "content:af691a7facc5501d",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/cancer-care-at-the-royal-free-london-today-tomorrow-and-beyond",
+    "title": "Event: Cancer Care at the Royal Free London: Today, Tomorrow and Beyond",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-13",
+    "fetchedDate": "2026-08-13T12:47:28.482Z",
+    "contentHash": "00c96ead4f998a15",
+    "content": "Join the expert panel to learn about the RFL cancer strategy, it&#039;s threes core principles and the vision for future cancer care.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 22,
+      "estimatedReadTime": 1,
+      "description": "Join the expert panel to learn about the RFL cancer strategy, it&#039;s threes core principles and the vision for future cancer care."
+    }
+  },
+  "content:e7f529e39792df8e": {
+    "id": "content:e7f529e39792df8e",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-app-ambassadors-practice-teams-driving-digital-adoption",
+    "title": "News: NHS App Ambassadors: Practice teams driving digital adoption",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-13",
+    "fetchedDate": "2026-08-13T12:47:28.483Z",
+    "contentHash": "35a4de7aaef2202f",
+    "content": "Read how Islington GP Federation&#039;s NHS App Ambassadors boost digital adoption, increasing patient engagement across the borough.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 17,
+      "estimatedReadTime": 1,
+      "description": "Read how Islington GP Federation&#039;s NHS App Ambassadors boost digital adoption, increasing patient engagement across the borough."
+    }
   }
 }

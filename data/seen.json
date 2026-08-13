@@ -1996,5 +1996,21 @@
     "discovered": "2026-08-12T12:45:41.565Z",
     "publishedDate": "Wed, 12 Aug 2026 09:05:47 +0000",
     "source": "ncl"
+  },
+  "ncl:af691a7facc5501d": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/cancer-care-at-the-royal-free-london-today-tomorrow-and-beyond",
+    "title": "Event: Cancer Care at the Royal Free London: Today, Tomorrow and Beyond",
+    "description": "Join the expert panel to learn about the RFL cancer strategy, it&#039;s threes core principles and the vision for future cancer care.",
+    "discovered": "2026-08-13T12:47:28.482Z",
+    "publishedDate": "Thu, 13 Aug 2026 11:22:04 +0000",
+    "source": "ncl"
+  },
+  "ncl:e7f529e39792df8e": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/nhs-app-ambassadors-practice-teams-driving-digital-adoption",
+    "title": "News: NHS App Ambassadors: Practice teams driving digital adoption",
+    "description": "Read how Islington GP Federation&#039;s NHS App Ambassadors boost digital adoption, increasing patient engagement across the borough.",
+    "discovered": "2026-08-13T12:47:28.483Z",
+    "publishedDate": "Thu, 13 Aug 2026 11:06:56 +0000",
+    "source": "ncl"
   }
 }
