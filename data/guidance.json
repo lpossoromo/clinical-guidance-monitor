@@ -4112,5 +4112,22 @@
       "estimatedReadTime": 1,
       "description": "Read how Islington GP Federation&#039;s NHS App Ambassadors boost digital adoption, increasing patient engagement across the borough."
     }
+  },
+  "content:65f836075843c0e5": {
+    "id": "content:65f836075843c0e5",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/royal-college-of-general-practitioners-gambling-harms-webinar-supporting-patients-experiencing-gambling-harms-in-london",
+    "title": "Event: Royal College of General Practitioners Gambling Harms Webinar: Supporting patients experiencing gambling harms in London",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-14",
+    "fetchedDate": "2026-08-14T18:41:12.352Z",
+    "contentHash": "408809ba28c3e9ce",
+    "content": "Join this webinar on identifying gambling harms in primary care. The session covers NICE guidance and local support pathways for patients in London. 12.30pm, Thursday 15 October 2026.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 28,
+      "estimatedReadTime": 1,
+      "description": "Join this webinar on identifying gambling harms in primary care. The session covers NICE guidance and local support pathways for patients in London. 12.30pm, Thursday 15 October 2026."
+    }
   }
 }
