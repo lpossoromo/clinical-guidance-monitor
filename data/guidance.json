@@ -4129,5 +4129,22 @@
       "estimatedReadTime": 1,
       "description": "Join this webinar on identifying gambling harms in primary care. The session covers NICE guidance and local support pathways for patients in London. 12.30pm, Thursday 15 October 2026."
     }
+  },
+  "content:45f5d45832672bb1": {
+    "id": "content:45f5d45832672bb1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-10-14-august-2026",
+    "title": "News: EMIS Global update: 10&#45;14 August 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-17",
+    "fetchedDate": "2026-08-17T12:23:57.825Z",
+    "contentHash": "648a902f3c028d45",
+    "content": "See what&#039;s new in EMIS Global",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global"
+    }
   }
 }
