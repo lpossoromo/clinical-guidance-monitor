@@ -2682,5 +2682,16 @@
     "previousHash": null,
     "newHash": "648a902f3c028d45",
     "acknowledged": false
+  },
+  "change:1787055932299:20d85af6395ef676": {
+    "id": "change:1787055932299:20d85af6395ef676",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-interface-prescribing-guidance",
+    "title": "News: NCL Interface Prescribing Guidance",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-18T12:25:32.299Z",
+    "previousHash": null,
+    "newHash": "8929e2e2a6829a63",
+    "acknowledged": false
   }
 }

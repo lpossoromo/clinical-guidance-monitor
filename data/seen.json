@@ -2028,5 +2028,13 @@
     "discovered": "2026-08-17T12:23:57.825Z",
     "publishedDate": "Mon, 17 Aug 2026 10:51:31 +0000",
     "source": "ncl"
+  },
+  "ncl:20d85af6395ef676": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ncl-interface-prescribing-guidance",
+    "title": "News: NCL Interface Prescribing Guidance",
+    "description": "NCL Interface Prescribing Guidance",
+    "discovered": "2026-08-18T12:25:32.299Z",
+    "publishedDate": "Tue, 18 Aug 2026 08:43:46 +0000",
+    "source": "ncl"
   }
 }
