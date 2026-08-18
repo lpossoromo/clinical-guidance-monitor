@@ -4163,5 +4163,73 @@
       "estimatedReadTime": 1,
       "description": "NCL Interface Prescribing Guidance"
     }
+  },
+  "content:6afad49cf2607b9b": {
+    "id": "content:6afad49cf2607b9b",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-changes-to-urgent-suspected-cancer-for-urology-e-referral-services-at-north-middlesex-university-hospital",
+    "title": "News: RFL update: Changes to urgent suspected cancer for urology e&#45;Referral Services at North Middlesex University Hospital",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-18",
+    "fetchedDate": "2026-08-18T18:23:11.574Z",
+    "contentHash": "b032e8d6390e2392",
+    "content": "An update on the referral processes for urgent suspected cancer urology services.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 12,
+      "estimatedReadTime": 1,
+      "description": "An update on the referral processes for urgent suspected cancer urology services."
+    }
+  },
+  "content:cabe3fad59ab6ec3": {
+    "id": "content:cabe3fad59ab6ec3",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-referral-assessment-service-introduced-for-upper-gi-urgent-suspected-cancer-service",
+    "title": "News: RFL update: Referral assessment service introduced for upper GI urgent suspected cancer service",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-18",
+    "fetchedDate": "2026-08-18T18:23:11.574Z",
+    "contentHash": "1a8c6f7e0b283309",
+    "content": "An update on the referral processes for urgent suspected cancer service at North Middlesex University Hospital.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 16,
+      "estimatedReadTime": 1,
+      "description": "An update on the referral processes for urgent suspected cancer service at North Middlesex University Hospital."
+    }
+  },
+  "content:ce570652c57b7d51": {
+    "id": "content:ce570652c57b7d51",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ai-scribe-demo-webinars-choose-the-right-tool-for-your-practice",
+    "title": "News: AI scribe demo webinars: choose the right tool for your practice",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-18",
+    "fetchedDate": "2026-08-18T18:23:11.574Z",
+    "contentHash": "a2122939e882456c",
+    "content": "NCL ICB practices will soon need to decide whether, and which, AI scribe to adopt. The NCL Change Management Programme is running three 45-minute demo sessions each covering one of three main AI scribes, including a live supplier demo and first-hand insights from a super user.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 46,
+      "estimatedReadTime": 1,
+      "description": "NCL ICB practices will soon need to decide whether, and which, AI scribe to adopt. The NCL Change Management Programme is running three 45-minute demo sessions each covering one of three main AI scrib"
+    }
+  },
+  "content:77ad8095d76a2242": {
+    "id": "content:77ad8095d76a2242",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-ncl-interface-prescribing-guidance-2026-27",
+    "title": "News: Update: NCL Interface Prescribing Guidance 2026&#45;27",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-18",
+    "fetchedDate": "2026-08-18T18:23:11.575Z",
+    "contentHash": "54104434702f459a",
+    "content": "Updated guidance to support care across the primary and secondary care interface in north central London.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 16,
+      "estimatedReadTime": 1,
+      "description": "Updated guidance to support care across the primary and secondary care interface in north central London."
+    }
   }
 }

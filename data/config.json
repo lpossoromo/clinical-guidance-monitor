@@ -241,14 +241,14 @@
     }
   },
   "lastRunStats": {
-    "rssPoller": "2026-08-18T12:25:32.511Z",
+    "rssPoller": "2026-08-18T18:23:11.772Z",
     "rssPollerResults": {
       "nice": 0,
-      "ncl": 1,
+      "ncl": 4,
       "nhs": 0,
-      "total": 1
+      "total": 4
     },
     "htmlPoller": "2026-08-18T12:45:00.571Z"
   },
-  "unreadChanges": 261
+  "unreadChanges": 265
 }

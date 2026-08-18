@@ -2036,5 +2036,37 @@
     "discovered": "2026-08-18T12:25:32.299Z",
     "publishedDate": "Tue, 18 Aug 2026 08:43:46 +0000",
     "source": "ncl"
+  },
+  "ncl:6afad49cf2607b9b": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-changes-to-urgent-suspected-cancer-for-urology-e-referral-services-at-north-middlesex-university-hospital",
+    "title": "News: RFL update: Changes to urgent suspected cancer for urology e&#45;Referral Services at North Middlesex University Hospital",
+    "description": "An update on the referral processes for urgent suspected cancer urology services.",
+    "discovered": "2026-08-18T18:23:11.574Z",
+    "publishedDate": "Tue, 18 Aug 2026 16:45:37 +0000",
+    "source": "ncl"
+  },
+  "ncl:cabe3fad59ab6ec3": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-referral-assessment-service-introduced-for-upper-gi-urgent-suspected-cancer-service",
+    "title": "News: RFL update: Referral assessment service introduced for upper GI urgent suspected cancer service",
+    "description": "An update on the referral processes for urgent suspected cancer service at North Middlesex University Hospital.",
+    "discovered": "2026-08-18T18:23:11.574Z",
+    "publishedDate": "Tue, 18 Aug 2026 16:34:11 +0000",
+    "source": "ncl"
+  },
+  "ncl:ce570652c57b7d51": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/ai-scribe-demo-webinars-choose-the-right-tool-for-your-practice",
+    "title": "News: AI scribe demo webinars: choose the right tool for your practice",
+    "description": "NCL ICB practices will soon need to decide whether, and which, AI scribe to adopt. The NCL Change Management Programme is running three 45-minute demo sessions each covering one of three main AI scribes, including a live supplier demo and first-hand insights from a super user.",
+    "discovered": "2026-08-18T18:23:11.574Z",
+    "publishedDate": "Tue, 18 Aug 2026 13:26:50 +0000",
+    "source": "ncl"
+  },
+  "ncl:77ad8095d76a2242": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/update-ncl-interface-prescribing-guidance-2026-27",
+    "title": "News: Update: NCL Interface Prescribing Guidance 2026&#45;27",
+    "description": "Updated guidance to support care across the primary and secondary care interface in north central London.",
+    "discovered": "2026-08-18T18:23:11.575Z",
+    "publishedDate": "Tue, 18 Aug 2026 13:21:41 +0000",
+    "source": "ncl"
   }
 }
