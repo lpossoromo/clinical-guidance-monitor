@@ -2068,5 +2068,21 @@
     "discovered": "2026-08-18T18:23:11.575Z",
     "publishedDate": "Tue, 18 Aug 2026 13:21:41 +0000",
     "source": "ncl"
+  },
+  "ncl:416e96b51aa8434c": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-changes-to-urgent-suspected-cancer-for-urology-e-rs-referrals-at-nmuh",
+    "title": "News: RFL update: Changes to urgent suspected cancer for urology referrals at NMUH",
+    "description": "An update on the referral processes for urgent suspected cancer urology at North Middlesex University Hospital (NMUH).",
+    "discovered": "2026-08-19T12:25:40.539Z",
+    "publishedDate": "Tue, 18 Aug 2026 16:45:37 +0000",
+    "source": "ncl"
+  },
+  "ncl:15066c6dce0d8f7c": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-nmuh-introduces-referral-assessment-service-for-upper-gi-urgent-suspected-cancer",
+    "title": "News: RFL update: NMUH introduces referral assessment service for upper GI urgent suspected cancer",
+    "description": "All referrals will be clinically triaged in the first instance and patients should expect to be contacted within three working days to arrange their first appointment.",
+    "discovered": "2026-08-19T12:25:40.540Z",
+    "publishedDate": "Wed, 19 Aug 2026 10:00:52 +0000",
+    "source": "ncl"
   }
 }

@@ -4231,5 +4231,39 @@
       "estimatedReadTime": 1,
       "description": "Updated guidance to support care across the primary and secondary care interface in north central London."
     }
+  },
+  "content:416e96b51aa8434c": {
+    "id": "content:416e96b51aa8434c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-changes-to-urgent-suspected-cancer-for-urology-e-rs-referrals-at-nmuh",
+    "title": "News: RFL update: Changes to urgent suspected cancer for urology referrals at NMUH",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-18",
+    "fetchedDate": "2026-08-19T12:25:40.539Z",
+    "contentHash": "50f88fa4be8469fa",
+    "content": "An update on the referral processes for urgent suspected cancer urology at North Middlesex University Hospital (NMUH).",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 17,
+      "estimatedReadTime": 1,
+      "description": "An update on the referral processes for urgent suspected cancer urology at North Middlesex University Hospital (NMUH)."
+    }
+  },
+  "content:15066c6dce0d8f7c": {
+    "id": "content:15066c6dce0d8f7c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-nmuh-introduces-referral-assessment-service-for-upper-gi-urgent-suspected-cancer",
+    "title": "News: RFL update: NMUH introduces referral assessment service for upper GI urgent suspected cancer",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-19",
+    "fetchedDate": "2026-08-19T12:25:40.540Z",
+    "contentHash": "3a2e19d979513746",
+    "content": "All referrals will be clinically triaged in the first instance and patients should expect to be contacted within three working days to arrange their first appointment.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "All referrals will be clinically triaged in the first instance and patients should expect to be contacted within three working days to arrange their first appointment."
+    }
   }
 }

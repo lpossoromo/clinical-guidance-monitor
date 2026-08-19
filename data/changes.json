@@ -2737,5 +2737,27 @@
     "previousHash": null,
     "newHash": "54104434702f459a",
     "acknowledged": false
+  },
+  "change:1787142340539:416e96b51aa8434c": {
+    "id": "change:1787142340539:416e96b51aa8434c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-changes-to-urgent-suspected-cancer-for-urology-e-rs-referrals-at-nmuh",
+    "title": "News: RFL update: Changes to urgent suspected cancer for urology referrals at NMUH",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-19T12:25:40.539Z",
+    "previousHash": null,
+    "newHash": "50f88fa4be8469fa",
+    "acknowledged": false
+  },
+  "change:1787142340540:15066c6dce0d8f7c": {
+    "id": "change:1787142340540:15066c6dce0d8f7c",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/rfl-update-nmuh-introduces-referral-assessment-service-for-upper-gi-urgent-suspected-cancer",
+    "title": "News: RFL update: NMUH introduces referral assessment service for upper GI urgent suspected cancer",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-19T12:25:40.540Z",
+    "previousHash": null,
+    "newHash": "3a2e19d979513746",
+    "acknowledged": false
   }
 }
