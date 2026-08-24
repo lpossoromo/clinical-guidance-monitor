@@ -2781,5 +2781,16 @@
     "previousHash": null,
     "newHash": "6761ec5993641ce1",
     "acknowledged": false
+  },
+  "change:1787595971225:b181dc4070c23c76": {
+    "id": "change:1787595971225:b181dc4070c23c76",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/emis-global-update-17-21-august",
+    "title": "News: EMIS Global update: 17&#45;21 August",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-24T18:26:11.225Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
   }
 }
