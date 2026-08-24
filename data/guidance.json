@@ -4265,5 +4265,39 @@
       "estimatedReadTime": 1,
       "description": "All referrals will be clinically triaged in the first instance and patients should expect to be contacted within three working days to arrange their first appointment."
     }
+  },
+  "content:6369440eb2b49ff0": {
+    "id": "content:6369440eb2b49ff0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/modern-management-of-heart-failure-in-primary-care",
+    "title": "Event: Modern Management of Heart Failure in Primary Care",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-24",
+    "fetchedDate": "2026-08-24T12:28:31.269Z",
+    "contentHash": "d55ce4b0c919e13d",
+    "content": "Part of the heart failure webinar series for primary care staff. Hear about the updated guidance, evidence, key aspects of establishing a diagnosis and interpreting ECG&#039;s.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "Part of the heart failure webinar series for primary care staff. Hear about the updated guidance, evidence, key aspects of establishing a diagnosis and interpreting ECG&#039;s."
+    }
+  },
+  "content:f0995a3fe5e6dfb1": {
+    "id": "content:f0995a3fe5e6dfb1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/black-history-month-celebration-event",
+    "title": "Event: Black History Month Celebration Event",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-24",
+    "fetchedDate": "2026-08-24T12:28:31.269Z",
+    "contentHash": "6761ec5993641ce1",
+    "content": "Hear and celebrate the achievements, resilience and contributions of Black communities as well as working towards provision of equitable healthcare for patients, staff and the community.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "Hear and celebrate the achievements, resilience and contributions of Black communities as well as working towards provision of equitable healthcare for patients, staff and the community."
+    }
   }
 }

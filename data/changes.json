@@ -2759,5 +2759,27 @@
     "previousHash": null,
     "newHash": "3a2e19d979513746",
     "acknowledged": false
+  },
+  "change:1787574511269:6369440eb2b49ff0": {
+    "id": "change:1787574511269:6369440eb2b49ff0",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/modern-management-of-heart-failure-in-primary-care",
+    "title": "Event: Modern Management of Heart Failure in Primary Care",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-24T12:28:31.269Z",
+    "previousHash": null,
+    "newHash": "d55ce4b0c919e13d",
+    "acknowledged": false
+  },
+  "change:1787574511269:f0995a3fe5e6dfb1": {
+    "id": "change:1787574511269:f0995a3fe5e6dfb1",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/black-history-month-celebration-event",
+    "title": "Event: Black History Month Celebration Event",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-24T12:28:31.269Z",
+    "previousHash": null,
+    "newHash": "6761ec5993641ce1",
+    "acknowledged": false
   }
 }

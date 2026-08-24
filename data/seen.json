@@ -2084,5 +2084,21 @@
     "discovered": "2026-08-19T12:25:40.540Z",
     "publishedDate": "Wed, 19 Aug 2026 10:00:52 +0000",
     "source": "ncl"
+  },
+  "ncl:6369440eb2b49ff0": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/modern-management-of-heart-failure-in-primary-care",
+    "title": "Event: Modern Management of Heart Failure in Primary Care",
+    "description": "Part of the heart failure webinar series for primary care staff. Hear about the updated guidance, evidence, key aspects of establishing a diagnosis and interpreting ECG&#039;s.",
+    "discovered": "2026-08-24T12:28:31.268Z",
+    "publishedDate": "Mon, 24 Aug 2026 11:53:55 +0000",
+    "source": "ncl"
+  },
+  "ncl:f0995a3fe5e6dfb1": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/events/black-history-month-celebration-event",
+    "title": "Event: Black History Month Celebration Event",
+    "description": "Hear and celebrate the achievements, resilience and contributions of Black communities as well as working towards provision of equitable healthcare for patients, staff and the community.",
+    "discovered": "2026-08-24T12:28:31.269Z",
+    "publishedDate": "Mon, 24 Aug 2026 11:14:05 +0000",
+    "source": "ncl"
   }
 }
