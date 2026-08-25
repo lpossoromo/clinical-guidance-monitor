@@ -2792,5 +2792,16 @@
     "previousHash": null,
     "newHash": "830057a78b6591d9",
     "acknowledged": false
+  },
+  "change:1787618564712:3b3e8b10375ae7a1": {
+    "id": "change:1787618564712:3b3e8b10375ae7a1",
+    "url": "https://www.england.nhs.uk/2026/08/nhs-rolls-out-discreet-home-testing-kits-against-cervical-cancer-for-millions-of-women/",
+    "title": "NHS rolls out discreet home-testing kits against cervical cancer for millions of women",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-25T00:42:44.712Z",
+    "previousHash": null,
+    "newHash": "f7f524807686b3a0",
+    "acknowledged": false
   }
 }
