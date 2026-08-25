@@ -2803,5 +2803,16 @@
     "previousHash": null,
     "newHash": "f7f524807686b3a0",
     "acknowledged": false
+  },
+  "change:1787682293236:262a9f18edc5e356": {
+    "id": "change:1787682293236:262a9f18edc5e356",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/gp-website-prepares-to-welcome-users-from-former-north-west-london-boroughs",
+    "title": "News: GP Website prepares to welcome users from former North West London boroughs",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-25T18:24:53.236Z",
+    "previousHash": null,
+    "newHash": "b01054f6c7e3caf4",
+    "acknowledged": false
   }
 }

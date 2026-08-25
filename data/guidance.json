@@ -4333,5 +4333,22 @@
       "estimatedReadTime": 6,
       "description": "Nearly 4 million women will be offered HPV self-testing kits if they have not attended cervical screening appointments following invitations from the NHS in England. The NHS is starting to roll out the new self-testing kits from today to encourage more women to complete their potentially lifesaving screening to detect human papillomavirus (HPV), which can [&#8230;]"
     }
+  },
+  "content:262a9f18edc5e356": {
+    "id": "content:262a9f18edc5e356",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/news/gp-website-prepares-to-welcome-users-from-former-north-west-london-boroughs",
+    "title": "News: GP Website prepares to welcome users from former North West London boroughs",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-25",
+    "fetchedDate": "2026-08-25T18:24:53.236Z",
+    "contentHash": "b01054f6c7e3caf4",
+    "content": "Website users in former North Central London ICB boroughs will continue to see content relevant to their location.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 18,
+      "estimatedReadTime": 1,
+      "description": "Website users in former North Central London ICB boroughs will continue to see content relevant to their location."
+    }
   }
 }
