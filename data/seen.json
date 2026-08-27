@@ -2124,5 +2124,13 @@
     "discovered": "2026-08-25T18:24:53.236Z",
     "publishedDate": "Tue, 25 Aug 2026 15:48:05 +0000",
     "source": "ncl"
+  },
+  "ncl:55f7642c221a3c54": {
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/neurological-and-stroke-service-cnwl",
+    "title": "Service: Neurological and Stroke Service: CNWL",
+    "description": "Refer to NeuroActive,&nbsp;a free, NHS programme led by physiotherapists, for adults with a neurological diagnosis.",
+    "discovered": "2026-08-27T17:07:46.500Z",
+    "publishedDate": "Thu, 27 Aug 2026 11:36:00 +0000",
+    "source": "ncl"
   }
 }

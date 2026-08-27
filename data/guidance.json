@@ -4350,5 +4350,22 @@
       "estimatedReadTime": 1,
       "description": "Website users in former North Central London ICB boroughs will continue to see content relevant to their location."
     }
+  },
+  "content:55f7642c221a3c54": {
+    "id": "content:55f7642c221a3c54",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/neurological-and-stroke-service-cnwl",
+    "title": "Service: Neurological and Stroke Service: CNWL",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-08-27",
+    "fetchedDate": "2026-08-27T17:07:46.501Z",
+    "contentHash": "476c4dcd2f10cbd4",
+    "content": "Refer to NeuroActive,&nbsp;a free, NHS programme led by physiotherapists, for adults with a neurological diagnosis.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 15,
+      "estimatedReadTime": 1,
+      "description": "Refer to NeuroActive,&nbsp;a free, NHS programme led by physiotherapists, for adults with a neurological diagnosis."
+    }
   }
 }

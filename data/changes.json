@@ -2814,5 +2814,16 @@
     "previousHash": null,
     "newHash": "b01054f6c7e3caf4",
     "acknowledged": false
+  },
+  "change:1787850466501:55f7642c221a3c54": {
+    "id": "change:1787850466501:55f7642c221a3c54",
+    "url": "https://gps.northcentrallondon.icb.nhs.uk/services/neurological-and-stroke-service-cnwl",
+    "title": "Service: Neurological and Stroke Service: CNWL",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-27T17:07:46.501Z",
+    "previousHash": null,
+    "newHash": "476c4dcd2f10cbd4",
+    "acknowledged": false
   }
 }
