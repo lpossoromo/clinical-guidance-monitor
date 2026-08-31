@@ -2825,5 +2825,49 @@
     "previousHash": null,
     "newHash": "476c4dcd2f10cbd4",
     "acknowledged": false
+  },
+  "change:1788178339236:b0c39c44c0c7dfa8": {
+    "id": "change:1788178339236:b0c39c44c0c7dfa8",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/neurological-and-stroke-service-cnwl",
+    "title": "Service: Neurological and Stroke Service: CNWL",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-31T12:12:19.235Z",
+    "previousHash": null,
+    "newHash": "476c4dcd2f10cbd4",
+    "acknowledged": false
+  },
+  "change:1788178339237:1b14c760fe3a8880": {
+    "id": "change:1788178339237:1b14c760fe3a8880",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/gp-website-prepares-to-welcome-users-from-former-north-west-london-boroughs",
+    "title": "News: GP Website prepares to welcome users from former North West London boroughs",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-31T12:12:19.237Z",
+    "previousHash": null,
+    "newHash": "fc196d5f3352bb1d",
+    "acknowledged": false
+  },
+  "change:1788178339237:1f052ed14508cb12": {
+    "id": "change:1788178339237:1f052ed14508cb12",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-17-21-august",
+    "title": "News: EMIS Global update: 17&#45;21 August",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-31T12:12:19.237Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
+  },
+  "change:1788178339794:fedb1c0b2f9b316a": {
+    "id": "change:1788178339794:fedb1c0b2f9b316a",
+    "url": "https://www.england.nhs.uk/2026/08/high-street-pharmacies-to-launch-seven-minute-cholesterol-checks/",
+    "title": "High-street pharmacies to launch seven-minute cholesterol checks",
+    "source": "nhs",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-08-31T12:12:19.794Z",
+    "previousHash": null,
+    "newHash": "a5094cf1754277a9",
+    "acknowledged": false
   }
 }

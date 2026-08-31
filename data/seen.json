@@ -2132,5 +2132,37 @@
     "discovered": "2026-08-27T17:07:46.500Z",
     "publishedDate": "Thu, 27 Aug 2026 11:36:00 +0000",
     "source": "ncl"
+  },
+  "ncl:b0c39c44c0c7dfa8": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/neurological-and-stroke-service-cnwl",
+    "title": "Service: Neurological and Stroke Service: CNWL",
+    "description": "Refer to NeuroActive,&nbsp;a free, NHS programme led by physiotherapists, for adults with a neurological diagnosis.",
+    "discovered": "2026-08-31T12:12:19.235Z",
+    "publishedDate": "Thu, 27 Aug 2026 11:36:00 +0000",
+    "source": "ncl"
+  },
+  "ncl:1b14c760fe3a8880": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/gp-website-prepares-to-welcome-users-from-former-north-west-london-boroughs",
+    "title": "News: GP Website prepares to welcome users from former North West London boroughs",
+    "description": "Website users in former North Central London ICB boroughs will continue to see content relevant to their location when they log in.",
+    "discovered": "2026-08-31T12:12:19.237Z",
+    "publishedDate": "Tue, 25 Aug 2026 15:48:05 +0000",
+    "source": "ncl"
+  },
+  "ncl:1f052ed14508cb12": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-17-21-august",
+    "title": "News: EMIS Global update: 17&#45;21 August",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-08-31T12:12:19.237Z",
+    "publishedDate": "Mon, 24 Aug 2026 15:43:07 +0000",
+    "source": "ncl"
+  },
+  "nhs:fedb1c0b2f9b316a": {
+    "url": "https://www.england.nhs.uk/2026/08/high-street-pharmacies-to-launch-seven-minute-cholesterol-checks/",
+    "title": "High-street pharmacies to launch seven-minute cholesterol checks",
+    "description": "Around 100 NHS pharmacies in England will begin offering life-saving cholesterol check-ups this autumn, as part of an NHS drive to reduce heart disease and stroke deaths by a quarter over the next decade. People aged 40 to 84 who are not pregnant and have not had a blood test in the past year will [&#8230;]",
+    "discovered": "2026-08-31T12:12:19.644Z",
+    "publishedDate": "Mon, 31 Aug 2026 09:32:37 +0000",
+    "source": "nhs"
   }
 }
