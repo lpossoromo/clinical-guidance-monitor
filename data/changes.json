@@ -2902,5 +2902,16 @@
     "previousHash": null,
     "newHash": "fbab16245314a416",
     "acknowledged": false
+  },
+  "change:1788293959452:01f62fc732d9aa1e": {
+    "id": "change:1788293959452:01f62fc732d9aa1e",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-24-28-august-2026",
+    "title": "News: EMIS Global update: 24&#45;28 August 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-01T20:19:19.452Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
   }
 }

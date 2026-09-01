@@ -2188,5 +2188,13 @@
     "discovered": "2026-09-01T15:46:54.539Z",
     "publishedDate": "Tue, 01 Sep 2026 14:49:38 +0000",
     "source": "ncl"
+  },
+  "ncl:01f62fc732d9aa1e": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-24-28-august-2026",
+    "title": "News: EMIS Global update: 24&#45;28 August 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-09-01T20:19:19.452Z",
+    "publishedDate": "Tue, 01 Sep 2026 16:39:04 +0000",
+    "source": "ncl"
   }
 }
