@@ -2880,5 +2880,27 @@
     "previousHash": null,
     "newHash": "42a11ae654fe789b",
     "acknowledged": false
+  },
+  "change:1788277614538:f36209b8876287fe": {
+    "id": "change:1788277614538:f36209b8876287fe",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/developing-a-community-gynaecology-service-in-camden",
+    "title": "News: Developing a community gynaecology service in Camden",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-01T15:46:54.538Z",
+    "previousHash": null,
+    "newHash": "817c2839882374b0",
+    "acknowledged": false
+  },
+  "change:1788277614539:7b13951410b0952f": {
+    "id": "change:1788277614539:7b13951410b0952f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/welcome-to-the-west-north-london-general-practice-website",
+    "title": "News: Welcome to the West &amp; North London General Practice Website",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-01T15:46:54.539Z",
+    "previousHash": null,
+    "newHash": "fbab16245314a416",
+    "acknowledged": false
   }
 }

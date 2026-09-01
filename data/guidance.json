@@ -4452,5 +4452,39 @@
       "estimatedReadTime": 1,
       "description": "NHS England London will be running online workshops providing a brief update on the progress made with implementing the HPV self-testing pathway in London. Join either on Friday 25 September or Thursd"
     }
+  },
+  "content:f36209b8876287fe": {
+    "id": "content:f36209b8876287fe",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/developing-a-community-gynaecology-service-in-camden",
+    "title": "News: Developing a community gynaecology service in Camden",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-01",
+    "fetchedDate": "2026-09-01T15:46:54.538Z",
+    "contentHash": "817c2839882374b0",
+    "content": "Opportunity for gynaecology Clinical Lead and GP Extended Role",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 9,
+      "estimatedReadTime": 1,
+      "description": "Opportunity for gynaecology Clinical Lead and GP Extended Role"
+    }
+  },
+  "content:7b13951410b0952f": {
+    "id": "content:7b13951410b0952f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/welcome-to-the-west-north-london-general-practice-website",
+    "title": "News: Welcome to the West &amp; North London General Practice Website",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-01",
+    "fetchedDate": "2026-09-01T15:46:54.539Z",
+    "contentHash": "fbab16245314a416",
+    "content": "Clinically relevant content has been migrated from the North West London (NWL) ICB&#039;s professionals pages and the North Central London (NCL)&nbsp;GP Website.&nbsp;Visit the website at anytime to see the latest information. Users are encouraged to visit their website account and update their details. Read more",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 45,
+      "estimatedReadTime": 1,
+      "description": "Clinically relevant content has been migrated from the North West London (NWL) ICB&#039;s professionals pages and the North Central London (NCL)&nbsp;GP Website.&nbsp;Visit the website at anytime to s"
+    }
   }
 }
