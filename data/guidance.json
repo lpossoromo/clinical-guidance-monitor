@@ -4435,5 +4435,22 @@
       "estimatedReadTime": 3,
       "description": "Around 100 NHS pharmacies in England will begin offering life-saving cholesterol check-ups this autumn, as part of an NHS drive to reduce heart disease and stroke deaths by a quarter over the next decade. People aged 40 to 84 who are not pregnant and have not had a blood test in the past year will [&#8230;]"
     }
+  },
+  "content:d2c306a54b2fa1b4": {
+    "id": "content:d2c306a54b2fa1b4",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/nhs-london-hpv-self-screening-for-cervical-screening-workshops",
+    "title": "Event: NHS London HPV Self&#45;Screening for Cervical Screening Workshops",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-01",
+    "fetchedDate": "2026-09-01T10:48:29.180Z",
+    "contentHash": "42a11ae654fe789b",
+    "content": "NHS England London will be running online workshops providing a brief update on the progress made with implementing the HPV self-testing pathway in London. Join either on Friday 25 September or Thursday 1 October from 1 pm.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "NHS England London will be running online workshops providing a brief update on the progress made with implementing the HPV self-testing pathway in London. Join either on Friday 25 September or Thursd"
+    }
   }
 }

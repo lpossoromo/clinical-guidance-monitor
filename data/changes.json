@@ -2869,5 +2869,16 @@
     "previousHash": null,
     "newHash": "a5094cf1754277a9",
     "acknowledged": false
+  },
+  "change:1788259709180:d2c306a54b2fa1b4": {
+    "id": "change:1788259709180:d2c306a54b2fa1b4",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/nhs-london-hpv-self-screening-for-cervical-screening-workshops",
+    "title": "Event: NHS London HPV Self&#45;Screening for Cervical Screening Workshops",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-01T10:48:29.180Z",
+    "previousHash": null,
+    "newHash": "42a11ae654fe789b",
+    "acknowledged": false
   }
 }

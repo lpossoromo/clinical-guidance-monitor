@@ -2164,5 +2164,13 @@
     "discovered": "2026-08-31T12:12:19.644Z",
     "publishedDate": "Mon, 31 Aug 2026 09:32:37 +0000",
     "source": "nhs"
+  },
+  "ncl:d2c306a54b2fa1b4": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/nhs-london-hpv-self-screening-for-cervical-screening-workshops",
+    "title": "Event: NHS London HPV Self&#45;Screening for Cervical Screening Workshops",
+    "description": "NHS England London will be running online workshops providing a brief update on the progress made with implementing the HPV self-testing pathway in London. Join either on Friday 25 September or Thursday 1 October from 1 pm.",
+    "discovered": "2026-09-01T10:48:29.180Z",
+    "publishedDate": "Tue, 01 Sep 2026 09:57:32 +0000",
+    "source": "ncl"
   }
 }
