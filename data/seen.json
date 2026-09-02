@@ -2212,5 +2212,21 @@
     "discovered": "2026-09-02T10:13:10.159Z",
     "publishedDate": "Wed, 02 Sep 2026 09:13:11 +0000",
     "source": "ncl"
+  },
+  "ncl:8c9e2ab940d6ed1e": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/reminder-uclh-imaging-alerts-and-notifications-process",
+    "title": "News: Reminder: UCLH imaging alerts and notifications process",
+    "description": "University College London Hospitals (UCLH) trust will be introducing a revised imaging alerts and notifications process from Monday 7 September, to enhance patient safety and align with national radiology guidelines.",
+    "discovered": "2026-09-02T15:39:31.495Z",
+    "publishedDate": "Wed, 02 Sep 2026 10:41:37 +0000",
+    "source": "ncl"
+  },
+  "ncl:8959c62fcd2b3475": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/rfl-update-change-to-maxillofacial-referrals-inbox",
+    "title": "News: RFL update: Change to maxillofacial referrals inbox",
+    "description": "The email address for maxillofacial referrals at Royal Free London (RFL) has changed. Please note the new address rf-tr.dentalreferrals@nhs.net",
+    "discovered": "2026-09-02T15:39:31.495Z",
+    "publishedDate": "Wed, 02 Sep 2026 10:25:09 +0000",
+    "source": "ncl"
   }
 }

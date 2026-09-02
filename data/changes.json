@@ -2935,5 +2935,27 @@
     "previousHash": null,
     "newHash": "a108de3e48829246",
     "acknowledged": false
+  },
+  "change:1788363571495:8c9e2ab940d6ed1e": {
+    "id": "change:1788363571495:8c9e2ab940d6ed1e",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/reminder-uclh-imaging-alerts-and-notifications-process",
+    "title": "News: Reminder: UCLH imaging alerts and notifications process",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-02T15:39:31.495Z",
+    "previousHash": null,
+    "newHash": "67bd561cc3f74665",
+    "acknowledged": false
+  },
+  "change:1788363571496:8959c62fcd2b3475": {
+    "id": "change:1788363571496:8959c62fcd2b3475",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/rfl-update-change-to-maxillofacial-referrals-inbox",
+    "title": "News: RFL update: Change to maxillofacial referrals inbox",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-02T15:39:31.496Z",
+    "previousHash": null,
+    "newHash": "f29a941fa9d67a7f",
+    "acknowledged": false
   }
 }

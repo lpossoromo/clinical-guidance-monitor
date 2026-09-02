@@ -4537,5 +4537,39 @@
       "estimatedReadTime": 1,
       "description": "A vacancy for I:HUB Clinical Lead and IGPF Clinical Quality Lead at Islington GP Federation has opened. Read more for further details. The deadline for applications is Monday 14 September."
     }
+  },
+  "content:8c9e2ab940d6ed1e": {
+    "id": "content:8c9e2ab940d6ed1e",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/reminder-uclh-imaging-alerts-and-notifications-process",
+    "title": "News: Reminder: UCLH imaging alerts and notifications process",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-02",
+    "fetchedDate": "2026-09-02T15:39:31.495Z",
+    "contentHash": "67bd561cc3f74665",
+    "content": "University College London Hospitals (UCLH) trust will be introducing a revised imaging alerts and notifications process from Monday 7 September, to enhance patient safety and align with national radiology guidelines.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 30,
+      "estimatedReadTime": 1,
+      "description": "University College London Hospitals (UCLH) trust will be introducing a revised imaging alerts and notifications process from Monday 7 September, to enhance patient safety and align with national radio"
+    }
+  },
+  "content:8959c62fcd2b3475": {
+    "id": "content:8959c62fcd2b3475",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/rfl-update-change-to-maxillofacial-referrals-inbox",
+    "title": "News: RFL update: Change to maxillofacial referrals inbox",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-02",
+    "fetchedDate": "2026-09-02T15:39:31.496Z",
+    "contentHash": "f29a941fa9d67a7f",
+    "content": "The email address for maxillofacial referrals at Royal Free London (RFL) has changed. Please note the new address rf-tr.dentalreferrals@nhs.net",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 19,
+      "estimatedReadTime": 1,
+      "description": "The email address for maxillofacial referrals at Royal Free London (RFL) has changed. Please note the new address rf-tr.dentalreferrals@nhs.net"
+    }
   }
 }
