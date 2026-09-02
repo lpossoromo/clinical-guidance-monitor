@@ -4503,5 +4503,39 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global."
     }
+  },
+  "content:f2d4e83d7d9eb31d": {
+    "id": "content:f2d4e83d7d9eb31d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/closure-of-maxillofacial-referrals-inbox",
+    "title": "News: Closure of maxillofacial referrals inbox",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-02",
+    "fetchedDate": "2026-09-02T10:13:10.158Z",
+    "contentHash": "a4407f753a8e87b4",
+    "content": "Closure of maxillofacial referrals inbox",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 5,
+      "estimatedReadTime": 1,
+      "description": "Closure of maxillofacial referrals inbox"
+    }
+  },
+  "content:3e503352a93e3de1": {
+    "id": "content:3e503352a93e3de1",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/opportunity-federation-clinical-lead-roles",
+    "title": "News: Opportunity: Federation clinical lead roles",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-02",
+    "fetchedDate": "2026-09-02T10:13:10.159Z",
+    "contentHash": "a108de3e48829246",
+    "content": "A vacancy for I:HUB Clinical Lead and IGPF Clinical Quality Lead at Islington GP Federation has opened. Read more for further details. The deadline for applications is Monday 14 September.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 30,
+      "estimatedReadTime": 1,
+      "description": "A vacancy for I:HUB Clinical Lead and IGPF Clinical Quality Lead at Islington GP Federation has opened. Read more for further details. The deadline for applications is Monday 14 September."
+    }
   }
 }

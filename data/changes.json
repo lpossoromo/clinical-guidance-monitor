@@ -2913,5 +2913,27 @@
     "previousHash": null,
     "newHash": "830057a78b6591d9",
     "acknowledged": false
+  },
+  "change:1788343990158:f2d4e83d7d9eb31d": {
+    "id": "change:1788343990158:f2d4e83d7d9eb31d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/closure-of-maxillofacial-referrals-inbox",
+    "title": "News: Closure of maxillofacial referrals inbox",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-02T10:13:10.158Z",
+    "previousHash": null,
+    "newHash": "a4407f753a8e87b4",
+    "acknowledged": false
+  },
+  "change:1788343990159:3e503352a93e3de1": {
+    "id": "change:1788343990159:3e503352a93e3de1",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/opportunity-federation-clinical-lead-roles",
+    "title": "News: Opportunity: Federation clinical lead roles",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-02T10:13:10.159Z",
+    "previousHash": null,
+    "newHash": "a108de3e48829246",
+    "acknowledged": false
   }
 }

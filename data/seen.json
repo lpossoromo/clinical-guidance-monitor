@@ -2196,5 +2196,21 @@
     "discovered": "2026-09-01T20:19:19.452Z",
     "publishedDate": "Tue, 01 Sep 2026 16:39:04 +0000",
     "source": "ncl"
+  },
+  "ncl:f2d4e83d7d9eb31d": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/closure-of-maxillofacial-referrals-inbox",
+    "title": "News: Closure of maxillofacial referrals inbox",
+    "description": "Closure of maxillofacial referrals inbox",
+    "discovered": "2026-09-02T10:13:10.158Z",
+    "publishedDate": "Wed, 02 Sep 2026 09:21:33 +0000",
+    "source": "ncl"
+  },
+  "ncl:3e503352a93e3de1": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/opportunity-federation-clinical-lead-roles",
+    "title": "News: Opportunity: Federation clinical lead roles",
+    "description": "A vacancy for I:HUB Clinical Lead and IGPF Clinical Quality Lead at Islington GP Federation has opened. Read more for further details. The deadline for applications is Monday 14 September.",
+    "discovered": "2026-09-02T10:13:10.159Z",
+    "publishedDate": "Wed, 02 Sep 2026 09:13:11 +0000",
+    "source": "ncl"
   }
 }
