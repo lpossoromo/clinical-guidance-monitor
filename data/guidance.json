@@ -4571,5 +4571,22 @@
       "estimatedReadTime": 1,
       "description": "The email address for maxillofacial referrals at Royal Free London (RFL) has changed. Please note the new address rf-tr.dentalreferrals@nhs.net"
     }
+  },
+  "content:ca73136255ede824": {
+    "id": "content:ca73136255ede824",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/uclh-erectile-dysfunction-patient-information-resource-for-gps",
+    "title": "News: UCLH Erectile dysfunction patient information resource for GPs",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-03",
+    "fetchedDate": "2026-09-03T15:30:10.307Z",
+    "contentHash": "a847b8835af938aa",
+    "content": "GPs can use UCLH&#039;s leaflet to guide patients on erectile dysfunction treatments and lifestyle changes.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 15,
+      "estimatedReadTime": 1,
+      "description": "GPs can use UCLH&#039;s leaflet to guide patients on erectile dysfunction treatments and lifestyle changes."
+    }
   }
 }

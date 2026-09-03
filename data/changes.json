@@ -2957,5 +2957,16 @@
     "previousHash": null,
     "newHash": "f29a941fa9d67a7f",
     "acknowledged": false
+  },
+  "change:1788449410307:ca73136255ede824": {
+    "id": "change:1788449410307:ca73136255ede824",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/uclh-erectile-dysfunction-patient-information-resource-for-gps",
+    "title": "News: UCLH Erectile dysfunction patient information resource for GPs",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-03T15:30:10.307Z",
+    "previousHash": null,
+    "newHash": "a847b8835af938aa",
+    "acknowledged": false
   }
 }
