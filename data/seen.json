@@ -2236,5 +2236,13 @@
     "discovered": "2026-09-03T15:30:10.307Z",
     "publishedDate": "Thu, 03 Sep 2026 11:17:24 +0000",
     "source": "ncl"
+  },
+  "ncl:6e644ac9cb2f9964": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/ncl-prescribing-quality-scheme-pqs/pqs-2026-27-oversupply-dashboard",
+    "title": "Page: PQS 2026&#45;27 Oversupply Dashboard",
+    "description": "New from the Medicines Optimisation Team, the Oversupply Dashboard supports practices to identify potential medicine oversupply, improve repeat prescribing processes, and monitor performance against PQS indicators. The dashboard is updated monthly.",
+    "discovered": "2026-09-04T10:11:42.057Z",
+    "publishedDate": "Fri, 04 Sep 2026 09:57:44 +0000",
+    "source": "ncl"
   }
 }

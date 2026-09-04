@@ -4588,5 +4588,22 @@
       "estimatedReadTime": 1,
       "description": "GPs can use UCLH&#039;s leaflet to guide patients on erectile dysfunction treatments and lifestyle changes."
     }
+  },
+  "content:6e644ac9cb2f9964": {
+    "id": "content:6e644ac9cb2f9964",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/ncl-prescribing-quality-scheme-pqs/pqs-2026-27-oversupply-dashboard",
+    "title": "Page: PQS 2026&#45;27 Oversupply Dashboard",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-04",
+    "fetchedDate": "2026-09-04T10:11:42.057Z",
+    "contentHash": "1d8661f526c2acdb",
+    "content": "New from the Medicines Optimisation Team, the Oversupply Dashboard supports practices to identify potential medicine oversupply, improve repeat prescribing processes, and monitor performance against PQS indicators. The dashboard is updated monthly.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "New from the Medicines Optimisation Team, the Oversupply Dashboard supports practices to identify potential medicine oversupply, improve repeat prescribing processes, and monitor performance against P"
+    }
   }
 }

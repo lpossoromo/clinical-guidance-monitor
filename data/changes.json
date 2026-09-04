@@ -2968,5 +2968,16 @@
     "previousHash": null,
     "newHash": "a847b8835af938aa",
     "acknowledged": false
+  },
+  "change:1788516702057:6e644ac9cb2f9964": {
+    "id": "change:1788516702057:6e644ac9cb2f9964",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/ncl-prescribing-quality-scheme-pqs/pqs-2026-27-oversupply-dashboard",
+    "title": "Page: PQS 2026&#45;27 Oversupply Dashboard",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-04T10:11:42.057Z",
+    "previousHash": null,
+    "newHash": "1d8661f526c2acdb",
+    "acknowledged": false
   }
 }
