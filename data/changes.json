@@ -2979,5 +2979,16 @@
     "previousHash": null,
     "newHash": "1d8661f526c2acdb",
     "acknowledged": false
+  },
+  "change:1788779107981:98ef28d10dd49d85": {
+    "id": "change:1788779107981:98ef28d10dd49d85",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/wnl-icb-launch-nhs-app-webpage",
+    "title": "News: WNL ICB launch NHS App webpage",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-07T11:05:07.981Z",
+    "previousHash": null,
+    "newHash": "5640cef3905ad613",
+    "acknowledged": false
   }
 }

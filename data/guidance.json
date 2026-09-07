@@ -4605,5 +4605,22 @@
       "estimatedReadTime": 1,
       "description": "New from the Medicines Optimisation Team, the Oversupply Dashboard supports practices to identify potential medicine oversupply, improve repeat prescribing processes, and monitor performance against P"
     }
+  },
+  "content:98ef28d10dd49d85": {
+    "id": "content:98ef28d10dd49d85",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/wnl-icb-launch-nhs-app-webpage",
+    "title": "News: WNL ICB launch NHS App webpage",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-07",
+    "fetchedDate": "2026-09-07T11:05:07.981Z",
+    "contentHash": "5640cef3905ad613",
+    "content": "West and North London ICB launches a NHS App webpage. Please share within your practice communications and encourage patients to engage in using the app.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 25,
+      "estimatedReadTime": 1,
+      "description": "West and North London ICB launches a NHS App webpage. Please share within your practice communications and encourage patients to engage in using the app."
+    }
   }
 }
