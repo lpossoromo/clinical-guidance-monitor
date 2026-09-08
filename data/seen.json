@@ -2252,5 +2252,13 @@
     "discovered": "2026-09-07T11:05:07.981Z",
     "publishedDate": "Mon, 07 Sep 2026 09:00:19 +0000",
     "source": "ncl"
+  },
+  "ncl:95fbb1011ec7ff69": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/nursing-allied-health-professional-primary-care-conference",
+    "title": "Event: Nursing &amp; Allied Health Professional Primary Care Conference",
+    "description": "NCL and NWL training hubs are hosting a joint in-person nursing &amp; allied health professional primary care conference. An opportunity to network, share learning and collaboration across the ICB. Join from 10 am on Friday 27 November.",
+    "discovered": "2026-09-08T10:18:32.656Z",
+    "publishedDate": "Tue, 08 Sep 2026 09:09:23 +0000",
+    "source": "ncl"
   }
 }

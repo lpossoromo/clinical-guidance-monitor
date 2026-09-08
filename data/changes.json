@@ -2990,5 +2990,16 @@
     "previousHash": null,
     "newHash": "5640cef3905ad613",
     "acknowledged": false
+  },
+  "change:1788862712656:95fbb1011ec7ff69": {
+    "id": "change:1788862712656:95fbb1011ec7ff69",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/nursing-allied-health-professional-primary-care-conference",
+    "title": "Event: Nursing &amp; Allied Health Professional Primary Care Conference",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-08T10:18:32.656Z",
+    "previousHash": null,
+    "newHash": "be8184996fe1fd4a",
+    "acknowledged": false
   }
 }
