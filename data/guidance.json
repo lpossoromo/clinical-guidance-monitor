@@ -4639,5 +4639,90 @@
       "estimatedReadTime": 1,
       "description": "NCL and NWL training hubs are hosting a joint in-person nursing &amp; allied health professional primary care conference. An opportunity to network, share learning and collaboration across the ICB. Jo"
     }
+  },
+  "content:ed08d05ab9a26fe7": {
+    "id": "content:ed08d05ab9a26fe7",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/reminder-blood-test-referrals-must-booked-online-for-babies-children-and-young-people",
+    "title": "News: Reminder: Blood test referrals must booked online for babies, children and young people",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-08",
+    "fetchedDate": "2026-09-08T15:41:34.056Z",
+    "contentHash": "a22d66ad216f5d39",
+    "content": "All blood test appointments must be pre-booked via the Swiftqueue platform. This applies to Barnet hospital, Chase Farm hospital and Edgware Community hospital. Read more for further details.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 28,
+      "estimatedReadTime": 1,
+      "description": "All blood test appointments must be pre-booked via the Swiftqueue platform. This applies to Barnet hospital, Chase Farm hospital and Edgware Community hospital. Read more for further details."
+    }
+  },
+  "content:cb6a3a6e7773edb3": {
+    "id": "content:cb6a3a6e7773edb3",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-31-august-4-september-2026",
+    "title": "News: EMIS Global update: 31 August&#45;4 September 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-08",
+    "fetchedDate": "2026-09-08T15:41:34.057Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
+  },
+  "content:67d114c9937afe51": {
+    "id": "content:67d114c9937afe51",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/ncl-x-ncl-nursing-allied-health-professional-primary-care-conference",
+    "title": "Event: NCL x NCL Nursing &amp; Allied Health Professional Primary Care Conference",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-08",
+    "fetchedDate": "2026-09-08T15:41:34.057Z",
+    "contentHash": "be8184996fe1fd4a",
+    "content": "NCL and NWL training hubs are hosting a joint in-person nursing &amp; allied health professional primary care conference. An opportunity to network, share learning and collaboration across the ICB. Join from 10 am on Friday 27 November.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "NCL and NWL training hubs are hosting a joint in-person nursing &amp; allied health professional primary care conference. An opportunity to network, share learning and collaboration across the ICB. Jo"
+    }
+  },
+  "content:27533f849f9da08f": {
+    "id": "content:27533f849f9da08f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/wnl-icb-promotes-nhs-app-on-dedicated-webpage",
+    "title": "News: WNL ICB promotes NHS App on dedicated webpage",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-08",
+    "fetchedDate": "2026-09-08T15:41:34.057Z",
+    "contentHash": "5b1498621c6aac6b",
+    "content": "West and North London ICB launches a dedicated NHS App webpage. Please share within your practice communications and encourage patients to engage in using the app.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "West and North London ICB launches a dedicated NHS App webpage. Please share within your practice communications and encourage patients to engage in using the app."
+    }
+  },
+  "content:0d3c575817d743db": {
+    "id": "content:0d3c575817d743db",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/help-patients-manage-erectile-dysfunction",
+    "title": "News: Help patients manage erectile dysfunction",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-08",
+    "fetchedDate": "2026-09-08T15:41:34.057Z",
+    "contentHash": "75703d5191a547cc",
+    "content": "UCLH Andrology team provides a leaflet for GPs to guide patients on erectile dysfunction treatments and lifestyle changes.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 18,
+      "estimatedReadTime": 1,
+      "description": "UCLH Andrology team provides a leaflet for GPs to guide patients on erectile dysfunction treatments and lifestyle changes."
+    }
   }
 }

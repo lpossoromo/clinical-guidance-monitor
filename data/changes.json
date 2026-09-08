@@ -3001,5 +3001,60 @@
     "previousHash": null,
     "newHash": "be8184996fe1fd4a",
     "acknowledged": false
+  },
+  "change:1788882094057:ed08d05ab9a26fe7": {
+    "id": "change:1788882094057:ed08d05ab9a26fe7",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/reminder-blood-test-referrals-must-booked-online-for-babies-children-and-young-people",
+    "title": "News: Reminder: Blood test referrals must booked online for babies, children and young people",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-08T15:41:34.056Z",
+    "previousHash": null,
+    "newHash": "a22d66ad216f5d39",
+    "acknowledged": false
+  },
+  "change:1788882094057:cb6a3a6e7773edb3": {
+    "id": "change:1788882094057:cb6a3a6e7773edb3",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-31-august-4-september-2026",
+    "title": "News: EMIS Global update: 31 August&#45;4 September 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-08T15:41:34.057Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
+  },
+  "change:1788882094057:67d114c9937afe51": {
+    "id": "change:1788882094057:67d114c9937afe51",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/ncl-x-ncl-nursing-allied-health-professional-primary-care-conference",
+    "title": "Event: NCL x NCL Nursing &amp; Allied Health Professional Primary Care Conference",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-08T15:41:34.057Z",
+    "previousHash": null,
+    "newHash": "be8184996fe1fd4a",
+    "acknowledged": false
+  },
+  "change:1788882094057:27533f849f9da08f": {
+    "id": "change:1788882094057:27533f849f9da08f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/wnl-icb-promotes-nhs-app-on-dedicated-webpage",
+    "title": "News: WNL ICB promotes NHS App on dedicated webpage",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-08T15:41:34.057Z",
+    "previousHash": null,
+    "newHash": "5b1498621c6aac6b",
+    "acknowledged": false
+  },
+  "change:1788882094057:0d3c575817d743db": {
+    "id": "change:1788882094057:0d3c575817d743db",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/help-patients-manage-erectile-dysfunction",
+    "title": "News: Help patients manage erectile dysfunction",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-08T15:41:34.057Z",
+    "previousHash": null,
+    "newHash": "75703d5191a547cc",
+    "acknowledged": false
   }
 }
