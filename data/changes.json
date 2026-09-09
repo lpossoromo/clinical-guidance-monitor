@@ -3067,5 +3067,27 @@
     "previousHash": null,
     "newHash": "4387f15ee390d0e0",
     "acknowledged": false
+  },
+  "change:1788968163223:290312343edc4bac": {
+    "id": "change:1788968163223:290312343edc4bac",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/reminder-blood-test-referral-process-for-children-at-barnet-chase-farm-and-edgware-community-hospitals",
+    "title": "News: Reminder: Blood test referral process for children at Barnet, Chase Farm and Edgware Community hospitals",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-09T15:36:03.223Z",
+    "previousHash": null,
+    "newHash": "d661936081e9e1ba",
+    "acknowledged": false
+  },
+  "change:1788968163224:cfe8cab05a73d335": {
+    "id": "change:1788968163224:cfe8cab05a73d335",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/ncl-x-nwl-nursing-allied-health-professional-primary-care-conference",
+    "title": "Event: NCL x NWL Nursing &amp; Allied Health Professional Primary Care Conference",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-09T15:36:03.224Z",
+    "previousHash": null,
+    "newHash": "be8184996fe1fd4a",
+    "acknowledged": false
   }
 }

@@ -2308,5 +2308,21 @@
     "discovered": "2026-09-09T10:25:58.826Z",
     "publishedDate": "Wed, 09 Sep 2026 08:59:14 +0000",
     "source": "ncl"
+  },
+  "ncl:290312343edc4bac": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/reminder-blood-test-referral-process-for-children-at-barnet-chase-farm-and-edgware-community-hospitals",
+    "title": "News: Reminder: Blood test referral process for children at Barnet, Chase Farm and Edgware Community hospitals",
+    "description": "All blood test appointments must be pre-booked via the Swiftqueue platform. Read more for further details.",
+    "discovered": "2026-09-09T15:36:03.223Z",
+    "publishedDate": "Wed, 09 Sep 2026 11:50:55 +0000",
+    "source": "ncl"
+  },
+  "ncl:cfe8cab05a73d335": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/ncl-x-nwl-nursing-allied-health-professional-primary-care-conference",
+    "title": "Event: NCL x NWL Nursing &amp; Allied Health Professional Primary Care Conference",
+    "description": "NCL and NWL training hubs are hosting a joint in-person nursing &amp; allied health professional primary care conference. An opportunity to network, share learning and collaboration across the ICB. Join from 10 am on Friday 27 November.",
+    "discovered": "2026-09-09T15:36:03.224Z",
+    "publishedDate": "Tue, 08 Sep 2026 09:09:23 +0000",
+    "source": "ncl"
   }
 }

@@ -4741,5 +4741,39 @@
       "estimatedReadTime": 1,
       "description": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer (previously known as 2WW) first appointments. See the latest data."
     }
+  },
+  "content:290312343edc4bac": {
+    "id": "content:290312343edc4bac",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/reminder-blood-test-referral-process-for-children-at-barnet-chase-farm-and-edgware-community-hospitals",
+    "title": "News: Reminder: Blood test referral process for children at Barnet, Chase Farm and Edgware Community hospitals",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-09",
+    "fetchedDate": "2026-09-09T15:36:03.223Z",
+    "contentHash": "d661936081e9e1ba",
+    "content": "All blood test appointments must be pre-booked via the Swiftqueue platform. Read more for further details.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 16,
+      "estimatedReadTime": 1,
+      "description": "All blood test appointments must be pre-booked via the Swiftqueue platform. Read more for further details."
+    }
+  },
+  "content:cfe8cab05a73d335": {
+    "id": "content:cfe8cab05a73d335",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/ncl-x-nwl-nursing-allied-health-professional-primary-care-conference",
+    "title": "Event: NCL x NWL Nursing &amp; Allied Health Professional Primary Care Conference",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-08",
+    "fetchedDate": "2026-09-09T15:36:03.224Z",
+    "contentHash": "be8184996fe1fd4a",
+    "content": "NCL and NWL training hubs are hosting a joint in-person nursing &amp; allied health professional primary care conference. An opportunity to network, share learning and collaboration across the ICB. Join from 10 am on Friday 27 November.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "NCL and NWL training hubs are hosting a joint in-person nursing &amp; allied health professional primary care conference. An opportunity to network, share learning and collaboration across the ICB. Jo"
+    }
   }
 }
