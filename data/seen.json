@@ -2300,5 +2300,13 @@
     "discovered": "2026-09-08T15:41:34.057Z",
     "publishedDate": "Tue, 08 Sep 2026 14:31:50 +0000",
     "source": "ncl"
+  },
+  "ncl:e8d3f3b969199917": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/referral-support/planned-care-wait-times/urgent-suspected-cancer-indicative-wait-for-first-appointment-data",
+    "title": "Page: Urgent suspected cancer: Indicative wait for first appointment data",
+    "description": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer (previously known as 2WW) first appointments. See the latest data.",
+    "discovered": "2026-09-09T10:25:58.826Z",
+    "publishedDate": "Wed, 09 Sep 2026 08:59:14 +0000",
+    "source": "ncl"
   }
 }

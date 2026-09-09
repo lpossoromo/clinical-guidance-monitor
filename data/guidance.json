@@ -4724,5 +4724,22 @@
       "estimatedReadTime": 1,
       "description": "UCLH Andrology team provides a leaflet for GPs to guide patients on erectile dysfunction treatments and lifestyle changes."
     }
+  },
+  "content:e8d3f3b969199917": {
+    "id": "content:e8d3f3b969199917",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/referral-support/planned-care-wait-times/urgent-suspected-cancer-indicative-wait-for-first-appointment-data",
+    "title": "Page: Urgent suspected cancer: Indicative wait for first appointment data",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-09",
+    "fetchedDate": "2026-09-09T10:25:58.826Z",
+    "contentHash": "4387f15ee390d0e0",
+    "content": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer (previously known as 2WW) first appointments. See the latest data.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 28,
+      "estimatedReadTime": 1,
+      "description": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer (previously known as 2WW) first appointments. See the latest data."
+    }
   }
 }
