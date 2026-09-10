@@ -2340,5 +2340,13 @@
     "discovered": "2026-09-10T10:16:53.819Z",
     "publishedDate": "Thu, 10 Sep 2026 07:20:53 +0000",
     "source": "ncl"
+  },
+  "ncl:ae486b8c3ac2a276": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/camden-community-health-wellbeing-pods-gp-webinar",
+    "title": "Event: Camden Community Health &amp; Wellbeing Pods GP Webinar",
+    "description": "An opportunity to support prevention, reduce health inequalities, and strengthen the connection between communities and primary care.",
+    "discovered": "2026-09-10T20:14:34.441Z",
+    "publishedDate": "Thu, 10 Sep 2026 16:44:03 +0000",
+    "source": "ncl"
   }
 }

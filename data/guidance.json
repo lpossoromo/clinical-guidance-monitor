@@ -4809,5 +4809,22 @@
       "estimatedReadTime": 1,
       "description": "This session focuses on how unconscious bias in healthcare impacts patient care and workplace dynamics. It will provide practical strategies to overcome and improve these. Join online at 1 pm on Thurs"
     }
+  },
+  "content:ae486b8c3ac2a276": {
+    "id": "content:ae486b8c3ac2a276",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/camden-community-health-wellbeing-pods-gp-webinar",
+    "title": "Event: Camden Community Health &amp; Wellbeing Pods GP Webinar",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-10",
+    "fetchedDate": "2026-09-10T20:14:34.441Z",
+    "contentHash": "09c0e906cd02d9c6",
+    "content": "An opportunity to support prevention, reduce health inequalities, and strengthen the connection between communities and primary care.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 17,
+      "estimatedReadTime": 1,
+      "description": "An opportunity to support prevention, reduce health inequalities, and strengthen the connection between communities and primary care."
+    }
   }
 }

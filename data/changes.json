@@ -3111,5 +3111,16 @@
     "previousHash": null,
     "newHash": "670d37072de76f46",
     "acknowledged": false
+  },
+  "change:1789071274442:ae486b8c3ac2a276": {
+    "id": "change:1789071274442:ae486b8c3ac2a276",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/camden-community-health-wellbeing-pods-gp-webinar",
+    "title": "Event: Camden Community Health &amp; Wellbeing Pods GP Webinar",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-10T20:14:34.441Z",
+    "previousHash": null,
+    "newHash": "09c0e906cd02d9c6",
+    "acknowledged": false
   }
 }
