@@ -3100,5 +3100,16 @@
     "previousHash": null,
     "newHash": "aa9ea08924696036",
     "acknowledged": false
+  },
+  "change:1789035413820:84f0fb4b48e95767": {
+    "id": "change:1789035413820:84f0fb4b48e95767",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/unconscious-bias-in-healthcare-changing-the-narrative-webinar",
+    "title": "Event: Unconscious Bias in Healthcare: Changing the Narrative Webinar",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-10T10:16:53.820Z",
+    "previousHash": null,
+    "newHash": "670d37072de76f46",
+    "acknowledged": false
   }
 }

@@ -2332,5 +2332,13 @@
     "discovered": "2026-09-10T02:13:06.378Z",
     "publishedDate": "Wed, 09 Sep 2026 23:01:23 +0000",
     "source": "nhs"
+  },
+  "ncl:84f0fb4b48e95767": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/unconscious-bias-in-healthcare-changing-the-narrative-webinar",
+    "title": "Event: Unconscious Bias in Healthcare: Changing the Narrative Webinar",
+    "description": "This session focuses on how unconscious bias in healthcare impacts patient care and workplace dynamics. It will provide practical strategies to overcome and improve these. Join online at 1 pm on Thursday 12 November.",
+    "discovered": "2026-09-10T10:16:53.819Z",
+    "publishedDate": "Thu, 10 Sep 2026 07:20:53 +0000",
+    "source": "ncl"
   }
 }
