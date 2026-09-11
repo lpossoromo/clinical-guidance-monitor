@@ -3122,5 +3122,16 @@
     "previousHash": null,
     "newHash": "09c0e906cd02d9c6",
     "acknowledged": false
+  },
+  "change:1789121753677:0f6dd74b6d6c5779": {
+    "id": "change:1789121753677:0f6dd74b6d6c5779",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nhs-app-nhs-app-e-rs-referral-notifications-service-due-to-go-live-on-friday-11th-september-2026-primary-care-stakeholders-briefing",
+    "title": "News: NHS App: NHS App e&#45;RS Referral Notifications service, due to go&#45;live on Friday 11th September 2026 &#45; Primary Care Stakeholders Briefing",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-11T10:15:53.677Z",
+    "previousHash": null,
+    "newHash": "439d351622e99302",
+    "acknowledged": false
   }
 }

@@ -4826,5 +4826,22 @@
       "estimatedReadTime": 1,
       "description": "An opportunity to support prevention, reduce health inequalities, and strengthen the connection between communities and primary care."
     }
+  },
+  "content:0f6dd74b6d6c5779": {
+    "id": "content:0f6dd74b6d6c5779",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nhs-app-nhs-app-e-rs-referral-notifications-service-due-to-go-live-on-friday-11th-september-2026-primary-care-stakeholders-briefing",
+    "title": "News: NHS App: NHS App e&#45;RS Referral Notifications service, due to go&#45;live on Friday 11th September 2026 &#45; Primary Care Stakeholders Briefing",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-11",
+    "fetchedDate": "2026-09-11T10:15:53.677Z",
+    "contentHash": "439d351622e99302",
+    "content": "NHS App: NHS App e-RS Referral Notifications service, due to go-live on Friday 11th September 2026 - Primary Care Stakeholders Briefing",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "NHS App: NHS App e-RS Referral Notifications service, due to go-live on Friday 11th September 2026 - Primary Care Stakeholders Briefing"
+    }
   }
 }
