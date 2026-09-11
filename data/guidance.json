@@ -4860,5 +4860,22 @@
       "estimatedReadTime": 1,
       "description": "Access the 2026-27 flu vaccination campaign toolkit, providing resources to support patient engagement, practice communications and delivery of the seasonal flu vaccination programme."
     }
+  },
+  "content:6b8318e6ef7d88ab": {
+    "id": "content:6b8318e6ef7d88ab",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/ncl-suicide-prevention-referral-resource-for-professionals-and-volunteers",
+    "title": "News: NCL Suicide prevention referral resource for professionals and volunteers",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-11",
+    "fetchedDate": "2026-09-11T20:13:51.075Z",
+    "contentHash": "67f8ce8a7fa6847f",
+    "content": "The north central London Suicide Prevention Programme has created a resource to help support people experiencing suicidal thoughts and signpost them to local voluntary services.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 25,
+      "estimatedReadTime": 1,
+      "description": "The north central London Suicide Prevention Programme has created a resource to help support people experiencing suicidal thoughts and signpost them to local voluntary services."
+    }
   }
 }

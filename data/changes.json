@@ -3144,5 +3144,16 @@
     "previousHash": null,
     "newHash": "bbaaf229a01fd947",
     "acknowledged": false
+  },
+  "change:1789157631075:6b8318e6ef7d88ab": {
+    "id": "change:1789157631075:6b8318e6ef7d88ab",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/ncl-suicide-prevention-referral-resource-for-professionals-and-volunteers",
+    "title": "News: NCL Suicide prevention referral resource for professionals and volunteers",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-11T20:13:51.075Z",
+    "previousHash": null,
+    "newHash": "67f8ce8a7fa6847f",
+    "acknowledged": false
   }
 }
