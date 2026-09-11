@@ -3133,5 +3133,16 @@
     "previousHash": null,
     "newHash": "439d351622e99302",
     "acknowledged": false
+  },
+  "change:1789140804270:afc3540b434ba41b": {
+    "id": "change:1789140804270:afc3540b434ba41b",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/access-the-2026-27-flu-vaccination-campaign-toolkit",
+    "title": "News: Access the 2026&#45;27 Flu vaccination campaign toolkit",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-11T15:33:24.270Z",
+    "previousHash": null,
+    "newHash": "bbaaf229a01fd947",
+    "acknowledged": false
   }
 }
