@@ -4877,5 +4877,22 @@
       "estimatedReadTime": 1,
       "description": "The north central London Suicide Prevention Programme has created a resource to help support people experiencing suicidal thoughts and signpost them to local voluntary services."
     }
+  },
+  "content:92c4509c2bbcc897": {
+    "id": "content:92c4509c2bbcc897",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-7-11-september-2026",
+    "title": "News: EMIS Global update: 7&#45;11 September 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-14",
+    "fetchedDate": "2026-09-14T17:16:43.574Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }
