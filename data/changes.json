@@ -3199,5 +3199,16 @@
     "previousHash": null,
     "newHash": "8666c877c2cd314a",
     "acknowledged": false
+  },
+  "change:1789591198746:06e91cc67a51c80e": {
+    "id": "change:1789591198746:06e91cc67a51c80e",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/immunisations-and-vaccinations/flu-vaccine",
+    "title": "Page: Flu vaccine",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-16T20:39:58.746Z",
+    "previousHash": null,
+    "newHash": "3b1925edd5f713d7",
+    "acknowledged": false
   }
 }

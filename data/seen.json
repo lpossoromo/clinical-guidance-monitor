@@ -2404,5 +2404,13 @@
     "discovered": "2026-09-16T15:48:16.128Z",
     "publishedDate": "Wed, 16 Sep 2026 09:16:31 +0000",
     "source": "ncl"
+  },
+  "ncl:06e91cc67a51c80e": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/immunisations-and-vaccinations/flu-vaccine",
+    "title": "Page: Flu vaccine",
+    "description": "The 2026-27 Flu Vaccine Toolkit provides resources to support patient engagement, practice communications and delivery of the seasonal flu vaccination programme.",
+    "discovered": "2026-09-16T20:39:58.746Z",
+    "publishedDate": "Wed, 16 Sep 2026 15:50:41 +0000",
+    "source": "ncl"
   }
 }

@@ -4945,5 +4945,22 @@
       "estimatedReadTime": 1,
       "description": "The update process will vary for individuals, depending on whether devices are NCL or NWL built. Read the guidance for users."
     }
+  },
+  "content:06e91cc67a51c80e": {
+    "id": "content:06e91cc67a51c80e",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/immunisations-and-vaccinations/flu-vaccine",
+    "title": "Page: Flu vaccine",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-16",
+    "fetchedDate": "2026-09-16T20:39:58.746Z",
+    "contentHash": "3b1925edd5f713d7",
+    "content": "The 2026-27 Flu Vaccine Toolkit provides resources to support patient engagement, practice communications and delivery of the seasonal flu vaccination programme.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "The 2026-27 Flu Vaccine Toolkit provides resources to support patient engagement, practice communications and delivery of the seasonal flu vaccination programme."
+    }
   }
 }
