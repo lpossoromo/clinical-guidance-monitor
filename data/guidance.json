@@ -4928,5 +4928,22 @@
       "estimatedReadTime": 1,
       "description": "The update process will vary depending on whether devices are NCL or NWL built. Read the guidance for users."
     }
+  },
+  "content:dc478d29c13ce2b1": {
+    "id": "content:dc478d29c13ce2b1",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/mandatory-software-upgrade-to-nhs-smartcard-connect-needed",
+    "title": "News: Mandatory software upgrade to NHS Smartcard Connect needed",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-16",
+    "fetchedDate": "2026-09-16T15:48:16.128Z",
+    "contentHash": "8666c877c2cd314a",
+    "content": "The update process will vary for individuals, depending on whether devices are NCL or NWL built. Read the guidance for users.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "The update process will vary for individuals, depending on whether devices are NCL or NWL built. Read the guidance for users."
+    }
   }
 }

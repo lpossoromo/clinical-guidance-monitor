@@ -3188,5 +3188,16 @@
     "previousHash": null,
     "newHash": "bc5aa579446d65e0",
     "acknowledged": false
+  },
+  "change:1789573696129:dc478d29c13ce2b1": {
+    "id": "change:1789573696129:dc478d29c13ce2b1",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/mandatory-software-upgrade-to-nhs-smartcard-connect-needed",
+    "title": "News: Mandatory software upgrade to NHS Smartcard Connect needed",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-16T15:48:16.128Z",
+    "previousHash": null,
+    "newHash": "8666c877c2cd314a",
+    "acknowledged": false
   }
 }

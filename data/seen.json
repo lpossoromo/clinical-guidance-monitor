@@ -2396,5 +2396,13 @@
     "discovered": "2026-09-16T10:30:55.765Z",
     "publishedDate": "Wed, 16 Sep 2026 09:16:31 +0000",
     "source": "ncl"
+  },
+  "ncl:dc478d29c13ce2b1": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/mandatory-software-upgrade-to-nhs-smartcard-connect-needed",
+    "title": "News: Mandatory software upgrade to NHS Smartcard Connect needed",
+    "description": "The update process will vary for individuals, depending on whether devices are NCL or NWL built. Read the guidance for users.",
+    "discovered": "2026-09-16T15:48:16.128Z",
+    "publishedDate": "Wed, 16 Sep 2026 09:16:31 +0000",
+    "source": "ncl"
   }
 }
