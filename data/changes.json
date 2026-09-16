@@ -3166,5 +3166,27 @@
     "previousHash": null,
     "newHash": "830057a78b6591d9",
     "acknowledged": false
+  },
+  "change:1789554655765:e170916d44145cae": {
+    "id": "change:1789554655765:e170916d44145cae",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nmuh-update-on-microbiology-service",
+    "title": "News: NMUH: Update on microbiology service",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-16T10:30:55.764Z",
+    "previousHash": null,
+    "newHash": "dbdb973b8f8b0c41",
+    "acknowledged": false
+  },
+  "change:1789554655766:2c87a4b93e7c6c6d": {
+    "id": "change:1789554655766:2c87a4b93e7c6c6d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/mandatory-software-upgrade-to-nhs-smartcard-connect-starts-16-september",
+    "title": "News: Mandatory software upgrade to NHS Smartcard Connect starts 16 September",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-16T10:30:55.766Z",
+    "previousHash": null,
+    "newHash": "bc5aa579446d65e0",
+    "acknowledged": false
   }
 }

@@ -2380,5 +2380,21 @@
     "discovered": "2026-09-14T17:16:43.574Z",
     "publishedDate": "Mon, 14 Sep 2026 15:41:32 +0000",
     "source": "ncl"
+  },
+  "ncl:e170916d44145cae": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nmuh-update-on-microbiology-service",
+    "title": "News: NMUH: Update on microbiology service",
+    "description": "Updates support more appropriate testing pathways and align with national standards. Process for ordering tests remains unchanged.",
+    "discovered": "2026-09-16T10:30:55.764Z",
+    "publishedDate": "Wed, 16 Sep 2026 09:51:34 +0000",
+    "source": "ncl"
+  },
+  "ncl:2c87a4b93e7c6c6d": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/mandatory-software-upgrade-to-nhs-smartcard-connect-starts-16-september",
+    "title": "News: Mandatory software upgrade to NHS Smartcard Connect starts 16 September",
+    "description": "The update process will vary depending on whether devices are NCL or NWL built. Read the guidance for users.",
+    "discovered": "2026-09-16T10:30:55.765Z",
+    "publishedDate": "Wed, 16 Sep 2026 09:16:31 +0000",
+    "source": "ncl"
   }
 }
