@@ -3210,5 +3210,27 @@
     "previousHash": null,
     "newHash": "3b1925edd5f713d7",
     "acknowledged": false
+  },
+  "change:1789745329236:083b38a4d04bbd1f": {
+    "id": "change:1789745329236:083b38a4d04bbd1f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/immunisation-update-training",
+    "title": "Event: Immunisation Update Training",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-18T15:28:49.236Z",
+    "previousHash": null,
+    "newHash": "7ca8159bd4f6ec21",
+    "acknowledged": false
+  },
+  "change:1789745329237:47bc042ec069ba04": {
+    "id": "change:1789745329237:47bc042ec069ba04",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/non-clinical-staff-immunisation-training",
+    "title": "Event: Non&#45;Clinical Staff Immunisation Training",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-18T15:28:49.237Z",
+    "previousHash": null,
+    "newHash": "a1681727cb575f7c",
+    "acknowledged": false
   }
 }

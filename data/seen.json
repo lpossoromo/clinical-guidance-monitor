@@ -2412,5 +2412,21 @@
     "discovered": "2026-09-16T20:39:58.746Z",
     "publishedDate": "Wed, 16 Sep 2026 15:50:41 +0000",
     "source": "ncl"
+  },
+  "ncl:083b38a4d04bbd1f": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/immunisation-update-training",
+    "title": "Event: Immunisation Update Training",
+    "description": "The next opportunity to attend is at 9.00 on Tuesday 6 October.",
+    "discovered": "2026-09-18T15:28:49.236Z",
+    "publishedDate": "Fri, 18 Sep 2026 14:32:17 +0000",
+    "source": "ncl"
+  },
+  "ncl:47bc042ec069ba04": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/non-clinical-staff-immunisation-training",
+    "title": "Event: Non&#45;Clinical Staff Immunisation Training",
+    "description": "The next opportunity to attend is at 12.30 on Thursday 8 October.",
+    "discovered": "2026-09-18T15:28:49.237Z",
+    "publishedDate": "Fri, 18 Sep 2026 14:30:12 +0000",
+    "source": "ncl"
   }
 }

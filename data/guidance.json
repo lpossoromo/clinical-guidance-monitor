@@ -4962,5 +4962,39 @@
       "estimatedReadTime": 1,
       "description": "The 2026-27 Flu Vaccine Toolkit provides resources to support patient engagement, practice communications and delivery of the seasonal flu vaccination programme."
     }
+  },
+  "content:083b38a4d04bbd1f": {
+    "id": "content:083b38a4d04bbd1f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/immunisation-update-training",
+    "title": "Event: Immunisation Update Training",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-18",
+    "fetchedDate": "2026-09-18T15:28:49.236Z",
+    "contentHash": "7ca8159bd4f6ec21",
+    "content": "The next opportunity to attend is at 9.00 on Tuesday 6 October.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 12,
+      "estimatedReadTime": 1,
+      "description": "The next opportunity to attend is at 9.00 on Tuesday 6 October."
+    }
+  },
+  "content:47bc042ec069ba04": {
+    "id": "content:47bc042ec069ba04",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/non-clinical-staff-immunisation-training",
+    "title": "Event: Non&#45;Clinical Staff Immunisation Training",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-18",
+    "fetchedDate": "2026-09-18T15:28:49.237Z",
+    "contentHash": "a1681727cb575f7c",
+    "content": "The next opportunity to attend is at 12.30 on Thursday 8 October.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 12,
+      "estimatedReadTime": 1,
+      "description": "The next opportunity to attend is at 12.30 on Thursday 8 October."
+    }
   }
 }
