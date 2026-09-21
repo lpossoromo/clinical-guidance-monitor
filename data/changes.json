@@ -3232,5 +3232,16 @@
     "previousHash": null,
     "newHash": "a1681727cb575f7c",
     "acknowledged": false
+  },
+  "change:1790011699823:811caf6ad641c471": {
+    "id": "change:1790011699823:811caf6ad641c471",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nhs-app-e-referral-service-notifications",
+    "title": "News: NHS App: e&#45;Referral Service notifications",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-21T17:28:19.822Z",
+    "previousHash": null,
+    "newHash": "8c104cca9294f5d0",
+    "acknowledged": false
   }
 }

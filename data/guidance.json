@@ -4996,5 +4996,22 @@
       "estimatedReadTime": 1,
       "description": "The next opportunity to attend is at 12.30 on Thursday 8 October."
     }
+  },
+  "content:811caf6ad641c471": {
+    "id": "content:811caf6ad641c471",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nhs-app-e-referral-service-notifications",
+    "title": "News: NHS App: e&#45;Referral Service notifications",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-21",
+    "fetchedDate": "2026-09-21T17:28:19.822Z",
+    "contentHash": "8c104cca9294f5d0",
+    "content": "Patients can now receive updates on referral sent via eRS through the NHS App, helping to provide transparency and reassurance while requiring no action from practices.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 26,
+      "estimatedReadTime": 1,
+      "description": "Patients can now receive updates on referral sent via eRS through the NHS App, helping to provide transparency and reassurance while requiring no action from practices."
+    }
   }
 }

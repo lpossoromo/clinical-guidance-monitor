@@ -2428,5 +2428,13 @@
     "discovered": "2026-09-18T15:28:49.237Z",
     "publishedDate": "Fri, 18 Sep 2026 14:30:12 +0000",
     "source": "ncl"
+  },
+  "ncl:811caf6ad641c471": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nhs-app-e-referral-service-notifications",
+    "title": "News: NHS App: e&#45;Referral Service notifications",
+    "description": "Patients can now receive updates on referral sent via eRS through the NHS App, helping to provide transparency and reassurance while requiring no action from practices.",
+    "discovered": "2026-09-21T17:28:19.822Z",
+    "publishedDate": "Mon, 21 Sep 2026 13:15:05 +0000",
+    "source": "ncl"
   }
 }
