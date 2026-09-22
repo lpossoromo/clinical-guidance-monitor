@@ -5047,5 +5047,22 @@
       "estimatedReadTime": 1,
       "description": "Improve access to essential medicines for EOLC patients"
     }
+  },
+  "content:45b1e926b40e5d51": {
+    "id": "content:45b1e926b40e5d51",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/opportunity-mental-health-clinical-lead",
+    "title": "News: Opportunity: Mental health clinical lead role",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-22",
+    "fetchedDate": "2026-09-22T15:59:08.339Z",
+    "contentHash": "e0b4cbd3af0954fb",
+    "content": "The Medical Job Planning Programme is seeking a mental health clinical lead to enhance job planning, supporting workforce deployment and patient care in mental health services. The deadline for applications is Wednesday 30&nbsp;September.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "The Medical Job Planning Programme is seeking a mental health clinical lead to enhance job planning, supporting workforce deployment and patient care in mental health services. The deadline for applic"
+    }
   }
 }

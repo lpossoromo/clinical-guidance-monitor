@@ -3265,5 +3265,16 @@
     "previousHash": null,
     "newHash": "c27ec4142f53e3b5",
     "acknowledged": false
+  },
+  "change:1790092748339:45b1e926b40e5d51": {
+    "id": "change:1790092748339:45b1e926b40e5d51",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/opportunity-mental-health-clinical-lead",
+    "title": "News: Opportunity: Mental health clinical lead role",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-22T15:59:08.339Z",
+    "previousHash": null,
+    "newHash": "e0b4cbd3af0954fb",
+    "acknowledged": false
   }
 }
