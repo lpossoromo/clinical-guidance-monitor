@@ -3243,5 +3243,27 @@
     "previousHash": null,
     "newHash": "8c104cca9294f5d0",
     "acknowledged": false
+  },
+  "change:1790073420979:03f78653fd99e91e": {
+    "id": "change:1790073420979:03f78653fd99e91e",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-14-18-september-2026",
+    "title": "News: EMIS Global update: 14&#45;18 September 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-22T10:37:00.979Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
+  },
+  "change:1790073420980:300a3fd74eb1e737": {
+    "id": "change:1790073420980:300a3fd74eb1e737",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/community-pharmacy-palliative-care-medicines-service-for-legacy-north-west-london-icb-boroughs",
+    "title": "News: Community Pharmacy Palliative Care Medicines Service for legacy North West London ICB boroughs",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-22T10:37:00.980Z",
+    "previousHash": null,
+    "newHash": "c27ec4142f53e3b5",
+    "acknowledged": false
   }
 }

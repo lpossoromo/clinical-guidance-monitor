@@ -2436,5 +2436,21 @@
     "discovered": "2026-09-21T17:28:19.822Z",
     "publishedDate": "Mon, 21 Sep 2026 13:15:05 +0000",
     "source": "ncl"
+  },
+  "ncl:03f78653fd99e91e": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-14-18-september-2026",
+    "title": "News: EMIS Global update: 14&#45;18 September 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-09-22T10:37:00.979Z",
+    "publishedDate": "Tue, 22 Sep 2026 09:48:29 +0000",
+    "source": "ncl"
+  },
+  "ncl:300a3fd74eb1e737": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/community-pharmacy-palliative-care-medicines-service-for-legacy-north-west-london-icb-boroughs",
+    "title": "News: Community Pharmacy Palliative Care Medicines Service for legacy North West London ICB boroughs",
+    "description": "Improve access to essential medicines for EOLC patients",
+    "discovered": "2026-09-22T10:37:00.980Z",
+    "publishedDate": "Tue, 22 Sep 2026 09:11:38 +0000",
+    "source": "ncl"
   }
 }
