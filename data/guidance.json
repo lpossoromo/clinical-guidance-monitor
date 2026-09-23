@@ -5064,5 +5064,39 @@
       "estimatedReadTime": 1,
       "description": "The Medical Job Planning Programme is seeking a mental health clinical lead to enhance job planning, supporting workforce deployment and patient care in mental health services. The deadline for applic"
     }
+  },
+  "content:34e2735b2659caa0": {
+    "id": "content:34e2735b2659caa0",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/royal-college-of-general-practitioners-gambling-harms-webinar-supporting-patients-experiencing-gambling-harms-in-london",
+    "title": "Event: Royal College of General Practitioners Gambling Harms Webinar: Supporting patients experiencing gambling harms in London",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-23",
+    "fetchedDate": "2026-09-23T15:48:27.113Z",
+    "contentHash": "0645e6e6e3c76437",
+    "content": "Join this webinar on identifying gambling harms in primary care. The session covers NICE guidance and local support pathways for patients in London. At 12.30 on Thursday 15 October.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 29,
+      "estimatedReadTime": 1,
+      "description": "Join this webinar on identifying gambling harms in primary care. The session covers NICE guidance and local support pathways for patients in London. At 12.30 on Thursday 15 October."
+    }
+  },
+  "content:e9dfbfd1e91462bc": {
+    "id": "content:e9dfbfd1e91462bc",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/cnwl-sexual-health-hiv-service-update-in-hiv-and-hepatitis",
+    "title": "Event: CNWL Sexual Health &amp; HIV Service: Update in HIV and Hepatitis",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-23",
+    "fetchedDate": "2026-09-23T15:48:27.114Z",
+    "contentHash": "a8b44d7dbac663d7",
+    "content": "Join this in-person update on HIV and hepatitis for all health care professionals. Covering trends, testing tips, care management, and the role of support workers in clinics. Thursday 26 November from 8.45am to 1pm.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 34,
+      "estimatedReadTime": 1,
+      "description": "Join this in-person update on HIV and hepatitis for all health care professionals. Covering trends, testing tips, care management, and the role of support workers in clinics. Thursday 26 November from"
+    }
   }
 }

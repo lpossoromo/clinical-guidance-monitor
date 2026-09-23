@@ -2460,5 +2460,21 @@
     "discovered": "2026-09-22T15:59:08.339Z",
     "publishedDate": "Tue, 22 Sep 2026 15:09:31 +0000",
     "source": "ncl"
+  },
+  "ncl:34e2735b2659caa0": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/royal-college-of-general-practitioners-gambling-harms-webinar-supporting-patients-experiencing-gambling-harms-in-london",
+    "title": "Event: Royal College of General Practitioners Gambling Harms Webinar: Supporting patients experiencing gambling harms in London",
+    "description": "Join this webinar on identifying gambling harms in primary care. The session covers NICE guidance and local support pathways for patients in London. At 12.30 on Thursday 15 October.",
+    "discovered": "2026-09-23T15:48:27.113Z",
+    "publishedDate": "Wed, 23 Sep 2026 15:24:09 +0000",
+    "source": "ncl"
+  },
+  "ncl:e9dfbfd1e91462bc": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/cnwl-sexual-health-hiv-service-update-in-hiv-and-hepatitis",
+    "title": "Event: CNWL Sexual Health &amp; HIV Service: Update in HIV and Hepatitis",
+    "description": "Join this in-person update on HIV and hepatitis for all health care professionals. Covering trends, testing tips, care management, and the role of support workers in clinics. Thursday 26 November from 8.45am to 1pm.",
+    "discovered": "2026-09-23T15:48:27.114Z",
+    "publishedDate": "Wed, 23 Sep 2026 15:12:20 +0000",
+    "source": "ncl"
   }
 }

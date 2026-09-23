@@ -3276,5 +3276,27 @@
     "previousHash": null,
     "newHash": "e0b4cbd3af0954fb",
     "acknowledged": false
+  },
+  "change:1790178507114:34e2735b2659caa0": {
+    "id": "change:1790178507114:34e2735b2659caa0",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/royal-college-of-general-practitioners-gambling-harms-webinar-supporting-patients-experiencing-gambling-harms-in-london",
+    "title": "Event: Royal College of General Practitioners Gambling Harms Webinar: Supporting patients experiencing gambling harms in London",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-23T15:48:27.113Z",
+    "previousHash": null,
+    "newHash": "0645e6e6e3c76437",
+    "acknowledged": false
+  },
+  "change:1790178507114:e9dfbfd1e91462bc": {
+    "id": "change:1790178507114:e9dfbfd1e91462bc",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/cnwl-sexual-health-hiv-service-update-in-hiv-and-hepatitis",
+    "title": "Event: CNWL Sexual Health &amp; HIV Service: Update in HIV and Hepatitis",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-23T15:48:27.114Z",
+    "previousHash": null,
+    "newHash": "a8b44d7dbac663d7",
+    "acknowledged": false
   }
 }
