@@ -3309,5 +3309,16 @@
     "previousHash": null,
     "newHash": "1fa67721491875ef",
     "acknowledged": false
+  },
+  "change:1790266216694:654642d08d3e0b8f": {
+    "id": "change:1790266216694:654642d08d3e0b8f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/national-diabetes-audit-2025-26-review-your-practice-performance",
+    "title": "News: National Diabetes Audit 2025/26: Review your practice performance",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-24T16:10:16.694Z",
+    "previousHash": null,
+    "newHash": "9245cb8723c0e2c9",
+    "acknowledged": false
   }
 }
