@@ -5098,5 +5098,22 @@
       "estimatedReadTime": 1,
       "description": "Join this in-person update on HIV and hepatitis for all health care professionals. Covering trends, testing tips, care management, and the role of support workers in clinics. Thursday 26 November from"
     }
+  },
+  "content:baf0a382f31cc0d9": {
+    "id": "content:baf0a382f31cc0d9",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/update-north-west-london-pathology-introduces-new-method-for-faecal-elastase",
+    "title": "News: Update: North West London Pathology introduces new method for faecal elastase",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-24",
+    "fetchedDate": "2026-09-24T10:46:35.483Z",
+    "contentHash": "1fa67721491875ef",
+    "content": "Results are analysed in house using the BA200 platform, improving service quality and efficiency.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 14,
+      "estimatedReadTime": 1,
+      "description": "Results are analysed in house using the BA200 platform, improving service quality and efficiency."
+    }
   }
 }

@@ -3298,5 +3298,16 @@
     "previousHash": null,
     "newHash": "a8b44d7dbac663d7",
     "acknowledged": false
+  },
+  "change:1790246795483:baf0a382f31cc0d9": {
+    "id": "change:1790246795483:baf0a382f31cc0d9",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/update-north-west-london-pathology-introduces-new-method-for-faecal-elastase",
+    "title": "News: Update: North West London Pathology introduces new method for faecal elastase",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-24T10:46:35.483Z",
+    "previousHash": null,
+    "newHash": "1fa67721491875ef",
+    "acknowledged": false
   }
 }

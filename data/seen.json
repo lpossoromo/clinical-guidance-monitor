@@ -2476,5 +2476,13 @@
     "discovered": "2026-09-23T15:48:27.114Z",
     "publishedDate": "Wed, 23 Sep 2026 15:12:20 +0000",
     "source": "ncl"
+  },
+  "ncl:baf0a382f31cc0d9": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/update-north-west-london-pathology-introduces-new-method-for-faecal-elastase",
+    "title": "News: Update: North West London Pathology introduces new method for faecal elastase",
+    "description": "Results are analysed in house using the BA200 platform, improving service quality and efficiency.",
+    "discovered": "2026-09-24T10:46:35.483Z",
+    "publishedDate": "Thu, 24 Sep 2026 09:11:46 +0000",
+    "source": "ncl"
   }
 }
