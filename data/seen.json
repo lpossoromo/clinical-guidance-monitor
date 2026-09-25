@@ -2492,5 +2492,29 @@
     "discovered": "2026-09-24T16:10:16.694Z",
     "publishedDate": "Thu, 24 Sep 2026 14:26:56 +0000",
     "source": "ncl"
+  },
+  "ncl:b5887415ac947cd6": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/black-history-month-celebration-event",
+    "title": "Event: Black History Month Celebration Event",
+    "description": "Celebrate the achievements, resilience and contributions of Black communities as well as working towards provision of equitable healthcare for patients, staff and the community. At 1pm on Thursday 8 October.",
+    "discovered": "2026-09-25T16:10:49.607Z",
+    "publishedDate": "Fri, 25 Sep 2026 14:33:27 +0000",
+    "source": "ncl"
+  },
+  "ncl:b9ddbaf2d610a4c2": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/launch-of-ncl-voices-of-wres-and-edi-podcast",
+    "title": "News: Launch of NCL voices of WRES and EDI podcast",
+    "description": "Listen to the first episode with Dr. Jonathan Levy who shares how a five-year, grassroots project has helped tackled mental health stigma and built trust with Bengali, Somali and Turkish Cypriot communities across Camden, Islington and Haringey.",
+    "discovered": "2026-09-25T16:10:49.608Z",
+    "publishedDate": "Fri, 25 Sep 2026 13:47:39 +0000",
+    "source": "ncl"
+  },
+  "nhs:33348aee97e8a6cf": {
+    "url": "https://www.england.nhs.uk/2026/09/nhs-staff-suspected-snooping-patient-records-immediately-suspended/",
+    "title": "NHS staff suspected of snooping on patient records to be immediately suspended",
+    "description": "NHS staff suspected of improperly and unlawfully accessing patients’ medical records will face immediate suspension and have their access to NHS computer systems cut off, under a zero-tolerance crackdown on “snooping staff”. NHS England has asked every trust to act immediately when staff are suspected of accessing patient records without proper justification — suspending them [&#8230;]",
+    "discovered": "2026-09-25T16:10:50.237Z",
+    "publishedDate": "Fri, 25 Sep 2026 13:36:51 +0000",
+    "source": "nhs"
   }
 }

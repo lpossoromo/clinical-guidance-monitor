@@ -3320,5 +3320,27 @@
     "previousHash": null,
     "newHash": "9245cb8723c0e2c9",
     "acknowledged": false
+  },
+  "change:1790352649607:b5887415ac947cd6": {
+    "id": "change:1790352649607:b5887415ac947cd6",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/black-history-month-celebration-event",
+    "title": "Event: Black History Month Celebration Event",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-25T16:10:49.607Z",
+    "previousHash": null,
+    "newHash": "d39d304b7525dc93",
+    "acknowledged": false
+  },
+  "change:1790352649608:b9ddbaf2d610a4c2": {
+    "id": "change:1790352649608:b9ddbaf2d610a4c2",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/launch-of-ncl-voices-of-wres-and-edi-podcast",
+    "title": "News: Launch of NCL voices of WRES and EDI podcast",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-25T16:10:49.608Z",
+    "previousHash": null,
+    "newHash": "aae0fd085a740980",
+    "acknowledged": false
   }
 }
