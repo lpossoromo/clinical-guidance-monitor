@@ -5166,5 +5166,56 @@
       "estimatedReadTime": 1,
       "description": "Listen to the first episode with Dr. Jonathan Levy who shares how a five-year, grassroots project has helped tackled mental health stigma and built trust with Bengali, Somali and Turkish Cypriot commu"
     }
+  },
+  "content:2c49caba717fb9da": {
+    "id": "content:2c49caba717fb9da",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/universal-care-plan-key-clinical-guidance-available-on-hpal",
+    "title": "News: Universal Care Plan: Key clinical guidance available on HPAL",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-28",
+    "fetchedDate": "2026-09-28T22:46:31.435Z",
+    "contentHash": "fca653a72717a296",
+    "content": "Visit the HPAL website, and explore the local palliative care resources and guidance designed for clinicians and patients across west and north London.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "Visit the HPAL website, and explore the local palliative care resources and guidance designed for clinicians and patients across west and north London."
+    }
+  },
+  "content:225a705d31a900bb": {
+    "id": "content:225a705d31a900bb",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nhs-app-more-central-london-community-healthcare-services-join-the-app",
+    "title": "News: NHS App: More Central London Community Healthcare services join the app",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-28",
+    "fetchedDate": "2026-09-28T22:46:31.436Z",
+    "contentHash": "f5ef973acf0d57df",
+    "content": "CLCH expands services on the NHS App, enhancing patient communication and appointment management through digital tools.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 16,
+      "estimatedReadTime": 1,
+      "description": "CLCH expands services on the NHS App, enhancing patient communication and appointment management through digital tools."
+    }
+  },
+  "content:9d397dc68792f2ac": {
+    "id": "content:9d397dc68792f2ac",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/podcast-launch-voices-of-wres-and-edi",
+    "title": "News: Podcast launch: Voices of WRES and EDI",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-25",
+    "fetchedDate": "2026-09-28T22:46:31.436Z",
+    "contentHash": "aae0fd085a740980",
+    "content": "Listen to the first episode with Dr. Jonathan Levy who shares how a five-year, grassroots project has helped tackled mental health stigma and built trust with Bengali, Somali and Turkish Cypriot communities across Camden, Islington and Haringey.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "Listen to the first episode with Dr. Jonathan Levy who shares how a five-year, grassroots project has helped tackled mental health stigma and built trust with Bengali, Somali and Turkish Cypriot commu"
+    }
   }
 }

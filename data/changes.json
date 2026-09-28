@@ -3342,5 +3342,38 @@
     "previousHash": null,
     "newHash": "aae0fd085a740980",
     "acknowledged": false
+  },
+  "change:1790635591435:2c49caba717fb9da": {
+    "id": "change:1790635591435:2c49caba717fb9da",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/universal-care-plan-key-clinical-guidance-available-on-hpal",
+    "title": "News: Universal Care Plan: Key clinical guidance available on HPAL",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-28T22:46:31.435Z",
+    "previousHash": null,
+    "newHash": "fca653a72717a296",
+    "acknowledged": false
+  },
+  "change:1790635591436:225a705d31a900bb": {
+    "id": "change:1790635591436:225a705d31a900bb",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nhs-app-more-central-london-community-healthcare-services-join-the-app",
+    "title": "News: NHS App: More Central London Community Healthcare services join the app",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-28T22:46:31.436Z",
+    "previousHash": null,
+    "newHash": "f5ef973acf0d57df",
+    "acknowledged": false
+  },
+  "change:1790635591436:9d397dc68792f2ac": {
+    "id": "change:1790635591436:9d397dc68792f2ac",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/podcast-launch-voices-of-wres-and-edi",
+    "title": "News: Podcast launch: Voices of WRES and EDI",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-28T22:46:31.436Z",
+    "previousHash": null,
+    "newHash": "aae0fd085a740980",
+    "acknowledged": false
   }
 }

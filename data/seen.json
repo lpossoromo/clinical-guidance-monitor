@@ -2516,5 +2516,29 @@
     "discovered": "2026-09-25T16:10:50.237Z",
     "publishedDate": "Fri, 25 Sep 2026 13:36:51 +0000",
     "source": "nhs"
+  },
+  "ncl:2c49caba717fb9da": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/universal-care-plan-key-clinical-guidance-available-on-hpal",
+    "title": "News: Universal Care Plan: Key clinical guidance available on HPAL",
+    "description": "Visit the HPAL website, and explore the local palliative care resources and guidance designed for clinicians and patients across west and north London.",
+    "discovered": "2026-09-28T22:46:31.435Z",
+    "publishedDate": "Mon, 28 Sep 2026 16:24:49 +0000",
+    "source": "ncl"
+  },
+  "ncl:225a705d31a900bb": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nhs-app-more-central-london-community-healthcare-services-join-the-app",
+    "title": "News: NHS App: More Central London Community Healthcare services join the app",
+    "description": "CLCH expands services on the NHS App, enhancing patient communication and appointment management through digital tools.",
+    "discovered": "2026-09-28T22:46:31.436Z",
+    "publishedDate": "Mon, 28 Sep 2026 15:41:41 +0000",
+    "source": "ncl"
+  },
+  "ncl:9d397dc68792f2ac": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/podcast-launch-voices-of-wres-and-edi",
+    "title": "News: Podcast launch: Voices of WRES and EDI",
+    "description": "Listen to the first episode with Dr. Jonathan Levy who shares how a five-year, grassroots project has helped tackled mental health stigma and built trust with Bengali, Somali and Turkish Cypriot communities across Camden, Islington and Haringey.",
+    "discovered": "2026-09-28T22:46:31.436Z",
+    "publishedDate": "Fri, 25 Sep 2026 13:47:39 +0000",
+    "source": "ncl"
   }
 }
