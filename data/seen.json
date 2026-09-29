@@ -2540,5 +2540,21 @@
     "discovered": "2026-09-28T22:46:31.436Z",
     "publishedDate": "Fri, 25 Sep 2026 13:47:39 +0000",
     "source": "ncl"
+  },
+  "ncl:10096cccf15ce1a5": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/clinical-documents-to-primary-care-via-message-exchange-for-social-care-and-health-mesh",
+    "title": "News: Clinical documents to Primary Care via Message Exchange for Social Care and Health (MESH)",
+    "description": "Move to new system to improve patient safety and fewer delivery failures.",
+    "discovered": "2026-09-29T11:49:51.763Z",
+    "publishedDate": "Tue, 29 Sep 2026 11:12:52 +0000",
+    "source": "ncl"
+  },
+  "ncl:8fc3d76bde904ca6": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-21-25-september-2026",
+    "title": "News: EMIS Global update: 21&#45;25 September 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-09-29T11:49:51.764Z",
+    "publishedDate": "Tue, 29 Sep 2026 09:51:15 +0000",
+    "source": "ncl"
   }
 }

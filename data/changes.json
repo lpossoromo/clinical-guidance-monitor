@@ -3375,5 +3375,27 @@
     "previousHash": null,
     "newHash": "aae0fd085a740980",
     "acknowledged": false
+  },
+  "change:1790682591764:10096cccf15ce1a5": {
+    "id": "change:1790682591764:10096cccf15ce1a5",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/clinical-documents-to-primary-care-via-message-exchange-for-social-care-and-health-mesh",
+    "title": "News: Clinical documents to Primary Care via Message Exchange for Social Care and Health (MESH)",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-29T11:49:51.763Z",
+    "previousHash": null,
+    "newHash": "fa72c7d590f0b58b",
+    "acknowledged": false
+  },
+  "change:1790682591764:8fc3d76bde904ca6": {
+    "id": "change:1790682591764:8fc3d76bde904ca6",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-21-25-september-2026",
+    "title": "News: EMIS Global update: 21&#45;25 September 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-29T11:49:51.764Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
   }
 }

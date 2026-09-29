@@ -5217,5 +5217,39 @@
       "estimatedReadTime": 1,
       "description": "Listen to the first episode with Dr. Jonathan Levy who shares how a five-year, grassroots project has helped tackled mental health stigma and built trust with Bengali, Somali and Turkish Cypriot commu"
     }
+  },
+  "content:10096cccf15ce1a5": {
+    "id": "content:10096cccf15ce1a5",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/clinical-documents-to-primary-care-via-message-exchange-for-social-care-and-health-mesh",
+    "title": "News: Clinical documents to Primary Care via Message Exchange for Social Care and Health (MESH)",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-29",
+    "fetchedDate": "2026-09-29T11:49:51.763Z",
+    "contentHash": "fa72c7d590f0b58b",
+    "content": "Move to new system to improve patient safety and fewer delivery failures.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 12,
+      "estimatedReadTime": 1,
+      "description": "Move to new system to improve patient safety and fewer delivery failures."
+    }
+  },
+  "content:8fc3d76bde904ca6": {
+    "id": "content:8fc3d76bde904ca6",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-21-25-september-2026",
+    "title": "News: EMIS Global update: 21&#45;25 September 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-09-29",
+    "fetchedDate": "2026-09-29T11:49:51.764Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }
