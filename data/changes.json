@@ -3397,5 +3397,16 @@
     "previousHash": null,
     "newHash": "830057a78b6591d9",
     "acknowledged": false
+  },
+  "change:1790702308155:fb6f3eb222e3c202": {
+    "id": "change:1790702308155:fb6f3eb222e3c202",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/access-the-updated-guide-to-parental-responsibility",
+    "title": "News: Access the updated guide to parental responsibility",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-09-29T17:18:28.155Z",
+    "previousHash": null,
+    "newHash": "f56cf86e9ea7e500",
+    "acknowledged": false
   }
 }
