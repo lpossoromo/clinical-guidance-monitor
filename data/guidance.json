@@ -5268,5 +5268,22 @@
       "estimatedReadTime": 1,
       "description": "Explore updated guidance on parental responsibility, with additional resources on complex queries like surrogacy, kinship care, and consent."
     }
+  },
+  "content:a117c99b02fe1cf4": {
+    "id": "content:a117c99b02fe1cf4",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/ncl-publishes-updated-vitamin-d-monitoring-guidance",
+    "title": "News: NCL publishes updated vitamin D monitoring guidance",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-01",
+    "fetchedDate": "2026-10-01T12:05:40.030Z",
+    "contentHash": "4ac15e7abb7eb2fb",
+    "content": "This guideline supports the Right Test, Right Time initiative by promoting appropriate vitamin D testing in North Central Lonon hospitals and primary care to improve efficiency and reduce unnecessary tests, with clear indications.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "This guideline supports the Right Test, Right Time initiative by promoting appropriate vitamin D testing in North Central Lonon hospitals and primary care to improve efficiency and reduce unnecessary "
+    }
   }
 }
