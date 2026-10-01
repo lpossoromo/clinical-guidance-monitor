@@ -3419,5 +3419,16 @@
     "previousHash": null,
     "newHash": "4ac15e7abb7eb2fb",
     "acknowledged": false
+  },
+  "change:1790892514139:9752ec2d5edf960a": {
+    "id": "change:1790892514139:9752ec2d5edf960a",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/expression-of-interest-ncl-coaching-for-health-training",
+    "title": "News: Expression of interest: NCL Coaching for Health training",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-01T22:08:34.139Z",
+    "previousHash": null,
+    "newHash": "e467263b603fdb0c",
+    "acknowledged": false
   }
 }

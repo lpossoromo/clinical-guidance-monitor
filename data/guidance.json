@@ -5285,5 +5285,22 @@
       "estimatedReadTime": 1,
       "description": "This guideline supports the Right Test, Right Time initiative by promoting appropriate vitamin D testing in North Central Lonon hospitals and primary care to improve efficiency and reduce unnecessary "
     }
+  },
+  "content:9752ec2d5edf960a": {
+    "id": "content:9752ec2d5edf960a",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/expression-of-interest-ncl-coaching-for-health-training",
+    "title": "News: Expression of interest: NCL Coaching for Health training",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-01",
+    "fetchedDate": "2026-10-01T22:08:34.139Z",
+    "contentHash": "e467263b603fdb0c",
+    "content": "NCL Training Hub offers coaching training for clinical professionals to support patient health goals. Sessions run via Zoom in November 2026 to March 2027. Submit an expression of interest by close of play on",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 34,
+      "estimatedReadTime": 1,
+      "description": "NCL Training Hub offers coaching training for clinical professionals to support patient health goals. Sessions run via Zoom in November 2026 to March 2027. Submit an expression of interest by close of"
+    }
   }
 }
