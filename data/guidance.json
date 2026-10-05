@@ -5302,5 +5302,22 @@
       "estimatedReadTime": 1,
       "description": "NCL Training Hub offers coaching training for clinical professionals to support patient health goals. Sessions run via Zoom in November 2026 to March 2027. Submit an expression of interest by close of"
     }
+  },
+  "content:7b32b0862f399c77": {
+    "id": "content:7b32b0862f399c77",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-28-september-2-october-2026",
+    "title": "News: EMIS Global update: 28 September &#45; 2 October 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-05",
+    "fetchedDate": "2026-10-05T23:29:30.338Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }
