@@ -5319,5 +5319,22 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global."
     }
+  },
+  "content:5dcd946e5ffda9eb": {
+    "id": "content:5dcd946e5ffda9eb",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/patient-self-referral-share-your-views-in-the-nhs-england-survey",
+    "title": "News: Patient self&#45;referral: Share your views in the NHS England survey",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-06",
+    "fetchedDate": "2026-10-06T22:02:04.392Z",
+    "contentHash": "44ece4bd02f2c611",
+    "content": "NHS England is seeking input from GPs and practice staff to help shape how information about patient self-referrals is managed nationally. Share your views.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 24,
+      "estimatedReadTime": 1,
+      "description": "NHS England is seeking input from GPs and practice staff to help shape how information about patient self-referrals is managed nationally. Share your views."
+    }
   }
 }

@@ -3441,5 +3441,16 @@
     "previousHash": null,
     "newHash": "830057a78b6591d9",
     "acknowledged": false
+  },
+  "change:1791324124392:5dcd946e5ffda9eb": {
+    "id": "change:1791324124392:5dcd946e5ffda9eb",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/patient-self-referral-share-your-views-in-the-nhs-england-survey",
+    "title": "News: Patient self&#45;referral: Share your views in the NHS England survey",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-06T22:02:04.392Z",
+    "previousHash": null,
+    "newHash": "44ece4bd02f2c611",
+    "acknowledged": false
   }
 }
