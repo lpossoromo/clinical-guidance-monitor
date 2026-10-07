@@ -3452,5 +3452,16 @@
     "previousHash": null,
     "newHash": "44ece4bd02f2c611",
     "acknowledged": false
+  },
+  "change:1791375624315:9a12eab0152c236b": {
+    "id": "change:1791375624315:9a12eab0152c236b",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/immunisation-update-training-1",
+    "title": "Event: Immunisation Update Training",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-07T12:20:24.315Z",
+    "previousHash": null,
+    "newHash": "7478913ddf28cba5",
+    "acknowledged": false
   }
 }

@@ -5336,5 +5336,22 @@
       "estimatedReadTime": 1,
       "description": "NHS England is seeking input from GPs and practice staff to help shape how information about patient self-referrals is managed nationally. Share your views."
     }
+  },
+  "content:9a12eab0152c236b": {
+    "id": "content:9a12eab0152c236b",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/immunisation-update-training-1",
+    "title": "Event: Immunisation Update Training",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-07",
+    "fetchedDate": "2026-10-07T12:20:24.315Z",
+    "contentHash": "7478913ddf28cba5",
+    "content": "Enhance your immunisation skills with specialised training for healthcare professionals across north central London. 1pm on Friday 23 October.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 19,
+      "estimatedReadTime": 1,
+      "description": "Enhance your immunisation skills with specialised training for healthcare professionals across north central London. 1pm on Friday 23 October."
+    }
   }
 }
