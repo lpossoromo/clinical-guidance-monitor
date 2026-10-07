@@ -2604,5 +2604,13 @@
     "discovered": "2026-10-07T12:20:24.315Z",
     "publishedDate": "Wed, 07 Oct 2026 09:52:49 +0000",
     "source": "ncl"
+  },
+  "ncl:edf3829c81d18b9d": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/updated-vitamin-d-monitoring-guidance",
+    "title": "News: Updated vitamin D monitoring guidance",
+    "description": "This guideline supports the Right Test, Right Time initiative by promoting appropriate vitamin D testing in north central Lonon hospitals and primary care to improve efficiency and reduce unnecessary tests, with clear indications.",
+    "discovered": "2026-10-07T22:26:58.406Z",
+    "publishedDate": "Wed, 07 Oct 2026 10:26:57 +0000",
+    "source": "ncl"
   }
 }

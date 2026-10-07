@@ -5353,5 +5353,22 @@
       "estimatedReadTime": 1,
       "description": "Enhance your immunisation skills with specialised training for healthcare professionals across north central London. 1pm on Friday 23 October."
     }
+  },
+  "content:edf3829c81d18b9d": {
+    "id": "content:edf3829c81d18b9d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/updated-vitamin-d-monitoring-guidance",
+    "title": "News: Updated vitamin D monitoring guidance",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-07",
+    "fetchedDate": "2026-10-07T22:26:58.406Z",
+    "contentHash": "fc37a2e3dcf531b0",
+    "content": "This guideline supports the Right Test, Right Time initiative by promoting appropriate vitamin D testing in north central Lonon hospitals and primary care to improve efficiency and reduce unnecessary tests, with clear indications.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "This guideline supports the Right Test, Right Time initiative by promoting appropriate vitamin D testing in north central Lonon hospitals and primary care to improve efficiency and reduce unnecessary "
+    }
   }
 }

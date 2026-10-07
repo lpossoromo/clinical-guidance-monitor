@@ -3463,5 +3463,16 @@
     "previousHash": null,
     "newHash": "7478913ddf28cba5",
     "acknowledged": false
+  },
+  "change:1791412018406:edf3829c81d18b9d": {
+    "id": "change:1791412018406:edf3829c81d18b9d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/updated-vitamin-d-monitoring-guidance",
+    "title": "News: Updated vitamin D monitoring guidance",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-07T22:26:58.406Z",
+    "previousHash": null,
+    "newHash": "fc37a2e3dcf531b0",
+    "acknowledged": false
   }
 }
