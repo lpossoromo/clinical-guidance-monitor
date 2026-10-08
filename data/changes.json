@@ -3474,5 +3474,16 @@
     "previousHash": null,
     "newHash": "fc37a2e3dcf531b0",
     "acknowledged": false
+  },
+  "change:1791462598074:90d060914f838d7c": {
+    "id": "change:1791462598074:90d060914f838d7c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/help-shape-the-west-and-north-london-integrated-care-coordination-hub",
+    "title": "News: Help shape the West and North London Integrated Care Coordination Hub",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-08T12:29:58.073Z",
+    "previousHash": null,
+    "newHash": "9ea3e9aecc572017",
+    "acknowledged": false
   }
 }

@@ -5370,5 +5370,22 @@
       "estimatedReadTime": 1,
       "description": "This guideline supports the Right Test, Right Time initiative by promoting appropriate vitamin D testing in north central Lonon hospitals and primary care to improve efficiency and reduce unnecessary "
     }
+  },
+  "content:90d060914f838d7c": {
+    "id": "content:90d060914f838d7c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/help-shape-the-west-and-north-london-integrated-care-coordination-hub",
+    "title": "News: Help shape the West and North London Integrated Care Coordination Hub",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-08",
+    "fetchedDate": "2026-10-08T12:29:58.073Z",
+    "contentHash": "9ea3e9aecc572017",
+    "content": "The ICC Hub is seeking GPs and senior clinicians to contribute their expertise, support clinical decision-making, and help develop the next phase of this innovative service. Find out more and register your interest.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "The ICC Hub is seeking GPs and senior clinicians to contribute their expertise, support clinical decision-making, and help develop the next phase of this innovative service. Find out more and register"
+    }
   }
 }
