@@ -5387,5 +5387,39 @@
       "estimatedReadTime": 1,
       "description": "The ICC Hub is seeking GPs and senior clinicians to contribute their expertise, support clinical decision-making, and help develop the next phase of this innovative service. Find out more and register"
     }
+  },
+  "content:b0c223c3c7094ac0": {
+    "id": "content:b0c223c3c7094ac0",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/on-demand-training/anti-coagulation-and-stroke-prevention-e-learning",
+    "title": "On Demand Training: Anti&#45;coagulation and stroke prevention e&#45;Learning",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-09",
+    "fetchedDate": "2026-10-09T12:18:36.182Z",
+    "contentHash": "b5c4d2b0e0632cb4",
+    "content": "Primary care clinicians are invited to access the training platform developed in partnership with Helicon Health and inVita Intelligence. Three individual courses, have been brought together to form a comprehensive anticoagulation masterclass.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 32,
+      "estimatedReadTime": 1,
+      "description": "Primary care clinicians are invited to access the training platform developed in partnership with Helicon Health and inVita Intelligence. Three individual courses, have been brought together to form a"
+    }
+  },
+  "content:a33ea3647b6b3526": {
+    "id": "content:a33ea3647b6b3526",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/tobacco-related-cancer-campaign-webinar",
+    "title": "Event: Tobacco&#45;related cancer campaign webinar",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-09",
+    "fetchedDate": "2026-10-09T12:18:36.182Z",
+    "contentHash": "0ec160f2a4cfe2dc",
+    "content": "Join the webinar to explore the impact of non-cigarette tobacco products on cancer and learn effective patient communication strategies. 1pm, Wednesday 11 November.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "Join the webinar to explore the impact of non-cigarette tobacco products on cancer and learn effective patient communication strategies. 1pm, Wednesday 11 November."
+    }
   }
 }

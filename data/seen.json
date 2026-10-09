@@ -2620,5 +2620,21 @@
     "discovered": "2026-10-08T12:29:58.073Z",
     "publishedDate": "Thu, 08 Oct 2026 09:37:39 +0000",
     "source": "ncl"
+  },
+  "ncl:b0c223c3c7094ac0": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/on-demand-training/anti-coagulation-and-stroke-prevention-e-learning",
+    "title": "On Demand Training: Anti&#45;coagulation and stroke prevention e&#45;Learning",
+    "description": "Primary care clinicians are invited to access the training platform developed in partnership with Helicon Health and inVita Intelligence. Three individual courses, have been brought together to form a comprehensive anticoagulation masterclass.",
+    "discovered": "2026-10-09T12:18:36.182Z",
+    "publishedDate": "Fri, 09 Oct 2026 10:54:11 +0000",
+    "source": "ncl"
+  },
+  "ncl:a33ea3647b6b3526": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/tobacco-related-cancer-campaign-webinar",
+    "title": "Event: Tobacco&#45;related cancer campaign webinar",
+    "description": "Join the webinar to explore the impact of non-cigarette tobacco products on cancer and learn effective patient communication strategies. 1pm, Wednesday 11 November.",
+    "discovered": "2026-10-09T12:18:36.182Z",
+    "publishedDate": "Fri, 09 Oct 2026 09:51:31 +0000",
+    "source": "ncl"
   }
 }

@@ -3485,5 +3485,27 @@
     "previousHash": null,
     "newHash": "9ea3e9aecc572017",
     "acknowledged": false
+  },
+  "change:1791548316182:b0c223c3c7094ac0": {
+    "id": "change:1791548316182:b0c223c3c7094ac0",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/on-demand-training/anti-coagulation-and-stroke-prevention-e-learning",
+    "title": "On Demand Training: Anti&#45;coagulation and stroke prevention e&#45;Learning",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-09T12:18:36.182Z",
+    "previousHash": null,
+    "newHash": "b5c4d2b0e0632cb4",
+    "acknowledged": false
+  },
+  "change:1791548316182:a33ea3647b6b3526": {
+    "id": "change:1791548316182:a33ea3647b6b3526",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/tobacco-related-cancer-campaign-webinar",
+    "title": "Event: Tobacco&#45;related cancer campaign webinar",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-09T12:18:36.182Z",
+    "previousHash": null,
+    "newHash": "0ec160f2a4cfe2dc",
+    "acknowledged": false
   }
 }
