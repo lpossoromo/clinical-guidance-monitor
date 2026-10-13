@@ -2636,5 +2636,21 @@
     "discovered": "2026-10-09T12:18:36.182Z",
     "publishedDate": "Fri, 09 Oct 2026 09:51:31 +0000",
     "source": "ncl"
+  },
+  "ncl:037b1d4c621f7a2f": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-5-9-october-2026",
+    "title": "News: EMIS Global update: 5&#45;9 October 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-10-13T22:05:48.861Z",
+    "publishedDate": "Tue, 13 Oct 2026 20:08:50 +0000",
+    "source": "ncl"
+  },
+  "ncl:41c09c488d671236": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hillingdon-hospital-update-practices-to-log-correspondence-error-for-tracking",
+    "title": "News: Hillingdon Hospital update: Practices to log correspondence error for tracking",
+    "description": "Practices experiencing SystmOne errors when accessing Hillingdon Hospital discharge correspondence are asked to report the issue to the NWL Service Desk. This will help ensure the number of affected practices is accurately captured and tracked.",
+    "discovered": "2026-10-13T22:05:48.862Z",
+    "publishedDate": "Tue, 13 Oct 2026 19:14:47 +0000",
+    "source": "ncl"
   }
 }

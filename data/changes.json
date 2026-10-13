@@ -3507,5 +3507,27 @@
     "previousHash": null,
     "newHash": "0ec160f2a4cfe2dc",
     "acknowledged": false
+  },
+  "change:1791929148862:037b1d4c621f7a2f": {
+    "id": "change:1791929148862:037b1d4c621f7a2f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-5-9-october-2026",
+    "title": "News: EMIS Global update: 5&#45;9 October 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-13T22:05:48.861Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
+  },
+  "change:1791929148862:41c09c488d671236": {
+    "id": "change:1791929148862:41c09c488d671236",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hillingdon-hospital-update-practices-to-log-correspondence-error-for-tracking",
+    "title": "News: Hillingdon Hospital update: Practices to log correspondence error for tracking",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-13T22:05:48.862Z",
+    "previousHash": null,
+    "newHash": "f32b637847088544",
+    "acknowledged": false
   }
 }

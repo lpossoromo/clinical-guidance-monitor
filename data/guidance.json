@@ -5421,5 +5421,39 @@
       "estimatedReadTime": 1,
       "description": "Join the webinar to explore the impact of non-cigarette tobacco products on cancer and learn effective patient communication strategies. 1pm, Wednesday 11 November."
     }
+  },
+  "content:037b1d4c621f7a2f": {
+    "id": "content:037b1d4c621f7a2f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-5-9-october-2026",
+    "title": "News: EMIS Global update: 5&#45;9 October 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-13",
+    "fetchedDate": "2026-10-13T22:05:48.861Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
+  },
+  "content:41c09c488d671236": {
+    "id": "content:41c09c488d671236",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hillingdon-hospital-update-practices-to-log-correspondence-error-for-tracking",
+    "title": "News: Hillingdon Hospital update: Practices to log correspondence error for tracking",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-13",
+    "fetchedDate": "2026-10-13T22:05:48.862Z",
+    "contentHash": "f32b637847088544",
+    "content": "Practices experiencing SystmOne errors when accessing Hillingdon Hospital discharge correspondence are asked to report the issue to the NWL Service Desk. This will help ensure the number of affected practices is accurately captured and tracked.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 35,
+      "estimatedReadTime": 1,
+      "description": "Practices experiencing SystmOne errors when accessing Hillingdon Hospital discharge correspondence are asked to report the issue to the NWL Service Desk. This will help ensure the number of affected p"
+    }
   }
 }
