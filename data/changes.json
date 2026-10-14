@@ -3529,5 +3529,27 @@
     "previousHash": null,
     "newHash": "f32b637847088544",
     "acknowledged": false
+  },
+  "change:1791975153504:ffba862abbcc292d": {
+    "id": "change:1791975153504:ffba862abbcc292d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hillingdon-hospital-resolves-clinical-correspondence-system-error",
+    "title": "News: Hillingdon hospital resolves clinical correspondence system error",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-14T10:52:33.504Z",
+    "previousHash": null,
+    "newHash": "d21b27a71387d677",
+    "acknowledged": false
+  },
+  "change:1791975153505:b0e354a226a2668f": {
+    "id": "change:1791975153505:b0e354a226a2668f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hillingdon-hospital-update-practices-asked-to-log-mesh-correspondence-errors-for-tracking",
+    "title": "News: Hillingdon Hospital update: Practices asked to log MESH correspondence errors for tracking",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-14T10:52:33.504Z",
+    "previousHash": null,
+    "newHash": "9e18b787b32891d9",
+    "acknowledged": false
   }
 }

@@ -5455,5 +5455,39 @@
       "estimatedReadTime": 1,
       "description": "Practices experiencing SystmOne errors when accessing Hillingdon Hospital discharge correspondence are asked to report the issue to the NWL Service Desk. This will help ensure the number of affected p"
     }
+  },
+  "content:ffba862abbcc292d": {
+    "id": "content:ffba862abbcc292d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hillingdon-hospital-resolves-clinical-correspondence-system-error",
+    "title": "News: Hillingdon hospital resolves clinical correspondence system error",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-14",
+    "fetchedDate": "2026-10-14T10:52:33.504Z",
+    "contentHash": "d21b27a71387d677",
+    "content": "Practices are asked to disregard any blank documents received as a result of the system error and refer instead to the replacement correspondence.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "Practices are asked to disregard any blank documents received as a result of the system error and refer instead to the replacement correspondence."
+    }
+  },
+  "content:b0e354a226a2668f": {
+    "id": "content:b0e354a226a2668f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hillingdon-hospital-update-practices-asked-to-log-mesh-correspondence-errors-for-tracking",
+    "title": "News: Hillingdon Hospital update: Practices asked to log MESH correspondence errors for tracking",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-14",
+    "fetchedDate": "2026-10-14T10:52:33.504Z",
+    "contentHash": "9e18b787b32891d9",
+    "content": "SystmOne errors concerning discharge correspondence from the Hillingdon Hospital trust have been resolved. Practices that experienced errors are asked to report them to the NWL Service Desk to ensure the number of affected practices is accurately captured and tracked. The trust apologises for any inconvenience resulting from the problem.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 49,
+      "estimatedReadTime": 1,
+      "description": "SystmOne errors concerning discharge correspondence from the Hillingdon Hospital trust have been resolved. Practices that experienced errors are asked to report them to the NWL Service Desk to ensure "
+    }
   }
 }

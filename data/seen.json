@@ -2652,5 +2652,21 @@
     "discovered": "2026-10-13T22:05:48.862Z",
     "publishedDate": "Tue, 13 Oct 2026 19:14:47 +0000",
     "source": "ncl"
+  },
+  "ncl:ffba862abbcc292d": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hillingdon-hospital-resolves-clinical-correspondence-system-error",
+    "title": "News: Hillingdon hospital resolves clinical correspondence system error",
+    "description": "Practices are asked to disregard any blank documents received as a result of the system error and refer instead to the replacement correspondence.",
+    "discovered": "2026-10-14T10:52:33.503Z",
+    "publishedDate": "Wed, 14 Oct 2026 08:45:48 +0000",
+    "source": "ncl"
+  },
+  "ncl:b0e354a226a2668f": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hillingdon-hospital-update-practices-asked-to-log-mesh-correspondence-errors-for-tracking",
+    "title": "News: Hillingdon Hospital update: Practices asked to log MESH correspondence errors for tracking",
+    "description": "SystmOne errors concerning discharge correspondence from the Hillingdon Hospital trust have been resolved. Practices that experienced errors are asked to report them to the NWL Service Desk to ensure the number of affected practices is accurately captured and tracked. The trust apologises for any inconvenience resulting from the problem.",
+    "discovered": "2026-10-14T10:52:33.504Z",
+    "publishedDate": "Wed, 14 Oct 2026 10:05:33 +0000",
+    "source": "ncl"
   }
 }
