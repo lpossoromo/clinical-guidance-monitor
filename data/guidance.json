@@ -5523,5 +5523,22 @@
       "estimatedReadTime": 1,
       "description": "People living with well-controlled HIV who receive a hrHPV not detected result at their next routine cervical screening will be recalled at the same national cervical screening interval as people who "
     }
+  },
+  "content:dceb8eaadc3d5d4c": {
+    "id": "content:dceb8eaadc3d5d4c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/parkinson-s-disease-in-2026-current-practice-and-future-innovations-webinar",
+    "title": "Event: Parkinson&apos;s Disease in 2026: Current Practice and Future Innovations Webinar",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-15",
+    "fetchedDate": "2026-10-15T20:44:13.000Z",
+    "contentHash": "79645b6561a05e4d",
+    "content": "Join this webinar for an up-to-date understanding of Parkinson&rsquo;s disease including approaches to care and the exciting developments that may transform diagnosis and treatment in the years ahead. 6pm, Tuesday 10 November.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 32,
+      "estimatedReadTime": 1,
+      "description": "Join this webinar for an up-to-date understanding of Parkinson&rsquo;s disease including approaches to care and the exciting developments that may transform diagnosis and treatment in the years ahead."
+    }
   }
 }

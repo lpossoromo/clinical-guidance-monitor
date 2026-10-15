@@ -3573,5 +3573,16 @@
     "previousHash": null,
     "newHash": "27cbaa1fa137a414",
     "acknowledged": false
+  },
+  "change:1792097053000:dceb8eaadc3d5d4c": {
+    "id": "change:1792097053000:dceb8eaadc3d5d4c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/parkinson-s-disease-in-2026-current-practice-and-future-innovations-webinar",
+    "title": "Event: Parkinson&apos;s Disease in 2026: Current Practice and Future Innovations Webinar",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-15T20:44:13.000Z",
+    "previousHash": null,
+    "newHash": "79645b6561a05e4d",
+    "acknowledged": false
   }
 }
