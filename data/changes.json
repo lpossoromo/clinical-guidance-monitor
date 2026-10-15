@@ -3551,5 +3551,27 @@
     "previousHash": null,
     "newHash": "9e18b787b32891d9",
     "acknowledged": false
+  },
+  "change:1792079971067:132cf5d11c4cbb0c": {
+    "id": "change:1792079971067:132cf5d11c4cbb0c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/dedicated-webinars-will-help-you-make-the-most-of-your-online-consultation-tool",
+    "title": "News: Dedicated webinars will help you make the most of your online consultation tool",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-15T15:59:31.067Z",
+    "previousHash": null,
+    "newHash": "1f19900ac0e9d179",
+    "acknowledged": false
+  },
+  "change:1792079971068:414c863e2fb9b042": {
+    "id": "change:1792079971068:414c863e2fb9b042",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/cervical-screening-update-change-to-intervals-for-people-living-with-hiv",
+    "title": "News: Cervical screening update: Change to intervals for people living with HIV",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-15T15:59:31.068Z",
+    "previousHash": null,
+    "newHash": "27cbaa1fa137a414",
+    "acknowledged": false
   }
 }

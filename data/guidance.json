@@ -5489,5 +5489,39 @@
       "estimatedReadTime": 1,
       "description": "SystmOne errors concerning discharge correspondence from the Hillingdon Hospital trust have been resolved. Practices that experienced errors are asked to report them to the NWL Service Desk to ensure "
     }
+  },
+  "content:132cf5d11c4cbb0c": {
+    "id": "content:132cf5d11c4cbb0c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/dedicated-webinars-will-help-you-make-the-most-of-your-online-consultation-tool",
+    "title": "News: Dedicated webinars will help you make the most of your online consultation tool",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-15",
+    "fetchedDate": "2026-10-15T15:59:31.067Z",
+    "contentHash": "1f19900ac0e9d179",
+    "content": "The NCL Change Management Programme is running a series of webinars to help practices get more from the online consultation tools they already use. Book your space.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 27,
+      "estimatedReadTime": 1,
+      "description": "The NCL Change Management Programme is running a series of webinars to help practices get more from the online consultation tools they already use. Book your space."
+    }
+  },
+  "content:414c863e2fb9b042": {
+    "id": "content:414c863e2fb9b042",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/cervical-screening-update-change-to-intervals-for-people-living-with-hiv",
+    "title": "News: Cervical screening update: Change to intervals for people living with HIV",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-15",
+    "fetchedDate": "2026-10-15T15:59:31.068Z",
+    "contentHash": "27cbaa1fa137a414",
+    "content": "People living with well-controlled HIV who receive a hrHPV not detected result at their next routine cervical screening will be recalled at the same national cervical screening interval as people who are not living with HIV. There is no longer a need for them to attend for annual screening.&nbsp;Read more",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 50,
+      "estimatedReadTime": 1,
+      "description": "People living with well-controlled HIV who receive a hrHPV not detected result at their next routine cervical screening will be recalled at the same national cervical screening interval as people who "
+    }
   }
 }
