@@ -2692,5 +2692,13 @@
     "discovered": "2026-10-15T20:44:13.000Z",
     "publishedDate": "Thu, 15 Oct 2026 16:45:50 +0000",
     "source": "ncl"
+  },
+  "ncl:068c764ca1db3cc2": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/update-on-frailty-coding-and-ltc-lcs-communications",
+    "title": "News: Update on frailty coding and LTC LCS communications",
+    "description": "Frailty protocol update and LTC LCS newsletter sign-up",
+    "discovered": "2026-10-16T10:21:47.709Z",
+    "publishedDate": "Fri, 16 Oct 2026 10:14:37 +0000",
+    "source": "ncl"
   }
 }

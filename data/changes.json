@@ -3584,5 +3584,16 @@
     "previousHash": null,
     "newHash": "79645b6561a05e4d",
     "acknowledged": false
+  },
+  "change:1792146107710:068c764ca1db3cc2": {
+    "id": "change:1792146107710:068c764ca1db3cc2",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/update-on-frailty-coding-and-ltc-lcs-communications",
+    "title": "News: Update on frailty coding and LTC LCS communications",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-16T10:21:47.710Z",
+    "previousHash": null,
+    "newHash": "89b19b0ad94064c8",
+    "acknowledged": false
   }
 }

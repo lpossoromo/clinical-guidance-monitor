@@ -5540,5 +5540,22 @@
       "estimatedReadTime": 1,
       "description": "Join this webinar for an up-to-date understanding of Parkinson&rsquo;s disease including approaches to care and the exciting developments that may transform diagnosis and treatment in the years ahead."
     }
+  },
+  "content:068c764ca1db3cc2": {
+    "id": "content:068c764ca1db3cc2",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/update-on-frailty-coding-and-ltc-lcs-communications",
+    "title": "News: Update on frailty coding and LTC LCS communications",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-16",
+    "fetchedDate": "2026-10-16T10:21:47.710Z",
+    "contentHash": "89b19b0ad94064c8",
+    "content": "Frailty protocol update and LTC LCS newsletter sign-up",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 8,
+      "estimatedReadTime": 1,
+      "description": "Frailty protocol update and LTC LCS newsletter sign-up"
+    }
   }
 }
