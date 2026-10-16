@@ -5557,5 +5557,22 @@
       "estimatedReadTime": 1,
       "description": "Frailty protocol update and LTC LCS newsletter sign-up"
     }
+  },
+  "content:4332a518367e6c71": {
+    "id": "content:4332a518367e6c71",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/support-patients-with-a-learning-disability-and-or-autism-to-access-screening",
+    "title": "News: Support patients with a learning disability and/or autism to access screening",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-16",
+    "fetchedDate": "2026-10-16T15:47:49.605Z",
+    "contentHash": "53fb19cf49005043",
+    "content": "Enhance screening access for those with learning disabilities and/or autism by using guidance, resources, and reasonable adjustments.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 17,
+      "estimatedReadTime": 1,
+      "description": "Enhance screening access for those with learning disabilities and/or autism by using guidance, resources, and reasonable adjustments."
+    }
   }
 }
