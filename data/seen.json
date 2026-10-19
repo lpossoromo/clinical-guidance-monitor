@@ -2708,5 +2708,21 @@
     "discovered": "2026-10-16T15:47:49.605Z",
     "publishedDate": "Fri, 16 Oct 2026 13:03:53 +0000",
     "source": "ncl"
+  },
+  "ncl:58334d41e2c71637": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/have-your-say-on-nhs-decisions-in-west-and-north-london",
+    "title": "News: Have your say on NHS decisions in west and north London",
+    "description": "WNL ICB is developing a new public involvement framework for 2027-2030. Setting out how the ICB works with residents, patients, carers, community groups and partner organisations to shape health and care services across west and north London.",
+    "discovered": "2026-10-19T17:59:07.401Z",
+    "publishedDate": "Mon, 19 Oct 2026 15:36:34 +0000",
+    "source": "ncl"
+  },
+  "ncl:bccd2d1ba1821d1a": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/update-in-sexual-health-and-contraception-1",
+    "title": "Event: Update in Sexual Health and Contraception",
+    "description": "CNWL Sexual Health &amp; HIV Service is delivering a half-day, in-person sexual health and contraception update for primary care professionals in Barnet, Camden, Haringey and Islington. Starting at 8.45am onTuesday 15 December.",
+    "discovered": "2026-10-19T17:59:07.402Z",
+    "publishedDate": "Mon, 19 Oct 2026 14:31:46 +0000",
+    "source": "ncl"
   }
 }

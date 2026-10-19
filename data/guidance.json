@@ -5574,5 +5574,39 @@
       "estimatedReadTime": 1,
       "description": "Enhance screening access for those with learning disabilities and/or autism by using guidance, resources, and reasonable adjustments."
     }
+  },
+  "content:58334d41e2c71637": {
+    "id": "content:58334d41e2c71637",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/have-your-say-on-nhs-decisions-in-west-and-north-london",
+    "title": "News: Have your say on NHS decisions in west and north London",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-19",
+    "fetchedDate": "2026-10-19T17:59:07.401Z",
+    "contentHash": "7a9c8cd150088b01",
+    "content": "WNL ICB is developing a new public involvement framework for 2027-2030. Setting out how the ICB works with residents, patients, carers, community groups and partner organisations to shape health and care services across west and north London.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "WNL ICB is developing a new public involvement framework for 2027-2030. Setting out how the ICB works with residents, patients, carers, community groups and partner organisations to shape health and c"
+    }
+  },
+  "content:bccd2d1ba1821d1a": {
+    "id": "content:bccd2d1ba1821d1a",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/update-in-sexual-health-and-contraception-1",
+    "title": "Event: Update in Sexual Health and Contraception",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-19",
+    "fetchedDate": "2026-10-19T17:59:07.402Z",
+    "contentHash": "6da3d8193b33ed70",
+    "content": "CNWL Sexual Health &amp; HIV Service is delivering a half-day, in-person sexual health and contraception update for primary care professionals in Barnet, Camden, Haringey and Islington. Starting at 8.45am onTuesday 15 December.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 32,
+      "estimatedReadTime": 1,
+      "description": "CNWL Sexual Health &amp; HIV Service is delivering a half-day, in-person sexual health and contraception update for primary care professionals in Barnet, Camden, Haringey and Islington. Starting at 8."
+    }
   }
 }

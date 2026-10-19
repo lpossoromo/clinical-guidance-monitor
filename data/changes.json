@@ -3606,5 +3606,27 @@
     "previousHash": null,
     "newHash": "53fb19cf49005043",
     "acknowledged": false
+  },
+  "change:1792432747402:58334d41e2c71637": {
+    "id": "change:1792432747402:58334d41e2c71637",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/have-your-say-on-nhs-decisions-in-west-and-north-london",
+    "title": "News: Have your say on NHS decisions in west and north London",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-19T17:59:07.401Z",
+    "previousHash": null,
+    "newHash": "7a9c8cd150088b01",
+    "acknowledged": false
+  },
+  "change:1792432747402:bccd2d1ba1821d1a": {
+    "id": "change:1792432747402:bccd2d1ba1821d1a",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/update-in-sexual-health-and-contraception-1",
+    "title": "Event: Update in Sexual Health and Contraception",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-19T17:59:07.402Z",
+    "previousHash": null,
+    "newHash": "6da3d8193b33ed70",
+    "acknowledged": false
   }
 }
