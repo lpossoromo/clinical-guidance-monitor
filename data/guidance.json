@@ -5608,5 +5608,39 @@
       "estimatedReadTime": 1,
       "description": "CNWL Sexual Health &amp; HIV Service is delivering a half-day, in-person sexual health and contraception update for primary care professionals in Barnet, Camden, Haringey and Islington. Starting at 8."
     }
+  },
+  "content:9a23bbc9017f9fdd": {
+    "id": "content:9a23bbc9017f9fdd",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/share-your-story-nhs-london-winter-storytelling-fund",
+    "title": "News: Share your story: NHS London winter storytelling fund",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-20",
+    "fetchedDate": "2026-10-20T16:03:03.311Z",
+    "contentHash": "6916a6ce586926c9",
+    "content": "Do you have a project, initiative or team achievement that is helping improve patient care this winter? Share your story and showcase NHS innovations and efforts in WNL during the busy winter period.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "Do you have a project, initiative or team achievement that is helping improve patient care this winter? Share your story and showcase NHS innovations and efforts in WNL during the busy winter period."
+    }
+  },
+  "content:76d952461944f30e": {
+    "id": "content:76d952461944f30e",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/applications-open-for-the-london-cardiovascular-renal-metabolic-fellowship-2026-27",
+    "title": "News: Applications open for the London cardiovascular Renal Metabolic Fellowship 2026&#45;27",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-20",
+    "fetchedDate": "2026-10-20T16:03:03.312Z",
+    "contentHash": "54c343da929fa116",
+    "content": "This programme runs from December 2026 to September 2027 and is open to healthcare professionals working in London across primary care, community pharmacy and other healthcare settings.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 27,
+      "estimatedReadTime": 1,
+      "description": "This programme runs from December 2026 to September 2027 and is open to healthcare professionals working in London across primary care, community pharmacy and other healthcare settings."
+    }
   }
 }

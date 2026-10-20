@@ -3628,5 +3628,27 @@
     "previousHash": null,
     "newHash": "6da3d8193b33ed70",
     "acknowledged": false
+  },
+  "change:1792512183311:9a23bbc9017f9fdd": {
+    "id": "change:1792512183311:9a23bbc9017f9fdd",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/share-your-story-nhs-london-winter-storytelling-fund",
+    "title": "News: Share your story: NHS London winter storytelling fund",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-20T16:03:03.311Z",
+    "previousHash": null,
+    "newHash": "6916a6ce586926c9",
+    "acknowledged": false
+  },
+  "change:1792512183312:76d952461944f30e": {
+    "id": "change:1792512183312:76d952461944f30e",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/applications-open-for-the-london-cardiovascular-renal-metabolic-fellowship-2026-27",
+    "title": "News: Applications open for the London cardiovascular Renal Metabolic Fellowship 2026&#45;27",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-20T16:03:03.312Z",
+    "previousHash": null,
+    "newHash": "54c343da929fa116",
+    "acknowledged": false
   }
 }
