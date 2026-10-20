@@ -3650,5 +3650,16 @@
     "previousHash": null,
     "newHash": "54c343da929fa116",
     "acknowledged": false
+  },
+  "change:1792530061918:ae918256fb090247": {
+    "id": "change:1792530061918:ae918256fb090247",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/opportunity-to-include-your-story-in-nhs-london-s-winter-storytelling-project",
+    "title": "News: Opportunity to include your story in NHS London&apos;s winter storytelling project",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-20T21:01:01.918Z",
+    "previousHash": null,
+    "newHash": "6916a6ce586926c9",
+    "acknowledged": false
   }
 }
