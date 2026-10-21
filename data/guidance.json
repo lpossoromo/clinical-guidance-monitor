@@ -5659,5 +5659,22 @@
       "estimatedReadTime": 1,
       "description": "Do you have a project, initiative or team achievement that is helping improve patient care this winter? Share your story and showcase NHS innovations and efforts in WNL during the busy winter period."
     }
+  },
+  "content:38c2a84482413274": {
+    "id": "content:38c2a84482413274",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-12-16-october-2026",
+    "title": "News: EMIS Global update: 12&#45;16 October 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-21",
+    "fetchedDate": "2026-10-21T10:51:37.960Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }

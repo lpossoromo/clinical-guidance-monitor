@@ -3661,5 +3661,16 @@
     "previousHash": null,
     "newHash": "6916a6ce586926c9",
     "acknowledged": false
+  },
+  "change:1792579897960:38c2a84482413274": {
+    "id": "change:1792579897960:38c2a84482413274",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-12-16-october-2026",
+    "title": "News: EMIS Global update: 12&#45;16 October 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-21T10:51:37.960Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
   }
 }
