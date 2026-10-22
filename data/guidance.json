@@ -5676,5 +5676,73 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global."
     }
+  },
+  "content:baf68f612c412acd": {
+    "id": "content:baf68f612c412acd",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/msk-physiotherapy-clch",
+    "title": "Service: MSK Physiotherapy: CLCH",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-22",
+    "fetchedDate": "2026-10-22T16:19:00.815Z",
+    "contentHash": "2226c91dd0e5e0a3",
+    "content": "Reminder: When referring to CLCH MSK Physiotherapy or IC MSK, included all relevant information with your referral to support prompt triage, efficient processing and reduce delays for patients. See the service page for referral requirements.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 35,
+      "estimatedReadTime": 1,
+      "description": "Reminder: When referring to CLCH MSK Physiotherapy or IC MSK, included all relevant information with your referral to support prompt triage, efficient processing and reduce delays for patients. See th"
+    }
+  },
+  "content:c816033aae074f6f": {
+    "id": "content:c816033aae074f6f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/reminder-of-referral-criteria-for-haringey-talking-therapies",
+    "title": "News: Reminder of referral criteria for Haringey Talking Therapies",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-22",
+    "fetchedDate": "2026-10-22T16:19:00.816Z",
+    "contentHash": "61a9c15c839e130d",
+    "content": "Following an increasing number of complex referrals that do not meet referral criteria, GPs are reminded that the service is commissioned for those experiencing mild to moderate anxiety and depression. The team is happy to discuss cases if there is any uncertainty.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 42,
+      "estimatedReadTime": 1,
+      "description": "Following an increasing number of complex referrals that do not meet referral criteria, GPs are reminded that the service is commissioned for those experiencing mild to moderate anxiety and depression"
+    }
+  },
+  "content:a661e82b3e43e73f": {
+    "id": "content:a661e82b3e43e73f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/action-required-critical-php-security-issue-affecting-websites",
+    "title": "News: Action required: Critical PHP security issue affecting websites",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-22",
+    "fetchedDate": "2026-10-22T16:19:00.816Z",
+    "contentHash": "6184b150299f7a1e",
+    "content": "Practices are advised to contact their website supplier or hosting provider to confirm that any affected systems have been updated and secured.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 22,
+      "estimatedReadTime": 1,
+      "description": "Practices are advised to contact their website supplier or hosting provider to confirm that any affected systems have been updated and secured."
+    }
+  },
+  "content:18358ba065dd8daa": {
+    "id": "content:18358ba065dd8daa",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/haringey-talking-therapies",
+    "title": "Service: Haringey Talking Therapies",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-22",
+    "fetchedDate": "2026-10-22T16:19:00.816Z",
+    "contentHash": "61a9c15c839e130d",
+    "content": "Following an increasing number of complex referrals that do not meet referral criteria, GPs are reminded that the service is commissioned for those experiencing mild to moderate anxiety and depression. The team is happy to discuss cases if there is any uncertainty.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 42,
+      "estimatedReadTime": 1,
+      "description": "Following an increasing number of complex referrals that do not meet referral criteria, GPs are reminded that the service is commissioned for those experiencing mild to moderate anxiety and depression"
+    }
   }
 }

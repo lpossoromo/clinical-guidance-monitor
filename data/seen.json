@@ -2756,5 +2756,45 @@
     "discovered": "2026-10-21T10:51:37.959Z",
     "publishedDate": "Wed, 21 Oct 2026 08:49:30 +0000",
     "source": "ncl"
+  },
+  "ncl:baf68f612c412acd": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/msk-physiotherapy-clch",
+    "title": "Service: MSK Physiotherapy: CLCH",
+    "description": "Reminder: When referring to CLCH MSK Physiotherapy or IC MSK, included all relevant information with your referral to support prompt triage, efficient processing and reduce delays for patients. See the service page for referral requirements.",
+    "discovered": "2026-10-22T16:19:00.815Z",
+    "publishedDate": "Thu, 22 Oct 2026 15:48:51 +0000",
+    "source": "ncl"
+  },
+  "ncl:c816033aae074f6f": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/reminder-of-referral-criteria-for-haringey-talking-therapies",
+    "title": "News: Reminder of referral criteria for Haringey Talking Therapies",
+    "description": "Following an increasing number of complex referrals that do not meet referral criteria, GPs are reminded that the service is commissioned for those experiencing mild to moderate anxiety and depression. The team is happy to discuss cases if there is any uncertainty.",
+    "discovered": "2026-10-22T16:19:00.816Z",
+    "publishedDate": "Thu, 22 Oct 2026 15:05:34 +0000",
+    "source": "ncl"
+  },
+  "ncl:a661e82b3e43e73f": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/action-required-critical-php-security-issue-affecting-websites",
+    "title": "News: Action required: Critical PHP security issue affecting websites",
+    "description": "Practices are advised to contact their website supplier or hosting provider to confirm that any affected systems have been updated and secured.",
+    "discovered": "2026-10-22T16:19:00.816Z",
+    "publishedDate": "Thu, 22 Oct 2026 15:06:44 +0000",
+    "source": "ncl"
+  },
+  "ncl:18358ba065dd8daa": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/haringey-talking-therapies",
+    "title": "Service: Haringey Talking Therapies",
+    "description": "Following an increasing number of complex referrals that do not meet referral criteria, GPs are reminded that the service is commissioned for those experiencing mild to moderate anxiety and depression. The team is happy to discuss cases if there is any uncertainty.",
+    "discovered": "2026-10-22T16:19:00.816Z",
+    "publishedDate": "Thu, 22 Oct 2026 14:19:10 +0000",
+    "source": "ncl"
+  },
+  "nhs:92b84a2957f98906": {
+    "url": "https://www.england.nhs.uk/2026/10/nhs-supports-record-numbers-of-people-living-with-dementia-as-target-achieved/",
+    "title": "NHS supports record numbers of people living with dementia as target achieved",
+    "description": "Dr Jeremy Isaacs, National Clinical Director for Dementia, NHS England, said: “It is fantastic news that the NHS has hit its target for diagnosing more than two thirds of people with dementia for the first time since before the COVID-19 pandemic – and 50,000 more people than the last time this target was hit. “Getting [&#8230;]",
+    "discovered": "2026-10-22T16:19:01.035Z",
+    "publishedDate": "Thu, 22 Oct 2026 10:44:50 +0000",
+    "source": "nhs"
   }
 }
