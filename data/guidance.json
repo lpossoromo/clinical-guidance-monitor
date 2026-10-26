@@ -5744,5 +5744,22 @@
       "estimatedReadTime": 1,
       "description": "Following an increasing number of complex referrals that do not meet referral criteria, GPs are reminded that the service is commissioned for those experiencing mild to moderate anxiety and depression"
     }
+  },
+  "content:c514b89aff469f3c": {
+    "id": "content:c514b89aff469f3c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/cervical-screening-update-hpv-self-testing-developments",
+    "title": "News: Cervical screening update: HPV self&#45;testing developments",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-26T11:54:37.130Z",
+    "contentHash": "ea34bf1c7219bbb6",
+    "content": "HPV self-testing is expanding across London via GPs and postal options, enhancing accessibility for cervical screening.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 16,
+      "estimatedReadTime": 1,
+      "description": "HPV self-testing is expanding across London via GPs and postal options, enhancing accessibility for cervical screening."
+    }
   }
 }

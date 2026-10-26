@@ -3716,5 +3716,16 @@
     "previousHash": null,
     "newHash": "61a9c15c839e130d",
     "acknowledged": false
+  },
+  "change:1793015677130:c514b89aff469f3c": {
+    "id": "change:1793015677130:c514b89aff469f3c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/cervical-screening-update-hpv-self-testing-developments",
+    "title": "News: Cervical screening update: HPV self&#45;testing developments",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-26T11:54:37.130Z",
+    "previousHash": null,
+    "newHash": "ea34bf1c7219bbb6",
+    "acknowledged": false
   }
 }
