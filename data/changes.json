@@ -3727,5 +3727,27 @@
     "previousHash": null,
     "newHash": "ea34bf1c7219bbb6",
     "acknowledged": false
+  },
+  "change:1793037447455:bb410ac016e3f913": {
+    "id": "change:1793037447455:bb410ac016e3f913",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/national-patient-safety-alert-nova-biomedical-statstrip-blood-ketone-strip",
+    "title": "News: National Patient Safety Alert: Nova Biomedical StatStrip blood ketone strip",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-26T17:57:27.455Z",
+    "previousHash": null,
+    "newHash": "44621306463e92e6",
+    "acknowledged": false
+  },
+  "change:1793037447455:66e700c101e8f15e": {
+    "id": "change:1793037447455:66e700c101e8f15e",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/video/camden-council-reducing-smoking-new-support-for-primary-care",
+    "title": "Video: Camden Council: Reducing smoking new support for Primary Care",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-26T17:57:27.455Z",
+    "previousHash": null,
+    "newHash": "1f2a90765ecbf7db",
+    "acknowledged": false
   }
 }

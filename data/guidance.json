@@ -5761,5 +5761,39 @@
       "estimatedReadTime": 1,
       "description": "HPV self-testing is expanding across London via GPs and postal options, enhancing accessibility for cervical screening."
     }
+  },
+  "content:bb410ac016e3f913": {
+    "id": "content:bb410ac016e3f913",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/national-patient-safety-alert-nova-biomedical-statstrip-blood-ketone-strip",
+    "title": "News: National Patient Safety Alert: Nova Biomedical StatStrip blood ketone strip",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-26T17:57:27.455Z",
+    "contentHash": "44621306463e92e6",
+    "content": "Recall and supply disruption of Nova Biomedical StatStrip blood ketone test strips. GP practices advised to assess stock and follow NHS guidance for  patients at greatest risk where timely ketone testing is required.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "Recall and supply disruption of Nova Biomedical StatStrip blood ketone test strips. GP practices advised to assess stock and follow NHS guidance for  patients at greatest risk where timely ketone test"
+    }
+  },
+  "content:66e700c101e8f15e": {
+    "id": "content:66e700c101e8f15e",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/video/camden-council-reducing-smoking-new-support-for-primary-care",
+    "title": "Video: Camden Council: Reducing smoking new support for Primary Care",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-26",
+    "fetchedDate": "2026-10-26T17:57:27.455Z",
+    "contentHash": "1f2a90765ecbf7db",
+    "content": "Learn about improvements to the stop smoking service, support and training from Breathe, and three simple strategies to help smokers quit in general practice. This webinar is for all GP practices, whether or not they deliver the stop smoking LCS.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 40,
+      "estimatedReadTime": 1,
+      "description": "Learn about improvements to the stop smoking service, support and training from Breathe, and three simple strategies to help smokers quit in general practice. This webinar is for all GP practices, whe"
+    }
   }
 }
