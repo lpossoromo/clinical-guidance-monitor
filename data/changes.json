@@ -3749,5 +3749,27 @@
     "previousHash": null,
     "newHash": "1f2a90765ecbf7db",
     "acknowledged": false
+  },
+  "change:1793120602668:2c9bfa6930c03b03": {
+    "id": "change:1793120602668:2c9bfa6930c03b03",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/wh-update-changes-to-district-nursing-service",
+    "title": "News: WH update: Changes to district nursing service",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-27T17:03:22.668Z",
+    "previousHash": null,
+    "newHash": "2cd5cf34d0904bfe",
+    "acknowledged": false
+  },
+  "change:1793120602669:a86d8e5c05fe3239": {
+    "id": "change:1793120602669:a86d8e5c05fe3239",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-19-23-october-2026",
+    "title": "News: EMIS Global update: 19&#45;23 October 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-27T17:03:22.669Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
   }
 }

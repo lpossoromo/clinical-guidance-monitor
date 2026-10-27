@@ -5795,5 +5795,39 @@
       "estimatedReadTime": 1,
       "description": "Learn about improvements to the stop smoking service, support and training from Breathe, and three simple strategies to help smokers quit in general practice. This webinar is for all GP practices, whe"
     }
+  },
+  "content:2c9bfa6930c03b03": {
+    "id": "content:2c9bfa6930c03b03",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/wh-update-changes-to-district-nursing-service",
+    "title": "News: WH update: Changes to district nursing service",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-27T17:03:22.668Z",
+    "contentHash": "2cd5cf34d0904bfe",
+    "content": "Whittington Health NHS Trust refocuses district nursing on core activities and complex care, ceasing low-acuity services for efficiency and improved patient support.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 22,
+      "estimatedReadTime": 1,
+      "description": "Whittington Health NHS Trust refocuses district nursing on core activities and complex care, ceasing low-acuity services for efficiency and improved patient support."
+    }
+  },
+  "content:a86d8e5c05fe3239": {
+    "id": "content:a86d8e5c05fe3239",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-19-23-october-2026",
+    "title": "News: EMIS Global update: 19&#45;23 October 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-27T17:03:22.669Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }

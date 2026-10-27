@@ -2820,5 +2820,21 @@
     "discovered": "2026-10-26T17:57:27.455Z",
     "publishedDate": "Mon, 26 Oct 2026 13:05:37 +0000",
     "source": "ncl"
+  },
+  "ncl:2c9bfa6930c03b03": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/wh-update-changes-to-district-nursing-service",
+    "title": "News: WH update: Changes to district nursing service",
+    "description": "Whittington Health NHS Trust refocuses district nursing on core activities and complex care, ceasing low-acuity services for efficiency and improved patient support.",
+    "discovered": "2026-10-27T17:03:22.668Z",
+    "publishedDate": "Tue, 27 Oct 2026 16:49:58 +0000",
+    "source": "ncl"
+  },
+  "ncl:a86d8e5c05fe3239": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-19-23-october-2026",
+    "title": "News: EMIS Global update: 19&#45;23 October 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-10-27T17:03:22.669Z",
+    "publishedDate": "Tue, 27 Oct 2026 16:45:32 +0000",
+    "source": "ncl"
   }
 }
