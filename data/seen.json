@@ -2836,5 +2836,21 @@
     "discovered": "2026-10-27T17:03:22.669Z",
     "publishedDate": "Tue, 27 Oct 2026 16:45:32 +0000",
     "source": "ncl"
+  },
+  "ncl:c14322ace4748afc": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/whittington-health-update-changes-to-non-emergency-referrals-for-iron-infusions",
+    "title": "News: Whittington Health update: Changes to non&#45;emergency referrals for iron infusions",
+    "description": "From Monday 2 November referrals for Non-emergency iron infusion referral process at WH will need to be made via the NHS e-Referral Service. This will streamline processes and improve care delivery.",
+    "discovered": "2026-10-27T21:36:44.510Z",
+    "publishedDate": "Tue, 27 Oct 2026 18:43:36 +0000",
+    "source": "ncl"
+  },
+  "ncl:63ac1e18cfc5f9d1": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/practices-asked-to-prioritise-information-requests-from-estates-project",
+    "title": "News: Practices asked to prioritise information requests from estates project",
+    "description": "WNL ICB is undertaking an exercise to support the consolidation and validation of primary care estates data across all boroughs. Practices will be contacted and asked to provide the required information no later than 7 November. Read more",
+    "discovered": "2026-10-27T21:36:44.511Z",
+    "publishedDate": "Tue, 27 Oct 2026 17:15:10 +0000",
+    "source": "ncl"
   }
 }

@@ -5829,5 +5829,39 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global."
     }
+  },
+  "content:c14322ace4748afc": {
+    "id": "content:c14322ace4748afc",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/whittington-health-update-changes-to-non-emergency-referrals-for-iron-infusions",
+    "title": "News: Whittington Health update: Changes to non&#45;emergency referrals for iron infusions",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-27T21:36:44.510Z",
+    "contentHash": "21651221b3bb5d24",
+    "content": "From Monday 2 November referrals for Non-emergency iron infusion referral process at WH will need to be made via the NHS e-Referral Service. This will streamline processes and improve care delivery.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "From Monday 2 November referrals for Non-emergency iron infusion referral process at WH will need to be made via the NHS e-Referral Service. This will streamline processes and improve care delivery."
+    }
+  },
+  "content:63ac1e18cfc5f9d1": {
+    "id": "content:63ac1e18cfc5f9d1",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/practices-asked-to-prioritise-information-requests-from-estates-project",
+    "title": "News: Practices asked to prioritise information requests from estates project",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-27",
+    "fetchedDate": "2026-10-27T21:36:44.511Z",
+    "contentHash": "1b914e6b347bbaa3",
+    "content": "WNL ICB is undertaking an exercise to support the consolidation and validation of primary care estates data across all boroughs. Practices will be contacted and asked to provide the required information no later than 7 November. Read more",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 38,
+      "estimatedReadTime": 1,
+      "description": "WNL ICB is undertaking an exercise to support the consolidation and validation of primary care estates data across all boroughs. Practices will be contacted and asked to provide the required informati"
+    }
   }
 }
