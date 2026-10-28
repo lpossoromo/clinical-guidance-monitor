@@ -3793,5 +3793,16 @@
     "previousHash": null,
     "newHash": "1b914e6b347bbaa3",
     "acknowledged": false
+  },
+  "change:1793188285105:adf3df778cc306ea": {
+    "id": "change:1793188285105:adf3df778cc306ea",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/drug-safety-update-improved-communication-of-suicidal-behaviour-and-persistent-sexual-dysfunction-risks-of-antidepressants",
+    "title": "News: Drug Safety Update: Improved communication of suicidal behaviour and persistent sexual dysfunction risks of antidepressants",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-28T11:51:25.105Z",
+    "previousHash": null,
+    "newHash": "1e1f67688ee02708",
+    "acknowledged": false
   }
 }

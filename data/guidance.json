@@ -5863,5 +5863,22 @@
       "estimatedReadTime": 1,
       "description": "WNL ICB is undertaking an exercise to support the consolidation and validation of primary care estates data across all boroughs. Practices will be contacted and asked to provide the required informati"
     }
+  },
+  "content:adf3df778cc306ea": {
+    "id": "content:adf3df778cc306ea",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/drug-safety-update-improved-communication-of-suicidal-behaviour-and-persistent-sexual-dysfunction-risks-of-antidepressants",
+    "title": "News: Drug Safety Update: Improved communication of suicidal behaviour and persistent sexual dysfunction risks of antidepressants",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-10-28",
+    "fetchedDate": "2026-10-28T11:51:25.105Z",
+    "contentHash": "1e1f67688ee02708",
+    "content": "New safety messaging is being implemented for all patients taking antidepressant medications. Read more",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 14,
+      "estimatedReadTime": 1,
+      "description": "New safety messaging is being implemented for all patients taking antidepressant medications. Read more"
+    }
   }
 }
