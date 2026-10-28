@@ -3804,5 +3804,16 @@
     "previousHash": null,
     "newHash": "1e1f67688ee02708",
     "acknowledged": false
+  },
+  "change:1793224846517:59608640c9e4a227": {
+    "id": "change:1793224846517:59608640c9e4a227",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/icb-asks-referrers-to-ensure-compliance-with-mhra-safety-guidelines-for-mri",
+    "title": "News: ICB asks referrers to ensure compliance with MHRA safety guidelines for MRI",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-10-28T22:00:46.516Z",
+    "previousHash": null,
+    "newHash": "8485fb961a4176b1",
+    "acknowledged": false
   }
 }

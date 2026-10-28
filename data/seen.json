@@ -2860,5 +2860,13 @@
     "discovered": "2026-10-28T11:51:25.105Z",
     "publishedDate": "Wed, 28 Oct 2026 10:47:47 +0000",
     "source": "ncl"
+  },
+  "ncl:59608640c9e4a227": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/icb-asks-referrers-to-ensure-compliance-with-mhra-safety-guidelines-for-mri",
+    "title": "News: ICB asks referrers to ensure compliance with MHRA safety guidelines for MRI",
+    "description": "This follows a couple of incidents in London community diagnostic centres where patients with implants/metallic foreign bodies/history of surgery have been referred and the referrer has selected &lsquo;no&rsquo; to these on the referral form. Read more",
+    "discovered": "2026-10-28T22:00:46.516Z",
+    "publishedDate": "Wed, 28 Oct 2026 17:45:10 +0000",
+    "source": "ncl"
   }
 }
