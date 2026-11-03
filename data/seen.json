@@ -2884,5 +2884,13 @@
     "discovered": "2026-11-03T00:12:46.043Z",
     "publishedDate": "Mon, 02 Nov 2026 16:29:06 +0000",
     "source": "ncl"
+  },
+  "ncl:9bd28e9276135f2a": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/webinar-make-the-most-of-microsoft-copilot",
+    "title": "Event: Webinar: Make the most of Microsoft Copilot",
+    "description": "Whether you&#039;re just getting started with Copilot or you&#039;re already a regular user. Join this webinar to explore Microsoft Copilot in both clinical and non-clinical settings within primary care. 1pm, Wednesday 25 November.",
+    "discovered": "2026-11-03T13:17:50.356Z",
+    "publishedDate": "Tue, 03 Nov 2026 11:54:10 +0000",
+    "source": "ncl"
   }
 }

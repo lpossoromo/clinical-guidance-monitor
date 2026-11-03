@@ -3837,5 +3837,16 @@
     "previousHash": null,
     "newHash": "0d5ef7606d448337",
     "acknowledged": false
+  },
+  "change:1793711870357:9bd28e9276135f2a": {
+    "id": "change:1793711870357:9bd28e9276135f2a",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/webinar-make-the-most-of-microsoft-copilot",
+    "title": "Event: Webinar: Make the most of Microsoft Copilot",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-03T13:17:50.356Z",
+    "previousHash": null,
+    "newHash": "66c87aebdf2d25d5",
+    "acknowledged": false
   }
 }

@@ -5931,5 +5931,22 @@
       "estimatedReadTime": 1,
       "description": "The campaign raises awareness of tobacco-related health risks and signpost people to local support services and GP advice for possible sign and symptoms of cancer."
     }
+  },
+  "content:9bd28e9276135f2a": {
+    "id": "content:9bd28e9276135f2a",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/webinar-make-the-most-of-microsoft-copilot",
+    "title": "Event: Webinar: Make the most of Microsoft Copilot",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-03",
+    "fetchedDate": "2026-11-03T13:17:50.356Z",
+    "contentHash": "66c87aebdf2d25d5",
+    "content": "Whether you&#039;re just getting started with Copilot or you&#039;re already a regular user. Join this webinar to explore Microsoft Copilot in both clinical and non-clinical settings within primary care. 1pm, Wednesday 25 November.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "Whether you&#039;re just getting started with Copilot or you&#039;re already a regular user. Join this webinar to explore Microsoft Copilot in both clinical and non-clinical settings within primary ca"
+    }
   }
 }
