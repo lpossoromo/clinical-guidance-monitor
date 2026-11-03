@@ -5948,5 +5948,56 @@
       "estimatedReadTime": 1,
       "description": "Whether you&#039;re just getting started with Copilot or you&#039;re already a regular user. Join this webinar to explore Microsoft Copilot in both clinical and non-clinical settings within primary ca"
     }
+  },
+  "content:a94d70576fa462de": {
+    "id": "content:a94d70576fa462de",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nhs-england-guidance-available-on-treating-clinically-urgent-patients-on-same-day",
+    "title": "News: NHS England guidance available on treating clinically urgent patients on same day",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-03",
+    "fetchedDate": "2026-11-03T22:42:21.508Z",
+    "contentHash": "fbe366e212ed47ed",
+    "content": "NHS England has published guidance for practices on determining patients requiring a same-day appointment, including a frequently asked questions guide and a tech-support webinar recording.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 25,
+      "estimatedReadTime": 1,
+      "description": "NHS England has published guidance for practices on determining patients requiring a same-day appointment, including a frequently asked questions guide and a tech-support webinar recording."
+    }
+  },
+  "content:e5f042c62ef1a954": {
+    "id": "content:e5f042c62ef1a954",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/getting-the-best-from-wnl-primary-care-professionals-website",
+    "title": "News: Getting the best from WNL Primary Care Professionals Website",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-03",
+    "fetchedDate": "2026-11-03T22:42:21.508Z",
+    "contentHash": "b78ccd3543ed4d46",
+    "content": "You don&#039;t need to wait for and share a weekly email newsletter to see what&#039;s going on, you can see the latest additions and updates online at any time. Read more to find out about the benefits of having a user account.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 42,
+      "estimatedReadTime": 1,
+      "description": "You don&#039;t need to wait for and share a weekly email newsletter to see what&#039;s going on, you can see the latest additions and updates online at any time. Read more to find out about the benefi"
+    }
+  },
+  "content:3f064e93432f48a1": {
+    "id": "content:3f064e93432f48a1",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-26-30-october-2026",
+    "title": "News: EMIS Global update: 26&#45;30 October 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-03",
+    "fetchedDate": "2026-11-03T22:42:21.509Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }

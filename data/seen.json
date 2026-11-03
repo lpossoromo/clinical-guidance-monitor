@@ -2892,5 +2892,29 @@
     "discovered": "2026-11-03T13:17:50.356Z",
     "publishedDate": "Tue, 03 Nov 2026 11:54:10 +0000",
     "source": "ncl"
+  },
+  "ncl:a94d70576fa462de": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/nhs-england-guidance-available-on-treating-clinically-urgent-patients-on-same-day",
+    "title": "News: NHS England guidance available on treating clinically urgent patients on same day",
+    "description": "NHS England has published guidance for practices on determining patients requiring a same-day appointment, including a frequently asked questions guide and a tech-support webinar recording.",
+    "discovered": "2026-11-03T22:42:21.508Z",
+    "publishedDate": "Tue, 03 Nov 2026 20:02:17 +0000",
+    "source": "ncl"
+  },
+  "ncl:e5f042c62ef1a954": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/getting-the-best-from-wnl-primary-care-professionals-website",
+    "title": "News: Getting the best from WNL Primary Care Professionals Website",
+    "description": "You don&#039;t need to wait for and share a weekly email newsletter to see what&#039;s going on, you can see the latest additions and updates online at any time. Read more to find out about the benefits of having a user account.",
+    "discovered": "2026-11-03T22:42:21.508Z",
+    "publishedDate": "Tue, 03 Nov 2026 18:13:09 +0000",
+    "source": "ncl"
+  },
+  "ncl:3f064e93432f48a1": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-26-30-october-2026",
+    "title": "News: EMIS Global update: 26&#45;30 October 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-11-03T22:42:21.509Z",
+    "publishedDate": "Tue, 03 Nov 2026 15:44:50 +0000",
+    "source": "ncl"
   }
 }
