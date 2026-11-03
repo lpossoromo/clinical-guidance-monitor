@@ -2868,5 +2868,21 @@
     "discovered": "2026-10-28T22:00:46.516Z",
     "publishedDate": "Wed, 28 Oct 2026 17:45:10 +0000",
     "source": "ncl"
+  },
+  "ncl:28196066e77e5e7a": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/prescribing-guidelines/asthma-inhaler-choice-child-full-guidance",
+    "title": "Prescribing Guideline: Asthma inhaler choice (child) &#45; full guidance",
+    "description": "Update: The NCL Children&rsquo;s Asthma Inhaler Choice and Quick Reference guidance have been updated to reflect inhaler and dose recommendations and addition of Soprobec&reg; 50mcg as an alternative to Clenil Modulite&reg; 50mcg, which is due to be discontinued.",
+    "discovered": "2026-11-03T00:12:46.042Z",
+    "publishedDate": "Mon, 02 Nov 2026 17:33:12 +0000",
+    "source": "ncl"
+  },
+  "ncl:20c2d670f3021748": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/it-still-counts-tobacco-related-cancers-campaign",
+    "title": "News: It Still Counts: Tobacco&#45;related cancers campaign",
+    "description": "The campaign raises awareness of tobacco-related health risks and signpost people to local support services and GP advice for possible sign and symptoms of cancer.",
+    "discovered": "2026-11-03T00:12:46.043Z",
+    "publishedDate": "Mon, 02 Nov 2026 16:29:06 +0000",
+    "source": "ncl"
   }
 }

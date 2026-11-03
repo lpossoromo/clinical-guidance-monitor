@@ -3815,5 +3815,27 @@
     "previousHash": null,
     "newHash": "8485fb961a4176b1",
     "acknowledged": false
+  },
+  "change:1793664766042:28196066e77e5e7a": {
+    "id": "change:1793664766042:28196066e77e5e7a",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/prescribing-guidelines/asthma-inhaler-choice-child-full-guidance",
+    "title": "Prescribing Guideline: Asthma inhaler choice (child) &#45; full guidance",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-03T00:12:46.042Z",
+    "previousHash": null,
+    "newHash": "8ea4b320b686a2f0",
+    "acknowledged": false
+  },
+  "change:1793664766043:20c2d670f3021748": {
+    "id": "change:1793664766043:20c2d670f3021748",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/it-still-counts-tobacco-related-cancers-campaign",
+    "title": "News: It Still Counts: Tobacco&#45;related cancers campaign",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-03T00:12:46.043Z",
+    "previousHash": null,
+    "newHash": "0d5ef7606d448337",
+    "acknowledged": false
   }
 }

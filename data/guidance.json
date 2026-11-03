@@ -5897,5 +5897,39 @@
       "estimatedReadTime": 1,
       "description": "This follows a couple of incidents in London community diagnostic centres where patients with implants/metallic foreign bodies/history of surgery have been referred and the referrer has selected &lsqu"
     }
+  },
+  "content:28196066e77e5e7a": {
+    "id": "content:28196066e77e5e7a",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/prescribing-guidelines/asthma-inhaler-choice-child-full-guidance",
+    "title": "Prescribing Guideline: Asthma inhaler choice (child) &#45; full guidance",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-02",
+    "fetchedDate": "2026-11-03T00:12:46.042Z",
+    "contentHash": "8ea4b320b686a2f0",
+    "content": "Update: The NCL Children&rsquo;s Asthma Inhaler Choice and Quick Reference guidance have been updated to reflect inhaler and dose recommendations and addition of Soprobec&reg; 50mcg as an alternative to Clenil Modulite&reg; 50mcg, which is due to be discontinued.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 38,
+      "estimatedReadTime": 1,
+      "description": "Update: The NCL Children&rsquo;s Asthma Inhaler Choice and Quick Reference guidance have been updated to reflect inhaler and dose recommendations and addition of Soprobec&reg; 50mcg as an alternative "
+    }
+  },
+  "content:20c2d670f3021748": {
+    "id": "content:20c2d670f3021748",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/it-still-counts-tobacco-related-cancers-campaign",
+    "title": "News: It Still Counts: Tobacco&#45;related cancers campaign",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-02",
+    "fetchedDate": "2026-11-03T00:12:46.043Z",
+    "contentHash": "0d5ef7606d448337",
+    "content": "The campaign raises awareness of tobacco-related health risks and signpost people to local support services and GP advice for possible sign and symptoms of cancer.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 25,
+      "estimatedReadTime": 1,
+      "description": "The campaign raises awareness of tobacco-related health risks and signpost people to local support services and GP advice for possible sign and symptoms of cancer."
+    }
   }
 }
