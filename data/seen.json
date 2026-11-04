@@ -2916,5 +2916,29 @@
     "discovered": "2026-11-03T22:42:21.509Z",
     "publishedDate": "Tue, 03 Nov 2026 15:44:50 +0000",
     "source": "ncl"
+  },
+  "ncl:2de86a6a3eaec79f": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/spotlight-on-digital-champions-camden-health-evolution-launches-nhs-app-patient-leaflet",
+    "title": "News: Spotlight on Digital Champions: Camden Health Evolution launches NHS App patient leaflet",
+    "description": "Supporting resources include a matching roll-up banner for waiting rooms and community events and an online interactive version of the leaflet to be used in SMS campaigns.",
+    "discovered": "2026-11-04T13:29:31.272Z",
+    "publishedDate": "Wed, 04 Nov 2026 12:23:14 +0000",
+    "source": "ncl"
+  },
+  "ncl:2a6604a73e0cb861": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/haringey-safe-surgery-training",
+    "title": "Event: Haringey Safe Surgery Training",
+    "description": "Primary care staff in Haringey are invited to attend a one-hour online Safe Surgeries training session to learn or refresh their knowledge on how practices can improve access to healthcare for all patients. 1pm, Thursday 19 November.",
+    "discovered": "2026-11-04T13:29:31.272Z",
+    "publishedDate": "Wed, 04 Nov 2026 12:24:41 +0000",
+    "source": "ncl"
+  },
+  "ncl:ddbbf8435b1e9495": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/report-launch-the-case-for-the-living-wage-in-primary-care",
+    "title": "News: Report launch: The case for the living wage in primary care",
+    "description": "New real living wage rates for 2026-27 are here. Join the NHS England and Living Wage Foundation webinar to explore what the real living wage means for primary care and how it can support staff retention and workforce sustainability.",
+    "discovered": "2026-11-04T13:29:31.272Z",
+    "publishedDate": "Wed, 04 Nov 2026 11:48:21 +0000",
+    "source": "ncl"
   }
 }

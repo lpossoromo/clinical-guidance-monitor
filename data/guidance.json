@@ -5999,5 +5999,56 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global."
     }
+  },
+  "content:2de86a6a3eaec79f": {
+    "id": "content:2de86a6a3eaec79f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/spotlight-on-digital-champions-camden-health-evolution-launches-nhs-app-patient-leaflet",
+    "title": "News: Spotlight on Digital Champions: Camden Health Evolution launches NHS App patient leaflet",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-04T13:29:31.272Z",
+    "contentHash": "73f07c42aad5742c",
+    "content": "Supporting resources include a matching roll-up banner for waiting rooms and community events and an online interactive version of the leaflet to be used in SMS campaigns.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 27,
+      "estimatedReadTime": 1,
+      "description": "Supporting resources include a matching roll-up banner for waiting rooms and community events and an online interactive version of the leaflet to be used in SMS campaigns."
+    }
+  },
+  "content:2a6604a73e0cb861": {
+    "id": "content:2a6604a73e0cb861",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/haringey-safe-surgery-training",
+    "title": "Event: Haringey Safe Surgery Training",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-04T13:29:31.272Z",
+    "contentHash": "0d0caaf0526bc819",
+    "content": "Primary care staff in Haringey are invited to attend a one-hour online Safe Surgeries training session to learn or refresh their knowledge on how practices can improve access to healthcare for all patients. 1pm, Thursday 19 November.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "Primary care staff in Haringey are invited to attend a one-hour online Safe Surgeries training session to learn or refresh their knowledge on how practices can improve access to healthcare for all pat"
+    }
+  },
+  "content:ddbbf8435b1e9495": {
+    "id": "content:ddbbf8435b1e9495",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/report-launch-the-case-for-the-living-wage-in-primary-care",
+    "title": "News: Report launch: The case for the living wage in primary care",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-04",
+    "fetchedDate": "2026-11-04T13:29:31.272Z",
+    "contentHash": "bc3b6a6cdc061f64",
+    "content": "New real living wage rates for 2026-27 are here. Join the NHS England and Living Wage Foundation webinar to explore what the real living wage means for primary care and how it can support staff retention and workforce sustainability.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 39,
+      "estimatedReadTime": 1,
+      "description": "New real living wage rates for 2026-27 are here. Join the NHS England and Living Wage Foundation webinar to explore what the real living wage means for primary care and how it can support staff retent"
+    }
   }
 }

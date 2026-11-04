@@ -3881,5 +3881,38 @@
     "previousHash": null,
     "newHash": "830057a78b6591d9",
     "acknowledged": false
+  },
+  "change:1793798971272:2de86a6a3eaec79f": {
+    "id": "change:1793798971272:2de86a6a3eaec79f",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/spotlight-on-digital-champions-camden-health-evolution-launches-nhs-app-patient-leaflet",
+    "title": "News: Spotlight on Digital Champions: Camden Health Evolution launches NHS App patient leaflet",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-04T13:29:31.272Z",
+    "previousHash": null,
+    "newHash": "73f07c42aad5742c",
+    "acknowledged": false
+  },
+  "change:1793798971272:2a6604a73e0cb861": {
+    "id": "change:1793798971272:2a6604a73e0cb861",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/haringey-safe-surgery-training",
+    "title": "Event: Haringey Safe Surgery Training",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-04T13:29:31.272Z",
+    "previousHash": null,
+    "newHash": "0d0caaf0526bc819",
+    "acknowledged": false
+  },
+  "change:1793798971272:ddbbf8435b1e9495": {
+    "id": "change:1793798971272:ddbbf8435b1e9495",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/report-launch-the-case-for-the-living-wage-in-primary-care",
+    "title": "News: Report launch: The case for the living wage in primary care",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-04T13:29:31.272Z",
+    "previousHash": null,
+    "newHash": "bc3b6a6cdc061f64",
+    "acknowledged": false
   }
 }
