@@ -2948,5 +2948,21 @@
     "discovered": "2026-11-05T23:02:55.515Z",
     "publishedDate": "Thu, 05 Nov 2026 15:21:30 +0000",
     "source": "nhs"
+  },
+  "ncl:5f952dd216c24e93": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/world-antimicrobial-resistance-awareness-week-18-24-november-2026",
+    "title": "News: World antimicrobial resistance awareness week 18&#45;24 November 2026",
+    "description": "Help prevent AMR this WAAW by promoting safer antimicrobial use. In west and north London, the focus is on supporting greater awareness and understanding through guidance, communication, education and training. Find out more.",
+    "discovered": "2026-11-06T13:28:17.933Z",
+    "publishedDate": "Fri, 06 Nov 2026 13:00:34 +0000",
+    "source": "ncl"
+  },
+  "ncl:9bfe0d1354ff699c": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/ckd-the-right-treatment-the-right-patient-the-right-time",
+    "title": "Event: CKD: The Right Treatment, The Right Patient, The Right Time",
+    "description": "Join NCL CKD Network to explore which treatments are most appropriate, including for frail populations, and the role of lifestyle interventions, with an opportunity to ask questions. 1pm, Thursday 26 November.",
+    "discovered": "2026-11-06T13:28:17.933Z",
+    "publishedDate": "Fri, 06 Nov 2026 11:21:25 +0000",
+    "source": "ncl"
   }
 }

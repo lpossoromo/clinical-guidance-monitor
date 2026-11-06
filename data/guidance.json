@@ -6050,5 +6050,39 @@
       "estimatedReadTime": 1,
       "description": "New real living wage rates for 2026-27 are here. Join the NHS England and Living Wage Foundation webinar to explore what the real living wage means for primary care and how it can support staff retent"
     }
+  },
+  "content:5f952dd216c24e93": {
+    "id": "content:5f952dd216c24e93",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/world-antimicrobial-resistance-awareness-week-18-24-november-2026",
+    "title": "News: World antimicrobial resistance awareness week 18&#45;24 November 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-06",
+    "fetchedDate": "2026-11-06T13:28:17.933Z",
+    "contentHash": "4d7e5c8543f0d6c2",
+    "content": "Help prevent AMR this WAAW by promoting safer antimicrobial use. In west and north London, the focus is on supporting greater awareness and understanding through guidance, communication, education and training. Find out more.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 33,
+      "estimatedReadTime": 1,
+      "description": "Help prevent AMR this WAAW by promoting safer antimicrobial use. In west and north London, the focus is on supporting greater awareness and understanding through guidance, communication, education and"
+    }
+  },
+  "content:9bfe0d1354ff699c": {
+    "id": "content:9bfe0d1354ff699c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/ckd-the-right-treatment-the-right-patient-the-right-time",
+    "title": "Event: CKD: The Right Treatment, The Right Patient, The Right Time",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-06",
+    "fetchedDate": "2026-11-06T13:28:17.933Z",
+    "contentHash": "177e9294f1567ab2",
+    "content": "Join NCL CKD Network to explore which treatments are most appropriate, including for frail populations, and the role of lifestyle interventions, with an opportunity to ask questions. 1pm, Thursday 26 November.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "Join NCL CKD Network to explore which treatments are most appropriate, including for frail populations, and the role of lifestyle interventions, with an opportunity to ask questions. 1pm, Thursday 26 "
+    }
   }
 }

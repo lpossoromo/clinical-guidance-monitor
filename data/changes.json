@@ -3914,5 +3914,27 @@
     "previousHash": null,
     "newHash": "bc3b6a6cdc061f64",
     "acknowledged": false
+  },
+  "change:1793971697933:5f952dd216c24e93": {
+    "id": "change:1793971697933:5f952dd216c24e93",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/world-antimicrobial-resistance-awareness-week-18-24-november-2026",
+    "title": "News: World antimicrobial resistance awareness week 18&#45;24 November 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-06T13:28:17.933Z",
+    "previousHash": null,
+    "newHash": "4d7e5c8543f0d6c2",
+    "acknowledged": false
+  },
+  "change:1793971697933:9bfe0d1354ff699c": {
+    "id": "change:1793971697933:9bfe0d1354ff699c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/ckd-the-right-treatment-the-right-patient-the-right-time",
+    "title": "Event: CKD: The Right Treatment, The Right Patient, The Right Time",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-06T13:28:17.933Z",
+    "previousHash": null,
+    "newHash": "177e9294f1567ab2",
+    "acknowledged": false
   }
 }
