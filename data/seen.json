@@ -2964,5 +2964,21 @@
     "discovered": "2026-11-06T13:28:17.933Z",
     "publishedDate": "Fri, 06 Nov 2026 11:21:25 +0000",
     "source": "ncl"
+  },
+  "ncl:88150e82ac53822a": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/action-required-cervical-sample-taker-review",
+    "title": "News: Action required: Cervical sample taker review",
+    "description": "Complete the cervical sample taker review form by Tuesday 1 December to maintain an active London PIN and current screening updates.",
+    "discovered": "2026-11-10T22:39:46.026Z",
+    "publishedDate": "Tue, 10 Nov 2026 16:57:28 +0000",
+    "source": "ncl"
+  },
+  "ncl:8d8706fae993c3e6": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/updated-sms-funding-allocation-for-general-practice",
+    "title": "News: Updated SMS funding allocation for general practice",
+    "description": "Practices are encouraged to review the dashboard regularly to understand their current position and support planning for patient communications throughout the financial year.",
+    "discovered": "2026-11-10T22:39:46.026Z",
+    "publishedDate": "Tue, 10 Nov 2026 15:26:08 +0000",
+    "source": "ncl"
   }
 }

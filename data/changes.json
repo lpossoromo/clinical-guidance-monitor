@@ -3936,5 +3936,27 @@
     "previousHash": null,
     "newHash": "177e9294f1567ab2",
     "acknowledged": false
+  },
+  "change:1794350386026:88150e82ac53822a": {
+    "id": "change:1794350386026:88150e82ac53822a",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/action-required-cervical-sample-taker-review",
+    "title": "News: Action required: Cervical sample taker review",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-10T22:39:46.026Z",
+    "previousHash": null,
+    "newHash": "88b937120b81e0fb",
+    "acknowledged": false
+  },
+  "change:1794350386026:8d8706fae993c3e6": {
+    "id": "change:1794350386026:8d8706fae993c3e6",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/updated-sms-funding-allocation-for-general-practice",
+    "title": "News: Updated SMS funding allocation for general practice",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-10T22:39:46.026Z",
+    "previousHash": null,
+    "newHash": "41c09f2027ac5419",
+    "acknowledged": false
   }
 }
