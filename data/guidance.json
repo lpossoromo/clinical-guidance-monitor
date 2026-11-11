@@ -6118,5 +6118,22 @@
       "estimatedReadTime": 1,
       "description": "Practices are encouraged to review the dashboard regularly to understand their current position and support planning for patient communications throughout the financial year."
     }
+  },
+  "content:9600c633175252ba": {
+    "id": "content:9600c633175252ba",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-2-7-november2026",
+    "title": "News: EMIS Global update: 2&#45;7 November 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-11",
+    "fetchedDate": "2026-11-11T13:14:25.324Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }
