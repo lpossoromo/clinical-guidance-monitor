@@ -6152,5 +6152,22 @@
       "estimatedReadTime": 1,
       "description": "Home \n\r\n\r\n\r\n\r\n\r\nNews \n\r\n\r\n\r\nNew Position Statement - AI in Respiratory and Sleep Healthcare Science\n\r\n\r\n\n\r\n\r\n\r\n\r\n\r\nNew Position Statement - AI in Respiratory and Sleep Healthcare Science\n\r\n\r\n\r\n\r\n\r\n11 "
     }
+  },
+  "content:0145d522aafe09bf": {
+    "id": "content:0145d522aafe09bf",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/digital-tools-supporting-gp-access/sms-patient-messaging",
+    "title": "Page: SMS patient messaging",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-12",
+    "fetchedDate": "2026-11-12T22:59:14.400Z",
+    "contentHash": "e4dcf5d4a8eb4112",
+    "content": "Updated SMS funding allocation for general practice. Practices are encouraged to review the SMS allocation dashboard regularly to understand their current position and support planning for patient communications throughout the financial year.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 32,
+      "estimatedReadTime": 1,
+      "description": "Updated SMS funding allocation for general practice. Practices are encouraged to review the SMS allocation dashboard regularly to understand their current position and support planning for patient com"
+    }
   }
 }

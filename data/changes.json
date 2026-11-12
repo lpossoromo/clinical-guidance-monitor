@@ -3980,5 +3980,16 @@
     "previousHash": null,
     "newHash": "c5953d422d9bb74b",
     "acknowledged": false
+  },
+  "change:1794524354400:0145d522aafe09bf": {
+    "id": "change:1794524354400:0145d522aafe09bf",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/digital-tools-supporting-gp-access/sms-patient-messaging",
+    "title": "Page: SMS patient messaging",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-12T22:59:14.400Z",
+    "previousHash": null,
+    "newHash": "e4dcf5d4a8eb4112",
+    "acknowledged": false
   }
 }

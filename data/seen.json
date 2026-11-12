@@ -3002,5 +3002,13 @@
     "discovered": "2026-11-12T04:58:44.613Z",
     "publishedDate": "Thu, 12 Nov 2026 00:01:27 +0000",
     "source": "nhs"
+  },
+  "ncl:0145d522aafe09bf": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/digital-tools-supporting-gp-access/sms-patient-messaging",
+    "title": "Page: SMS patient messaging",
+    "description": "Updated SMS funding allocation for general practice. Practices are encouraged to review the SMS allocation dashboard regularly to understand their current position and support planning for patient communications throughout the financial year.",
+    "discovered": "2026-11-12T22:59:14.400Z",
+    "publishedDate": "Thu, 12 Nov 2026 17:25:46 +0000",
+    "source": "ncl"
   }
 }
