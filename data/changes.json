@@ -3991,5 +3991,16 @@
     "previousHash": null,
     "newHash": "e4dcf5d4a8eb4112",
     "acknowledged": false
+  },
+  "change:1794577175155:c5f1e93ab90da955": {
+    "id": "change:1794577175155:c5f1e93ab90da955",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/microsoft-outage-advice-for-gp-practices-and-pharmacies-in-west-and-north-london",
+    "title": "News: Microsoft outage: Advice for GP practices and pharmacies in west and north London",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-13T13:39:35.155Z",
+    "previousHash": null,
+    "newHash": "aac855220f2b3639",
+    "acknowledged": false
   }
 }

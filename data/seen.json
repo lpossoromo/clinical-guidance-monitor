@@ -3010,5 +3010,13 @@
     "discovered": "2026-11-12T22:59:14.400Z",
     "publishedDate": "Thu, 12 Nov 2026 17:25:46 +0000",
     "source": "ncl"
+  },
+  "ncl:c5f1e93ab90da955": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/microsoft-outage-advice-for-gp-practices-and-pharmacies-in-west-and-north-london",
+    "title": "News: Microsoft outage: Advice for GP practices and pharmacies in west and north London",
+    "description": "Microsoft 365 outage impacts email services, GP practices and pharmacies in west and north London advised to activate contingency plans to ensure patient care.",
+    "discovered": "2026-11-13T13:39:35.155Z",
+    "publishedDate": "Fri, 13 Nov 2026 13:38:35 +0000",
+    "source": "ncl"
   }
 }
