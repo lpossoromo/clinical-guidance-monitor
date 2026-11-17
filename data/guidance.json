@@ -6203,5 +6203,39 @@
       "estimatedReadTime": 1,
       "description": "The programme offers nine months of comprehensive support for patients managing weight with tirzepatide treatment. It includes education on nutrition for muscle and metabolic health and promotes susta"
     }
+  },
+  "content:1486fd40877680e4": {
+    "id": "content:1486fd40877680e4",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/change-of-outpatient-locations-at-hillingdon-hospital",
+    "title": "News: Change of outpatient locations at Hillingdon Hospital",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-17",
+    "fetchedDate": "2026-11-17T15:12:03.844Z",
+    "contentHash": "845693b51dedda65",
+    "content": "From Monday 23 November, several services will be moving to new locations across the Hillingdon Hospital site, as part of ongoing preparations for the new Hillingdon Hospital.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 27,
+      "estimatedReadTime": 1,
+      "description": "From Monday 23 November, several services will be moving to new locations across the Hillingdon Hospital site, as part of ongoing preparations for the new Hillingdon Hospital."
+    }
+  },
+  "content:5e13355a29c998cf": {
+    "id": "content:5e13355a29c998cf",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-9-13-november-2026",
+    "title": "News: EMIS Global update: 9&#45;13 November 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-17",
+    "fetchedDate": "2026-11-17T15:12:03.845Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }

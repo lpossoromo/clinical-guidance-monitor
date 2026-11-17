@@ -3026,5 +3026,21 @@
     "discovered": "2026-11-17T01:18:09.095Z",
     "publishedDate": "Mon, 16 Nov 2026 15:16:54 +0000",
     "source": "ncl"
+  },
+  "ncl:1486fd40877680e4": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/change-of-outpatient-locations-at-hillingdon-hospital",
+    "title": "News: Change of outpatient locations at Hillingdon Hospital",
+    "description": "From Monday 23 November, several services will be moving to new locations across the Hillingdon Hospital site, as part of ongoing preparations for the new Hillingdon Hospital.",
+    "discovered": "2026-11-17T15:12:03.844Z",
+    "publishedDate": "Tue, 17 Nov 2026 12:33:54 +0000",
+    "source": "ncl"
+  },
+  "ncl:5e13355a29c998cf": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-9-13-november-2026",
+    "title": "News: EMIS Global update: 9&#45;13 November 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-11-17T15:12:03.845Z",
+    "publishedDate": "Tue, 17 Nov 2026 14:40:18 +0000",
+    "source": "ncl"
   }
 }
