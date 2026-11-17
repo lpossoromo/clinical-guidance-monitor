@@ -6186,5 +6186,22 @@
       "estimatedReadTime": 1,
       "description": "Microsoft 365 outage impacts email services, GP practices and pharmacies in west and north London advised to activate contingency plans to ensure patient care."
     }
+  },
+  "content:5f8a3783ba8de7a2": {
+    "id": "content:5f8a3783ba8de7a2",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/behavioural-support-for-obesity-prescribing-programme",
+    "title": "Service: Behavioural Support for Obesity Prescribing Programme",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-16",
+    "fetchedDate": "2026-11-17T01:18:09.095Z",
+    "contentHash": "2d956a14b01db641",
+    "content": "The programme offers nine months of comprehensive support for patients managing weight with tirzepatide treatment. It includes education on nutrition for muscle and metabolic health and promotes sustainable lifestyle habits.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 30,
+      "estimatedReadTime": 1,
+      "description": "The programme offers nine months of comprehensive support for patients managing weight with tirzepatide treatment. It includes education on nutrition for muscle and metabolic health and promotes susta"
+    }
   }
 }

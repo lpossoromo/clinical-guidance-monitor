@@ -3018,5 +3018,13 @@
     "discovered": "2026-11-13T13:39:35.155Z",
     "publishedDate": "Fri, 13 Nov 2026 13:38:35 +0000",
     "source": "ncl"
+  },
+  "ncl:5f8a3783ba8de7a2": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/behavioural-support-for-obesity-prescribing-programme",
+    "title": "Service: Behavioural Support for Obesity Prescribing Programme",
+    "description": "The programme offers nine months of comprehensive support for patients managing weight with tirzepatide treatment. It includes education on nutrition for muscle and metabolic health and promotes sustainable lifestyle habits.",
+    "discovered": "2026-11-17T01:18:09.095Z",
+    "publishedDate": "Mon, 16 Nov 2026 15:16:54 +0000",
+    "source": "ncl"
   }
 }

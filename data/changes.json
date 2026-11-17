@@ -4002,5 +4002,16 @@
     "previousHash": null,
     "newHash": "aac855220f2b3639",
     "acknowledged": false
+  },
+  "change:1794878289095:5f8a3783ba8de7a2": {
+    "id": "change:1794878289095:5f8a3783ba8de7a2",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/behavioural-support-for-obesity-prescribing-programme",
+    "title": "Service: Behavioural Support for Obesity Prescribing Programme",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-17T01:18:09.095Z",
+    "previousHash": null,
+    "newHash": "2d956a14b01db641",
+    "acknowledged": false
   }
 }
