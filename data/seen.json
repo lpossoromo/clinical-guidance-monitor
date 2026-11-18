@@ -3058,5 +3058,13 @@
     "discovered": "2026-11-18T14:49:36.444Z",
     "publishedDate": "Wed, 18 Nov 2026 10:05:50 +0000",
     "source": "ncl"
+  },
+  "ncl:ebee46fa855f01e6": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/immunisations-and-vaccinations/covid-19-vaccine",
+    "title": "Page: COVID&#45;19 vaccine",
+    "description": "Practices are reminded to identify and invite eligible immunosuppressed patients for seasonal flu and COVID-19 vaccinations. Use  available resources to support conversations, improve uptake and reduce missed vaccination opportunities this winter.",
+    "discovered": "2026-11-18T23:42:50.135Z",
+    "publishedDate": "Wed, 18 Nov 2026 16:06:28 +0000",
+    "source": "ncl"
   }
 }

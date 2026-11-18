@@ -6271,5 +6271,22 @@
       "estimatedReadTime": 1,
       "description": "From 18 November, the trust is asking clinicians referring adults to ENT for Speech &amp; Language Therapy to use the single point of access available on e-RS DOS."
     }
+  },
+  "content:ebee46fa855f01e6": {
+    "id": "content:ebee46fa855f01e6",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/immunisations-and-vaccinations/covid-19-vaccine",
+    "title": "Page: COVID&#45;19 vaccine",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-18",
+    "fetchedDate": "2026-11-18T23:42:50.135Z",
+    "contentHash": "06c3d6fb6c130d31",
+    "content": "Practices are reminded to identify and invite eligible immunosuppressed patients for seasonal flu and COVID-19 vaccinations. Use  available resources to support conversations, improve uptake and reduce missed vaccination opportunities this winter.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "Practices are reminded to identify and invite eligible immunosuppressed patients for seasonal flu and COVID-19 vaccinations. Use  available resources to support conversations, improve uptake and reduc"
+    }
   }
 }

@@ -4057,5 +4057,16 @@
     "previousHash": null,
     "newHash": "1eeaf18665ee0211",
     "acknowledged": false
+  },
+  "change:1795045370135:ebee46fa855f01e6": {
+    "id": "change:1795045370135:ebee46fa855f01e6",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/immunisations-and-vaccinations/covid-19-vaccine",
+    "title": "Page: COVID&#45;19 vaccine",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-18T23:42:50.135Z",
+    "previousHash": null,
+    "newHash": "06c3d6fb6c130d31",
+    "acknowledged": false
   }
 }
