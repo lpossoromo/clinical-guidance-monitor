@@ -6237,5 +6237,39 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global."
     }
+  },
+  "content:985b75787c13cf83": {
+    "id": "content:985b75787c13cf83",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/bronze-cancer-practice-recognition-award-celebrating-success-and-looking-ahead",
+    "title": "News: Bronze Cancer Practice Recognition Award: Celebrating success and looking ahead",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-18",
+    "fetchedDate": "2026-11-18T14:49:36.443Z",
+    "contentHash": "3990f80e8cd1ffa0",
+    "content": "The bronze award has helped practices deliver projects to improve earlier cancer diagnosis, screening uptake and patient experience. A silver award has been launched and the bronze award has reopened for new participants. Read more",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 35,
+      "estimatedReadTime": 1,
+      "description": "The bronze award has helped practices deliver projects to improve earlier cancer diagnosis, screening uptake and patient experience. A silver award has been launched and the bronze award has reopened "
+    }
+  },
+  "content:ccb5bd69f0e724fd": {
+    "id": "content:ccb5bd69f0e724fd",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/london-north-west-university-hospital-change-to-voice-clinic-referrals",
+    "title": "News: London North West University Hospital: Change to voice clinic referrals",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-18",
+    "fetchedDate": "2026-11-18T14:49:36.444Z",
+    "contentHash": "1eeaf18665ee0211",
+    "content": "From 18 November, the trust is asking clinicians referring adults to ENT for Speech &amp; Language Therapy to use the single point of access available on e-RS DOS.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 28,
+      "estimatedReadTime": 1,
+      "description": "From 18 November, the trust is asking clinicians referring adults to ENT for Speech &amp; Language Therapy to use the single point of access available on e-RS DOS."
+    }
   }
 }
