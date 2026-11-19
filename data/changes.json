@@ -4068,5 +4068,16 @@
     "previousHash": null,
     "newHash": "06c3d6fb6c130d31",
     "acknowledged": false
+  },
+  "change:1795100158025:05079824416fc406": {
+    "id": "change:1795100158025:05079824416fc406",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/rfl-update-changes-to-red-blood-cell-reporting-on-urine-sample",
+    "title": "News: RFL update: Changes to red blood cell reporting on urine sample",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-19T14:55:58.025Z",
+    "previousHash": null,
+    "newHash": "a4dfa93f707a8376",
+    "acknowledged": false
   }
 }

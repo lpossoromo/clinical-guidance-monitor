@@ -3066,5 +3066,13 @@
     "discovered": "2026-11-18T23:42:50.135Z",
     "publishedDate": "Wed, 18 Nov 2026 16:06:28 +0000",
     "source": "ncl"
+  },
+  "ncl:05079824416fc406": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/rfl-update-changes-to-red-blood-cell-reporting-on-urine-sample",
+    "title": "News: RFL update: Changes to red blood cell reporting on urine sample",
+    "description": "On Monday 23 November, the threshold for raised RBC counts increased from &gt;25 to &gt;40 cells/mm&sup3;. Practices should note the revised threshold and guidance on confirming suspected haematuria using dipstick testing before considering a urology referral.",
+    "discovered": "2026-11-19T14:55:58.024Z",
+    "publishedDate": "Thu, 19 Nov 2026 11:16:55 +0000",
+    "source": "ncl"
   }
 }

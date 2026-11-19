@@ -6288,5 +6288,22 @@
       "estimatedReadTime": 1,
       "description": "Practices are reminded to identify and invite eligible immunosuppressed patients for seasonal flu and COVID-19 vaccinations. Use  available resources to support conversations, improve uptake and reduc"
     }
+  },
+  "content:05079824416fc406": {
+    "id": "content:05079824416fc406",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/rfl-update-changes-to-red-blood-cell-reporting-on-urine-sample",
+    "title": "News: RFL update: Changes to red blood cell reporting on urine sample",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-19",
+    "fetchedDate": "2026-11-19T14:55:58.025Z",
+    "contentHash": "a4dfa93f707a8376",
+    "content": "On Monday 23 November, the threshold for raised RBC counts increased from &gt;25 to &gt;40 cells/mm&sup3;. Practices should note the revised threshold and guidance on confirming suspected haematuria using dipstick testing before considering a urology referral.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 36,
+      "estimatedReadTime": 1,
+      "description": "On Monday 23 November, the threshold for raised RBC counts increased from &gt;25 to &gt;40 cells/mm&sup3;. Practices should note the revised threshold and guidance on confirming suspected haematuria u"
+    }
   }
 }
