@@ -4079,5 +4079,38 @@
     "previousHash": null,
     "newHash": "a4dfa93f707a8376",
     "acknowledged": false
+  },
+  "change:1795132892829:ce6ad1b05a41b38c": {
+    "id": "change:1795132892829:ce6ad1b05a41b38c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/opportunity-digital-clinical-safety-officer-needed-to-facilitate-peer-network-sessions",
+    "title": "News: Opportunity: Digital Clinical Safety Officer needed to facilitate peer network sessions",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-20T00:01:32.829Z",
+    "previousHash": null,
+    "newHash": "577f07cdea7e1631",
+    "acknowledged": false
+  },
+  "change:1795132892829:2472664043e93bd3": {
+    "id": "change:1795132892829:2472664043e93bd3",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/north-london-guidance-on-severe-hypertension-and-hypertension-in-frailty-now-available",
+    "title": "News: North London guidance on severe hypertension and hypertension in frailty now available",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-20T00:01:32.829Z",
+    "previousHash": null,
+    "newHash": "1c2b2ac64a66f23b",
+    "acknowledged": false
+  },
+  "change:1795132892829:a1dfc117279552fc": {
+    "id": "change:1795132892829:a1dfc117279552fc",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hospital-death-what-information-does-your-practice-need",
+    "title": "News: Hospital death: what information does your practice need?",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-20T00:01:32.829Z",
+    "previousHash": null,
+    "newHash": "3ed3d4ae9e8122e4",
+    "acknowledged": false
   }
 }

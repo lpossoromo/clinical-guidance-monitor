@@ -6305,5 +6305,56 @@
       "estimatedReadTime": 1,
       "description": "On Monday 23 November, the threshold for raised RBC counts increased from &gt;25 to &gt;40 cells/mm&sup3;. Practices should note the revised threshold and guidance on confirming suspected haematuria u"
     }
+  },
+  "content:ce6ad1b05a41b38c": {
+    "id": "content:ce6ad1b05a41b38c",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/opportunity-digital-clinical-safety-officer-needed-to-facilitate-peer-network-sessions",
+    "title": "News: Opportunity: Digital Clinical Safety Officer needed to facilitate peer network sessions",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-19",
+    "fetchedDate": "2026-11-20T00:01:32.829Z",
+    "contentHash": "577f07cdea7e1631",
+    "content": "Hounslow Consortium is seeking a NWL clinician (working in general practice), who is trained as a digital Clinical Safety Officer, to facilitate a new peer network session across NWL. The closing date to express an interest is Friday 4 December.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 40,
+      "estimatedReadTime": 1,
+      "description": "Hounslow Consortium is seeking a NWL clinician (working in general practice), who is trained as a digital Clinical Safety Officer, to facilitate a new peer network session across NWL. The closing date"
+    }
+  },
+  "content:2472664043e93bd3": {
+    "id": "content:2472664043e93bd3",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/north-london-guidance-on-severe-hypertension-and-hypertension-in-frailty-now-available",
+    "title": "News: North London guidance on severe hypertension and hypertension in frailty now available",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-19",
+    "fetchedDate": "2026-11-20T00:01:32.829Z",
+    "contentHash": "1c2b2ac64a66f23b",
+    "content": "Reviewed and endorsed by the CVD Clinical Network, the guidance is a great resource for clinicians.&nbsp;Access it on NHS Futures platform.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "Reviewed and endorsed by the CVD Clinical Network, the guidance is a great resource for clinicians.&nbsp;Access it on NHS Futures platform."
+    }
+  },
+  "content:a1dfc117279552fc": {
+    "id": "content:a1dfc117279552fc",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/hospital-death-what-information-does-your-practice-need",
+    "title": "News: Hospital death: what information does your practice need?",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-19",
+    "fetchedDate": "2026-11-20T00:01:32.829Z",
+    "contentHash": "3ed3d4ae9e8122e4",
+    "content": "An opportunity to shape future discharge summaries following the death of a patient in hospital.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 15,
+      "estimatedReadTime": 1,
+      "description": "An opportunity to shape future discharge summaries following the death of a patient in hospital."
+    }
   }
 }
