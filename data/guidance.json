@@ -6356,5 +6356,22 @@
       "estimatedReadTime": 1,
       "description": "An opportunity to shape future discharge summaries following the death of a patient in hospital."
     }
+  },
+  "content:8145a96ea3f12e45": {
+    "id": "content:8145a96ea3f12e45",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/respiratory-diagnostic-hublets-testing-referrals-and-specialist-support",
+    "title": "News: Respiratory Diagnostic Hublets: testing, referrals and specialist support",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-20",
+    "fetchedDate": "2026-11-20T23:29:43.044Z",
+    "contentHash": "b4845418bd028967",
+    "content": "Respiratory diagnostic hubs offer community-based testing and support, ensuring accurate diagnosis and management closer to home for adults and children. Find out more.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 23,
+      "estimatedReadTime": 1,
+      "description": "Respiratory diagnostic hubs offer community-based testing and support, ensuring accurate diagnosis and management closer to home for adults and children. Find out more."
+    }
   }
 }

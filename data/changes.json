@@ -4112,5 +4112,16 @@
     "previousHash": null,
     "newHash": "3ed3d4ae9e8122e4",
     "acknowledged": false
+  },
+  "change:1795217383044:8145a96ea3f12e45": {
+    "id": "change:1795217383044:8145a96ea3f12e45",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/respiratory-diagnostic-hublets-testing-referrals-and-specialist-support",
+    "title": "News: Respiratory Diagnostic Hublets: testing, referrals and specialist support",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-20T23:29:43.044Z",
+    "previousHash": null,
+    "newHash": "b4845418bd028967",
+    "acknowledged": false
   }
 }
