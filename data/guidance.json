@@ -6373,5 +6373,56 @@
       "estimatedReadTime": 1,
       "description": "Respiratory diagnostic hubs offer community-based testing and support, ensuring accurate diagnosis and management closer to home for adults and children. Find out more."
     }
+  },
+  "content:e567a48644dfb202": {
+    "id": "content:e567a48644dfb202",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/barnet-announces-streamlined-autism-assessment-pathway",
+    "title": "News: Barnet announces streamlined autism assessment pathway",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-23",
+    "fetchedDate": "2026-11-23T16:53:34.634Z",
+    "contentHash": "c757f357453f2393",
+    "content": "The pathway has been co-produced with parents and developed with input from paediatricians, EYSEND and TAASC clinicians to provide a more streamlined, family-centred assessment process.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 25,
+      "estimatedReadTime": 1,
+      "description": "The pathway has been co-produced with parents and developed with input from paediatricians, EYSEND and TAASC clinicians to provide a more streamlined, family-centred assessment process."
+    }
+  },
+  "content:4ecb08fb051df79d": {
+    "id": "content:4ecb08fb051df79d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/contraception-after-abortion-supporting-informed-choice",
+    "title": "Event: Contraception After Abortion: Supporting Informed Choice",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-23",
+    "fetchedDate": "2026-11-23T16:53:34.635Z",
+    "contentHash": "13e47240382dbbd7",
+    "content": "A series of CPD-accredited webinars aims to enhance knowledge on contraception and abortion care in priamry care. The first webinar starts at 1pm on Wednesday 2 December 2026.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 28,
+      "estimatedReadTime": 1,
+      "description": "A series of CPD-accredited webinars aims to enhance knowledge on contraception and abortion care in priamry care. The first webinar starts at 1pm on Wednesday 2 December 2026."
+    }
+  },
+  "content:528bf8cb20c380b4": {
+    "id": "content:528bf8cb20c380b4",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/enhanced-service-inhaler-technique-nwl-children-and-young-people-asthma-tier-three-aligned-training",
+    "title": "Event: Enhanced Service Inhaler Technique: NWL Children and Young People Asthma Tier Three Aligned Training",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-23",
+    "fetchedDate": "2026-11-23T16:53:34.635Z",
+    "contentHash": "3a3919d04e7afe20",
+    "content": "In-person Asthma training for healthcare professionals, focusing on effective asthma management and inhaler techniques for children. 9.15am, Tuesday 19 January 2027.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 21,
+      "estimatedReadTime": 1,
+      "description": "In-person Asthma training for healthcare professionals, focusing on effective asthma management and inhaler techniques for children. 9.15am, Tuesday 19 January 2027."
+    }
   }
 }

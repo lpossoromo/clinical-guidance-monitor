@@ -3114,5 +3114,29 @@
     "discovered": "2026-11-23T04:51:08.310Z",
     "publishedDate": "Mon, 23 Nov 2026 00:01:39 +0000",
     "source": "nhs"
+  },
+  "ncl:e567a48644dfb202": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/barnet-announces-streamlined-autism-assessment-pathway",
+    "title": "News: Barnet announces streamlined autism assessment pathway",
+    "description": "The pathway has been co-produced with parents and developed with input from paediatricians, EYSEND and TAASC clinicians to provide a more streamlined, family-centred assessment process.",
+    "discovered": "2026-11-23T16:53:34.634Z",
+    "publishedDate": "Mon, 23 Nov 2026 14:29:53 +0000",
+    "source": "ncl"
+  },
+  "ncl:4ecb08fb051df79d": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/contraception-after-abortion-supporting-informed-choice",
+    "title": "Event: Contraception After Abortion: Supporting Informed Choice",
+    "description": "A series of CPD-accredited webinars aims to enhance knowledge on contraception and abortion care in priamry care. The first webinar starts at 1pm on Wednesday 2 December 2026.",
+    "discovered": "2026-11-23T16:53:34.635Z",
+    "publishedDate": "Mon, 23 Nov 2026 11:25:01 +0000",
+    "source": "ncl"
+  },
+  "ncl:528bf8cb20c380b4": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/enhanced-service-inhaler-technique-nwl-children-and-young-people-asthma-tier-three-aligned-training",
+    "title": "Event: Enhanced Service Inhaler Technique: NWL Children and Young People Asthma Tier Three Aligned Training",
+    "description": "In-person Asthma training for healthcare professionals, focusing on effective asthma management and inhaler techniques for children. 9.15am, Tuesday 19 January 2027.",
+    "discovered": "2026-11-23T16:53:34.635Z",
+    "publishedDate": "Mon, 23 Nov 2026 10:21:15 +0000",
+    "source": "ncl"
   }
 }

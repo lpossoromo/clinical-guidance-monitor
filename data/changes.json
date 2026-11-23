@@ -4123,5 +4123,38 @@
     "previousHash": null,
     "newHash": "b4845418bd028967",
     "acknowledged": false
+  },
+  "change:1795452814634:e567a48644dfb202": {
+    "id": "change:1795452814634:e567a48644dfb202",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/barnet-announces-streamlined-autism-assessment-pathway",
+    "title": "News: Barnet announces streamlined autism assessment pathway",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-23T16:53:34.634Z",
+    "previousHash": null,
+    "newHash": "c757f357453f2393",
+    "acknowledged": false
+  },
+  "change:1795452814635:4ecb08fb051df79d": {
+    "id": "change:1795452814635:4ecb08fb051df79d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/contraception-after-abortion-supporting-informed-choice",
+    "title": "Event: Contraception After Abortion: Supporting Informed Choice",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-23T16:53:34.635Z",
+    "previousHash": null,
+    "newHash": "13e47240382dbbd7",
+    "acknowledged": false
+  },
+  "change:1795452814635:528bf8cb20c380b4": {
+    "id": "change:1795452814635:528bf8cb20c380b4",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/enhanced-service-inhaler-technique-nwl-children-and-young-people-asthma-tier-three-aligned-training",
+    "title": "Event: Enhanced Service Inhaler Technique: NWL Children and Young People Asthma Tier Three Aligned Training",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-23T16:53:34.635Z",
+    "previousHash": null,
+    "newHash": "3a3919d04e7afe20",
+    "acknowledged": false
   }
 }
