@@ -6424,5 +6424,56 @@
       "estimatedReadTime": 1,
       "description": "In-person Asthma training for healthcare professionals, focusing on effective asthma management and inhaler techniques for children. 9.15am, Tuesday 19 January 2027."
     }
+  },
+  "content:06a7aa612b21e5d8": {
+    "id": "content:06a7aa612b21e5d8",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/recognising-world-copd-day-supporting-better-respiratory-care-across-north-central-london",
+    "title": "News: Recognising World COPD Day: Supporting better respiratory care across north central London",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-24",
+    "fetchedDate": "2026-11-24T16:44:02.127Z",
+    "contentHash": "fb020d0537cdcb5e",
+    "content": "To mark World COPD Day, the NCL Respiratory Clinical Network highlights resources from Asthma + Lung UK, improvements in access to respiratory diagnostics and developments in COPD biologic therapies.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 29,
+      "estimatedReadTime": 1,
+      "description": "To mark World COPD Day, the NCL Respiratory Clinical Network highlights resources from Asthma + Lung UK, improvements in access to respiratory diagnostics and developments in COPD biologic therapies."
+    }
+  },
+  "content:a43da58bbf4c765b": {
+    "id": "content:a43da58bbf4c765b",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/winter-wellbeing-support-patients-living-with-lung-conditions",
+    "title": "News: Winter wellbeing: Support patients living with lung conditions",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-24",
+    "fetchedDate": "2026-11-24T16:44:02.127Z",
+    "contentHash": "2f61e39b1f9b5a97",
+    "content": "Asthma + Lung UK has created a range of useful resources for healthcare professionals, including a winter wellbeing guide, to support patients living with lung conditions to stay well this winter.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 31,
+      "estimatedReadTime": 1,
+      "description": "Asthma + Lung UK has created a range of useful resources for healthcare professionals, including a winter wellbeing guide, to support patients living with lung conditions to stay well this winter."
+    }
+  },
+  "content:03f161637d4eebb9": {
+    "id": "content:03f161637d4eebb9",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-16-20-november-2026",
+    "title": "News: EMIS Global update: 16&#45;20 November 2026",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-24",
+    "fetchedDate": "2026-11-24T16:44:02.128Z",
+    "contentHash": "830057a78b6591d9",
+    "content": "See what&#039;s new in EMIS Global.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 6,
+      "estimatedReadTime": 1,
+      "description": "See what&#039;s new in EMIS Global."
+    }
   }
 }

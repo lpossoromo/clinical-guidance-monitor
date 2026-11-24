@@ -3146,5 +3146,29 @@
     "discovered": "2026-11-24T03:38:01.702Z",
     "publishedDate": "Tue, 24 Nov 2026 00:01:38 +0000",
     "source": "nhs"
+  },
+  "ncl:06a7aa612b21e5d8": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/recognising-world-copd-day-supporting-better-respiratory-care-across-north-central-london",
+    "title": "News: Recognising World COPD Day: Supporting better respiratory care across north central London",
+    "description": "To mark World COPD Day, the NCL Respiratory Clinical Network highlights resources from Asthma + Lung UK, improvements in access to respiratory diagnostics and developments in COPD biologic therapies.",
+    "discovered": "2026-11-24T16:44:02.127Z",
+    "publishedDate": "Tue, 24 Nov 2026 15:27:50 +0000",
+    "source": "ncl"
+  },
+  "ncl:a43da58bbf4c765b": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/winter-wellbeing-support-patients-living-with-lung-conditions",
+    "title": "News: Winter wellbeing: Support patients living with lung conditions",
+    "description": "Asthma + Lung UK has created a range of useful resources for healthcare professionals, including a winter wellbeing guide, to support patients living with lung conditions to stay well this winter.",
+    "discovered": "2026-11-24T16:44:02.127Z",
+    "publishedDate": "Tue, 24 Nov 2026 14:34:17 +0000",
+    "source": "ncl"
+  },
+  "ncl:03f161637d4eebb9": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-16-20-november-2026",
+    "title": "News: EMIS Global update: 16&#45;20 November 2026",
+    "description": "See what&#039;s new in EMIS Global.",
+    "discovered": "2026-11-24T16:44:02.128Z",
+    "publishedDate": "Tue, 24 Nov 2026 10:57:55 +0000",
+    "source": "ncl"
   }
 }

@@ -4156,5 +4156,38 @@
     "previousHash": null,
     "newHash": "3a3919d04e7afe20",
     "acknowledged": false
+  },
+  "change:1795538642127:06a7aa612b21e5d8": {
+    "id": "change:1795538642127:06a7aa612b21e5d8",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/recognising-world-copd-day-supporting-better-respiratory-care-across-north-central-london",
+    "title": "News: Recognising World COPD Day: Supporting better respiratory care across north central London",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-24T16:44:02.127Z",
+    "previousHash": null,
+    "newHash": "fb020d0537cdcb5e",
+    "acknowledged": false
+  },
+  "change:1795538642127:a43da58bbf4c765b": {
+    "id": "change:1795538642127:a43da58bbf4c765b",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/winter-wellbeing-support-patients-living-with-lung-conditions",
+    "title": "News: Winter wellbeing: Support patients living with lung conditions",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-24T16:44:02.127Z",
+    "previousHash": null,
+    "newHash": "2f61e39b1f9b5a97",
+    "acknowledged": false
+  },
+  "change:1795538642128:03f161637d4eebb9": {
+    "id": "change:1795538642128:03f161637d4eebb9",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/emis-global-update-16-20-november-2026",
+    "title": "News: EMIS Global update: 16&#45;20 November 2026",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-24T16:44:02.128Z",
+    "previousHash": null,
+    "newHash": "830057a78b6591d9",
+    "acknowledged": false
   }
 }
