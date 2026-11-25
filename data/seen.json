@@ -3170,5 +3170,21 @@
     "discovered": "2026-11-24T16:44:02.128Z",
     "publishedDate": "Tue, 24 Nov 2026 10:57:55 +0000",
     "source": "ncl"
+  },
+  "ncl:cfc4573e4456e24b": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/ncl-prescribing-quality-scheme-pqs/ncl-pqs-2026-27-dashboard",
+    "title": "Page: NCL PQS 2026&#45;27 Dashboard",
+    "description": "The June to August dashboard is available. Practices can check their progresss against 2026-27 prescribing targets and benchmark performance against other practices in their primary care network or borough.",
+    "discovered": "2026-11-25T16:29:41.438Z",
+    "publishedDate": "Wed, 25 Nov 2026 10:06:52 +0000",
+    "source": "ncl"
+  },
+  "ncl:4c842390a17e0566": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/referral-support/planned-care-wait-times/urgent-suspected-cancer-ncl-indicative-wait-times-for-first-appointment-data",
+    "title": "Page: Urgent suspected cancer: NCL indicative wait times for first appointment",
+    "description": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer (previously known as 2WW) first appointments. See the latest data.",
+    "discovered": "2026-11-25T16:29:41.439Z",
+    "publishedDate": "Wed, 25 Nov 2026 09:54:25 +0000",
+    "source": "ncl"
   }
 }

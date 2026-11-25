@@ -4189,5 +4189,27 @@
     "previousHash": null,
     "newHash": "830057a78b6591d9",
     "acknowledged": false
+  },
+  "change:1795624181439:cfc4573e4456e24b": {
+    "id": "change:1795624181439:cfc4573e4456e24b",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/ncl-prescribing-quality-scheme-pqs/ncl-pqs-2026-27-dashboard",
+    "title": "Page: NCL PQS 2026&#45;27 Dashboard",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-25T16:29:41.439Z",
+    "previousHash": null,
+    "newHash": "5eee539bcf38eeac",
+    "acknowledged": false
+  },
+  "change:1795624181439:4c842390a17e0566": {
+    "id": "change:1795624181439:4c842390a17e0566",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/referral-support/planned-care-wait-times/urgent-suspected-cancer-ncl-indicative-wait-times-for-first-appointment-data",
+    "title": "Page: Urgent suspected cancer: NCL indicative wait times for first appointment",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-25T16:29:41.439Z",
+    "previousHash": null,
+    "newHash": "4387f15ee390d0e0",
+    "acknowledged": false
   }
 }

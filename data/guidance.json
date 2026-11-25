@@ -6475,5 +6475,39 @@
       "estimatedReadTime": 1,
       "description": "See what&#039;s new in EMIS Global."
     }
+  },
+  "content:cfc4573e4456e24b": {
+    "id": "content:cfc4573e4456e24b",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/ncl-prescribing-quality-scheme-pqs/ncl-pqs-2026-27-dashboard",
+    "title": "Page: NCL PQS 2026&#45;27 Dashboard",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-25",
+    "fetchedDate": "2026-11-25T16:29:41.439Z",
+    "contentHash": "5eee539bcf38eeac",
+    "content": "The June to August dashboard is available. Practices can check their progresss against 2026-27 prescribing targets and benchmark performance against other practices in their primary care network or borough.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 29,
+      "estimatedReadTime": 1,
+      "description": "The June to August dashboard is available. Practices can check their progresss against 2026-27 prescribing targets and benchmark performance against other practices in their primary care network or bo"
+    }
+  },
+  "content:4c842390a17e0566": {
+    "id": "content:4c842390a17e0566",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/referral-support/planned-care-wait-times/urgent-suspected-cancer-ncl-indicative-wait-times-for-first-appointment-data",
+    "title": "Page: Urgent suspected cancer: NCL indicative wait times for first appointment",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-25",
+    "fetchedDate": "2026-11-25T16:29:41.439Z",
+    "contentHash": "4387f15ee390d0e0",
+    "content": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer (previously known as 2WW) first appointments. See the latest data.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 28,
+      "estimatedReadTime": 1,
+      "description": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer (previously known as 2WW) first appointments. See the latest data."
+    }
   }
 }
