@@ -6509,5 +6509,22 @@
       "estimatedReadTime": 1,
       "description": "Continued capacity constraints across north central London are leading to longer waits for patients following urgent suspected cancer (previously known as 2WW) first appointments. See the latest data."
     }
+  },
+  "content:36659c523067af89": {
+    "id": "content:36659c523067af89",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/imaging-services-inhealth",
+    "title": "Service: Imaging Services: InHealth",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-26",
+    "fetchedDate": "2026-11-27T01:18:27.017Z",
+    "contentHash": "4c4eaed81b8e04ae",
+    "content": "Reminder: GPs must sign DEXA scans. Under the Ionising Radiation (Medical Exposure) Regulations (IRMER), all DEXA scan requests must be signed by a doctor or qualified clinician. InHealth will return any request forms submitted without a signature.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 37,
+      "estimatedReadTime": 1,
+      "description": "Reminder: GPs must sign DEXA scans. Under the Ionising Radiation (Medical Exposure) Regulations (IRMER), all DEXA scan requests must be signed by a doctor or qualified clinician. InHealth will return "
+    }
   }
 }

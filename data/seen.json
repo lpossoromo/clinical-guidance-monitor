@@ -3186,5 +3186,13 @@
     "discovered": "2026-11-25T16:29:41.439Z",
     "publishedDate": "Wed, 25 Nov 2026 09:54:25 +0000",
     "source": "ncl"
+  },
+  "ncl:36659c523067af89": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/services/imaging-services-inhealth",
+    "title": "Service: Imaging Services: InHealth",
+    "description": "Reminder: GPs must sign DEXA scans. Under the Ionising Radiation (Medical Exposure) Regulations (IRMER), all DEXA scan requests must be signed by a doctor or qualified clinician. InHealth will return any request forms submitted without a signature.",
+    "discovered": "2026-11-27T01:18:27.017Z",
+    "publishedDate": "Thu, 26 Nov 2026 18:20:54 +0000",
+    "source": "ncl"
   }
 }
