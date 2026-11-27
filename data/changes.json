@@ -4222,5 +4222,16 @@
     "previousHash": null,
     "newHash": "4c4eaed81b8e04ae",
     "acknowledged": false
+  },
+  "change:1795794687809:a258a1057ec8916d": {
+    "id": "change:1795794687809:a258a1057ec8916d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/supporting-better-respiratory-care-and-winter-wellbeing-across-west-and-north-london",
+    "title": "News: Supporting better respiratory care and winter wellbeing across west and north London",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-27T15:51:27.809Z",
+    "previousHash": null,
+    "newHash": "d184979c30f919ab",
+    "acknowledged": false
   }
 }

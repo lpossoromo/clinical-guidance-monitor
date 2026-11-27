@@ -6526,5 +6526,22 @@
       "estimatedReadTime": 1,
       "description": "Reminder: GPs must sign DEXA scans. Under the Ionising Radiation (Medical Exposure) Regulations (IRMER), all DEXA scan requests must be signed by a doctor or qualified clinician. InHealth will return "
     }
+  },
+  "content:a258a1057ec8916d": {
+    "id": "content:a258a1057ec8916d",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/news/supporting-better-respiratory-care-and-winter-wellbeing-across-west-and-north-london",
+    "title": "News: Supporting better respiratory care and winter wellbeing across west and north London",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-27",
+    "fetchedDate": "2026-11-27T15:51:27.809Z",
+    "contentHash": "d184979c30f919ab",
+    "content": "Support patient with COPD and other lung conditions this winter. Access Asthma + Lung UK resources for healthcare professionals, alongside updates on COPD diagnosis, respiratory diagnostics services and new treatments.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 30,
+      "estimatedReadTime": 1,
+      "description": "Support patient with COPD and other lung conditions this winter. Access Asthma + Lung UK resources for healthcare professionals, alongside updates on COPD diagnosis, respiratory diagnostics services a"
+    }
   }
 }
