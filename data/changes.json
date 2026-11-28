@@ -4233,5 +4233,16 @@
     "previousHash": null,
     "newHash": "d184979c30f919ab",
     "acknowledged": false
+  },
+  "change:1795827098411:82e04120de04afc6": {
+    "id": "change:1795827098411:82e04120de04afc6",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/continuing-healthcare-checklist-training",
+    "title": "Event: Continuing Healthcare Checklist Training",
+    "source": "ncl",
+    "changeType": "new_guidance",
+    "detectedAt": "2026-11-28T00:51:38.411Z",
+    "previousHash": null,
+    "newHash": "ac82acd090518688",
+    "acknowledged": false
   }
 }

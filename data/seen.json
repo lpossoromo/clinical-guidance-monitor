@@ -3202,5 +3202,13 @@
     "discovered": "2026-11-27T15:51:27.809Z",
     "publishedDate": "Fri, 27 Nov 2026 12:04:25 +0000",
     "source": "ncl"
+  },
+  "ncl:82e04120de04afc6": {
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/continuing-healthcare-checklist-training",
+    "title": "Event: Continuing Healthcare Checklist Training",
+    "description": "Join this training to lean about eligibility, making referrals, what happens next and alternative sources of funding for care. Friday 11 December from 9.30am.",
+    "discovered": "2026-11-28T00:51:38.411Z",
+    "publishedDate": "Fri, 27 Nov 2026 17:51:43 +0000",
+    "source": "ncl"
   }
 }

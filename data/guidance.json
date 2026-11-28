@@ -6543,5 +6543,22 @@
       "estimatedReadTime": 1,
       "description": "Support patient with COPD and other lung conditions this winter. Access Asthma + Lung UK resources for healthcare professionals, alongside updates on COPD diagnosis, respiratory diagnostics services a"
     }
+  },
+  "content:82e04120de04afc6": {
+    "id": "content:82e04120de04afc6",
+    "url": "https://gps.westandnorthlondon.icb.nhs.uk/events/continuing-healthcare-checklist-training",
+    "title": "Event: Continuing Healthcare Checklist Training",
+    "source": "ncl",
+    "type": "article",
+    "publishedDate": "2026-11-27",
+    "fetchedDate": "2026-11-28T00:51:38.411Z",
+    "contentHash": "ac82acd090518688",
+    "content": "Join this training to lean about eligibility, making referrals, what happens next and alternative sources of funding for care. Friday 11 December from 9.30am.",
+    "parentUrl": null,
+    "metadata": {
+      "wordCount": 24,
+      "estimatedReadTime": 1,
+      "description": "Join this training to lean about eligibility, making referrals, what happens next and alternative sources of funding for care. Friday 11 December from 9.30am."
+    }
   }
 }
